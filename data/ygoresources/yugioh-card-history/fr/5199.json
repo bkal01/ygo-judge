@@ -1,0 +1,16 @@
+{
+  "id": 5199,
+  "type": "monster",
+  "name": "Sorcière du Feu",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "FLIP : Bannissez 2 cartes au hasard depuis votre main ; infligez 800 points de dommages à votre adversaire.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Flip",
+    "Effet"
+  ]
+}

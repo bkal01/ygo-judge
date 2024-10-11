@@ -1,0 +1,9 @@
+[submodule "yugioh-card-history"]
+	path = data/ygoresources/yugioh-card-history
+	url = git@github.com:db-ygoresources-com/yugioh-card-history.git
+[submodule "yugioh-faq-history"]
+	path = data/ygoresources/yugioh-faq-history
+	url = git@github.com:db-ygoresources-com/yugioh-faq-history.git
+[submodule "yugioh-qa-history"]
+	path = data/ygoresources/yugioh-qa-history
+	url = git@github.com:db-ygoresources-com/yugioh-qa-history.git

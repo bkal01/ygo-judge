@@ -1,0 +1,15 @@
+{
+  "id": 10694,
+  "type": "monster",
+  "name": "기믹 퍼핏－시저 암",
+  "englishAttribute": "dark",
+  "localizedAttribute": "어둠",
+  "effectText": "①: 이 카드를 일반 소환했을 때에 발동할 수 있다. 덱에서 \"기믹 퍼핏\" 몬스터 1장을 묘지로 보낸다.",
+  "level": 4,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "기계족",
+    "효과"
+  ]
+}

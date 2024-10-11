@@ -1,0 +1,16 @@
+{
+  "id": 5199,
+  "type": "monster",
+  "name": "Feuerzauberer",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "FLIPP: Verbanne 2 zufällige Karten von deiner Hand; füge deinem Gegner 800 Schaden zu.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}
