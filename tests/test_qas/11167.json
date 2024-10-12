@@ -1,0 +1,52 @@
+{
+    "cards": [
+        5083,
+        5577,
+        6719,
+        6922,
+        7085,
+        7380,
+        11018,
+        11019,
+        11252,
+        16049,
+        16619,
+        17660,
+        17661,
+        18018,
+        19371,
+        19509
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Your opponent's monster will attack one of your monsters. When the attack is declared, you, the player whose monster is being attacked, will choose which of the\u300eyour opponent's monsters must attack \u205c\u205c\u205c, if able\u300feffects to apply for this attack.\n\n~~~\n\nSimilarly, also for the following cards'\u300eyour opponent's monsters must attack \u205c\u205c\u205c, if able\u300feffects: Terra Firma Gravity, Volcanic Doomfire, Number iC1000: Numerounius Numerounia, Magical Trick Mirror, G Golem Invalid Dolmen, G Golem Dignified Trilithon, Number 31: Embodiment of Punishment, Number 13: Embodiment of Crime, Puppet Rook, Hypnosister, Mystical Elf - White Lightning, Light Law Medium, Nightmare Pain, Mementotlan Cranium Burst, and Heavenly Gate of the Mikanko.",
+            "id": 11167,
+            "question": "I control two copies of Evil HERO Malicious Fiend, and each of their\u300eeach monster they control must attack this card, if able\u300feffects is applying. Which monster, if either, must my opponent's monsters now attack?",
+            "thisSrc": {
+                "date": "2023-11-17",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "What happens if multiple\u300eyour opponent's monsters must attack \u205c\u205c\u205c, if able\u300feffects are applying?",
+            "tlSrc": {
+                "date": "2023-11-17",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u3044\u305a\u308c\u304b\u306e\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u653b\u6483\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3059\u3002\n\u305d\u306e\u653b\u6483\u306e\u969b\u306b\u3001\u653b\u6483\u3055\u308c\u308b\u5074\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3067\u3042\u308b\u81ea\u5206\u304c\u3001\u300e\u653b\u6483\u3057\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u300f\u52b9\u679c\u306e\u3046\u3061\uff11\u3064\u3092\u9078\u3073\u307e\u3059\u3002\n\n\u4ee5\u4e0b\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3064\u3044\u3066\u3082\u540c\u69d8\u306b\u3001\u653b\u6483\u3055\u308c\u308b\u5074\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3067\u3042\u308b\u81ea\u5206\u304c\u3001\u300e\u653b\u6483\u3057\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u300f\u52b9\u679c\u306e\u3046\u3061\uff11\u3064\u3092\u9078\u3076\u3053\u3068\u306b\u306a\u308a\u307e\u3059\u3002\n\u300c<<6922>>\u300d\n\u300c<<7085>>\u300d\u2460\n\u300c<<16049>>\u300d\u2460\n\u300c<<5577>>\u300d\u2461\n\u300c<<17660>>\u300d\u2461\n\u300c<<17661>>\u300d\u2460\n\u300c<<11019>>\u300d\u2460\n\u300c<<11018>>\u300d\u2460\n\u300c<<6719>>\u300d\u2461\n\u300c<<11252>>\u300d\u25cf\uff13\u679a\u4ee5\u4e0a\n\u300c<<16619>>\u300d\u2461\n\u300c<<5083>>\u300d\u2460\n\u300c<<19509>>\u300d\u2461\n\u300c<<19371>>\u300d\u2460\n\u300c<<18018>>\u300d\u2460",
+            "id": 11167,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<7380>>\u300d\u304c\uff12\u4f53\u5b58\u5728\u3057\u3001\u305d\u308c\u305e\u308c\u306e\u300e\u653b\u6483\u53ef\u80fd\u306a\u5834\u5408\u306f\u3053\u306e\u30ab\u30fc\u30c9\u3092\u653b\u6483\u3057\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3069\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u653b\u6483\u3057\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-11-17",
+                "type": 0
+            },
+            "title": "\u8907\u6570\u306e\u300e\u653b\u6483\u3057\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

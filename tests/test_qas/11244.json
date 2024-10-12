@@ -1,0 +1,40 @@
+{
+    "cards": [
+        7010,
+        12259,
+        12260
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this case, even if Number 37: Hope Woven Dragon Spider Shark is no longer in your Graveyard when the effect of Number 38: Hope Harbinger Dragon Titanic Galaxy resolves, the targeted monster on the field still gains the ATK normally.",
+            "id": 11244,
+            "question": "When a face-up Number 37: Hope Woven Dragon Spider Shark is destroyed by a card effect and sent to the Graveyard, I activate the last effect of Number 38: Hope Harbinger Dragon Titanic Galaxy that increases the ATK of an Xyz Monster on the field. If The Transmigration Prophecy is chained, so that Number 37: Hope Woven Dragon Spider Shark is no longer in the Graveyard, how does the effect of Number 38: Hope Harbinger Dragon Titanic Galaxy resolve?",
+            "thisSrc": {
+                "date": "2016-01-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When a face-up Number 37: Hope Woven Dragon Spider Shark is destroyed by a card effect and sent to the Graveyard, I activate the last effect of Number 38: Hope Harbinger Dragon Titanic Galaxy that increases the ATK of an Xyz Monster on the field. If The Transmigration Prophecy is chained, so that Number 37: Hope Woven Dragon Spider Shark is no longer in the Graveyard, how does the effect of Number 38: Hope Harbinger Dragon Titanic Galaxy resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u300c<<12260>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u304d\u3063\u304b\u3051\u3068\u306a\u3063\u305f\u3001\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u305f\u300c<<12259>>\u300d\u304c\u52b9\u679c\u51e6\u7406\u6642\u306b\u5893\u5730\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u3067\u3082\u3001\u300c<<12260>>\u300d\u306e\u300e\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u3001\u7834\u58ca\u3055\u308c\u305f\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u5206\u30a2\u30c3\u30d7\u3059\u308b\u300f\u52b9\u679c\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 11244,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<12259>>\u300d\u304c\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u969b\u306b\u3001\u300c<<12260>>\u300d\u306e\u300e\u2462\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306eX\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u30fb\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306eX\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u3001\u7834\u58ca\u3055\u308c\u305f\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u5206\u30a2\u30c3\u30d7\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<7010>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u300c<<12259>>\u300d\u304c\u5893\u5730\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u3001\u300c<<12260>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u300c<<12260>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u5893\u5730\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain",
+        "k:Xyz"
+    ]
+}

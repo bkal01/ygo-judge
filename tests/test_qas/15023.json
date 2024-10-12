@@ -1,0 +1,38 @@
+{
+    "cards": [
+        11697,
+        11700
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In that case, since the Pendulum Effects of both cards are applied, as an end result you can only Pendulum Summon \"Zefra\" monsters.",
+            "id": 15023,
+            "question": "If you have Shaddoll Zefranaga and Zefraniu, Secret of the Yang Zing in your Pendulum Zones, which monsters can be Pendulum Summoned?",
+            "thisSrc": {
+                "date": "2015-02-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If you have Shaddoll Zefranaga and Zefraniu, Secret of the Yang Zing in your Pendulum Zones, which monsters can be Pendulum Summoned?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u300c<<11697>>\u300d\u3068\u3001\u300c<<11700>>\u300d\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u300e\u2460\uff1a\u81ea\u5206\u306f\u300c\u30b7\u30e3\u30c9\u30fc\u30eb\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u53ca\u3073\u300c\u30bb\u30d5\u30a3\u30e9\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304bP\u53ec\u559a\u3067\u304d\u306a\u3044\u3002\u3053\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u306a\u3044\u300f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u3068\u3001\u300e\u2460\uff1a\u81ea\u5206\u306f\u300c\u7adc\u661f\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u53ca\u3073\u300c\u30bb\u30d5\u30a3\u30e9\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304bP\u53ec\u559a\u3067\u304d\u306a\u3044\u3002\u3053\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u306a\u3044\u300f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u304c\u305d\u308c\u305e\u308c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u72b6\u614b\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u7d50\u679c\u7684\u306b\u300c\u30bb\u30d5\u30a3\u30e9\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u306f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3067\u304d\u306a\u3044\u3001\u3068\u3044\u3046\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 15023,
+            "question": "\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u300c<<11697>>\u300d\u3068\u3001\u300c<<11700>>\u300d\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u3069\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u300c<<11697>>\u300d\u3068\u3001\u300c<<11700>>\u300d\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u3069\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Pendulum"
+    ]
+}
