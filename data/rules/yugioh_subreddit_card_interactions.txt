@@ -1,0 +1,225 @@
+Ash Blossom & Joyous Spring
+My opponent activated the effect of Knightmare Goblin while it wasn't co-linked. Can I chain Ash Blossom & Joyous Spring's effect?
+
+No. The effect being activated is one that only applies an effect to perform one additional Normal Summon; it doesn't include an effect that meets any of Ash Blossom's effect activation requirements.
+
+My opponent activated the effect of Knightmare Goblin while it was co-linked. Can I chain Ash Blossom & Joyous Spring's effect?
+
+Yes. The effect being activated is one that includes an effect to draw 1 card, which meets Ash Blossom's effect activation requirement, and Ash Blossom's effect doesn't target, so it doesn't interact with Knightmare Goblin's Continuous Effect.
+
+I control no monsters and my opponent activated Shaddoll Fusion. Can I chain Ash Blossom & Joyous Spring's effect?
+
+Yes. Even though you don't control a monster that was Special Summoned from the Extra Deck, the card being activated is still one that includes an effect that sends a card from the Deck to the GY.
+
+Astrograph Sorcerer
+I resolved the Ignition Effect of Heavymetalfoes Electrumite, destroying a face-up Astrograph Sorcerer in my Pendulum Zone and adding that same copy of Astrograph Sorcerer from my Extra Deck to my hand, while I had no cards in my hand. Can I activate Astrograph Sorcerer's Trigger Effect on a new Chain?
+
+Yes.
+
+I resolved the Ignition Effect of Heavymetalfoes Electrumite, destroying a face-up Astrograph Sorcerer in my Pendulum Zone and adding that same copy of Astrograph Sorcerer to my hand, while I had a copy of Astrograph Sorcerer in my hand. Can I activate both Astrograph Sorcerers' Trigger Effects on a new Chain?
+
+No. You can only activate one of those effects in the Chain, not both of them. This applies to all Trigger Effects that could activate in the hand which could Special Summon monsters from the hand.
+
+Called by the Grave
+I activated Pot of Desires, banishing 10 cards from the top of my Deck face-down as a cost. My opponent chained the effect of Ash Blossom & Joyous Spring by discarding it to the GY. If I chain Called by the Grave targeting that copy of Ash Blossom & Joyous Spring and neither player has a response, will its effect be negated?
+
+Yes. That copy of Ash Blossom & Joyous Spring will be banished, its effects will be negated, and the activated effects of all cards with that original name (as well as their effects on the field) will also be negated. When Ash Blossom's effect resolves, it will be negated, so it will not negate Pot of Desires' effect, then Pot of Desires' effect will resolve, allowing you to draw 2 cards.
+
+Chaos Hunter
+If I control a Chaos Hunter that is applying its effect and my opponent controls Macro Cosmos that is applying its effect, will cards be banished instead of being sent to the GY?
+
+No, neither player's cards will be banished. Note that if you or your opponent controlled both Chaos Hunter and Macro Cosmos instead, cards would be banished as normal.
+
+Cyber Eternal
+I sent Cyber End Dragon from the Extra Deck to the Graveyard using Cybernetic Horizon. If I target that same Cyber End Dragon with Cyber Eternal, can I choose to Special Summon it?
+
+No. Even though Cyber Eternal ignores Summoning conditions, it doesn't ignore the rule of Special Summon Monsters that requires them to have been properly Special Summoned before being able to be Special Summoned from places such as the Graveyard. You can only return it to the Extra Deck in this situation.
+
+Danger! Cards
+The effect of Vanity's Fiend that prevents either player from Special Summoning monsters is applying. Can I activate the effect of Danger! Bigfoot! in my hand?
+
+To our understanding, yes. Note that you resolve the effect as much as possible; if you proceed to the part of the effect that Special Summons 1 Danger! Bigfoot! from your hand, you do not resolve that part of the effect.
+
+The effect of Droll & Lock Bird that prevents either player from adding cards from the Main Deck to their hand this turn is applying. Can I activate the effect of Danger! Bigfoot! in my hand?
+
+To our understanding, yes. Note that you resolve the effect as much as possible; if you proceed to the part of the effect that has you draw 1 card, you do not resolve that part of the effect.
+
+Darkest Diabolos, Lord of the Lair
+I control Lair of Darkness while I have Darkest Diabolos, Lord of the Lair in my GY and Tributed my opponent's face-up DARK monster to activate Enemy Controller targeting another one of their monsters. After the Chain resolves, can I activate Darkest Diabolos' Trigger Effect in the GY?
+
+No. You Tributed a DARK monster your opponent controlled, not a DARK monster you controlled. Darkest Diabolos' effect's activation requirement hasn't been met.
+
+Decode Talker
+My Decode Talker is pointing to my opponent's monster. Can I Tribute that monster to activate Decode Talker's Quick Effect?
+
+No, unless an effect specifically allows you to Tribute your opponent's monsters.
+
+My Decode Talker is not pointing to my opponent's monster, but my opponent controls a face-up DARK monster and I control Lair of Darkness. Can I Tribute that monster to activate Decode Talker's Quick Effect?
+
+No. Even though Lair of Darkness lets you Tribute your opponent's DARK monster to activate a card or effect once per turn, it does not bypass other requirements to activate those cards or effects. You must Tribute a monster Decode Talker is pointing to in order to activate its Quick Effect.
+
+Destrudo the Lost Dragon's Frisson
+I activated Destrudo the Lost Dragon's Frisson's effect, targeting a face-up A-Assault Core I control. My opponent activated Book of Moon in response, which flipped A-Assault Core face-down. What happens to Destrudo's effect?
+
+Destrudo will still be Special Summoned, but since the targeted monster isn't face-up on the field, the part of the effect that reduces Destrudo's Level by that of the targeted monster will not apply. Note that even in this case, if Destrudo leaves the field, it will still return to the bottom of the Deck.
+
+After I Special Summoned Destrudo the Lost Dragon's Frisson with its effect by targeting A-Assault Core, my opponent activated and resolved Skill Drain, negating the effects of all face-up monsters on the field. Is Destrudo still Level 3?
+
+No. If Destrudo's effects are negated, it will return to Level 7. Note that even in this case, if Destrudo leaves the field, it will still return to the bottom of the Deck.
+
+Droll & Lock Bird
+How does the Droll Reincarnation combo work?
+
+Your opponent adds a card to their hand outside of the Draw Phase. New Chain, activate Trickstar Reincarnation/Disturbance Strategy/Present Card as CL 1 and activate Droll & Lock Bird's effect later in the same Chain (you must give your opponent the right to activate a fast effect after you activate your Trap Card before you can activate Droll & Lock Bird's effect). When the Chain resolves, Droll & Lock Bird's effect will resolve first, then when Reincarnation/Disturbance/Present effect resolves, they must do w/e to their hand, but cannot draw cards due to Droll & Lock Bird's effect.
+
+Evenly Matched
+My opponent controls only one card while I control no cards. Can I activate Evenly Matched from my hand during the End Step of the Battle Phase?
+
+No. Your opponent must control more cards than you would after activating Evenly Matched in order to activate it.
+
+My opponent controls only Tokens while I control no cards. Can I activate Evenly Matched from my hand during the End Step of the Battle Phase?
+
+No. Even though Tokens can be banished, they cannot be banished face-down. Your opponent must control at least one card that can be banished face-down and still control more cards than you in order to activate it.
+
+My opponent controls four Tokens and Elemental HERO Wildheart that is applying its effect while I control no cards. Can I activate Evenly Matched from my hand during the End Step of the Battle Phase?
+
+Yes. Also, when resolving the effect of Evenly Matched, even though Elemental HERO Wildheart is unaffected by Trap effects, Evenly Matched makes the opponent banish cards they control face-down. It's not an effect that affects cards. Elemental HERO Wildheart can be chosen to be banished face-down, and it will be banished face-down without regard for it being unaffected by Trap effects. Since Tokens cannot be banished face-down, the Tokens will remain on the field.
+
+Imperial Order
+It is the Standby Phase. If I control Imperial Order and have exactly 700 LP, will the maintenance cost of Imperial Order force me to pay down to 0 LP?
+
+Yes. Note that if you have fewer than 700 LP when you would pay its maintenance cost, Imperial Order will be destroyed instead.
+
+Kaiju Cards
+If my opponent controls a Kaiju monster, can I Special Summon Gameciel, the Sea Turtle Kaiju to my opponent's field by Tributing that Kaiju monster they control?
+
+No. Even though you would Tribute their Kaiju monster, the fact that they control a Kaiju monster prevents you from attempting to Special Summon another Kaiju monster to their field.
+
+Interrupted Kaiju Slumber
+Can I activate Interrupted Kaiju Slumber while a Kaiju monster is face-up on the field?
+
+Yes. Note that after the effect destroys as many monsters on the field as possible, if either player still controls a Kaiju monster, you cannot Special Summon a Kaiju monster to either field with the rest of its effect.
+
+Knightmare Goblin
+I Link Summoned Knightmare Goblin during my turn and it was not co-linked when I activated its Trigger Effect. The effect resolved successfully. Can I apply the part of its effect that lets me Normal Summon a monster to a zone it points to later in that turn?
+
+Yes. Knightmare Goblin does not need to be co-linked in order for you to be able to apply the part of its effect that lets you Normal Summon an additional monster. It only needs to be co-linked when the effect is activated in order for you to draw 1 card with its effect.
+
+I Link Summoned Knightmare Goblin during my turn and I have already applied the effect of Fire Formation - Tensu that let me Normal Summon one Beast-Warrior monster in addition to my Normal Summon/Set. Can I activate Knightmare Goblin's Trigger Effect?
+
+No.
+
+Lair of Darkness
+I control Lair of Darkness. Can I Tribute my opponent's face-up DARK monster to activate the effect of Exiled Force?
+
+No. For an effect that requires you to Tribute the card activating that effect as its activation cost, you can't Tribute another monster instead of Tributing that card.
+
+Lost World
+If both players control Lost World, who gets to apply its effect to destroy Dinosaur monsters instead of Normal Monsters?
+
+The turn player gets the first chance to apply the effect. If they choose not to or can't, then the opponent may do so; if they choose not to or can't, the Normal Monsters are destroyed.
+
+Minerva, the Exalted Lightsworn
+If I have exactly 3 cards in my Main Deck, can I activate the Ignition Effect of Minerva, the Exalted Lightsworn?
+
+Yes. When you send the three cards from the Deck to the GY, if any of them are Lightsworn monsters, you will not be able to draw any cards due to having no cards remaining in your Deck, so you'll lose the game.
+
+If my opponent activated and resolved the effect of Droll & Lock Bird earlier in the turn, can I activate the Ignition Effect of Minerva, the Exalted Lightsworn?
+
+Yes. When you send the top three cards from the Deck to the GY, if any of them are Lightsworn monsters, you will not be able to draw any cards due to Droll & Lock Bird's effect.
+
+Miscellaneousaurus
+What cards does Miscellaneousaurus' effect protect my Dinosaur monsters from?
+
+Your opponent's activated effects. Effects that continuously apply or that otherwise apply while a Chain is not resolving do not interact with Miscellaneousaurus' effect.
+
+This effect will prevent Raigeki from destroying your Dinosaur monsters.
+
+This effect will not prevent Skill Drain from negating the effects of your face-up Dinosaur monsters, even if it was chained to the card activation of Skill Drain. Skill Drain's effect continuously applies and is not activated as a result of the card's activation.
+
+This effect will not prevent Solemn Warning from negating the Summon of a Dinosaur monster you possess, since monsters that would be Summoned are not yet monsters you control.
+
+Number 38: Hope Harbinger Dragon Titanic Galaxy
+Can I activate Number 38: Hope Harbinger Dragon Titanic Galaxy's Quick Effect in response to the activation of a monster or Trap effect?
+
+No. That effect can only be activated in response to the activation of a Spell Card or a Spell Card's effect on the field.
+
+Pacifis, the Phantasm City
+My opponent activates Raigeki while I control Pacifis, the Phantasm City and no Tokens. I haven't Normal Summoned or Special Summoned an Effect Monster this turn. Can Pacifis' second triggered effect be chained to Raigeki?
+
+No. Triggered effects are not fast effects, so they cannot be activated when a player has the right to activate a fast effect. You may activate Pacifis' effect on a new Chain after this Chain resolves, when checking for triggered effects.
+
+My opponent activates Raigeki while I control Pacifis, the Phantasm City and a Token, and they chain Jar of Greed. The Token is destroyed by Raigeki's effect. I haven't Normal Summoned or Special Summoned an Effect Monster this turn. Can Pacifis' second triggered effect activate on a new Chain?
+
+Yes. Also, even though your opponent activated more than one card or effect on the prior Chain, Pacifis' second triggered effect only activates once.
+
+Paleozoic Trap Cards
+My opponent activates Phoenix Wing Wind Blast while I have both Paleozoic Olenoides and Paleozoic Pikaia in my GY. Can I activate both of their effects in the GY in response to that activation?
+
+No. Despite how they're currently written (they're the only ones yet to receive the text update the other Paleozoic Trap Cards have gotten), those are optional fast effects, so they follow typical fast effect timing. You may activate one of their effects in response to Phoenix Wing Wind Blast's activation, but not both.
+
+Salamangreat Cards
+Salamangreat Falco
+I activate Salamangreat Falco's Ignition Effect in the GY, targeting a Salamangreat Heatleo. When resolving that effect, Heatleo returns to the Extra Deck. Can I Special Summon Falco with this effect?
+
+No. The targeted monster returned to the Extra Deck, not to the hand, so the effect does not proceed beyond that point. Salamangreat Falco will remain in the GY.
+
+Salamangreat Foxy
+My opponent is applying Skill Drain's effect. I activate Salamangreat Foxy's effect in the GY, and neither player wishes to add anything to the Chain. After Foxy is Special Summoned, can I destroy 1 face-up Spell/Trap on the field?
+
+Yes. The effect activated and is resolving in the GY, so it will not be negated by Skill Drain.
+
+Salamangreat Gazelle
+I activate Cynet Mining by sending Salamangreat Spinny from my hand to the GY, and neither player wishes to add anything to the Chain. I add Salamangreat Gazelle with that effect. Can I activate Salamangreat Gazelle's Trigger Effect in the hand on a new Chain?
+
+Yes.
+
+Salamangreat Sunlight Wolf
+I returned Salamangreat Miragestallio to the Extra Deck earlier in the turn with the effect of Salamangreat Sunlight Wolf. Can I Special Summon Miragestallio from my Extra Deck later in the turn?
+
+Yes.
+
+Sky Striker Cards
+Sky Striker Ace - Hayate
+My opponent attacks a Sky Striker Ace - Hayate I control with Cyber Dragon and wins the battle. Can I activate the effect of Sky Striker Ace - Hayate after damage calculation while I have a Sky Striker card in my Deck, despite Hayate having lost the battle?
+
+Yes, you can. Even though Hayate lost the battle, it is still on the field after damage calculation, and its effect's activation requirement has been met. Monsters that lose battles are only sent to the GY at the end of the Damage Step.
+
+Sky Striker Mecha - Hornet Drones
+Can I activate a second Sky Striker Mecha - Hornet Drones on the same Chain as another copy of Hornet Drones? If so, how does the Chain resolve?
+
+Yes, you can. The activation condition is controlling no monsters in the Main Monster Zone. This condition only needs to remain true when activating the card, so the Chain resolves normally. You will Special Summon one Sky Striker Ace Token with the second Hornet Drones' effect, then you will Special Summon one Sky Striker Ace Token with the first Hornet Drones' effect.
+
+Sky Striker Mecha - Widow Anchor
+If my opponent controls Altergeist Protocol that is applying its effects, can I activate Sky Striker Mecha - Widow Anchor targeting an Altergeist monster they control?
+
+Yes, you can. When Widow Anchor resolves, it will negate the Altergeist monster's effects, then if you have 3 or more Spells in your GY, you can take control of that monster until the End Phase.
+
+My opponent controls Altergeist Protocol that is applying its effects and Altergeist Hexstia pointing to an Altergeist monster they control. I activate Sky Striker Mobilize - Engage! My opponent responds with Altergeist Hexstia's Quick Effect, Tributing the Altergeist monster it's pointing to. Can I activate Sky Striker Mecha - Widow Anchor targeting that Altergeist Hexstia?
+
+Yes, you can. When Widow Anchor resolves, it will negate Hexstia's effects, then if you have 3 or more Spells in your GY, you can take control of Hexstia until the End Phase. Resolve the rest of the Chain; Protocol prevents the effects of Altergeist cards activated on the controller's field from being negated, so Hexstia's effect will still negate the activation of Engage and destroy it. Since Engage's activation was negated, that Chain Link disappears and the Chain has finished resolving at this point.
+
+Sky Striker Mecha Modules - Multirole
+Do I have to reveal which Spell/Trap Zone I set Sky Striker Spells to with the second effect of Sky Striker Mecha Modules - Multirole?
+
+No, you do not. The most you have to do is verify that the three cards you've taken from the GY are Sky Striker Spells; which specific Spell/Trap Zone a specific Sky Striker Spell goes to is not public knowledge.
+
+Sky Striker Mobilize - Engage!
+If I activate Sky Striker Mobilize - Engage! with two Spells in my GY, then when Engage resolves, do I draw one card?
+
+No. Spell or Trap Cards that would go to the GY only go once the entire Chain has resolved. When Engage's effect resolves, you do not have three or more Spells in your GY.
+
+SPYRAL Resort
+Can I return a monster to the Extra Deck to pay SPYRAL Resort's maintenance cost?
+
+No.
+
+Trickstar Light Stage
+I targeted my opponent's Set Spell/Trap with the second effect of Trickstar Light Stage. During the End Phase, they chose to send it to the GY. That card was Waking the Dragon. Can my opponent activate Waking the Dragon's triggered effect in the GY?
+
+No. The card sent to the GY is not treated as being sent by a card's effect.
+
+Xyz Encore
+My opponent controls Number 86: Heroic Champion - Rhongomyniad with 4 Xyz Materials. Can I activate Xyz Encore? If so, how does it resolve?
+
+Yes. Even if a player cannot Special Summon monsters, they may activate Xyz Encore. When it resolves, it will detach all of Rhongomyniad's Xyz Materials because that is not considered to be something that affects monsters. Now that it has no Xyz Materials, it is no longer unaffected by other cards' effects, so it will be returned to the Extra Deck, then the monsters that were detached as Xyz Material are Special Summoned with their Levels reduced by 1 as long as they're face-up on the field.

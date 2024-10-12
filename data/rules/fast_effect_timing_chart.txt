@@ -1,0 +1,129 @@
+10/12/24, 2:58 PM Fast Effect Timing – Yu-Gi-Oh!
+KONAMI LEARN MORE > Others
+YYuGi Ohk Speed Duel
+TRADINGCARD GAME | PortuguêsEnglish | EspañolPRODUCTS PLAYOTS EVENTS
+
+NEWS NEW TO YU-GI-OH!
+
+Fast Effect Timing
+Fast effects & Timing
+Fast effects are card activations and effects with a Spell Speed of 2 or higher, including
+monster Quick Effects, Quick-Play Spell Cards, and Trap Cards (which includes both activating
+Trap Cards, and activating the effects of things like Continuous Trap Cards).
+
+Fast effects can be activated by either player – even during their opponent’s turn, as long as the
+conditions are appropriate. When both players want to activate fast effects at the same time,
+they are placed on a Chain (see pages 38-41 of the v8.0 rulebook).
+
+Sometimes, it can make a big difference WHO places their fast effect on the Chain rst. This
+guide will help you gure out who, at any point in time, has the chance to activate the next fast
+effect (in other words, who gets to “go next”).
+
+Usually, the turn player has the chance to “go next” and activate the next fast effect.
+
+However, during a Chain, the chance to go next passes back and forth between players. (Chain
+rules: see pages 38-41 of the v8.0 rulebook.)
+
+Also, if the turn player doesn’t wish to take any actions, and instead wants to move along in the
+turn (for example, to the next Step or Phase), the opponent has an opportunity to go next, and
+activate a fast effect, before the turn proceeds.
+
+Follow the chart at the bottom to see which player can “go next” regarding fast effects.
+
+Turn Player Actions
+Each Phase and Step starts with the turn player in box A of the chart listed below. This is when
+the game state is “open”, meaning the turn player has complete freedom of action.
+
+https://www.yugioh-card.com/en/play/fast-effect-timing/ 1/5
+---
+10/12/24, 2:58 PM Fast Effect Timing – Yu-Gi-Oh!
+
+Many actions can ONLY be performed when the game state is open (when you’re in box A).
+Examples:
+
+Normal Summon (including Tribute Summon)
+
+Set a card
+
+Perform a Special Summon that does not start a Chain (including Xyz Summon, Synchro
+Summon)
+
+Change a monster’s Battle Position
+
+Attempt to move to the next Phase/Step
+
+Draw a card for your normal draw during the Draw Phase
+
+Declare an attack
+
+Activate an Ignition Effect
+
+Activate a Spell Speed 1 Spell Card
+
+If the game state is “open”, the turn player may perform any of the above actions that is
+appropriate. They can also choose to activate a fast effect, if they wish.
+
+When Is the Game State No Longer “Open”?
+Whenever either player performs an action, the game state is no longer open.
+
+How Do I Make the Game State “Open” Again?
+Basically, when nothing is going on, and neither player wishes to do anything, the game state
+goes back to being “open”.
+
+Technically, this means:
+
+IF the Turn Player has the chance to activate the next fast effect
+
+AND the turn player passes to the opponent
+
+AND the opponent then passes back
+
+AND no Chain is currently being formed
+
+…then the game state is open again.
+
+How Does the Turn Move to the Next Phase or Step?
+
+https://www.yugioh-card.com/en/play/fast-effect-timing/ 2/5
+---
+10/12/24, 2:58 PM Fast Effect Timing – Yu-Gi-Oh!
+
+If the game state is open, and the turn player chooses not to do anything, and the opponent
+waives the chance to activate a fast effect, and both players agree to have the turn proceed,
+then you move to the next Phase or Step.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+| Status                                          | Are we now in a Chain? | Who has the next opportunity to activate a fast effect?      |
+------------------------------------------------------------------------------------------------------------------------------------------
+| The game state is open. The turn player gets    | No                     | Turn Player                                                  |
+| to take the next action, and can take any       |                        |                                                              |
+| action that is appropriate for that phase/step. |                        |                                                              |    
+------------------------------------------------------------------------------------------------------------------------------------------
+| After an action that does NOT start a Chain:    | Yes                    | The player who did NOT activate the last effect on the chain | 
+| - Normal Summon/Set of a monster,               |                        |                                                              |    
+| - Set a Card,                                   |                        |                                                              |   
+| - Special Summon that does not start a Chain,   |                        |                                                              |    
+| - Declare an attack, change battle position, etc|                        |                                                              |    
+------------------------------------------------------------------------------------------------------------------------------------------
+| If there is an effect that is triggered.        | No                     | The player who did NOT activate the last effect on the Chain |     
+|                                                 |                        | (Follow the normal Chain rules.)                             |    
+------------------------------------------------------------------------------------------------------------------------------------------
+| If there is no effect that can be triggered.    | No                     | Turn Player                                                  |
+------------------------------------------------------------------------------------------------------------------------------------------
+| If the Turn Player passes.                      | Yes                    | Opponent                                                     |   
+------------------------------------------------------------------------------------------------------------------------------------------
+| Turn player activates a card or card effect:    | Yes                    | The player who did NOT activate the effect                   |   
+| - Spells, Traps, Spell/Trap effects, or         |                        | (Follow the normal Chain rules.)                             |    
+| - Monster Card effects of any Spell Speed       |                        |                                                              |
+------------------------------------------------------------------------------------------------------------------------------------------
+| After a Chain resolves:                         |                        |                                                              |  
+------------------------------------------------------------------------------------------------------------------------------------------
+| If there is an effect that is triggered.        | Yes                    | The player who did NOT activate the last effect on the Chain |    
+|                                                 |                        | (Follow the normal Chain rules.)                             |   
+------------------------------------------------------------------------------------------------------------------------------------------
+| If there is no effect that can be triggered.    | No                     | Turn Player                                                  |
+------------------------------------------------------------------------------------------------------------------------------------------
+| If the Turn Player passes.                      | No                     | Opponent                                                     |     
+------------------------------------------------------------------------------------------------------------------------------------------
+| Turn player passes.                             | No                     | Opponent                                                     |   
+------------------------------------------------------------------------------------------------------------------------------------------

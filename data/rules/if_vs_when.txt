@@ -1,0 +1,7 @@
+There is a difference between optional effects that can be used "If" something happens and optional effects you can use "When" something happens.
+
+Cards that say you can do something "When" something happens must activate their effects immediately when that something occurs. If they cannot, or something happens between the time the condition is met and the next time cards or effects can be activated, then you miss your chance to use them.
+
+Cards that say you can do something "If" something happens must activate their effects at the first possible opportunity to activate cards or effects after the "If" condition is met.
+
+Remember, this is only for optional effects. Effects that are mandatory, like The White Stone of Legend, will always activate even though they say "When".
