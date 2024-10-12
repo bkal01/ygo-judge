@@ -1,7 +1,19 @@
+import os
+
 from argparse import ArgumentParser, Namespace
+from dotenv import load_dotenv
+
+from completion.base_completer import BaseCompleter
 
 def base(query: str) -> str:
-    return "base" + query
+    completer = BaseCompleter(
+        model=os.environ["XAI_API_MODEL_NAME"],
+        endpoint=os.environ["XAI_API_COMPLETIONS_ENDPOINT"],
+    )
+    completion = completer.complete(
+        query=query
+    )
+    return completion
 
 def in_context_cards(query: str) -> str:
     return "in context cards" + query
@@ -31,8 +43,11 @@ def main(args: Namespace) -> None:
         resp = in_context_cards(args.query)
     elif args.method == "in_context_rules_and_cards":
         resp = in_context_rules_and_cards(args.query)
+    else:
+        resp = "Unknown method."
     print(resp)
 
 if __name__ == "__main__":
+    load_dotenv()
     args = parse_arguments()
     main(args)
