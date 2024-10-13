@@ -1,0 +1,6 @@
+{
+    "title": "If my\u00a0Elemental HERO Absolute Zero is sent from my opponent's field to the Graveyard or banished face-up, which player will be the one activating its effect?",
+    "question": "If an Elemental HERO Absolute Zero that I own is sent from my opponent's field to the Graveyard or banished face-up, which player will be the one activating its effect?",
+    "answer": "Even if your\u00a0Elemental HERO Absolute Zero is sent to the Graveyard or banished face-up while being controlled by your opponent, you as the original owner will be the one activating its effect to destroy all monsters your opponent controls.",
+    "llm_answer": "Your opponent will be the one activating Elemental HERO Absolute Zero's effect. The effect triggers when the card leaves the field, and since your opponent controlled it when it left, they are the ones to activate the effect. The scenario resolves with your opponent destroying all monsters you control."
+}

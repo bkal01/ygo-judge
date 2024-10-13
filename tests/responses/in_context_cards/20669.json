@@ -1,0 +1,6 @@
+{
+    "title": "My opponent activates Icarus Attack, targeting Megalosmasher X and Lost World on my field. At this time, can I apply the effect of Lost World that destroys Dinosaur-Type monsters in my hand or Deck instead?",
+    "question": "My opponent activates Icarus Attack, targeting Megalosmasher X and Lost World on my field. At this time, can I apply the effect of Lost World that destroys Dinosaur-Type monsters in my hand or Deck instead?",
+    "answer": "Even if Lost World and a Normal Monster on the field would be destroyed at the same time, as in this scenario, you can apply the effect of Lost World that destroys Dinosaur-Type monsters in your hand or Deck instead. (In this scenario, Lost World itself is destroyed by the effect of Icarus Attack, but Megalosmasher X is not destroyed, and you destroy 1 Dinosaur-Type monster in your hand or Deck instead.)",
+    "llm_answer": "Yes, you can apply the effect of \"Lost World\" to destroy Dinosaur-Type monsters in your hand or Deck instead of \"Megalosmasher X.\" This is because \"Lost World\" allows you to replace the destruction of any Normal Monster on the field with Dinosaur monsters from your hand or Deck.\n\n**Resolution:** Your opponent will successfully destroy \"Lost World\" with \"Icarus Attack,\" but you will destroy Dinosaur monsters from your hand or Deck instead of \"Megalosmasher X.\""
+}

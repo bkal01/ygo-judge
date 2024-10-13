@@ -1,0 +1,6 @@
+{
+    "title": "If a Pendulum Summoned Odd-Eyes Pendulum Dragon is destroyed by the effect of Scarlight Red Dragon Archfiend, is damage inflicted to the opponent?",
+    "question": "If a Pendulum Summoned Odd-Eyes Pendulum Dragon is destroyed by the effect of Scarlight Red Dragon Archfiend, is damage inflicted to the opponent?",
+    "answer": "Even in that case, the opponent takes damage by the effect of Scarlight Red Dragon Archfiend.",
+    "llm_answer": "Yes, damage will be inflicted. Odd-Eyes Pendulum Dragon, when destroyed by Scarlight Red Dragon Archfiend's effect, will count towards the damage calculation as it was Special Summoned and has an ATK of 2500, which is less than or equal to Scarlight's 3000 ATK. **The scenario will resolve with the opponent taking 500 damage.**"
+}

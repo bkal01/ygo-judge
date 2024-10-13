@@ -1,0 +1,6 @@
+{
+    "title": "If a face-down Defense Position Hi-Speedroid Chanbara on my side of the field is attacked by an opponent's monster, can its effect that makes it gain 200 ATK be activated?",
+    "question": "If a face-down Defense Position Hi-Speedroid Chanbara on my side of the field is attacked by an opponent's monster, can its effect that makes it gain 200 ATK be activated?",
+    "answer": "The effect of Hi-Speedroid Chanbara activates at the start of the Damage Step. (This effect activates before a face-down Defense Position monster is flipped face-up.) Therefore, in this scenario, if a face-down Defense Position Hi-Speedroid Chanbara is attacked by an opponent's monster, Hi-Speedroid Chanbara is not face-up at the start of the Damage Step so its effect cannot be activated.",
+    "llm_answer": "No, the effect of Hi-Speedroid Chanbara that allows it to gain 200 ATK at the start of the Damage Step cannot be activated if it is attacked while in face-down Defense Position. The card needs to be face-up for its effect to trigger. **Resolution**: The battle proceeds normally without the ATK increase."
+}

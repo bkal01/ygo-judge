@@ -1,0 +1,6 @@
+{
+    "title": "I activate Halfway to Forever, targeting a Gagaga Magician and a Gogogo Golem in my Graveyard. If my opponent chains the effect of their D.D. Crow and banishes Gagaga Magician from my Graveyard, how does the effect of Halfway to Forever resolve?",
+    "question": "I activate Halfway to Forever, targeting a Gagaga Magician and a Gogogo Golem in my Graveyard. If my opponent chains the effect of their D.D. Crow and banishes Gagaga Magician from my Graveyard, how does the effect of Halfway to Forever resolve?",
+    "answer": "As in this scenario, if either of the 2 targeted monsters is no longer in the Graveyard when Halfway to Forever resolves, its effect is not applied. (Gogogo Golem remains in the Graveyard, and you do not perform an Xyz Summon.)",
+    "llm_answer": "The effect of **Halfway to Forever** will not resolve properly. Since **Gagaga Magician** was banished by **D.D. Crow**, it is no longer in the Graveyard to be targeted, and the effect cannot proceed as there is only one valid target left. \n\n**Resolution**: The **Halfway to Forever** effect will not Special Summon any monsters and no Xyz Summon will occur."
+}

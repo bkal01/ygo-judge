@@ -7,6 +7,7 @@ from tqdm import tqdm
 
 from completion.completer import Completer
 from completion.base_completer import BaseCompleter
+from completion.in_context_cards_completer import InContextCardsCompleter
 
 
 def evaluate_with_human_feedback(responses_dir: str) -> float:
@@ -56,7 +57,7 @@ def generate_eval_responses(completer: Completer) -> None:
 
 def eval_base() -> None:
     with open(os.environ["BASE_MODEL_PROMPT_PATH"], "r") as f:
-        prompt_prefix = str(f.readlines())
+        prompt_prefix = str(f.read())
     completer = BaseCompleter(
         model=os.environ["XAI_API_MODEL_NAME"],
         endpoint=os.environ["XAI_API_CHAT_COMPLETIONS_ENDPOINT"],
@@ -66,7 +67,24 @@ def eval_base() -> None:
     generate_eval_responses(completer)
 
 def eval_in_context_cards() -> None:
-    return
+    with open(os.environ["IN_CONTEXT_CARDS_MODEL_PROMPT_PATH"], "r") as f:
+        prompt_prefix = str(f.read())
+
+    print("Creating name to id map...")
+    name_to_id = {}
+    for filename in tqdm(os.listdir(f"{os.environ['YUGIOH_CARD_HISTORY_PATH']}")):
+        with open(f"{os.environ['YUGIOH_CARD_HISTORY_PATH']}{filename}") as f:
+            card_info = json.load(f)
+            name_to_id[card_info["name"]] = card_info["id"]
+
+    completer = InContextCardsCompleter(
+        model=os.environ["XAI_API_MODEL_NAME"],
+        endpoint=os.environ["XAI_API_CHAT_COMPLETIONS_ENDPOINT"],
+        prompt_prefix=prompt_prefix,
+        context_source=os.environ["YUGIOH_CARD_HISTORY_PATH"],
+        name_to_id=name_to_id,
+    )
+    generate_eval_responses(completer)
 
 def eval_in_context_rules_and_cards() -> None:
     return

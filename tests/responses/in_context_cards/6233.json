@@ -1,0 +1,6 @@
+{
+    "title": "Vanity's Fiend is face-up on my opponent's field. In this situation, can I activate Wild Fire?",
+    "question": "Vanity's Fiend is face-up on my opponent's field. In this situation, can I activate Wild Fire?",
+    "answer": "In this scenario, while the effect of Vanity's Fiend is applying, Wild Fire cannot be activated.",
+    "llm_answer": "Yes, you can activate Wild Fire. The restriction from Vanity's Fiend prevents Special Summoning, but does not stop the activation of card effects. The scenario will resolve as follows: Wild Fire will destroy all \"Blaze Accelerator\" cards you control, then destroy as many monsters on the field as possible, and finally attempt to Special Summon a \"Wild Fire Token,\" which will fail due to Vanity's Fiend's effect."
+}

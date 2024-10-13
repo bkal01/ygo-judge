@@ -1,0 +1,6 @@
+{
+    "title": "If a monster is flipped face-up while Terrors in the Hidden City's effects are negated, and the effect of Terrors in the Hidden City is then reapplied, will the monster gain ATK/DEF?",
+    "question": "My opponent's White Howling has resolved, negating the effects of my Terrors in the Hidden City until the end of the turn. A monster I control is then flipped face-up while the effects of Terrors in the Hidden City remain negated.\n\nWhen the effects of Terrors in the Hidden City begin applying again at the end of this turn, will that monster's ATK/DEF be increased by that effect?",
+    "answer": "Yes, the monster is still a monster that was flipped face-up while Terrors in the Hidden City was face-up. Therefore, it will gain ATK/DEF due to Terrors in the Hidden City's effect.",
+    "llm_answer": "Yes, the monster's ATK/DEF will increase by 1500 at the end of the turn when Terrors in the Hidden City's effect starts applying again. The scenario will resolve with the monster gaining the ATK/DEF boost once the turn ends."
+}

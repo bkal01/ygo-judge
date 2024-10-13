@@ -1,0 +1,6 @@
+{
+    "title": "When my opponent's Ultimate Tyranno attacks a Nightmare Archfiends on my field, can I activate Transmission Gear?",
+    "question": "When my opponent's Ultimate Tyranno attacks a Nightmare Archfiends on my field, can I activate Transmission Gear?",
+    "answer": "Monster Tokens cannot be banished face-down. During damage calculation in which you and your opponent's monsters battle, if either monster is a Token, Transmission Gear cannot be activated.",
+    "llm_answer": "Yes, you can activate **Transmission Gear** during the damage calculation step when **Ultimate Tyranno** attacks a **Nightmare Archfiend Token**. **Transmission Gear** can be activated because it specifically triggers during damage calculation when your monster battles an opponent's monster. **Ultimate Tyranno**'s effect does not prevent the activation of Trap Cards during the Battle Phase, only the attacking of other monsters. The scenario will resolve with you and your opponent playing rock-paper-scissors, and the losing player will banish the battling monster they control, face-down."
+}
