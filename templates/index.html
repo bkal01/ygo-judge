@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yu-Gi-Oh! Query Generator</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        textarea, select, button {
+            width: 100%;
+            margin-bottom: 10px;
+        }
+        #response {
+            white-space: pre-wrap;
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Yu-Gi-Oh! Query Generator</h1>
+    <textarea id="query" rows="4" placeholder="Enter your query here"></textarea>
+    <select id="method">
+        <option value="base">Base</option>
+        <option value="in_context_cards">In-Context Cards</option>
+        <option value="in_context_rules_and_cards">In-Context Rules and Cards</option>
+    </select>
+    <button onclick="generateResponse()">Submit</button>
+    <div id="response"></div>
+
+    <script>
+        async function generateResponse() {
+            const query = document.getElementById('query').value;
+            const method = document.getElementById('method').value;
+            const responseDiv = document.getElementById('response');
+
+            responseDiv.textContent = 'Generating response...';
+
+            try {
+                const response = await axios.post('/api/generate', { query, method });
+                responseDiv.textContent = response.data.response;
+            } catch (error) {
+                responseDiv.textContent = 'An error occurred while generating the response.';
+                console.error(error);
+            }
+        }
+    </script>
+</body>
+</html>
