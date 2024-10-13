@@ -1,0 +1,6 @@
+{
+    "title": "While Madolche Chateau is applying, I activate the first effect of Madolche Puddingcess Chocolat-a-la-Mode by targeting a \"Madolche\" monster, and add it to my hand instead of shuffling it into the Deck. Afterward, can I activate the second effect of Madolche Puddingcess Chocolat-a-la-Mode?",
+    "question": "While Madolche Chateau is applying, I activate the first effect of Madolche Puddingcess Chocolat-a-la-Mode by targeting a \"Madolche\" monster, and add it to my hand instead of shuffling it into the Deck. Afterward, can I activate the second effect of Madolche Puddingcess Chocolat-a-la-Mode?",
+    "answer": "No, you cannot.",
+    "llm_answer": "Yes, you can activate the second effect of **Madolche Puddingcess Chocolat-a-la-Mode**. \n\nThe effect of **Madolche Chateau** allows you to add the \"Madolche\" monster to your hand instead of shuffling it into the Deck, but this still counts as the monster being shuffled into the Deck for the purpose of triggering effects like those of **Madolche Puddingcess Chocolat-a-la-Mode**. Since the effect of **Madolche Puddingcess Chocolat-a-la-Mode** is triggered \"when a 'Madolche' card(s) in your GY is shuffled into the Main Deck,\" adding the monster to your hand instead of shuffling it into the Deck still meets the requirement for activating this effect."
+}

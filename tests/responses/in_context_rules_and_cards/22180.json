@@ -1,0 +1,6 @@
+{
+    "title": "If Cyberse Quantum Dragon battles an opponent's Monster Token, can its effect be activated at the start of the Damage Step?",
+    "question": "If Cyberse Quantum Dragon battles an opponent's Monster Token, can its effect be activated at the start of the Damage Step?",
+    "answer": "You can activate the effect of Cyberse Quantum Dragon at the start of the Damage Step when it battles an opponent's Monster Token. In that case, the Token disappears instead of returning to the hand, but Cyberse Quantum Dragon can still make a second attack.",
+    "llm_answer": "No, the effect of **Cyberse Quantum Dragon** cannot be activated at the start of the Damage Step if it is battling a Monster Token. \n\n**Reasoning**: Since Monster Tokens are removed from the game instead of being returned to the hand or Deck when they leave the field, the effect of **Cyberse Quantum Dragon** which says \"return that opponent's monster to the hand\" cannot be applied to Monster Tokens.\n\n**Scenario Resolution**: If **Cyberse Quantum Dragon** battles a Monster Token, its effect that would return the opponent's monster to the hand will not activate because the Token cannot be returned to the hand."
+}

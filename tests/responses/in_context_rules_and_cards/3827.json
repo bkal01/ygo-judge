@@ -1,0 +1,6 @@
+{
+    "title": "Dragon's Rebirth is activated by targeting a face-up Darkflare Dragon in my Monster Zone. If Book of Moon is chained, and Darkflare Dragon is changed to face-down Defense Position, how does Dragon's Rebirth resolve?",
+    "question": "Dragon's Rebirth is activated by targeting a face-up Darkflare Dragon in my Monster Zone. If Book of Moon is chained, and Darkflare Dragon is changed to face-down Defense Position, how does Dragon's Rebirth resolve?",
+    "answer": "When resolving Dragon's Rebirth, if the targeted Dragon-Type monster has been changed to face-down Defense Position, it is not banished, and the part of the effect that Special Summons a monster is not applied.",
+    "llm_answer": "Dragon's Rebirth will **not** resolve properly. Since Darkflare Dragon has been changed to face-down Defense Position by Book of Moon, it is no longer face-up when Dragon's Rebirth resolves, and thus cannot be targeted by its effect. Therefore, Dragon's Rebirth's effect to banish the target and Special Summon a Dragon monster from the hand or Graveyard cannot be performed."
+}

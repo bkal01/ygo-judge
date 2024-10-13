@@ -1,0 +1,6 @@
+{
+    "title": "I have 2 Set copies of Ancient Gear Reborn. If I activate one Ancient Gear Reborn, can I chain the second copy to it?",
+    "question": "I have 2 Set copies of Ancient Gear Reborn. If I activate one Ancient Gear Reborn, can I chain the second copy to it?",
+    "answer": "You can only have 1 Ancient Gear Reborn on your field, so when you activate the first copy, you are not able to chain the second copy.",
+    "llm_answer": "No, you cannot chain the second copy of **Ancient Gear Reborn** to the first copy. **Ancient Gear Reborn** is a Continuous Trap Card, and the rules state:\n\n- Continuous Trap Cards can be activated from being face-down at times when they cannot activate their written effects.\n- Once a Continuous Trap Card is activated and its effect is applied, you must wait for the current chain to resolve before activating another card or effect, unless it's a mandatory effect or a specific activation timing is met.\n\nSince **Ancient Gear Reborn** does not have an effect that activates when it is Set or flipped face-down, and its effect is not mandatory, you cannot activate another copy of **Ancient Gear Reborn** in a chain to the first one. You would need to wait until the first **Ancient Gear Reborn** has finished resolving or has been destroyed before you can activate the second one."
+}

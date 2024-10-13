@@ -1,0 +1,6 @@
+{
+    "title": "If Madolche Puddingcess Chocolat-a-la-Mode has another copy of Madolche Puddingcess Chocolat-a-la-Mode as an Xyz Material, can the second effect of Madolche Puddingcess Chocolat-a-la-Mode be activated?",
+    "question": "If Madolche Puddingcess Chocolat-a-la-Mode has another copy of Madolche Puddingcess Chocolat-a-la-Mode as an Xyz Material, can the second effect of Madolche Puddingcess Chocolat-a-la-Mode be activated?",
+    "answer": "Unless Madolche Puddingcess Chocolat-a-la-Mode has Madolche Puddingcess as an Xyz Material, its second effect cannot be activated.",
+    "llm_answer": "No, the second effect of Madolche Puddingcess Chocolat-a-la-Mode that says \"While this card has \"Madolche Puddingcess\" as material, when a \"Madolche\" card(s) in your GY is shuffled into the Main Deck (except during the Damage Step): You can detach 1 material from this card; Special Summon 1 \"Madolche\" monster from your Deck in Attack Position or face-down Defense Position.\" cannot be activated if it has another copy of itself as an Xyz Material. The condition requires that the card has \"Madolche Puddingcess\" as material, not another copy of Madolche Puddingcess Chocolat-a-la-Mode.\n\n**Resolution**: The effect cannot be activated because the condition for activating the effect is not met."
+}

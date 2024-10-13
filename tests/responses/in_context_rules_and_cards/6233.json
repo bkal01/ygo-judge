@@ -1,0 +1,6 @@
+{
+    "title": "Vanity's Fiend is face-up on my opponent's field. In this situation, can I activate Wild Fire?",
+    "question": "Vanity's Fiend is face-up on my opponent's field. In this situation, can I activate Wild Fire?",
+    "answer": "In this scenario, while the effect of Vanity's Fiend is applying, Wild Fire cannot be activated.",
+    "llm_answer": "**Answer:**\nNo, you cannot activate **Wild Fire** if **Vanity's Fiend** is face-up on the field.\n\n**Explanation:**\n**Vanity's Fiend** has a continuous effect that prevents both players from Special Summoning monsters. Since **Wild Fire**'s effect includes Special Summoning a \"Wild Fire Token,\" and **Vanity's Fiend** negates the ability to Special Summon, you cannot activate **Wild Fire** while **Vanity's Fiend** is face-up on the field."
+}

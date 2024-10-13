@@ -1,0 +1,6 @@
+{
+    "title": "When Red-Eyes Black Flare Dragon performs an attack, the opponent triggered a replay by activating Call of the Haunted during the Battle Step.  If the attack is stopped, can the effect of Red-Eyes Black Flare Dragon be activated?",
+    "question": "When Red-Eyes Black Flare Dragon performs an attack, the opponent triggered a replay by activating Call of the Haunted during the Battle Step.\n\nIf the attack is stopped, can the effect of Red-Eyes Black Flare Dragon be activated?",
+    "answer": "In that case, the effect cannot be activated.",
+    "llm_answer": "No, the effect of Red-Eyes Black Flare Dragon cannot be activated if the attack is stopped.\n\n**Reasoning:** The effect of Red-Eyes Black Flare Dragon requires that damage calculation is performed involving the card. If the attack is stopped due to a replay or any other reason before damage calculation, the condition for the effect to activate is not met. Therefore, the effect that says \"If damage calculation is performed involving this card, at the end of the Battle Phase: You can inflict damage to your opponent equal to this card's original ATK\" does not activate.\n\n**Resolution:** The effect of Red-Eyes Black Flare Dragon does not activate, and the turn proceeds as normal."
+}

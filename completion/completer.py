@@ -2,7 +2,7 @@ from abc import ABC, abstractmethod
 
 class Completer(ABC):
     @abstractmethod
-    def attach_context(self):
+    def attach_context(self, query: str) -> str:
         pass
 
     @abstractmethod

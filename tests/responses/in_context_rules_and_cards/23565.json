@@ -1,0 +1,6 @@
+{
+    "title": "Can the effect of Firewall Dragon Darkfluid - Neo Tempest Terahertz be activated while Gozen Match is applying?",
+    "question": "Can the effect of Firewall Dragon Darkfluid - Neo Tempest Terahertz be activated while Gozen Match is applying?",
+    "answer": "Yes, it can.\n\nAfter resolving the effect of Firewall Dragon Darkfluid - Neo Tempest Terahertz, if it is treated as 2 or more different Attributes, it must be sent to the Graveyard immediately.",
+    "llm_answer": "The effect of **Firewall Dragon Darkfluid - Neo Tempest Terahertz** can be activated while **Gozen Match** is applying. \n\n**Gozen Match** restricts each player to controlling only one Attribute of monster, but **Firewall Dragon Darkfluid - Neo Tempest Terahertz** gains the Attribute of the Cyberse monster sent to the Graveyard by its effect. Since this Attribute change is not an effect that causes the player to control an additional Attribute, but rather changes the Attribute of the card itself, **Gozen Match** does not prevent this effect from activating.\n\nHowever, **Gozen Match** will still apply after the effect of **Firewall Dragon Darkfluid - Neo Tempest Terahertz** resolves, potentially forcing the player to send other monsters to the Graveyard if they end up controlling multiple Attributes."
+}
