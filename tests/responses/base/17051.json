@@ -1,0 +1,6 @@
+{
+    "title": "While the effect of Cuben is applying, if the die result was 6, but then Cuben becomes an Equip Card by the effect of Relinquished, does the effect still apply normally?",
+    "question": "While the effect of Cuben is applying, if the die result was 6, but then Cuben becomes an Equip Card by the effect of Relinquished, does the effect still apply normally?",
+    "answer": "In this scenario, if the effect of Cuben has already resolved, but then Cuben becomes an Equip Card by the effect of Relinquished, its effect stops applying. (In this case, players will now be able to Normal and Special Summon Level 6 monsters.)",
+    "llm_answer": "Yes, the effect still applies normally. Cuben's effect does not specify that it must remain a monster to continue applying its effect, so even as an Equip Card, the result of 6 will continue to be in effect."
+}

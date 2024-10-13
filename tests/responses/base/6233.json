@@ -1,0 +1,6 @@
+{
+    "title": "Vanity's Fiend is face-up on my opponent's field. In this situation, can I activate Wild Fire?",
+    "question": "Vanity's Fiend is face-up on my opponent's field. In this situation, can I activate Wild Fire?",
+    "answer": "In this scenario, while the effect of Vanity's Fiend is applying, Wild Fire cannot be activated.",
+    "llm_answer": "No, you cannot activate Wild Fire. Vanity's Fiend prevents players from Special Summoning, and Wild Fire requires Special Summoning a monster from your Graveyard."
+}

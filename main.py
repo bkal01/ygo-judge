@@ -6,9 +6,12 @@ from dotenv import load_dotenv
 from completion.base_completer import BaseCompleter
 
 def base(query: str) -> str:
+    with open(os.environ["BASE_MODEL_PROMPT_PATH"], "r") as f:
+        prompt_prefix = str(f.readlines())
     completer = BaseCompleter(
         model=os.environ["XAI_API_MODEL_NAME"],
-        endpoint=os.environ["XAI_API_COMPLETIONS_ENDPOINT"],
+        endpoint=os.environ["XAI_API_CHAT_COMPLETIONS_ENDPOINT"],
+        prompt_prefix=prompt_prefix,
     )
     completion = completer.complete(
         query=query

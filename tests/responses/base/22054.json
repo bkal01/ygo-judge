@@ -1,0 +1,6 @@
+{
+    "title": "My Salamangreat Heatleo is in the Extra Monster Zone. In this situation, when I activate the effect of a Salamangreat Jack Jaguar in my Graveyard, targeting a Salamangreat Falco in my Graveyard, what happens if my opponent chains Compulsory Evacuation Device and returns Salamangreat Heatleo to the Extra Deck?",
+    "question": "My Salamangreat Heatleo is in the Extra Monster Zone. In this situation, when I activate the effect of a Salamangreat Jack Jaguar in my Graveyard, targeting a Salamangreat Falco in my Graveyard, what happens if my opponent chains Compulsory Evacuation Device and returns Salamangreat Heatleo to the Extra Deck?",
+    "answer": "In this scenario, since you no longer have a \"Salamangreat\" Link Monster on your field, you still apply the part of the effect that returns Salamangreat Falco to the Deck, but you cannot Special Summon Salamangreat Jack Jaguar to a zone a \"Salamangreat\" Link Monster points to, and it remains in your Graveyard.",
+    "llm_answer": "The effect of Salamangreat Jack Jaguar still resolves normally. Heatleo's presence in the Extra Monster Zone is not a condition for Jack Jaguar's effect to resolve; it only needs to target a \"Salamangreat\" monster in the Graveyard."
+}

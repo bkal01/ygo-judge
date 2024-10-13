@@ -1,0 +1,6 @@
+{
+    "title": "I activate Water of Life and Special Summon a Sangan from my Graveyard. During this turn, if I Tribute that Sangan for a Tribute Summon, can I activate its effect?",
+    "question": "I activate Water of Life and Special Summon a Sangan from my Graveyard. During this turn, if I Tribute that Sangan for a Tribute Summon, can I activate its effect?",
+    "answer": "Water of Life prevents you from activating monster effects for the rest of the turn after it resolves, except the effects of the Special Summoned monster that activate on the field. Therefore, in this scenario, the effect of Sangan does not activate when it is sent to the Graveyard after being Special Summoned by the effect of Water of Life.",
+    "llm_answer": "No, you cannot activate Sangan's effect. Water of Life's restriction prevents the Special Summoned monster from activating its effects this turn."
+}

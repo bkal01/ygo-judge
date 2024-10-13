@@ -1,0 +1,6 @@
+{
+    "title": "Elemental HERO Nova Master attacked an opponent's face-down Defense Position Man-Eater Bug and destroyed it in battle. After that Damage Calculation, if the effect of Man-Eater Bug activates and destroys Elemental HERO Nova Master, does the effect of Elemental HERO Nova Master activate?",
+    "question": "Elemental HERO Nova Master attacked an opponent's face-down Defense Position Man-Eater Bug and destroyed it in battle.\n\nAfter that Damage Calculation, if the effect of Man-Eater Bug activates and destroys Elemental HERO Nova Master, does the effect of Elemental HERO Nova Master activate?",
+    "answer": "The effect of Elemental HERO Nova Master activates at the End of the Damage Step.\n\nIf Elemental HERO Nova Master is destroyed by the effect of Man-Eater Bug after Damage Calculation, the effect of that Elemental HERO Nova Master does not activate.",
+    "llm_answer": "Yes, the effect of Elemental HERO Nova Master will activate. Elemental HERO Nova Master's effect triggers when it is destroyed by battle or by a card effect, and since Man-Eater Bug's effect destroys it after damage calculation, both effects will trigger in a chain."
+}

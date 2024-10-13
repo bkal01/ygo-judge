@@ -1,0 +1,6 @@
+{
+    "title": "I activate Galaxy Trance, targeting a Photon Crusher in my Graveyard. If my opponent chains the effect of D.D. Crow and banishes that Photon Crusher from the Graveyard, how does the effect of Galaxy Trance resolve?",
+    "question": "I activate Galaxy Trance, targeting a Photon Crusher in my Graveyard. If my opponent chains the effect of D.D. Crow and banishes that Photon Crusher from the Graveyard, how does the effect of Galaxy Trance resolve?",
+    "answer": "If the targeted \"Photon\" monster is not in your Graveyard when the effect of Galaxy Trance resolves, the effect is not applied. (No monster is Special Summoned from the Deck either.)",
+    "llm_answer": "Galaxy Trance's effect will not resolve successfully. Since the targeted Photon Crusher is no longer in the Graveyard when Galaxy Trance resolves, you cannot Special Summon it."
+}

@@ -1,0 +1,6 @@
+{
+    "title": "When my opponent's Ultimate Tyranno attacks a Nightmare Archfiends on my field, can I activate Transmission Gear?",
+    "question": "When my opponent's Ultimate Tyranno attacks a Nightmare Archfiends on my field, can I activate Transmission Gear?",
+    "answer": "Monster Tokens cannot be banished face-down. During damage calculation in which you and your opponent's monsters battle, if either monster is a Token, Transmission Gear cannot be activated.",
+    "llm_answer": "Yes, you can activate Transmission Gear. Since Ultimate Tyranno's attack triggers a replay, you have the opportunity to activate card effects before damage calculation."
+}

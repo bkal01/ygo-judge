@@ -1,0 +1,6 @@
+{
+    "title": "An Ally of Justice Nullfier battles a White Duston. After damage calculation, will the effect of Ally of Justice Nullfier activate?",
+    "question": "An Ally of Justice Nullfier battles a White Duston. After damage calculation, will the effect of Ally of Justice Nullfier activate?",
+    "answer": "White Duston is a LIGHT Normal Monster, but even in this case, since Ally of Justice Nullfier battled a LIGHT monster, its effect will activate after damage calculation. A Chain Link will be created, but since White Duston is a Normal Monster, no effect is negated.",
+    "llm_answer": "No, because White Duston does not have an effect that would trigger Nullfier's effect."
+}

@@ -1,0 +1,6 @@
+{
+    "title": "While the effect of Cuben is applying, if the die result was 4, but then Cuben changes control by the effect of Creature Swap, does the effect still apply normally?",
+    "question": "While the effect of Cuben is applying, if the die result was 4, but then Cuben changes control by the effect of Creature Swap, does the effect still apply normally?",
+    "answer": "In this scenario, if the effect of Cuben has already resolved, even if Cuben changes control to your opponent by the effect of Creature Swap, its effect will continue applying normally. (In this case, neither player can Normal or Special Summon Level 4 monsters.)",
+    "llm_answer": "Yes, the effect still applies normally. Cuben's effect does not specify that it must remain under the control of its original controller to maintain its effect."
+}

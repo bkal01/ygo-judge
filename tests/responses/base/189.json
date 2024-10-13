@@ -1,0 +1,6 @@
+{
+    "title": "While Anti-Spell Fragrance is applying, if Masked Beast Des Gardius is sent from the field to the Graveyard, will its effect activate?",
+    "question": "While Anti-Spell Fragrance is applying, if Masked Beast Des Gardius is sent from the field to the Graveyard, will its effect activate?",
+    "answer": "Equipping The Mask of Remnants from the Deck by the effect of Masked Beast Des Gardius is not considered activating a Spell Card. Therefore, even while Anti-Spell Fragrance is applying, the effect of Masked Beast Des Gardius will activate as usual, and equip The Mask of Remnants to the targeted monster.",
+    "llm_answer": "No, Masked Beast Des Gardius's effect will not activate. Anti-Spell Fragrance prevents Spell Cards from being played, but not from being activated from the field or Graveyard. However, since Des Gardius's effect triggers upon being sent from the field to the Graveyard, and Anti-Spell Fragrance does not stop effects from activating, its effect can still activate."
+}

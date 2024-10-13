@@ -1,0 +1,6 @@
+{
+    "title": "When my opponent activates the effect of Ash Blossom & Joyous Spring from their hand, can I activate Orcust Crescendo in response?",
+    "question": "When my opponent activates the effect of Ash Blossom & Joyous Spring from their hand, can I activate the\u300enegate the activation, and if you do, banish that card\u300feffect of Orcust Crescendo in response?",
+    "answer": "Yes, you can. If you do, the activation of Ash Blossom & Joyous Spring's effect will be negated. However, since Ash Blossom & Joyous Spring no longer exists in the location where its effect was activated, (the effect was activated by the Ash Blossom & Joyous Spring in your hand, which was then discarded as a cost,) Ash Blossom & Joyous Spring will not be banished by Orcust Crescendo.\n\nThe same applies to the following effects, if they are used in response to the activation of the effect of Ash Blossom & Joyous Spring: Myutant Ultimus, Shooting Majestic Star Dragon, Nekroz of Areadbhair, Dragunity Knight - Areadbhair, Cynet Conflict, Tri-Gate Wizard, Invoked Mechaba, Gameciel, the Sea Turtle Kaiju, Infernoid Devyaty, and Debunk.",
+    "llm_answer": "No, you cannot activate Orcust Crescendo in response to Ash Blossom & Joyous Spring. Ash Blossom & Joyous Spring is a hand trap effect that cannot be chained to by cards that negate activations."
+}

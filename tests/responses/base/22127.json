@@ -1,0 +1,6 @@
+{
+    "title": "If my F.A. Shining Star GT battles an opponent's monster, can I activate the second effect of F.A. Dead Heat before damage calculation?",
+    "question": "If my F.A. Shining Star GT battles an opponent's monster, can I activate the second effect of F.A. Dead Heat before damage calculation?",
+    "answer": "F.A. Shining Star GT is a Link Monster, and has no Level. You cannot activate the second effect of F.A. Dead Heat when F.A. Shining Star GT battles.",
+    "llm_answer": "No, you cannot activate the second effect of **F.A. Dead Heat** before damage calculation. This effect can only be activated during the Battle Phase, but not during damage calculation or after."
+}
