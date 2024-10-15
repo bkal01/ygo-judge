@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11757
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The player who activated the effect will look at their opponent's hand, choose 1 card among them and banish it until the End Phase.",
+            "id": 14951,
+            "question": "If <<11757>> is Tributed for a Tribute Summon, and its effect is activated, which player chooses the card to banish from the opponent's hand?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<11757>> is Tributed for a Tribute Summon, and its effect is activated, which player chooses the card to banish from the opponent's hand?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11757>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u300c<<11757>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u304b\u3089\u898b\u3066\u76f8\u624b\u3068\u306a\u308b\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u624b\u672d\u3092\u78ba\u8a8d\u3057\u3001\u305d\u306e\u4e2d\u304b\u3089\u9078\u3093\u3060\u30ab\u30fc\u30c9\uff11\u679a\u3092\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u307e\u3067\u9664\u5916\u3057\u307e\u3059\u3002\n\n\u9664\u5916\u3059\u308b\u30ab\u30fc\u30c9\u3092\u9078\u3076\u306e\u306f\u3001\u300c<<11757>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u3067\u3059\u3002",
+            "id": 14951,
+            "question": "\u300c<<11757>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u306e\u305f\u3081\u306b\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u76f8\u624b\u306e\u624b\u672d\u3092\u78ba\u8a8d\u3057\u3001\u305d\u306e\u4e2d\u304b\u3089\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u307e\u3067\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u9664\u5916\u3055\u308c\u308b\u30ab\u30fc\u30c9\u3092\u6c7a\u3081\u308b\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u8ab0\u3067\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u306e\u305f\u3081\u306b\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u305f\u300c<<11757>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u9664\u5916\u3059\u308b\u30ab\u30fc\u30c9\u3092\u6c7a\u3081\u308b\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u8ab0\u3067\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

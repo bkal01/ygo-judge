@@ -1,6 +1,0 @@
-{
-    "title": "Can Gem-Knight Lady Brilliant Diamond be sent to the Graveyard by its own effect?",
-    "question": "Can Gem-Knight Lady Brilliant Diamond be sent to the Graveyard by its own effect?",
-    "answer": "Yes, it can.",
-    "llm_answer": "No, Gem-Knight Lady Brilliant Diamond cannot be sent to the Graveyard by its own effect.\n\n**Reasoning**: The effect of Gem-Knight Lady Brilliant Diamond says \"Once per turn: You can send 1 face-up 'Gem-Knight' monster you control to the Graveyard, and if you do, Special Summon 1 'Gem-Knight' Fusion Monster from your Extra Deck, ignoring its Summoning conditions.\" The card itself is not eligible to be sent to the Graveyard by its own effect because the text specifies another \"Gem-Knight\" monster must be sent. \n\n**Resolution**: If you control Gem-Knight Lady Brilliant Diamond and want to use its effect, you must send another face-up \"Gem-Knight\" monster you control to the Graveyard. The Gem-Knight Lady Brilliant Diamond itself will remain on the field."
-}

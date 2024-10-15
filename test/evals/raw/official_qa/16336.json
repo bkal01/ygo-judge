@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6682,
+        11963,
+        19092
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in that case, the effect can be activated.",
+            "id": 16336,
+            "question": "If <<11963>> is tributed while <<6682>> is active, can the effect that adds a \"<<4370>>\" monster from the Deck to the hand be activated?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<11963>> is tributed while <<6682>> is active, can the effect that adds a \"<<4370>>\" monster from the Deck to the hand be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<11963>>\u300d\u304c\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u305f\u5834\u5408\u3001\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u305f\u300c<<11963>>\u300d\u306f\u9664\u5916\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u304c\u3001\u305d\u306e\u5834\u5408\u3067\u3082\u300e\u30c7\u30c3\u30ad\u304b\u3089\u300c<<19092>>\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 16336,
+            "question": "\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<11963>>\u300d\u304c\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u305f\u5834\u5408\u3001\u300e\u2462\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u300c<<19092>>\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<11963>>\u300d\u304c\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u305f\u5834\u5408\u3001\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "cards": [
+        13564
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "During a single damage calculation, you can activate the effects of multiple copies of <<13564>> in your hand in the same Chain. However, even if multiple copies activate their effects in the same damage calculation, battle damage is only halved once. (The result is the same as only activating 1 copy.)",
+            "id": 21738,
+            "question": "If there are multiple copies of <<13564>> in my hand, can I activate each of their effects that halve battle damage during damage calculation?",
+            "thisSrc": {
+                "date": "2018-01-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If there are multiple copies of <<13564>> in my hand, can I activate each of their effects that halve battle damage during damage calculation?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "1\u5ea6\u306e\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306b\u3001\u8907\u6570\u679a\u306e\u624b\u672d\u306e\u300c<<13564>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u3057\u304b\u3057\u306a\u304c\u3089\u3001\u300c<<13564>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3001\u300e\u305d\u306e\u6226\u95d8\u3067\u767a\u751f\u3059\u308b\u81ea\u5206\u3078\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u534a\u5206\u306b\u306a\u308b\u300f\u52b9\u679c\u3067\u3059\u306e\u3067\u3001\u8907\u6570\u679a\u3092\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3057\u305f\u3068\u3057\u3066\u3082\u30c0\u30e1\u30fc\u30b8\u306f\u534a\u5206\u306b\u3057\u304b\u306a\u308a\u307e\u305b\u3093\u3002\uff081\u679a\u306e\u307f\u767a\u52d5\u3057\u305f\u5834\u5408\u3068\u5909\u308f\u308a\u307e\u305b\u3093\u3002\uff09",
+            "id": 21738,
+            "question": "\u81ea\u5206\u306e\u624b\u672d\u306b\u8907\u6570\u679a\u306e\u300c<<13564>>\u300d\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u30011\u5ea6\u306e\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306b\u3001\u305d\u308c\u305e\u308c\u306e\u300c<<13564>>\u300d\u306e\u300e\u2460\uff1a\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306b\u3053\u306e\u30ab\u30fc\u30c9\u3092\u624b\u672d\u304b\u3089\u6368\u3066\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u6226\u95d8\u3067\u767a\u751f\u3059\u308b\u81ea\u5206\u3078\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u534a\u5206\u306b\u306a\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "1\u5ea6\u306e\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306b\u3001\u8907\u6570\u679a\u306e\u624b\u672d\u306e\u300c<<13564>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Damage Step"
+    ]
+}

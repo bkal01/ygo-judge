@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6213,
+        6511,
+        11835
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If <<6511>> or <<6213>> apply their effects to an <<11835>> in your Graveyard, it is returned to the Extra Deck face-down as Xyz Monsters normally are.",
+            "id": 15407,
+            "question": "If <<11835>> is in my Graveyard, and the effects of <<6511>> or <<6213>> are applied, how is it placed in the Extra Deck?",
+            "thisSrc": {
+                "date": "2015-05-01",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<11835>> is in my Graveyard, and the effects of <<6511>> or <<6213>> are applied, how is it placed in the Extra Deck?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u300c<<11835>>\u300d\u306b\u300c<<6511>>\u300d\u3084\u300c<<6213>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u901a\u5e38\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u540c\u69d8\u306b\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u88cf\u5074\u8868\u793a\u3067\u52a0\u308f\u308a\u307e\u3059\u3002",
+            "id": 15407,
+            "question": "\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u300c<<11835>>\u300d\u306b\u300c<<6511>>\u300d\u3084\u300c<<6213>>\u300d\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u3069\u306e\u3088\u3046\u306b\u52a0\u308f\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11835>>\u300d\u306b\u300c<<6511>>\u300d\u3084\u300c<<6213>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u3069\u306e\u3088\u3046\u306b\u52a0\u308f\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

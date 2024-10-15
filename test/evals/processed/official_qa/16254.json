@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11943
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Dystopia the Despondent is Special Summoned by sending 4 Level 1 monsters you control to the Graveyard. Since Tokens cannot be sent to the Graveyard, you cannot use a Token to Special Summon Dystopia the Despondent.",
+            "id": 16254,
+            "question": "When Special Summoning Dystopia the Despondent by sending 4 Level 1 monsters to the Graveyard, can I use a Monster Token?",
+            "thisSrc": {
+                "date": "2015-06-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When Special Summoning Dystopia the Despondent by sending 4 Level 1 monsters to the Graveyard, can I use a Monster Token?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11943>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u305f\u3081\u306b\u306f\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30ec\u30d9\u30eb1\u306e\u30e2\u30f3\u30b9\u30bf\u30fc4\u4f53\u3092\u5893\u5730\u3078\u9001\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002\n\n\u30e2\u30f3\u30b9\u30bf\u30fc\u30c8\u30fc\u30af\u30f3\u306f\u5893\u5730\u3078\u9001\u3089\u308c\u307e\u305b\u3093\u306e\u3067\u3001\u300c<<11943>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u969b\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u30c8\u30fc\u30af\u30f3\u3092\u4f7f\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 16254,
+            "question": "\u300c<<11943>>\u300d\u3092\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u306e\u30ec\u30d9\u30eb\uff11\u30e2\u30f3\u30b9\u30bf\u30fc\uff14\u4f53\u3092\u5893\u5730\u3078\u9001\u3063\u305f\u5834\u5408\u306e\u307f\u624b\u672d\u30fb\u5893\u5730\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3067\u304d\u308b\u300f\u65b9\u6cd5\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u969b\u306b\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30c8\u30fc\u30af\u30f3\u3092\u4f7f\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11943>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u969b\u306b\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30c8\u30fc\u30af\u30f3\u3092\u4f7f\u7528\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Special Summon Monster"
+    ]
+}

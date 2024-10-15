@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5557,
+        6340,
+        12022
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, you take no damage from the effect of Blazing Mirror Force as a result of the effect of Des Wombat.\n\nIn that case, since the part of the effect that inflicts damage to the opponent is not applied either, the last thing to happen is considered to be the destruction of all face-up Attack Position monsters the opponent controls.\n\nTherefore, the opponent can activate Soul Rope.",
+            "id": 16631,
+            "question": "You control a face-up Des Wombat, and an opponent's monster declares an attack.\n\nAt that time, if Blazing Mirror Force is activated, destroying the opponent's monster, can the opponent activate Soul Rope?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "You control a face-up Des Wombat, and an opponent's monster declares an attack.  At that time, if Blazing Mirror Force is activated, destroying the opponent's monster, can the opponent activate Soul Rope?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<6340>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u30b3\u30f3\u30c8\u30ed\u30fc\u30e9\u30fc\u3078\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u308b\u30c0\u30e1\u30fc\u30b8\u3092\uff10\u306b\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u81ea\u5206\u304c\u300c<<12022>>\u300d\u306e\u300e\u81ea\u5206\u306f\u3053\u306e\u52b9\u679c\u3067\u7834\u58ca\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u3092\u5408\u8a08\u3057\u305f\u6570\u5024\u306e\u534a\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\u300f\u51e6\u7406\u306b\u3088\u3063\u3066\u53d7\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u306f\uff10\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u300e\u305d\u306e\u5f8c\u3001\u81ea\u5206\u304c\u53d7\u3051\u305f\u30c0\u30e1\u30fc\u30b8\u3068\u540c\u3058\u6570\u5024\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u76f8\u624b\u306b\u4e0e\u3048\u308b\u300f\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u306e\u3067\u3001\u300e\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u653b\u6483\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5168\u3066\u7834\u58ca\u3057\u300f\u306e\u51e6\u7406\u306b\u3066\u5b8c\u4e86\u3057\u305f\u6271\u3044\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u76f8\u624b\u306f\u300c<<5557>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 16631,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<6340>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u76f8\u624b\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u653b\u6483\u3092\u5ba3\u8a00\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u72b6\u6cc1\u3067\u81ea\u5206\u304c\u300c<<12022>>\u300d\u3092\u767a\u52d5\u3057\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u76f8\u624b\u306f\u300c<<5557>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<6340>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<12022>>\u300d\u306e\u52b9\u679c\u3067\u53d7\u3051\u308b\u81ea\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u304c\uff10\u306b\u306a\u308b\u5834\u5408\u3001\u76f8\u624b\u306f\u300c<<5557>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

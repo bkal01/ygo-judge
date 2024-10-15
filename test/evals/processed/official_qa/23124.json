@@ -1,0 +1,37 @@
+{
+    "cards": [
+        14937
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Cards Set in the Field Zone, and monsters that became Equip Cards while being in face-down Defense Position which were then placed in the Spell & Trap Zone face-down, are counted as Spell Cards even if they are face-down on the field.\n\nOther Set cards are not counted as Spell Cards.",
+            "id": 23124,
+            "question": "When resolving the effect of Selene, Queen of the Master Magicians that places Spell Counters, does a Set card in a Field Zone count as a Spell Card?",
+            "thisSrc": {
+                "date": "2020-11-09",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "When resolving the effect of Selene, Queen of the Master Magicians that places Spell Counters, does a Set card in a Field Zone count as a Spell Card?",
+            "tlSrc": {
+                "date": "2020-11-09",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u30bb\u30c3\u30c8\u3055\u308c\u3066\u3044\u308b\u30ab\u30fc\u30c9\u3068\u3001\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u72b6\u614b\u3067\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u308a\u88cf\u5074\u8868\u793a\u3067\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u7f6e\u304b\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u88cf\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u5834\u5408\u3067\u3082\u9b54\u6cd5\u30ab\u30fc\u30c9\u3068\u3057\u3066\u6570\u3048\u307e\u3059\u3002\n\n\u305d\u308c\u4ee5\u5916\u306e\u30bb\u30c3\u30c8\u3055\u308c\u305f\u30ab\u30fc\u30c9\u306f\u3001\u9b54\u6cd5\u30ab\u30fc\u30c9\u3068\u3057\u3066\u6570\u3048\u307e\u305b\u3093\u3002",
+            "id": 23124,
+            "question": "\u300c<<14937>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30ea\u30f3\u30af\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u5834\u5408\u306b\u767a\u52d5\u3059\u308b\u3002\u304a\u4e92\u3044\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u5893\u5730\u306e\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u6570\u3060\u3051\u3053\u306e\u30ab\u30fc\u30c9\u306b\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\u7f6e\u304f\u300f\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30bb\u30c3\u30c8\u3055\u308c\u3066\u3044\u308b\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u305d\u306e\u30ab\u30fc\u30c9\u3092\uff11\u679a\u306e\u9b54\u6cd5\u30ab\u30fc\u30c9\u3068\u3057\u3066\u6570\u3048\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2020-11-09",
+                "type": 0
+            },
+            "title": "\u300c<<14937>>\u300d\u306e\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30bb\u30c3\u30c8\u3055\u308c\u3066\u3044\u308b\u30ab\u30fc\u30c9\u306f\uff11\u679a\u306e\u9b54\u6cd5\u30ab\u30fc\u30c9\u3068\u3057\u3066\u6271\u3044\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Link"
+    ]
+}

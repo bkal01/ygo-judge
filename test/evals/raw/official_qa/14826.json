@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4041,
+        4766,
+        7491,
+        11670
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "To activate <<11670>>, you must control both monsters that are originally named <<4041>> and <<4766>>. In this case, since <<7491>> has gained the name of <<4041>> or <<4766>>, and it not considered to be originally named <<4041>> or <<4766>>, <<11670>> cannot be activated.",
+            "id": 14826,
+            "question": "If I control 2 copies of <<7491>>, and by their own effects, one has gained the name of <<4041>> and the other has gained the name of <<4766>>, can I activate <<11670>>?",
+            "thisSrc": {
+                "date": "2015-01-12",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If I control 2 copies of <<7491>>, and by their own effects, one has gained the name of <<4041>> and the other has gained the name of <<4766>>, can I activate <<11670>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11670>>\u300d\u3092\u767a\u52d5\u3059\u308b\u305f\u3081\u306b\u306f\u3001\u300e\u5143\u3005\u306e\u30ab\u30fc\u30c9\u540d\u304c\u300c<<4041>>\u300d\u3068\u300c<<4766>>\u300d\u3068\u306a\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u305d\u308c\u305e\u308c\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3059\u308b\u300f\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u30ab\u30fc\u30c9\u540d\u3092\u5f97\u305f\u300c<<7491>>\u300d\u306f\u5143\u3005\u306e\u30ab\u30fc\u30c9\u540d\u304c\u300c<<4041>>\u300d\u3084\u300c<<4766>>\u300d\u306e\u30ab\u30fc\u30c9\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u306e\u3067\u3001\u300c<<11670>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 14826,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\uff12\u4f53\u306e\u300c<<7491>>\u300d\u304c\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u305d\u308c\u305e\u308c\u300c<<4041>>\u300d\u3068\u300c<<4766>>\u300d\u306e\u30ab\u30fc\u30c9\u540d\u3092\u5f97\u3066\u3044\u308b\u5834\u5408\u3001\u300c<<11670>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<7491>>\u300d\u304c\u300c\u30d6\u30e9\u30c3\u30af\uff65\u30de\u30b8\u30b7\u30e3\u30f3\u300d\u3084\u300c\u30d6\u30e9\u30c3\u30af\uff65\u30de\u30b8\u30b7\u30e3\u30f3\uff65\u30ac\u30fc\u30eb\u300d\u306e\u30ab\u30fc\u30c9\u540d\u3092\u5f97\u3066\u3044\u308b\u5834\u5408\u3001\u300c<<11670>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

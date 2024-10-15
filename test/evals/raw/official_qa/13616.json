@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6682,
+        10865
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this case, the targeted monsters are still destroyed, and damage is inflicted to the opponent based on the highest original ATK among the destroyed monsters. Even though the destroyed monsters are banished instead of being sent to the Graveyard, these effects still apply.",
+            "id": 13616,
+            "question": "If <<10865>> is activated while <<6682>> is active, how does its effect resolve?",
+            "thisSrc": {
+                "date": "2014-09-17",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<10865>> is activated while <<6682>> is active, how does its effect resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u305d\u306e\u5834\u5408\u3067\u3082\u3001\u300e\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u3001\u7834\u58ca\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5185\u3001\u5143\u3005\u306e\u653b\u6483\u529b\u304c\u4e00\u756a\u9ad8\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u76f8\u624b\u306b\u4e0e\u3048\u308b\u300f\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u7834\u58ca\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u300c<<6682>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u4ee3\u308f\u308a\u306b\u9664\u5916\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u304c\u3001\u305d\u306e\u7834\u58ca\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u4e2d\u304b\u3089\u300e\u5143\u3005\u306e\u653b\u6483\u529b\u304c\u4e00\u756a\u9ad8\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u76f8\u624b\u306b\u4e0e\u3048\u308b\u300f\u51e6\u7406\u3092\u901a\u5e38\u901a\u308a\u9069\u7528\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 13616,
+            "question": "\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<10865>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<10865>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell",
+        "k:Trap"
+    ]
+}

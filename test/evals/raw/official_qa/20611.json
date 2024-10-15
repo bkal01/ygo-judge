@@ -1,0 +1,38 @@
+{
+    "cards": [
+        12668,
+        13004
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "While the effect of <<12668>> is applying, if Xyz was declared, you cannot activate <<13004>>.",
+            "id": 20611,
+            "question": "If <<12668>> was activated by declaring Xyz, and its effect is applying this turn, can I activate <<13004>>?",
+            "thisSrc": {
+                "date": "2017-02-12",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<12668>> was activated by declaring Xyz, and its effect is applying this turn, can I activate <<13004>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u30a8\u30af\u30b7\u30fc\u30ba\u3092\u5ba3\u8a00\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<12668>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u300c<<13004>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u81ea\u4f53\u304c\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 20611,
+            "question": "\u30a8\u30af\u30b7\u30fc\u30ba\u3092\u5ba3\u8a00\u3057\u3066\u767a\u52d5\u3057\u305f\u3001\u300c<<12668>>\u300d\u306e\u300e\u2460\uff1a\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u7a2e\u985e(\u5100\u5f0f\u30fb\u878d\u5408\u30fbS\u30fbX\u30fbP)\u3092\uff11\u3064\u5ba3\u8a00\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u30bf\u30fc\u30f3\u3001\u304a\u4e92\u3044\u306b\u5ba3\u8a00\u3057\u305f\u7a2e\u985e\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u305a\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u5ba3\u8a00\u3057\u305f\u7a2e\u985e\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u72b6\u6cc1\u3067\u3001\u300c<<13004>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u30a8\u30af\u30b7\u30fc\u30ba\u3092\u5ba3\u8a00\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<12668>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u300c\u30de\u30b9\u30bf\u30fc\uff65\u30d4\u30fc\u30b9\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

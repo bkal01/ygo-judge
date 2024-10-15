@@ -1,0 +1,39 @@
+{
+    "cards": [
+        9575,
+        10881
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the given situation, the effect of <<10881>> can be activated.\n\nIf you do, the effect of <<9575>> is negated by the effect of <<10881>>.\n\nAlso, since the effect that prevents other cards and effects from being activated until the end of the Damage Step is also applied, as long as other effects were not applied the battle is performed as usual.",
+            "id": 13047,
+            "question": "When I declared an attack with my <<10881>>, my opponent activated the effect of their <<9575>> to negate the attack.\n\nAt this time, if I chain the effect of <<10881>> to that of <<9575>>, will the effect of <<9575>> be negated?",
+            "thisSrc": {
+                "date": "2020-08-27",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "If I chain the effect of <<10881>> to the effect of my opponent's <<9575>>, will it be negated?",
+            "tlSrc": {
+                "date": "2020-08-27",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u300c<<10881>>\u300d\u306e\u653b\u6483\u5ba3\u8a00\u6642\u306b\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u300c<<9575>>\u300d\u306e\u300e\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u3092\u7121\u52b9\u306b\u3059\u308b\u300f\u52b9\u679c\u304c\u767a\u52d5\u3055\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u52b9\u679c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<10881>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u300c<<9575>>\u300d\u306e\u52b9\u679c\u306f\u300c<<10881>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u307e\u305f\u3001\u300e\u305d\u306e\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u7d42\u4e86\u6642\u307e\u3067\u76f8\u624b\u306f\u9b54\u6cd5\u30fb\u7f60\u30fb\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u3082\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u4ed6\u306b\u767a\u52d5\u3059\u308b\u52b9\u679c\u3084\u51e6\u7406\u306a\u3069\u304c\u306a\u3051\u308c\u3070\u305d\u306e\u307e\u307e\u6226\u95d8\u3092\u884c\u3046\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 13047,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u300c<<10881>>\u300d\u306e\u653b\u6483\u5ba3\u8a00\u6642\u306b\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u300c<<9575>>\u300d\u306e\u300e\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u3092\u7121\u52b9\u306b\u3059\u308b\u300f\u52b9\u679c\u304c\u767a\u52d5\u3055\u308c\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u6642\u3001\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<10881>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u300c<<9575>>\u300d\u306e\u52b9\u679c\u306f\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2020-08-27",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u306e\u300c<<9575>>\u300d\u306e\u52b9\u679c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u81ea\u5206\u306e\u300c<<10881>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u52b9\u679c\u306f\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain",
+        "k:Xyz"
+    ]
+}

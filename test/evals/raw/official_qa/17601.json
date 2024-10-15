@@ -1,0 +1,41 @@
+{
+    "cards": [
+        6980,
+        12219,
+        12220,
+        12221,
+        12222
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of <<12222>> does not target.\n\nIf at the time of the resolution of the effect you no longer have 3 different names in your Graveyard the effect is not applied.\n\n(Not even 1 monster is Special Summoned)",
+            "id": 17601,
+            "question": "If the opponent activates the effect of <<6980>> in a chain to the activation of the effect of <<12222>>, so that you no longer have 3 different names in your Graveyard, how does this resolve?",
+            "thisSrc": {
+                "date": "2015-11-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the opponent activates the effect of <<6980>> in a chain to the activation of the effect of <<12222>>, so that you no longer have 3 different names in your Graveyard, how does this resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12222>>\u300d\u306e\u300e\u81ea\u5206\u306e\u5893\u5730\u304b\u3089\u300c\u8d85\u91cf\u6a5f\u7363\u300dX\u30e2\u30f3\u30b9\u30bf\u30fc\uff13\u7a2e\u985e\u3092\uff11\u4f53\u305a\u3064\u9078\u3093\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u306f\u5bfe\u8c61\u3092\u53d6\u308b\u52b9\u679c\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u305d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u81ea\u5206\u306e\u5893\u5730\u306b\u300c<<12219>>\u300d\u3001\u300c<<12220>>\u300d\u3001\u300c<<12221>>\u300d\u306e3\u7a2e\u985e\u304c\u63c3\u3063\u3066\u3044\u306a\u3044\u306e\u3067\u3042\u308c\u3070\u3001\u52b9\u679c\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\n\uff081\u4f53\u3082\u7279\u6b8a\u53ec\u559a\u3055\u308c\u307e\u305b\u3093\u3002\uff09",
+            "id": 17601,
+            "question": "\u300c<<12222>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u306e\u5893\u5730\u304b\u3089\u300c\u8d85\u91cf\u6a5f\u7363\u300dX\u30e2\u30f3\u30b9\u30bf\u30fc\uff13\u7a2e\u985e\u3092\uff11\u4f53\u305a\u3064\u9078\u3093\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u305f\u76f8\u624b\u306e\u300c<<6980>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u81ea\u5206\u306e\u5893\u5730\u306b\u300c<<12219>>\u300d\u3001\u300c<<12220>>\u300d\u3001\u300c<<12221>>\u300d\u306e3\u7a2e\u985e\u304c\u63c3\u3063\u3066\u3044\u306a\u3044\u72b6\u614b\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12222>>\u300d\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u6642\u306e\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b3\u4f53\u306e\u300c\u8d85\u91cf\u6a5f\u7363\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u3046\u3061\u3001\u3044\u305a\u308c\u304b\u304c\u5893\u5730\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

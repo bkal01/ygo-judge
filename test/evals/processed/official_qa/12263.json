@@ -1,0 +1,41 @@
+{
+    "cards": [
+        5543,
+        5919,
+        6181,
+        7516,
+        9821
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If the effect of Caius the Shadow Monarch is activated by targeting a face-up card on the field that is originally a DARK monster, your opponent can chain Barrel Behind the Door. For example, if the effect is activated by targeting a Heavy Mech Support Platform treated as an Equip Spell Card, Barrel Behind the Door can be activated. If the effect is activated by targeting a Lavalval Chain treated as a DARK monster by the effect of DNA Transplant, Barrel Behind the Door cannot be activated.",
+            "id": 12263,
+            "question": "Can my opponent's Barrel Behind the Door be chained to the effect of Caius the Shadow Monarch?",
+            "thisSrc": {
+                "date": "2015-10-08",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can my opponent's Barrel Behind the Door be chained to the effect of Caius the Shadow Monarch?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<7516>>\u300d\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u9078\u629e\u3055\u308c\u305f\u30ab\u30fc\u30c9\u304c\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u95c7\u5c5e\u6027\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u3060\u3063\u305f\u5834\u5408\u306b\u306f\u3001\u76f8\u624b\u306f\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5543>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u4f8b\u3048\u3070\u3001\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u306b\u306a\u3063\u3066\u3044\u308b\u300c<<6181>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u9078\u629e\u3055\u308c\u305f\u5834\u5408\u306b\u306f\u3001\u76f8\u624b\u306f\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5543>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304c\u3001\u300c<<5919>>\u300d\u306e\u52b9\u679c\u3067\u95c7\u5c5e\u6027\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u300c<<9821>>\u300d\u304c\u5bfe\u8c61\u3068\u3057\u3066\u9078\u629e\u3055\u308c\u305f\u5834\u5408\u306b\u306f\u3001\u76f8\u624b\u306f\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5543>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 12263,
+            "question": "\u300c<<7516>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u5834\u5408\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3059\u308b\u3002\u305d\u306e\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u3001\u9664\u5916\u3057\u305f\u30ab\u30fc\u30c9\u304c\u95c7\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u3060\u3063\u305f\u5834\u5408\u3001\u76f8\u624b\u306b\uff11\uff10\uff10\uff10\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u300f\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u76f8\u624b\u306f\u300c<<5543>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<7516>>\u300d\u306e\u52b9\u679c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u300c<<5543>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

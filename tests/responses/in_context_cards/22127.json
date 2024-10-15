@@ -1,6 +1,0 @@
-{
-    "title": "If my F.A. Shining Star GT battles an opponent's monster, can I activate the second effect of F.A. Dead Heat before damage calculation?",
-    "question": "If my F.A. Shining Star GT battles an opponent's monster, can I activate the second effect of F.A. Dead Heat before damage calculation?",
-    "answer": "F.A. Shining Star GT is a Link Monster, and has no Level. You cannot activate the second effect of F.A. Dead Heat when F.A. Shining Star GT battles.",
-    "llm_answer": "Yes, you can activate the second effect of **F.A. Dead Heat** before damage calculation when your **F.A. Shining Star GT** battles an opponent's monster. This is because the effect of **F.A. Dead Heat** specifically states it activates \"before damage calculation,\" which is the timing you're asking about.\n\nThe scenario will resolve with you rolling a six-sided die, and if your result is higher, your **F.A. Shining Star GT** will gain 4 Levels until the end of the turn. If your result is lower, your **F.A. Shining Star GT** will be destroyed. If it's a tie, both players will roll again."
-}

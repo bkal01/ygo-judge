@@ -1,6 +1,0 @@
-{
-    "title": "My opponent only has 4 Sheep Tokens (0 ATK) on their side of the field, and my Life Points are 6000 while my opponent's are 3000. Can I activate the second effect of Dried Winds in this situation?",
-    "question": "My opponent only has 4 Sheep Tokens (0 ATK) on their side of the field, and my Life Points are 6000 while my opponent's are 3000. Can I activate the second effect of Dried Winds in this situation?",
-    "answer": "In this case, you can activate the effect of Dried Winds by paying 3000 Life Points. The effect will destroy monsters on your opponent's side of the field whose total ATK is less than or equal to 3000, so you can choose any number of Sheep Tokens to destroy.",
-    "llm_answer": "Yes, you can activate the second effect of Dried Winds. Since your Life Points are at least 3000 higher than your opponent's, you can pay the difference (3000 LP) to destroy the Sheep Tokens, which have a combined ATK of 0, meeting the condition for the effect.\n\n**Resolution:** You pay 3000 Life Points, and all four Sheep Tokens are destroyed."
-}

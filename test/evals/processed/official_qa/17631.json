@@ -1,0 +1,40 @@
+{
+    "cards": [
+        5740,
+        6879,
+        12200,
+        12204
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, the effect of Snipe Hunter is negated by Skill Drain, but since The Phantom Knights of Ragged Gloves was targeted to activate the effect of Snipe Hunter, damage is inflicted by the effect of Phantom Knights' Spear.",
+            "id": 17631,
+            "question": "You control a face-up Phantom Knights' Spear in your Spell & Trap Zone.\n\nIn this case, the opponent activated the effect of Snipe Hunter targeting a The Phantom Knights of Ragged Gloves you control.\n\nIf Skill Drain is activated in a chain to that activation, negating the effects of Snipe Hunter, is the effect of Phantom Knights' Spear applied?",
+            "thisSrc": {
+                "date": "2015-11-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "You control a face-up Phantom Knights' Spear in your Spell & Trap Zone.  In this case, the opponent activated the effect of Snipe Hunter targeting a The Phantom Knights of Ragged Gloves you control.  If Skill Drain is activated in a chain to that activation, negating the effects of Snipe Hunter, is the effect of Phantom Knights' Spear applied?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u7d50\u679c\u7684\u306b\u300c<<6879>>\u300d\u306e\u52b9\u679c\u306f\u300c<<5740>>\u300d\u306b\u3088\u3063\u3066\u7121\u52b9\u5316\u3055\u308c\u307e\u3059\u304c\u3001\u300c<<12200>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u305f\u300c<<6879>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306f\u884c\u308f\u308c\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u300c<<12204>>\u300d\u306e\u52b9\u679c\u306b\u3088\u308b\u30c0\u30e1\u30fc\u30b8\u306f\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 17631,
+            "question": "\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u300c<<12204>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u300c<<12200>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u76f8\u624b\u304c\u300c<<6879>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5740>>\u300d\u304c\u767a\u52d5\u3057\u3001\u300c<<6879>>\u300d\u306e\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u300c<<12204>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c\u5e7b\u5f71\u9a0e\u58eb\u56e3\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3059\u308b\u76f8\u624b\u306e\u52b9\u679c\u304c\u767a\u52d5\u3059\u308b\u5ea6\u306b\u76f8\u624b\u306b\uff15\uff10\uff10\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12204>>\u300d\u304c\u5b58\u5728\u3059\u308b\u72b6\u6cc1\u3067\u3001\u300c\u5e7b\u5f71\u9a0e\u58eb\u56e3\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u305f\u300c<<6879>>\u300d\u306e\u52b9\u679c\u304c\u300c<<5740>>\u300d\u3067\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u30c0\u30e1\u30fc\u30b8\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

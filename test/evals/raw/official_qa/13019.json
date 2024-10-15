@@ -1,0 +1,47 @@
+{
+    "cards": [
+        5740,
+        10942,
+        11767,
+        11907,
+        14489,
+        14944,
+        15701,
+        16741,
+        16743,
+        17070,
+        17449
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot.\n\nThe restrictions you quote are applied when the \u2460st effect of <<17070>>, respectively the \u2461nd effect of <<17449>>, resolves. Even if these monsters' effects are negated at some later point, this restriction is not removed.\n\nFurthermore, note that if <<5740>> had instead been activated in response to the activation of the respective effects of <<17070>> or <<17449>>, causing their effects to not be applied, the quoted restrictions would not have been applied, either.\n\nThis also applies to the following cards: <<10942>>, <<11767>>, <<11907>>, <<16743>>, <<16741>>, <<15701>>, <<14944>>, and <<14489>>.",
+            "id": 13019,
+            "question": "The \u2460st effect of <<17070>>, or the \u2461nd effect of <<17449>>, has already been applied this turn. <<5740>> now later applies, negating the effects of <<17070>> respectively <<17449>>.\n\nCan I now ignore the\u300eFor the rest of this turn, this card cannot attack, also you cannot Special Summon monsters from the Extra Deck, except Fusion Monsters.\u300frestriction applied by <<17070>>, or the\u300eneither player can Special Summon monsters for the rest of this turn, except Level/Rank/Link 2 monsters\u300frestriction applied by <<17449>>?",
+            "thisSrc": {
+                "date": "2022-11-19",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If <<5740>> is applied after the \u2460st effect of <<17070>> or the \u2461nd effect of <<17449>>, can I ignore the restrictions their effects impose?",
+            "tlSrc": {
+                "date": "2024-05-16",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u300c<<17070>>\u300d\u306e\u300e\u3053\u306e\u30bf\u30fc\u30f3\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306f\u653b\u6483\u3067\u304d\u305a\u3001\u81ea\u5206\u306f\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304bEX\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u3084\u3001\u300c<<17449>>\u300d\u306e\u300e\u3053\u306e\u52b9\u679c\u306e\u767a\u52d5\u5f8c\u3001\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u304a\u4e92\u3044\u306b\u30ec\u30d9\u30eb\uff12\u30fb\u30e9\u30f3\u30af\uff12\u30fb\u30ea\u30f3\u30af\uff12\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304b\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u306f\u3001\u3053\u308c\u3089\u306e\u52b9\u679c\u306e\u51e6\u7406\u3068\u3057\u3066\u9069\u7528\u3055\u308c\u307e\u3059\u3002\u3053\u306e\u51e6\u7406\u306e\u9069\u7528\u5f8c\u306b\u3053\u308c\u3089\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u3067\u3082\u3001\u65e2\u306b\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u300e\u3053\u306e\u30bf\u30fc\u30f3\u300f\u3084\u300e\u3053\u306e\u52b9\u679c\u306e\u767a\u52d5\u5f8c\u300f\u306e\u52b9\u679c\u306e\u9069\u7528\u306f\u306a\u304f\u306a\u308a\u307e\u305b\u3093\u3002\n\n\u306a\u304a\u3001\u300c<<17070>>\u300d\u3084\u300c<<17449>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5740>>\u300d\u3092\u767a\u52d5\u3057\u52b9\u679c\u3092\u7121\u52b9\u306b\u3057\u305f\u306e\u3067\u3042\u308c\u3070\u3001\u52b9\u679c\u51e6\u7406\u305d\u306e\u3082\u306e\u304c\u884c\u308f\u308c\u307e\u305b\u3093\u306e\u3067\u3001\u300e\u3053\u306e\u30bf\u30fc\u30f3\u300f\u3084\u300e\u3053\u306e\u52b9\u679c\u306e\u767a\u52d5\u5f8c\u300f\u306e\u52b9\u679c\u3082\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\n\n\u4ee5\u4e0b\u306e\u30ab\u30fc\u30c9\u306b\u3064\u3044\u3066\u3082\u540c\u69d8\u3067\u3059\u3002\n\n\u300c<<10942>>\u300d\n\u300c<<11767>>\u300d\n\u300c<<11907>>\u300d\n\u300c<<16743>>\u300d\n\u300c<<16741>>\u300d\n\u300c<<15701>>\u300d\n\u300c<<14944>>\u300d\n\u300c<<14489>>\u300d",
+            "id": 13019,
+            "question": "\u300c<<17070>>\u300d\u306e\u2460\u306e\u52b9\u679c\u3084\u300c<<17449>>\u300d\u306e\u2461\u306e\u52b9\u679c\u304c\u65e2\u306b\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30bf\u30fc\u30f3\u306b\u3001\u300c<<5740>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u300c<<17070>>\u300d\u3084\u300c<<17449>>\u300d\u306e\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u300c<<17070>>\u300d\u306e\u300e\u3053\u306e\u30bf\u30fc\u30f3\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306f\u653b\u6483\u3067\u304d\u305a\u3001\u81ea\u5206\u306f\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304bEX\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u3084\u3001\u300c<<17449>>\u300d\u306e\u300e\u3053\u306e\u52b9\u679c\u306e\u767a\u52d5\u5f8c\u3001\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u304a\u4e92\u3044\u306b\u30ec\u30d9\u30eb\uff12\u30fb\u30e9\u30f3\u30af\uff12\u30fb\u30ea\u30f3\u30af\uff12\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304b\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u3092\u7121\u8996\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-05-16",
+                "type": 0
+            },
+            "title": "\u300c<<17070>>\u300d\u306e\u52b9\u679c\u3084\u300c<<17449>>\u300d\u306e\u2461\u306e\u52b9\u679c\u306e\u9069\u7528\u5f8c\u306b\u300c<<5740>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300e\u3053\u306e\u30bf\u30fc\u30f3\u300f\u3084\u300e\u767a\u52d5\u5f8c\u300f\u3068\u8a18\u8f09\u3055\u308c\u305f\u6761\u4ef6\u3092\u7121\u8996\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

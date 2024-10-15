@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6200,
+        6361
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In that case, the ATK and DEF of <<6200>> remain 2800 and 2000, respectively. The effect of <<6200>> is only applied when it is Normal Summoned/Set without the required Tributes. Since a Level 4 monster does not require any Tributes to Normal Summon, the ATK and DEF of <<6200>> remain at their original values.",
+            "id": 13855,
+            "question": "If <<6200>> in my hand has become Level 4 due to the effect of <<6361>>, and I Normal Summon it without Tributing, what will its ATK and DEF become?",
+            "thisSrc": {
+                "date": "2014-10-10",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<6200>> in my hand has become Level 4 due to the effect of <<6361>>, and I Normal Summon it without Tributing, what will its ATK and DEF become?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u305d\u306e\u5834\u5408\u3001\u300c<<6200>>\u300d\u306e\u653b\u6483\u529b\u306f2800\u30fb\u5b88\u5099\u529b\u306f2000\u306e\u72b6\u614b\u306e\u307e\u307e\u3067\u3059\u3002\n\n\u300c<<6200>>\u300d\u306f\u3001\u30ec\u30d9\u30eb5\u4ee5\u4e0a\u306e\u72b6\u614b\uff08\u3064\u307e\u308a\u3001\u672c\u6765\u306e\u901a\u5e38\u53ec\u559a\u3092\u884c\u3046\u969b\u306b\u30ea\u30ea\u30fc\u30b9\u304c\u5fc5\u8981\u3068\u306a\u308b\u72b6\u614b\uff09\u306e\u5834\u5408\u306b\u3001\u30c6\u30ad\u30b9\u30c8\u306b\u8a18\u3055\u308c\u305f\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306f\u751f\u3051\u8d04\u306a\u3057\u3067\u901a\u5e38\u53ec\u559a\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u300f\u306e\u65b9\u6cd5\u306b\u3088\u3063\u3066\u3001\u30ea\u30ea\u30fc\u30b9\u306a\u3057\u3067\u53ec\u559a\u3057\u305f\u969b\u306b\u306f\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u304c\u534a\u5206\u3068\u3057\u3066\u6271\u308f\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u300c<<6361>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30ec\u30d9\u30eb\u304c4\u4ee5\u4e0b\u3068\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u901a\u5e38\u53ec\u559a\u3092\u884c\u3046\u969b\u306b\u305d\u3082\u305d\u3082\u30ea\u30ea\u30fc\u30b9\u304c\u5fc5\u8981\u3042\u308a\u307e\u305b\u3093\u306e\u3067\u3001\u305d\u306e\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\u30ab\u30fc\u30c9\u306b\u8a18\u8f09\u3055\u308c\u305f\u5143\u3005\u306e\u6570\u5024\u306e\u72b6\u614b\u306b\u3066\u53ec\u559a\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 13855,
+            "question": "\u300c<<6361>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u624b\u672d\u306e\u300c<<6200>>\u300d\u306e\u30ec\u30d9\u30eb\u304c4\u4ee5\u4e0b\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u300c<<6200>>\u300d\u3092\u30ea\u30ea\u30fc\u30b9\u306a\u3057\u3067\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<6361>>\u300d\u306e\u52b9\u679c\u3067\u30ec\u30d9\u30eb4\u4ee5\u4e0b\u306b\u306a\u3063\u3066\u3044\u308b\u300c<<6200>>\u300d\u3092\u30ea\u30ea\u30fc\u30b9\u306a\u3057\u3067\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Trap"
+    ]
+}

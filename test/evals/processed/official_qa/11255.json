@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6217,
+        8755,
+        9604
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When Divine Wrath resolves, it destroys Super-Nimble Mega Hamster, and Super-Nimble Mega Hamster is sent to the Graveyard as a result. Therefore, Evigishki Merrowgeist's effect (resolving at Chain Link 1) does nothing.",
+            "id": 11255,
+            "question": "My Evigishki Merrowgeist attacks my opponent's face-down Defense Position Super-Nimble Mega Hamster, and it is determined that Super-Nimble Mega Hamster will be destroyed by this battle.\n\nAfter Damage Calculation, I thus activate Evigishki Merrowgeist's\u300eshuffle the destroyed monster into the Deck instead of sending it to the Graveyard\u300feffect as Chain Link 1, and my opponent also activates Super-Nimble Mega Hamster's\u300eSpecial Summon 1 Level 3 or lower Beast monster from your Deck in face-down Defense Position\u300feffect, as Chain Link 2.\n\nIf Divine Wrath now resolves as Chain Link 3, negating the activation of Super-Nimble Mega Hamster's effect and destroying it, what happens afterwards?",
+            "thisSrc": {
+                "date": "2024-07-12",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "What happens if the monster, which was determined to be destroyed by battle with Evigishki Merrowgeist, is destroyed by a card effect first?",
+            "tlSrc": {
+                "date": "2024-07-12",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<6217>>\u300d\u306e\u51e6\u7406\u306b\u3088\u3063\u3066\u300c<<8755>>\u300d\u306f\u7834\u58ca\u3055\u308c\u5893\u5730\u306b\u9001\u3089\u308c\u307e\u3059\u306e\u3067\u3001\u300c<<9604>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306f\u7d50\u679c\u7684\u306b\u4f55\u3082\u884c\u308f\u308c\u307e\u305b\u3093\u3002",
+            "id": 11255,
+            "question": "\u81ea\u5206\u306e\u300c<<9604>>\u300d\u304c\u3001\u76f8\u624b\u306e\u300c<<8755>>\u300d\uff08\u88cf\u5074\u5b88\u5099\u8868\u793a\uff09\u306b\u653b\u6483\u3057\u3001\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u3092\u884c\u3063\u305f\u7d50\u679c\u3001\u300c<<8755>>\u300d\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u308b\u3053\u3068\u304c\u6c7a\u5b9a\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u5f8c\u306b\u3001\u81ea\u5206\u306f\u300c<<9604>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u306b\u3088\u3063\u3066\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u5f8c\u306b\u3053\u306e\u30ab\u30fc\u30c9\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3092\uff11\u3064\u53d6\u308a\u9664\u3044\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u7834\u58ca\u3057\u305f\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5893\u5730\u3078\u9001\u3089\u305a\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306b\u623b\u3059\u300f\u52b9\u679c\u3092\u30c1\u30a7\u30fc\u30f3\uff11\u3067\u767a\u52d5\u3057\u3001\u76f8\u624b\u306f\u300c<<8755>>\u300d\u306e\u300e\u30ea\u30d0\u30fc\u30b9\uff1a\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u304b\u3089\u30ec\u30d9\u30eb\uff13\u4ee5\u4e0b\u306e\u7363\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u30c1\u30a7\u30fc\u30f3\uff12\u3067\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u6642\u3001\u81ea\u5206\u304c\u300c<<6217>>\u300d\u306e\u300e\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u3092\u30c1\u30a7\u30fc\u30f3\uff13\u3067\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-07-12",
+                "type": 0
+            },
+            "title": "\u300c<<9604>>\u300d\u306b\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u308b\u3053\u3068\u304c\u6c7a\u307e\u3063\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u305d\u306e\u5f8c\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "cards": [
+        15634
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The placement of each switched monster is decided by the player who activates the effect of Evil\u2605Twin Present.",
+            "id": 23069,
+            "question": "When switching control of 2 monsters with the effect of Evil\u2605Twin Present, which player chooses the zones in which to place the switched monsters?",
+            "thisSrc": {
+                "date": "2020-09-15",
+                "misc": "Redshift",
+                "type": 4
+            },
+            "title": "When switching control of 2 monsters with the effect of Evil\u2605Twin Present, which player chooses the zones in which to place the switched monsters?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5165\u308c\u66ff\u3048\u308b\uff12\u4f53\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u4f4d\u7f6e\u306f\u3001\u3044\u305a\u308c\u3082\u300c<<15634>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u6c7a\u3081\u307e\u3059\u3002",
+            "id": 23069,
+            "question": "\u300c<<15634>>\u300d\u306e\u300e\u25cf\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c\u30ad\u30b9\u30ad\u30eb\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u307e\u305f\u306f\u300c\u30ea\u30a3\u30e9\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3068\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff12\u4f53\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5165\u308c\u66ff\u3048\u308b\u300f\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u305d\u308c\u305e\u308c\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7f6e\u304f\u4f4d\u7f6e\u306f\u3001\u3069\u3061\u3089\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u6c7a\u5b9a\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<15634>>\u300d\u306e\u52b9\u679c\u3067\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5165\u308c\u66ff\u3048\u308b\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7f6e\u304f\u4f4d\u7f6e\u306f\u3001\u3069\u3061\u3089\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u6c7a\u5b9a\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

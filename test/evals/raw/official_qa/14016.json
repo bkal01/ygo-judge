@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4861,
+        5740,
+        11471,
+        11472
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "While <<5740>> is active, if <<11471>> is the only monster being Pendulum Summoned, <<4861>> cannot be activated.\n\nWhile <<5740>> is active, if <<11471>> and <<11472>> are being Pendulum Summoned at the same time, <<4861>> can be activated. In that case, the Pendulum Summon of <<11472>> will be negated, but the Pendulum Summon of <<11471>> is not negated.",
+            "id": 14016,
+            "question": "While <<5740>> is active, if <<11471>> is the only monster being Pendulum Summoned, can <<4861>> be activated?\n\nWhile <<5740>> is active, if <<11471>> and <<11472>> are being Pendulum Summoned at the same time, can <<4861>> be activated?",
+            "thisSrc": {
+                "date": "2014-10-15",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<11471>> is Pendulum Summoned while <<5740>> is applying, can <<4861>> be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<5740>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<11471>>\u300d1\u4f53\u306e\u307f\u304c\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3055\u308c\u308b\u969b\u306b\u3001\u300c<<4861>>\u300d\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3092\u7121\u52b9\u306b\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u307e\u305f\u3001\u300c<<5740>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<11471>>\u300d\u3068\u3001\u300c<<11472>>\u300d\u304c\u540c\u6642\u306b\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3055\u308c\u308b\u969b\u306b\u3001\u300c<<4861>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\u305d\u306e\u5834\u5408\u3001\u300c<<11472>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u306f\u7121\u52b9\u3068\u306a\u308a\u7834\u58ca\u3055\u308c\u307e\u3059\u304c\u3001\u300c<<11471>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u306f\u7121\u52b9\u306b\u306f\u306a\u308a\u307e\u305b\u3093\u3002",
+            "id": 14016,
+            "question": "\u300c<<5740>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<11471>>\u300d1\u4f53\u306e\u307f\u304c\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3055\u308c\u308b\u969b\u306b\u3001\u300c<<4861>>\u300d\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3092\u7121\u52b9\u306b\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<5740>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<11471>>\u300d\u3068\u3001\u300c<<11472>>\u300d\u304c\u540c\u6642\u306b\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3055\u308c\u308b\u969b\u306b\u3001\u300c<<4861>>\u300d\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3092\u7121\u52b9\u306b\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5740>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<11471>>\u300d\u304c\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3055\u308c\u308b\u5834\u5408\u3001\u300c<<4861>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Pendulum"
+    ]
+}

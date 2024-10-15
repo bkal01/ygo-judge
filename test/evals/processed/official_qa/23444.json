@@ -1,0 +1,39 @@
+{
+    "cards": [
+        16811,
+        16846,
+        16857
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, they cannot.\n\nWhen you activate Icejade Cenote Enion Cradle, it is immediately treated as being on the field. Therefore, the effect of Icejade Kosmochlor also immediately begins applying.",
+            "id": 23444,
+            "question": "I control Icejade Kosmochlor, and my opponent controls a Swordsoul Sinister Sovereign - Qixing Longyuan that was Special Summoned during a previous turn.\n\nIf I activate Icejade Cenote Enion Cradle from my hand, can my opponent activate the effect of their Swordsoul Sinister Sovereign - Qixing Longyuan in response?",
+            "thisSrc": {
+                "date": "2021-11-21",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If Icejade Cenote Enion Cradle is activated, at what point does the Continuous effect of Icejade Kosmochlor begin applying?",
+            "tlSrc": {
+                "date": "2021-11-20",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u81ea\u5206\u304c\u300c<<16857>>\u300d\u3092\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u7f6e\u3044\u3066\u767a\u52d5\u3057\u305f\u6642\u70b9\u3067\u3001\u300c<<16857>>\u300d\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3059\u308b\u30ab\u30fc\u30c9\u3068\u3057\u3066\u6271\u308f\u308c\u3001\u300c<<16811>>\u300d\u306e\u300e\u2461\u300f\u306e\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c<<16857>>\u300d\u304c\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u53ec\u559a\u30fb\u53cd\u8ee2\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30bf\u30fc\u30f3\u306b\u3057\u304b\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 23444,
+            "question": "\u81ea\u5206\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c<<16811>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u76f8\u624b\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u524d\u306e\u30bf\u30fc\u30f3\u306b\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<16846>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u304c\u300c<<16857>>\u300d\u3092\u767a\u52d5\u3057\u305f\u6642\u3001\u76f8\u624b\u306f\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<16846>>\u300d\u306e\u300e\u2462\u300f\u306e\u300e\u76f8\u624b\u304c\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2021-11-20",
+                "type": 0
+            },
+            "title": "\u300c<<16857>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c<<16811>>\u300d\u306e\u6c38\u7d9a\u52b9\u679c\u306f\u3069\u306e\u6642\u70b9\u304b\u3089\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

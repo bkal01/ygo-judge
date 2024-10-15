@@ -1,0 +1,39 @@
+{
+    "cards": [
+        9117,
+        9605
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario where no Tuners were excavated by the effect of <<9117>>, the effect of <<9605>> cannot be activated targeting that <<9117>>.",
+            "id": 12528,
+            "question": "When resolving the effect of <<9117>>, no Tuner was excavated among the top 5 cards of my Deck.\n\nAfterward, can I activate the effect of <<9605>> targeting that <<9117>>? If so, will it be able to attack twice?",
+            "thisSrc": {
+                "date": "2021-06-20",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "If the effect of <<9117>> did not excavate any Tuners, can the effect of <<9605>> be activated targeting it?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<9117>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306e\u7d50\u679c\u3001\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u306e\u4e0a\u304b\u3089\u3081\u304f\u3063\u305f5\u679a\u306e\u30ab\u30fc\u30c9\u306e\u4e2d\u306b\u30c1\u30e5\u30fc\u30ca\u30fc\u304c1\u4f53\u3082\u5b58\u5728\u3057\u306a\u304b\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u300c<<9117>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<9605>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 12528,
+            "question": "\u300c<<9117>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306e\u7d50\u679c\u3001\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u306e\u4e0a\u304b\u3089\u3081\u304f\u3063\u305f5\u679a\u306e\u30ab\u30fc\u30c9\u306e\u4e2d\u306b\u30c1\u30e5\u30fc\u30ca\u30fc\u304c1\u4f53\u3082\u5b58\u5728\u3057\u307e\u305b\u3093\u3067\u3057\u305f\u3002\n\n\u305d\u306e\u5f8c\u3001\u305d\u306e\u300c<<9117>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<9605>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\u305d\u306e\u5834\u5408\u30012\u56de\u653b\u6483\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9117>>\u300d\u306e\u52b9\u679c\u3067\u30c7\u30c3\u30ad\u304b\u3089\u3081\u304f\u3063\u305f\u30ab\u30fc\u30c9\u306e\u4e2d\u306b\u30c1\u30e5\u30fc\u30ca\u30fc\u304c1\u4f53\u3082\u306a\u304b\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u5f8c\u3001\u300c<<9605>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro",
+        "k:Xyz"
+    ]
+}

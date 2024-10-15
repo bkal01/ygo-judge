@@ -1,6 +1,0 @@
-{
-    "title": "While the effect of Macro Cosmos is applying, can a Link Summon be performed?",
-    "question": "While the effect of Macro Cosmos is applying, can a Link Summon be performed?",
-    "answer": "Yes, it can. In that case, the monsters used as Link Materials are banished by the effect of Macro Cosmos instead of sent to the Graveyard, but the Link Monster is Special Summoned normally.",
-    "llm_answer": "Yes, a Link Summon can be performed. The materials for the Link Summon are sent to the GY, but due to Macro Cosmos, they are banished instead. The Link Summon still resolves successfully."
-}

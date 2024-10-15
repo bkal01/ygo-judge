@@ -1,0 +1,38 @@
+{
+    "cards": [
+        7478,
+        17070
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if the effect of Transmigration Break is being applied, the effect of Lubellion the Searing Dragon can be activated.\n\nAlso, if you use monsters in the Graveyard as Fusion Material, those monsters that would be returned to the Deck are banished instead, but you will still Fusion Summon the monster from your Extra Deck.",
+            "id": 23561,
+            "question": "The effect of Transmigration Break is applying, causing cards in the Graveyard that would be returned to the Deck to be banished instead.\n\nIf I Fusion Summon Lubellion the Searing Dragon in this situation, can I activate its effect and use cards in my Graveyard as Fusion Material?",
+            "thisSrc": {
+                "date": "2022-02-19",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "Can the effect of Lubellion the Searing Dragon be activated while the effect of Transmigration Break is applying?",
+            "tlSrc": {
+                "date": "2022-02-18",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<7478>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u4e2d\u3067\u3082\u3001\u878d\u5408\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u300c<<17070>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u306f\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\n\n\u307e\u305f\u3001\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u5893\u5730\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u4f7f\u7528\u3059\u308b\u5834\u5408\u3001\u81ea\u5206\u306e\u5893\u5730\u304b\u3089\u30c7\u30c3\u30ad\u306b\u623b\u308b\u878d\u5408\u7d20\u6750\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u8868\u5074\u8868\u793a\u3067\u9664\u5916\u3055\u308c\u307e\u3059\u304c\u3001\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u878d\u5408\u53ec\u559a\u3067\u304d\u307e\u3059\u3002",
+            "id": 23561,
+            "question": "\u300c<<7478>>\u300d\u306e\u300e\u5893\u5730\u304b\u3089\u30c7\u30c3\u30ad\u306b\u623b\u308b\u30ab\u30fc\u30c9\u306f\u30c7\u30c3\u30ad\u306b\u623b\u3089\u305a\u30b2\u30fc\u30e0\u304b\u3089\u9664\u5916\u3055\u308c\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u81ea\u5206\u304c\u300c<<17070>>\u300d\u3092\u878d\u5408\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300e\u2460\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u5893\u5730\u306e\u30ab\u30fc\u30c9\u3092\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u878d\u5408\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-02-18",
+                "type": 0
+            },
+            "title": "\u300c<<7478>>\u300d\u304c\u9069\u7528\u4e2d\u306b\u3001\u300c<<17070>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u878d\u5408\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

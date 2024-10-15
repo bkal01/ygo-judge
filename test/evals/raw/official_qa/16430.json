@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11968
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If the effect of <<11968>> is being applied, effects that activate in the opponent's Pendulum Zones or that apply in their Pendulum Zones are negated, but they do not become unable to perform a Pendulum Summon.\n\nThe opponent can perform Pendulum Summons normally.",
+            "id": 16430,
+            "question": "If you have <<11968>> in your Pendulum Zone and the opponent has 2 cards in their Pendulum Zones, can the opponent perform a Pendulum Summon?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If you have <<11968>> in your Pendulum Zone and the opponent has 2 cards in their Pendulum Zones, can the opponent perform a Pendulum Summon?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11968>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304cP\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u76f8\u624b\u306eP\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u76f8\u624b\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u3066\u767a\u52d5\u3057\u305f\u52b9\u679c\u3001\u76f8\u624b\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u3066\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u308b\u52b9\u679c\u306f\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u304c\u3001\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u304c\u884c\u3048\u306a\u304f\u306a\u308b\u308f\u3051\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u76f8\u624b\u306f\u901a\u5e38\u901a\u308a\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 16430,
+            "question": "\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u300c<<11968>>\u300d\u304c\u5b58\u5728\u3057\u3001\u76f8\u624b\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u30ab\u30fc\u30c9\u304c2\u679a\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u76f8\u624b\u306f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3092\u884c\u3046\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u300c<<11968>>\u300d\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u76f8\u624b\u306f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Pendulum"
+    ]
+}

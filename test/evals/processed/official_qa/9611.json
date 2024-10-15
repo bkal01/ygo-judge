@@ -1,0 +1,49 @@
+{
+    "cards": [
+        5432,
+        8700
+    ],
+    "notes": {
+        "invalid_tcg": [
+            {
+                "body": "In the TCG Transforming Sphere says \"that target\", so it should only equip at resolution if the monster still meets the targeting requirement of being face-up.",
+                "date": "2021-12-23",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "Catmaster0"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "When resolving the effect of Transforming Sphere that equips an opponent's monster to it, even if the targeted monster is now in face-down Defense Position, it will be equipped face-down to Transforming Sphere. In this case, Transforming Sphere does not gain any ATK. It should be noted that the effect that Special Summons the equipped monster in face-up Defense Position during the End Phase is applied normally, and the monster that is equipped face-down will be Special Summoned in face-up Defense Position.",
+            "id": 9611,
+            "question": "If Book of Moon is chained to the effect of Transforming Sphere that equips an opponent's monster to it, and the monster targeted by this effect is changed to face-down Defense Position, will the effect of Transforming Sphere apply?",
+            "thisSrc": {
+                "date": "2015-05-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Book of Moon is chained to the effect of Transforming Sphere that equips an opponent's monster to it, and the monster targeted by this effect is changed to face-down Defense Position, will the effect of Transforming Sphere apply?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<8700>>\u300d\u306e\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u88c5\u5099\u3059\u308b\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u88cf\u5074\u8868\u793a\u306e\u307e\u307e\u300c<<8700>>\u300d\u306b\u88c5\u5099\u3055\u308c\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u300c<<8700>>\u300d\u306f\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306e\u653b\u6483\u529b\u306f\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u88c5\u5099\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u5206\u30a2\u30c3\u30d7\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u88cf\u5074\u8868\u793a\u3067\u88c5\u5099\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5206\u306e\u653b\u6483\u529b\u306f\u30a2\u30c3\u30d7\u3057\u307e\u305b\u3093\u3002\n\n\u306a\u304a\u3001\u300e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u6642\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u88c5\u5099\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u5b88\u5099\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u767a\u52d5\u3057\u3001\u88cf\u5074\u8868\u793a\u3067\u88c5\u5099\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u8868\u5074\u5b88\u5099\u8868\u793a\u3067\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u7279\u6b8a\u53ec\u559a\u3055\u308c\u307e\u3059\u3002",
+            "id": 9611,
+            "question": "\u300c<<8700>>\u300d\u306e\u300e\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u5b88\u5099\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u629e\u3057\u3066\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u3002\u624b\u672d\u3092\uff11\u679a\u6368\u3066\u3001\u9078\u629e\u3057\u305f\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u3053\u306e\u30ab\u30fc\u30c9\u306b\uff11\u4f53\u306e\u307f\u88c5\u5099\u3059\u308b\u300f\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5432>>\u300d\u304c\u767a\u52d5\u3057\u3001\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u300c<<8700>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8700>>\u300d\u306e\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u88c5\u5099\u3059\u308b\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "o:Reader beware"
+    ]
+}

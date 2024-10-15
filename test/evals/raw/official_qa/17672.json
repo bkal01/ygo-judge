@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6709,
+        12200,
+        12206
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, if <<12206>> and the monster that <<12206>> is targeting would be destroyed simultaneously, the effect of <<12206>> cannot be applied.",
+            "id": 17672,
+            "question": "You control a face-up <<12206>> in your Spell & Trap Zone targeting a <<12200>> in your Monster Zone.\n\nIn this case, if the opponent activates <<6709>>, targeting that <<12206>> and <<12200>>, can the effect of <<12206>> be applied?",
+            "thisSrc": {
+                "date": "2015-11-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "You control a face-up <<12206>> in your Spell & Trap Zone targeting a <<12200>> in your Monster Zone.  In this case, if the opponent activates <<6709>>, targeting that <<12206>> and <<12200>>, can the effect of <<12206>> be applied?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u300c<<12206>>\u300d\u81ea\u8eab\u3068\u3001\u305d\u306e\u300c<<12206>>\u300d\u306e\u5bfe\u8c61\u3068\u306a\u3063\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u540c\u6642\u306b\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u306b\u306f\u3001\u300c<<12206>>\u300d\u306e\u300e\u6226\u95d8\u30fb\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3001\u4ee3\u308f\u308a\u306b\u3053\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 17672,
+            "question": "\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u300c<<12206>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u306f\u305d\u306e\u300c<<12206>>\u300d\u306e\u5bfe\u8c61\u3068\u306a\u3063\u3066\u3044\u308b\u300c<<12200>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u76f8\u624b\u304c\u300c<<6709>>\u300d\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u300c<<12206>>\u300d\u3068\u300c<<12200>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u305f\u5834\u5408\u3001\u300c<<12206>>\u300d\u306e\u300e\u6226\u95d8\u30fb\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3001\u4ee3\u308f\u308a\u306b\u3053\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12206>>\u300d\u3068\u300c<<12206>>\u300d\u306e\u5bfe\u8c61\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u540c\u6642\u306b\u300c<<6709>>\u300d\u3067\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3001\u4ee3\u308f\u308a\u306b\u7834\u58ca\u3059\u308b\u52b9\u679c\u3092\u9069\u7528\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

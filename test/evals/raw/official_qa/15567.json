@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11851
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if you have activated <<11851>>, if your opponent's Life Points are lower than yours, the effect that prevents all damage is applied to your opponent. (The effect can be applied to either player.)",
+            "id": 15567,
+            "question": "Does the first effect of <<11851>> which prevents damage also apply to the opponent?",
+            "thisSrc": {
+                "date": "2015-05-05",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Does the first effect of <<11851>> which prevents damage also apply to the opponent?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u304c\u300c<<11851>>\u300d\u3092\u767a\u52d5\u3057\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u81ea\u5206\u3088\u308a\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u65b9\u304c\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u304c\u5c11\u306a\u3044\u72b6\u614b\u3067\u3042\u308c\u3070\u3001\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u300e\u76f8\u624b\u3088\u308aLP\u304c\u5c11\u306a\u3044\u30d7\u30ec\u30a4\u30e4\u30fc\u300f\u306b\u3042\u305f\u308a\u307e\u3059\u306e\u3067\u3001\u300e\u53d7\u3051\u308b\u5168\u3066\u306e\u30c0\u30e1\u30fc\u30b8\u306f\uff10\u306b\u306a\u308b\u300f\u52b9\u679c\u304c\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\uff08\u57fa\u672c\u7684\u306b\u81ea\u5206\u304c\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u3069\u3061\u3089\u304b\u306b\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 15567,
+            "question": "\u300c<<11851>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u76f8\u624b\u3088\u308aLP\u304c\u5c11\u306a\u3044\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u53d7\u3051\u308b\u5168\u3066\u306e\u30c0\u30e1\u30fc\u30b8\u306f\uff10\u306b\u306a\u308b\u300f\u52b9\u679c\u306f\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u3082\u9069\u7528\u3055\u308c\u308b\u52b9\u679c\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11851>>\u300d\u306e\u300e\u5168\u3066\u306e\u30c0\u30e1\u30fc\u30b8\u306f\uff10\u306b\u306a\u308b\u300f\u52b9\u679c\u306f\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u3082\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

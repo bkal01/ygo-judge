@@ -1,6 +1,0 @@
-{
-    "title": "I activate the effect of Gullveig of the Nordic Ascendant, banishing Alviss of the Nordic Alfar from my hand, and Special Summoning Ljosalf of the Nordic Alfar from my Deck. At this time, if I activate the first effect of Alviss of the Nordic Alfar, but my opponent chains Macro Cosmos, what happens?",
-    "question": "I activate the effect of Gullveig of the Nordic Ascendant, banishing Alviss of the Nordic Alfar from my hand, and Special Summoning Ljosalf of the Nordic Alfar from my Deck. At this time, if I activate the first effect of Alviss of the Nordic Alfar, but my opponent chains Macro Cosmos, what happens?",
-    "answer": "In this scenario, the effect of Alviss of the Nordic Alfar resolves while the effect of Macro Cosmos is applying. In that case, the \"Nordic\" monster on your field and the 2 from your Deck that would be sent to the Graveyard are all banished instead, so you cannot Special Summon an \"Aesir\" monster from your Extra Deck.",
-    "llm_answer": "The effect of **Alviss of the Nordic Alfar** will resolve, but all cards that would be sent to the GY by its effect will be banished instead due to **Macro Cosmos**. \n\n**Resolution**: Alviss' effect will not be able to send any \"Nordic\" monsters to the GY, and instead, those monsters will be banished, preventing the Special Summon of an \"Aesir\" monster."
-}

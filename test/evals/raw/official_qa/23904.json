@@ -1,0 +1,42 @@
+{
+    "cards": [
+        15957,
+        17157,
+        17254,
+        18190,
+        19502,
+        19748
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can.\n\n(TL note: The Japanese term used, \u53d6\u308a\u9664\u304f, literally translates to \"remove\". The TCG translates this as \"detach\". We intentionally preserve the literal translation above.)",
+            "id": 23904,
+            "question": "An Xyz Material is returned to the hand, Deck, or Extra Deck, such as by the effects of <<15957>> or <<17157>>, or is banished, such as by the effect of <<19748>>. Can I now activate the effects of <<18190>> or <<19502>>, which can be activated if material is removed from a monster on the field?",
+            "thisSrc": {
+                "date": "2022-10-15",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If an Xyz Material returns to the hand, Deck, or Extra Deck, or is banished, is this considered to be material being removed from a monster?",
+            "tlSrc": {
+                "date": "2023-12-15",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u3059\u3002",
+            "id": 23904,
+            "question": "\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u306e\u30ab\u30fc\u30c9\u304c\u3001\u300c<<17254>>\u300d\u300c<<15957>>\u300d\u300c<<17157>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u624b\u672d\u30fb\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u623b\u3063\u305f\u5834\u5408\u3084\u3001\u300c<<19748>>\u300d\u306e\u52b9\u679c\u3067\u9664\u5916\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<18190>>\u300d\u3084\u300c<<19502>>\u300d\u306e\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u306eX\u7d20\u6750\u304c\u53d6\u308a\u9664\u304b\u308c\u305f\u5834\u5408\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-12-15",
+                "type": 0
+            },
+            "title": "\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u306e\u30ab\u30fc\u30c9\u304c\u624b\u672d\u30fb\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u623b\u3063\u305f\u5834\u5408\u3084\u9664\u5916\u3055\u308c\u305f\u5834\u5408\u3001\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u306eX\u7d20\u6750\u304c\u53d6\u308a\u9664\u304b\u308c\u305f\u5834\u5408\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

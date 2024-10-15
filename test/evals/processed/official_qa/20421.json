@@ -1,0 +1,38 @@
+{
+    "cards": [
+        10193,
+        12909
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Black Fang Magician is always treated as an \"Xyz Dragon\" card, so it is also an \"Xyz\" card. Therefore, you can add it to your hand with the effect of Generation Force.",
+            "id": 20421,
+            "question": "Can I add Black Fang Magician from my Deck to my hand with the effect of Generation Force?",
+            "thisSrc": {
+                "date": "2016-12-25",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can I add Black Fang Magician from my Deck to my hand with the effect of Generation Force?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12909>>\u300d\u306f\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306f\u30eb\u30fc\u30eb\u4e0a\u300c\u30a8\u30af\u30b7\u30fc\u30ba\u30fb\u30c9\u30e9\u30b4\u30f3\u300d\u30ab\u30fc\u30c9\u3068\u3057\u3066\u3082\u6271\u3046\u300f\u30ab\u30fc\u30c9\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300c\u30a8\u30af\u30b7\u30fc\u30ba\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\u3068\u3057\u3066\u3082\u6271\u308f\u308c\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<10193>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30c7\u30c3\u30ad\u304b\u3089\u300c<<12909>>\u300d\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 20421,
+            "question": "\u300c<<10193>>\u300d\u306e\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u300c\u30a8\u30af\u30b7\u30fc\u30ba\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\uff11\u679a\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30c7\u30c3\u30ad\u304b\u3089\u300c<<12909>>\u300d\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10193>>\u300d\u306e\u52b9\u679c\u3067\u3001\u30c7\u30c3\u30ad\u304b\u3089\u300c<<12909>>\u300d\u3092\u624b\u672d\u306b\u52a0\u3048\u3089\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

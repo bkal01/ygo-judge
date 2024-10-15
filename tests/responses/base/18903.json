@@ -1,6 +1,0 @@
-{
-    "title": "If I control a face-up Block Dragon, will my Koa'ki Meiru Overload be destroyed during the End Phase?",
-    "question": "A face-up Block Dragon on my field is applying its effect, preventing Rock monsters from being destroyed, except by battle. If I fail to reveal a Rock monster during the End Phase, and do not send Iron Core of Koa'ki Meiru to the Graveyard, will my Koa'ki Meiru Overload still be destroyed?",
-    "answer": "If that effect of Block Dragon is applying, face-up Rock monsters you control cannot be destroyed, except by battle.\n\nTherefore, in the given situation, Koa'ki Meiru Overload will not be destroyed during the End Phase, and will remain in your Monster Zone.\n(However, you can still choose to reveal a Rock monster, or send Iron Core of Koa'ki Meiru to the Graveyard, if you wish.)",
-    "llm_answer": "Yes, your Koa'ki Meiru Overload will still be destroyed. Block Dragon's effect only prevents destruction by card effects, not by failing to maintain its own conditions."
-}

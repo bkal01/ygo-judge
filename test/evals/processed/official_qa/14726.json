@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4861,
+        8036,
+        9463
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, that Blackwing Armor Master cannot be targeted. (The effect of Blackwing Tamer - Obsidian Hawk Joe can only target a Synchro Monster if it was successfully Synchro Summoned first.)",
+            "id": 14726,
+            "question": "If Blackwing Armor Master is in my Graveyard because its Synchro Summon was negated by Solemn Judgment, can I Special Summon it with the effect of Blackwing Tamer - Obsidian Hawk Joe?",
+            "thisSrc": {
+                "date": "2014-12-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Blackwing Armor Master is in my Graveyard because its Synchro Summon was negated by Solemn Judgment, can I Special Summon it with the effect of Blackwing Tamer - Obsidian Hawk Joe?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<9463>>\u300d\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<8036>>\u300d\u7b49\u306e\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u3082\u5bfe\u8c61\u3068\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304c\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u30b7\u30f3\u30af\u30ed\u53ec\u559a\u304c\u7121\u52b9\u306b\u306a\u308a\u7834\u58ca\u3055\u308c\u3066\u3044\u308b\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u5bfe\u8c61\u3068\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\uff08\u300c<<9463>>\u300d\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u306b\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u30b7\u30f3\u30af\u30ed\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u5f8c\u306b\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u307f\u3067\u3059\u3002\uff09",
+            "id": 14726,
+            "question": "\u81ea\u5206\u306e\u5893\u5730\u306b\u300c<<4861>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30b7\u30f3\u30af\u30ed\u53ec\u559a\u3092\u7121\u52b9\u306b\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u308b\u300c<<8036>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u300c<<9463>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u306e\u5893\u5730\u306e\u30ec\u30d9\u30eb\uff15\u4ee5\u4e0a\u306e\u9ce5\u7363\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u305d\u306e\u300c<<8036>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9463>>\u300d\u306e\u52b9\u679c\u3067\u3001\u30b7\u30f3\u30af\u30ed\u53ec\u559a\u3092\u7121\u52b9\u306b\u3055\u308c\u305f\u300c<<8036>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

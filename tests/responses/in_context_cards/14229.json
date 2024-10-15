@@ -1,6 +1,0 @@
-{
-    "title": "When you target a Fusion, Synchro, Xyz, or Link Monster\u00a0with\u00a0Monster Reincarnation, how does the effect resolve if\u00a0Stellarknight Constellar Diamond is face-up on the field?",
-    "question": "When you target a Fusion, Synchro, Xyz, or Link Monster\u00a0with\u00a0Monster Reincarnation, how does the effect resolve if\u00a0Stellarknight Constellar Diamond that has Xyz Material attached is face-up on the field?",
-    "answer": "Monster Reincarnation's effect is an effect that returns a monster from the Graveyard to the hand, so even if you target a Fusion, Synchro, Xyz, or Link Monster, the effect of\u00a0Stellarknight Constellar Diamond will be applied and the targeted monster will be banished instead.",
-    "llm_answer": "The effect of **Monster Reincarnation** will not resolve normally because **Stellarknight Constellar Diamond** prevents cards from being sent from the Deck to the Graveyard. Instead, the targeted monster will be banished when it would return to the hand. **Stellarknight Constellar Diamond**'s effect takes precedence."
-}

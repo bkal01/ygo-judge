@@ -1,0 +1,58 @@
+{
+    "cards": [
+        7081,
+        7620,
+        10806,
+        11276,
+        11552,
+        12426,
+        12427,
+        12428,
+        12915,
+        12935,
+        13292,
+        13445,
+        13955,
+        14057,
+        14380,
+        14718,
+        14719,
+        14780,
+        15378,
+        16015,
+        16103,
+        17051
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Only one Spell Counter is placed on Skilled Blue Magician. (It is placed as a result of Demise of the Land's own activation.)\n\nIf a Spell Card is activated by another effect, Skilled Blue Magician's\u300eeach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves\u300feffect will not be applied, and no Spell Counters are placed as a result of that activation.\n\n~~~\n\nThis also applies to the following effects. If a Spell Card is activated by these effects, no Spell Counter is placed on Skilled Blue Magician:\n\u25cf Performapal Sky Magician's \u2461nd effect\n\u25cf Necroworld Banshee's \u2461nd effect\n\u25cf Ignis Heat, the True Dracowarrior\n\u25cf Triamid Dancer\n\u25cf Triamid Hunter's \u2461nd effect\n\u25cf Triamid Master's \u2461nd effect\n\u25cf Numeron Wall's \u2460st effect\n\u25cf Ursarctic Polari's \u2460st effect\n\u25cf Dream Mirror of Terror\n\u25cf Dream Mirror of Joy\n\u25cf Pop-Up\n\u25cf Springans Booty's \u2461nd effect\n\u25cf Malefic Territory's \u2460st effect\n\u25cf Last Resort\n\u25cf Generaider Boss Fight\n\u25cf Vampire Takeover\n\u25cf Metaverse\n\u25cf Ghostrick Renovation's \u2460st effect\n\u25cf Sea Stealth II's \u2460st effect\n\u25cf Necrovalley Temple's \u2461nd effect",
+            "id": 228,
+            "question": "If Demise of the Land is activated, how many Spell Counters are placed on Skilled Blue Magician?",
+            "thisSrc": {
+                "date": "2024-06-10",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If Demise of the Land is activated, how many Spell Counters are placed on Skilled Blue Magician?",
+            "tlSrc": {
+                "date": "2024-06-10",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u306f\uff11\u3064\u306e\u307f\u7f6e\u304b\u308c\u307e\u3059\u3002\n\n\u4ed6\u306e\u52b9\u679c\u51e6\u7406\u306b\u3088\u3063\u3066\u9b54\u6cd5\u30ab\u30fc\u30c9\u304c\u767a\u52d5\u3055\u308c\u305f\u969b\u306b\u3001\u300e\u81ea\u5206\u307e\u305f\u306f\u76f8\u624b\u304c\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u767a\u52d5\u3059\u308b\u5ea6\u306b\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306b\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\uff11\u3064\u7f6e\u304f\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u306e\u3067\u3001\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u306f\u7f6e\u304b\u308c\u307e\u305b\u3093\u3002\n\n\u4ee5\u4e0b\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u9b54\u6cd5\u30ab\u30fc\u30c9\u304c\u767a\u52d5\u3055\u308c\u305f\u5834\u5408\u306b\u3082\u3001\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u306f\u7f6e\u304b\u308c\u307e\u305b\u3093\u3002\n\u300c<<12915>>\u300d\u2461\n\u300c<<14057>>\u300d\u2461\n\u300c<<12935>>\u300d\n\u300c<<12426>>\u300d\n\u300c<<12427>>\u300d\u2461\n\u300c<<12428>>\u300d\u2461\n\u300c<<15378>>\u300d\u2460\n\u300c<<16103>>\u300d\u2460\n\u300c<<14719>>\u300d\n\u300c<<14718>>\u300d\n\u300c<<11276>>\u300d\n\u300c<<16015>>\u300d\u2461\n\u300c<<14380>>\u300d\u2460\n\u300c<<7081>>\u300d\n\u300c<<14780>>\u300d\n\u300c<<10806>>\u300d\n\u300c<<13292>>\u300d\n\u300c<<13445>>\u300d\u2460\n\u300c<<17051>>\u300d\u2460\n\u300c<<13955>>\u300d\u2461",
+            "id": 228,
+            "question": "\u300c<<7620>>\u300d\u304c\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c<<11552>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u81ea\u5206\u307e\u305f\u306f\u76f8\u624b\u304c\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u767a\u52d5\u3059\u308b\u5ea6\u306b\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306b\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\uff11\u3064\u7f6e\u304f\uff08\u6700\u5927\uff13\u3064\u307e\u3067\uff09\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u306f\u3044\u304f\u3064\u7f6e\u304b\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-06-10",
+                "type": 0
+            },
+            "title": "\u300c<<7620>>\u300d\u304c\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c<<11552>>\u300d\u306b\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u306f\u3044\u304f\u3064\u7f6e\u304b\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

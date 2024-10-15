@@ -1,0 +1,40 @@
+{
+    "cards": [
+        5740,
+        7849,
+        8557
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if the effect of Skill Drain is applied, if The Fabled Ganashia or Plaguespreader Zombie Special Summoned by their own effects leave the field, they will be banished.",
+            "id": 9278,
+            "question": "When the effects of face-up monsters on the field are negated due to the effect of Skill Drain, if The Fabled Ganashia or Plaguespreader Zombie Special Summoned by their own effects leave the field, will they be banished?",
+            "thisSrc": {
+                "date": "2020-12-08",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "If The Fabled Ganashia Special Summoned with its own effect leaves the field while Skill Drain applies, will it be banished?",
+            "tlSrc": {
+                "date": "2020-12-07",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<5740>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<8557>>\u300d\u3084\u300c<<7849>>\u300d\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u96e2\u308c\u308b\u5834\u5408\u3001\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30b2\u30fc\u30e0\u304b\u3089\u9664\u5916\u3055\u308c\u307e\u3059\u3002",
+            "id": 9278,
+            "question": "\u300c<<5740>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u3063\u3066\u3044\u308b\u6642\u306b\u3001\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<8557>>\u300d\u3084\u300c<<7849>>\u300d\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u304b\u3089\u96e2\u308c\u308b\u5834\u5408\u3001\u30b2\u30fc\u30e0\u304b\u3089\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2020-12-07",
+                "type": 0
+            },
+            "title": "\u300c<<5740>>\u300d\u304c\u9069\u7528\u4e2d\u306b\u3001\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<8557>>\u300d\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u96e2\u308c\u308b\u5834\u5408\u3001\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Trap"
+    ]
+}

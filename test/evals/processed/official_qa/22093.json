@@ -1,0 +1,86 @@
+{
+    "cards": [
+        5234,
+        5544,
+        5686,
+        5935,
+        6153,
+        6858,
+        8685,
+        9370,
+        9371,
+        9784,
+        10682,
+        10993,
+        11282,
+        11418,
+        11431,
+        11432,
+        11752,
+        11753,
+        12469,
+        12494,
+        12504,
+        12510,
+        12513,
+        12819,
+        13624,
+        13961,
+        14525,
+        14726,
+        15123,
+        15128,
+        15129,
+        15130,
+        15770,
+        17728,
+        17749,
+        18332,
+        18867,
+        19141,
+        20258
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "Changing from only-Trap to Monster/Trap does not create a new copy",
+                "date": "2021-08-22",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "When this Chain resolves, you first resolve Conquistador of the Golden Land's \u2460st effect, Special Summoning it as a Normal Monster (which is still also treated as a Trap) to the Monster Zone, and potentially destroying a card on the field.\n\nThen, after that, that Conquistador of the Golden Lord in the Monster Zone will be destroyed when the effect of Raigeki Break resolves. (Since Conquistador of the Golden Land is still treated as a Trap after being Special Summoned, it will still be targeted by Raigeki Break even after it is Special Summoned.)\n\n~~~\n\nThe same applies to the following Trap Cards, which also have effects that Special Summon them as a monster (while also remaining treated as a Trap): Silhouhatte Trick, Time Thief Power Reserve, You're Finished, Prey of the Jirai Gumo, Mimesis Elephant, Apophis the Swamp Deity, Angel Statue - Azurune, Powerhold the Moving Battery, Guardian of the Golden Land, Huaquero of the Golden Land, Dwimmered Glimmer, Crusadia Krawler, Altergeist Emulatelf, Space Dragster, Metalhold the Moving Blockade, Krystal Avatar, Dimension Reflector, Metamorphortress, King Scarlet, Swamp Mirrorer, Quantum Cat, Statue of Anguish Pattern, Abyss Stungray, The First Monarch, The Door of Destiny, Shaddoll Core, Shapesister, Copy Knight, Tiki Curse, Tiki Soul, Machine King - 3000 B.C., Cyber Shadow Gardna, Zoma the Spirit, Stronghold the Moving Fortress, Metal Reflect Slime, and Embodiment of Apophis.",
+            "id": 22093,
+            "question": "My opponent has activated Raigeki Break by targeting a Set Conquistador of the Golden Land in my Spell & Trap Zone. If I now activate that Conquistador of the Golden Land in response, what happens?",
+            "thisSrc": {
+                "date": "2023-08-23",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If Raigeki Break was activated by targeting a Set Conquistador of the Golden Land, what happens if that Conquistador of the Golden Land is activated in response?",
+            "tlSrc": {
+                "date": "2024-05-06",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u5148\u306b\u300c<<15130>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306f\u767a\u52d5\u5f8c\u3001\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\uff08\u30a2\u30f3\u30c7\u30c3\u30c8\u65cf\u30fb\u5149\u30fb\u661f\uff15\u30fb\u653b\uff15\uff10\uff10\uff0f\u5b88\uff11\uff18\uff10\uff10\uff09\u3068\u306a\u308a\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u7279\u6b8a\u53ec\u559a\u3059\u308b\u3002\u3053\u306e\u30ab\u30fc\u30c9\u306f\u7f60\u30ab\u30fc\u30c9\u3068\u3057\u3066\u3082\u6271\u3046\u3002\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c<<15123>>\u300d\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u3055\u3089\u306b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u7834\u58ca\u3067\u304d\u308b\u300f\u51e6\u7406\u3092\u884c\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u5f8c\u3001\u300c<<5544>>\u300d\u306e\u52b9\u679c\u306e\u51e6\u7406\u306b\u3088\u3063\u3066\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u300c<<15130>>\u300d\u304c\u7834\u58ca\u3055\u308c\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3059\u3002\uff08\u7279\u6b8a\u53ec\u559a\u5f8c\u3082\u7f60\u30ab\u30fc\u30c9\u3068\u3057\u3066\u6271\u3044\u307e\u3059\u306e\u3067\u3001\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u3053\u3068\u306b\u3088\u3063\u3066\u5bfe\u8c61\u304b\u3089\u5916\u308c\u308b\u3053\u3068\u306f\u3042\u308a\u307e\u305b\u3093\u3002\uff09\n\n\u81ea\u8eab\u3092\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\uff08\u5f15\u304d\u7d9a\u304d\u7f60\u30ab\u30fc\u30c9\u3068\u3057\u3066\u3082\u6271\u3046\uff09\u52b9\u679c\u3092\u6301\u3064\u3001\u4ee5\u4e0b\u306e\u7f60\u30ab\u30fc\u30c9\u306b\u3064\u3044\u3066\u3082\u540c\u69d8\u3067\u3059\u3002\n\u300c<<20258>>\u300d\n\u300c<<19141>>\u300d\n\u300c<<18867>>\u300d\n\u300c<<18332>>\u300d\n\u300c<<17749>>\u300d\n\u300c<<17728>>\u300d\n\u300c<<15770>>\u300d\n\u300c<<14726>>\u300d\n\u300c<<15128>>\u300d\n\u300c<<15129>>\u300d\n\u300c<<14525>>\u300d\n\u300c<<13961>>\u300d\n\u300c<<13624>>\u300d\n\u300c<<12819>>\u300d\n\u300c<<12513>>\u300d\n\u300c<<12494>>\u300d\n\u300c<<12504>>\u300d\n\u300c<<12510>>\u300d\n\u300c<<12469>>\u300d\n\u300c<<11431>>\u300d\n\u300c<<11432>>\u300d\n\u300c<<11753>>\u300d\n\u300c<<11752>>\u300d\n\u300c<<10993>>\u300d\n\u300c<<11418>>\u300d\n\u300c<<11282>>\u300d\n\u300c<<10682>>\u300d\n\u300c<<9784>>\u300d\n\u300c<<9370>>\u300d\n\u300c<<9371>>\u300d\n\u300c<<8685>>\u300d\n\u300c<<6858>>\u300d\n\u300c<<5935>>\u300d\n\u300c<<6153>>\u300d\n\u300c<<5686>>\u300d\n\u300c<<5234>>\u300d",
+            "id": 22093,
+            "question": "\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u30bb\u30c3\u30c8\u3055\u308c\u3066\u3044\u308b\u300c<<15130>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u76f8\u624b\u304c\u300c<<5544>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u305d\u306e\u300c<<15130>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-05-06",
+                "type": 0
+            },
+            "title": "\u30bb\u30c3\u30c8\u3055\u308c\u3066\u3044\u308b\u300c<<15130>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<5544>>\u300d\u304c\u767a\u52d5\u3057\u305f\u6642\u3001\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u305d\u306e\u300c<<15130>>\u300d\u3092\u767a\u52d5\u3057\u305f\u3089\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap",
+        "o:Important Precedent"
+    ]
+}

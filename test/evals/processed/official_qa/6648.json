@@ -1,0 +1,40 @@
+{
+    "cards": [
+        5544,
+        5552,
+        5623
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If Raigeki Break is activated targeting a Y-Dragon Head in the Monster Zone, but Formation Union is chained, and Y-Dragon Head becomes an Equip Card, the effect of Raigeki Break does not apply. Furthermore, if Raigeki Break is activated targeting an equipped Y-Dragon Head in the Spell & Trap Zone, but Formation Union is chained, and Y-Dragon Head is Special Summoned as a monster, the effect of Raigeki Break does not apply.",
+            "id": 6648,
+            "question": "When my opponent activates Raigeki Break targeting a face-up Y-Dragon Head in my Monster Zone, but I chain Formation Union and choose the effect that equips a Union monster on my field to an appropriate target, what happens? Furthermore, when my opponent activates Raigeki Break targeting an equipped Y-Dragon Head in my Spell & Trap Zone, but I chain Formation Union and choose the effect that Special Summons an equipped Union monster, what happens?",
+            "thisSrc": {
+                "date": "2016-06-16",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When my opponent activates Raigeki Break targeting a face-up Y-Dragon Head in my Monster Zone, but I chain Formation Union and choose the effect that equips a Union monster on my field to an appropriate target, what happens? Furthermore, when my opponent activates Raigeki Break targeting an equipped Y-Dragon Head in my Spell & Trap Zone, but I chain Formation Union and choose the effect that Special Summons an equipped Union monster, what happens?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u300c<<5552>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<5544>>\u300d\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5623>>\u300d\u304c\u767a\u52d5\u3057\u3001\u305d\u306e\u300c<<5552>>\u300d\u304c\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u305f\u5834\u5408\u306b\u306f\u3001\u300c<<5544>>\u300d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\n\n\u307e\u305f\u3001\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u88c5\u5099\u3055\u308c\u3066\u3044\u308b\u300c<<5552>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<5544>>\u300d\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5623>>\u300d\u304c\u767a\u52d5\u3057\u3001\u305d\u306e\u300c<<5552>>\u300d\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u5834\u5408\u306b\u306f\u3001\u300c<<5544>>\u300d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 6648,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<5552>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u76f8\u624b\u304c\u300c<<5544>>\u300d\u3092\u767a\u52d5\u3057\u305f\u969b\u306b\u3001\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5623>>\u300d\u306e\u300e\u25cf\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30e6\u30cb\u30aa\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u629e\u3057\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u88c5\u5099\u53ef\u80fd\u306a\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u88c5\u5099\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u88c5\u5099\u3055\u308c\u3066\u3044\u308b\u300c<<5552>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u76f8\u624b\u304c\u300c<<5544>>\u300d\u3092\u767a\u52d5\u3057\u305f\u969b\u306b\u3001\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5623>>\u300d\u306e\u300e\u25cf\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u306e\u30e6\u30cb\u30aa\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u306e\u88c5\u5099\u3092\u89e3\u9664\u3057\u3066\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u653b\u6483\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u30e6\u30cb\u30aa\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<5544>>\u300d\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5623>>\u300d\u304c\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain",
+        "k:Union"
+    ]
+}

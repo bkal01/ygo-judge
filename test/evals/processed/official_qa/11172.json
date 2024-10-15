@@ -1,0 +1,39 @@
+{
+    "cards": [
+        7286,
+        9668
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If the same player controls both Gladiator Beast Laquari and the monster to which Infected Mail has been applied, they can resolve these effects in either order.\nOtherwise, the turn player will resolve their effect first.",
+            "id": 11172,
+            "question": "If a monster to which Infected Mail has been applied, and Gladiator Beast Laquari, both battle, what happens to the respective effects at the End of the Battle Phase?",
+            "thisSrc": {
+                "date": "2022-06-29",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If both Gladiator Beast Laquari, and a monster to which Infected Mail is applied, have battled, how are these effects applied?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<9668>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3001\u300c<<7286>>\u300d\u7b49\u3092\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3057\u3066\u3044\u308b\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u540c\u3058\u5834\u5408\u3001\u4efb\u610f\u306e\u9806\u756a\u3067\u305d\u308c\u305e\u308c\u52b9\u679c\u51e6\u7406\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\u306a\u304a\u3001\u30b3\u30f3\u30c8\u30ed\u30fc\u30e9\u30fc\u304c\u9055\u3046\u5834\u5408\u3001\u30bf\u30fc\u30f3\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u52b9\u679c\u304b\u3089\u51e6\u7406\u3092\u884c\u3044\u307e\u3059\u3002",
+            "id": 11172,
+            "question": "\u300c<<9668>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3001\u6226\u95d8\u3092\u884c\u3063\u305f\u300c<<7286>>\u300d\u7b49\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u7d42\u4e86\u6642\u306b\u306f\u3001\u3069\u3061\u3089\u306e\u52b9\u679c\u51e6\u7406\u304b\u3089\u884c\u3048\u3070\u3088\u308d\u3057\u3044\u3067\u3057\u3087\u3046\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9668>>\u300d\u304c\u9069\u7528\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u300c<<7286>>\u300d\u7b49\u304c\u6226\u95d8\u3092\u884c\u3063\u305f\u5834\u5408\u3001\u3069\u3061\u3089\u306e\u51e6\u7406\u304b\u3089\u884c\u3044\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Spell"
+    ]
+}

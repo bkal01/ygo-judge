@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4842,
+        5432,
+        11515
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if Heavy Knight of the Flame attacks a monster that was changed to face-down Defense Position after being Special Summoned, the effect of Heavy Knight of the Flame can be activated. (Note that the opponent's monster will be banished face-up.)",
+            "id": 17000,
+            "question": "After a monster is Special Summoned by the effect of Monster Reborn, and then changed to face-down Defense Position by Book of Moon, if that monster is attacked by Heavy Knight of the Flame, can the effect of Heavy Knight of the Flame be activated?",
+            "thisSrc": {
+                "date": "2015-10-06",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "After a monster is Special Summoned by the effect of Monster Reborn, and then changed to face-down Defense Position by Book of Moon, if that monster is attacked by Heavy Knight of the Flame, can the effect of Heavy Knight of the Flame be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8868\u5074\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u5f8c\u306b\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u300c<<11515>>\u300d\u304c\u653b\u6483\u3057\u305f\u5834\u5408\u3067\u3082\u3001\u300e\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\uff08\u306a\u304a\u3001\u305d\u306e\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u8868\u5074\u8868\u793a\u3067\u9664\u5916\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 17000,
+            "question": "\u300c<<4842>>\u300d\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u5f8c\u3001\u300c<<5432>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u300c<<11515>>\u300d\u304c\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u300e\u25cf\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u3053\u306e\u30ab\u30fc\u30c9\u304c\u653b\u6483\u3057\u305f\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u958b\u59cb\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u5f8c\u306b\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u300c<<11515>>\u300d\u304c\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Damage Step"
+    ]
+}

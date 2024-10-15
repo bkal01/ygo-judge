@@ -1,0 +1,38 @@
+{
+    "cards": [
+        13668,
+        13678
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if you equip your <<13678>> to your opponent's monster, and a monster on your field is destroyed by battle with that equipped monster, the effect of <<13678>> will activate. (In this case, the controller of <<13678>> draws 1 card, not the controller of the equipped monster.)",
+            "id": 21760,
+            "question": "My opponent's <<13668>> is equipped with my <<13678>>. If that opponent's <<13668>> attacks a monster on my field and destroys it by battle while I have 3 or more Spell Cards in my Graveyard, will the effect of <<13678>> to draw a card activate?",
+            "thisSrc": {
+                "date": "2018-02-25",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "My opponent's <<13668>> is equipped with my <<13678>>. If that opponent's <<13668>> attacks a monster on my field and destroys it by battle while I have 3 or more Spell Cards in my Graveyard, will the effect of <<13678>> to draw a card activate?",
+            "tlSrc": {
+                "date": "2018-02-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<13678>>\u300d\u306f\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u88c5\u5099\u3059\u308b\u4e8b\u3082\u3067\u304d\u308b\u88c5\u5099\u9b54\u6cd5\u30ab\u30fc\u30c9\u3067\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u81ea\u5206\u306e\u300c<<13678>>\u300d\u3092\u88c5\u5099\u3057\u305f\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u3067\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u3067\u7834\u58ca\u3057\u305f\u5834\u5408\u3067\u3082\u3001\u300c<<13678>>\u300d\u306e\u300e\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff11\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u3002\n\uff08\u3053\u306e\u5834\u5408\u3067\u3082\u3001\u30c9\u30ed\u30fc\u3059\u308b\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30e9\u30fc\u3067\u306f\u306a\u304f\u3001\u300c<<13678>>\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30e9\u30fc\u3068\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 21760,
+            "question": "\u76f8\u624b\u306e\u300c<<13668>>\u300d\u306b\u3001\u81ea\u5206\u306e\u767a\u52d5\u3057\u305f\u300c<<13678>>\u300d\u304c\u88c5\u5099\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u5f8c\u3001\u305d\u306e\u76f8\u624b\u306e\u300c<<13668>>\u300d\u304c\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u6226\u95d8\u3067\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u300c<<13678>>\u300d\u306e\u300e\u2461\uff1a\u81ea\u5206\u306e\u5893\u5730\u306b\u9b54\u6cd5\u30ab\u30fc\u30c9\u304c\uff13\u679a\u4ee5\u4e0a\u5b58\u5728\u3057\u3001\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u653b\u6483\u3067\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u305f\u5834\u5408\u306b\u767a\u52d5\u3059\u308b\u3002\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff11\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2018-02-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u300c<<13678>>\u300d\u3092\u88c5\u5099\u3057\u305f\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u653b\u6483\u3067\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u30c9\u30ed\u30fc\u3059\u308b\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4007,
+        10045,
+        10173
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the given situation, the damage inflicted will be 3000, and Number 33: Chronomaly Machu Mech will gain 3000 ATK.",
+            "id": 12271,
+            "question": "When activating the effect of Number 33: Chronomaly Machu Mech, I target a Blue-Eyes White Dragon that was Special Summoned with the effect of Hieratic Dragon of Tefnuit, so that its ATK/DEF became 0. Does that mean it will inflict 3000 damage to my opponent?",
+            "thisSrc": {
+                "date": "2020-10-16",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "How does the effect of Number 33: Chronomaly Machu Mech work?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<10173>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u6642\u306b\u3001\u300c<<10045>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u304c0\u306b\u306a\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<4007>>\u300d\u3092\u9078\u629e\u3057\u3066\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u76f8\u624b\u306b\u4e0e\u3048\u3089\u308c\u308b\u30c0\u30e1\u30fc\u30b8\u306f\"3000\"\u3068\u306a\u308a\u3001\u300c<<10173>>\u300d\u81ea\u8eab\u306e\u653b\u6483\u529b\u30823000\u30dd\u30a4\u30f3\u30c8\u30a2\u30c3\u30d7\u3057\u307e\u3059\u3002",
+            "id": 12271,
+            "question": "\u300c<<10173>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u3001\u300c<<10045>>\u300d\u306e\u52b9\u679c\u306b\u3088\u308a\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u304c0\u306b\u306a\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<4007>>\u300d\u3092\u9078\u629e\u3057\u3066\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u76f8\u624b\u306b\u4e0e\u3048\u3089\u308c\u308b\u30c0\u30e1\u30fc\u30b8\u306f\"3000\"\u306b\u306a\u308b\u3001\u3068\u3044\u3046\u4e8b\u3067\u3057\u3087\u3046\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300cNo.33 \u5148\u53f2\u907a\u7523-\u8d85\u5175\u5668\u30de\u30b7\u30e5=\u30de\u30c3\u30af\u300d\u306e\u300e\u5143\u3005\u306e\u653b\u6483\u529b\u306e\u5dee\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u300f\u306b\u3064\u3044\u3066\u5177\u4f53\u7684\u306b\u6559\u3048\u3066\u4e0b\u3055\u3044\u3002"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

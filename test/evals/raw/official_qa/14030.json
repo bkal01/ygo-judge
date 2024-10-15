@@ -1,0 +1,37 @@
+{
+    "cards": [
+        10599
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In that case, monsters become unable to activate effects outside the field, like in the hand or Graveyard or effects that activate while they are banished.",
+            "id": 14030,
+            "question": "If the effect of <<10599>> is being applied, are monsters with a Level higher than the Level of the revealed monster unable to activate their effects outside the field like in the hand or Graveyard?",
+            "thisSrc": {
+                "date": "2014-10-17",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the effect of <<10599>> is being applied, are monsters with a Level higher than the Level of the revealed monster unable to activate their effects outside the field like in the hand or Graveyard?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<10599>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u300e\u898b\u305b\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3088\u308a\u30ec\u30d9\u30eb\u306e\u9ad8\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u300f\u306f\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u3060\u3051\u3067\u306a\u304f\u3001\u624b\u672d\u3084\u5893\u5730\u3067\u767a\u52d5\u3059\u308b\u52b9\u679c\u3084\u3001\u9664\u5916\u3055\u308c\u305f\u969b\u306b\u767a\u52d5\u3059\u308b\u52b9\u679c\u306a\u3069\u3082\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u306a\u304f\u306a\u308a\u307e\u3059\u3002",
+            "id": 14030,
+            "question": "\u300c<<10599>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u898b\u305b\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3088\u308a\u30ec\u30d9\u30eb\u306e\u9ad8\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u3060\u3051\u3067\u306a\u304f\u3001\u624b\u672d\u3084\u5893\u5730\u306a\u3069\u304b\u3089\u3082\u767a\u52d5\u3067\u304d\u306a\u304f\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10599>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u624b\u672d\u3084\u5893\u5730\u304b\u3089\u3082\u767a\u52d5\u3067\u304d\u306a\u304f\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

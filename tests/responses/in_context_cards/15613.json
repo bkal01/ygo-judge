@@ -1,6 +1,0 @@
-{
-    "title": "If the effect of Number 81: Superdreadnought Rail Cannon Super Dora is activated in a chain to the activation of the effect of Tamtam the Melodious Diva that reduces ATK and inflicts damage, so that the targeted monster becomes unaffected by card effects, how does this resolve?",
-    "question": "If the effect of Number 81: Superdreadnought Rail Cannon Super Dora is activated in a chain to the activation of the effect of Tamtam the Melodious Diva that reduces ATK and inflicts damage, so that the targeted monster becomes unaffected by card effects, how does this resolve?",
-    "answer": "In that case, since the part of the effect that reduces ATK cannot be applied, the part of the effect that inflicts damage is not applied either.",
-    "llm_answer": "The targeted monster will not lose ATK nor will damage be inflicted to the opponent. Since Super Dora's effect makes the targeted monster unaffected by card effects, Tamtam's effect does not apply. The scenario resolves with no change to the monster's ATK and no damage to the opponent."
-}

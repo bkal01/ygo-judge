@@ -1,6 +1,0 @@
-{
-    "title": "During my opponent's Battle Phase, my opponent's Photon Thrasher attacks my face-up Attack Position Rebuildeer. During that Damage Step, if I activate Forbidden Lance and make Photon Thrasher lose 800 ATK, so that it is destroyed by battle, can I activate the effect of Rebuildeer?",
-    "question": "During my opponent's Battle Phase, my opponent's Photon Thrasher attacks my face-up Attack Position Rebuildeer . During that Damage Step, if I activate Forbidden Lance and make Photon Thrasher lose 800 ATK, so that it is destroyed by battle, can I activate the effect of Rebuildeer ?",
-    "answer": "As in this scenario, even if Rebuildeer destroys an opponent's monster by battle during your opponent's turn, you can activate its effect.",
-    "llm_answer": "Yes, you can activate the effect of **Rebuildeer**. Since **Photon Thrasher** is destroyed by battle after its ATK is reduced by **Forbidden Lance**, the condition for **Rebuildeer**'s effect is met, allowing you to target a Cyberse monster in your Graveyard and Special Summon it.\n\n**Rebuildeer**'s effect can be activated in the \"After Damage Calculation\" part of the Damage Step, which is when the results of the battle are known. Thus, if **Photon Thrasher** is destroyed by battle, you can proceed with **Rebuildeer**'s effect."
-}

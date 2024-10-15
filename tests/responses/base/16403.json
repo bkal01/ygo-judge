@@ -1,6 +1,0 @@
-{
-    "title": "Can Dragonpulse Magician be sent to the Graveyard by Painful Decision to add a Dragonpulse Magician to the hand?",
-    "question": "Can Dragonpulse Magician be sent to the Graveyard by Painful Decision to add a Dragonpulse Magician to the hand?",
-    "answer": "Dragonpulse Magician is a Pendulum Monster, but it is also a Level 4 Normal Monster.\n\nTherefore, it can be sent from the Deck to the Graveyard by the effect of Painful Decision, and another copy of Dragonvein MAgician can be added from the Deck to the hand.",
-    "llm_answer": "No, Dragonpulse Magician cannot be sent to the Graveyard by Painful Decision to add another Dragonpulse Magician to the hand. Painful Decision requires the card discarded to be different from the card added."
-}

@@ -1,0 +1,37 @@
+{
+    "cards": [
+        6380
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the given situation, the effect of the Green Baboon, Defender of the Forest that was destroyed and sent to the Graveyard cannot be activated.\n\nThe effect of Green Baboon, Defender of the Forest can only be activated if Green Baboon, Defender of the Forest is in your hand, or if Green Baboon, Defender of the Forest is already in your Graveyard when another Beast monster is destroyed by a card effect and sent to the Graveyard.",
+            "id": 12656,
+            "question": "A Green Baboon, Defender of the Forest on my field, and other Beast monsters I control, are destroyed simultaneously by a card effect and sent to the Graveyard. Can the effect of Green Baboon, Defender of the Forest that Special Summons itself then be activated?",
+            "thisSrc": {
+                "date": "2021-06-08",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can Green Baboon, Defender of the Forest's effect be activated, if it and other Beast monsters are destroyed at the same time?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u5893\u5730\u306b\u9001\u3089\u308c\u305f\u300c<<6380>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u300c<<6380>>\u300d\u306e\u52b9\u679c\u306f\u3001\u300c<<6380>>\u300d\u304c\u624b\u672d\u306b\u5b58\u5728\u3059\u308b\u3001\u307e\u305f\u306f\u3001\u5893\u5730\u306b\u65e2\u306b\u5b58\u5728\u3059\u308b\u72b6\u614b\u306b\u3066\u3001\u4ed6\u306e\u7363\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u6642\u3067\u306a\u3051\u308c\u3070\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 12656,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u300c<<6380>>\u300d\u3068\u4ed6\u306e\u7363\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u540c\u6642\u306b\u7834\u58ca\u3055\u308c\u5893\u5730\u306b\u9001\u3089\u308c\u305f\u6642\u3001\u7834\u58ca\u3055\u308c\u3066\u5893\u5730\u306b\u9001\u3089\u308c\u305f\u300c<<6380>>\u300d\u306f\u3001\u81ea\u8eab\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<6380>>\u300d\u3068\u4ed6\u306e\u7363\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u540c\u6642\u306b\u7834\u58ca\u3055\u308c\u305f\u6642\u3001\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

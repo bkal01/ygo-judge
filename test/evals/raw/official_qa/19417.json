@@ -1,0 +1,41 @@
+{
+    "cards": [
+        4744,
+        4763,
+        4792,
+        5002,
+        12568
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "<<5002>> cannot be Special Summoned by card effects unless it was first Special Summoned from your hand by its own Summoning procedure. Therefore, in this situation, if <<5002>> was sent from the hand directly to the Graveyard, it cannot be Special Summoned by <<12568>>.",
+            "id": 19417,
+            "question": "Can a <<5002>> that was sent from my hand to the Graveyard be Special Summoned by the effect of <<12568>>?",
+            "thisSrc": {
+                "date": "2016-06-05",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can a <<5002>> that was sent from my hand to the Graveyard be Special Summoned by the effect of <<12568>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<5002>>\u300d\u306f\u300e\u81ea\u5206\u306e\u624b\u672d\u30fb\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u304b\u3089\u3001\u300c<<4744>>\u300d\u300c<<4763>>\u300d\u300c<<4792>>\u300d\u3092\u305d\u308c\u305e\u308c\uff11\u4f53\u305a\u3064\u30ea\u30ea\u30fc\u30b9\u3057\u305f\u5834\u5408\u306b\u7279\u6b8a\u53ec\u559a\u3067\u304d\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u305d\u306e\u30c6\u30ad\u30b9\u30c8\u306b\u8a18\u3055\u308c\u305f\u65b9\u6cd5\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u3066\u3044\u306a\u3044\u5834\u5408\u306b\u306f\u3001\u4ed6\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u624b\u672d\u304b\u3089\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u308b\u300c<<5002>>\u300d\u3092\u300c<<12568>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 19417,
+            "question": "\u300c<<12568>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u306e\u5893\u5730\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u53ca\u3073\u9664\u5916\u3055\u308c\u3066\u3044\u308b\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u4e2d\u304b\u3089\u3001\u6a5f\u68b0\u65cf\u307e\u305f\u306f\u5ca9\u77f3\u65cf\u306e\u901a\u5e38\u53ec\u559a\u3067\u304d\u306a\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u624b\u672d\u304b\u3089\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u308b\u300c<<5002>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12568>>\u300d\u306e\u52b9\u679c\u3067\u3001\u624b\u672d\u304b\u3089\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u308b\u300c<<5002>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Special Summon Monster"
+    ]
+}

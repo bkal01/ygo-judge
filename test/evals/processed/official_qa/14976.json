@@ -1,0 +1,38 @@
+{
+    "cards": [
+        6980,
+        11762
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this case, the effect of Neptabyss, the Atlantean Prince resolves normally and Special Summons the targeted monster.",
+            "id": 14976,
+            "question": "If the second effect of Neptabyss, the Atlantean Prince activates, targeting a monster in my Graveyard, but my opponent chains D.D. Crow so that Neptabyss, the Atlantean Prince is no longer present in my Graveyard when its effect resolves, how is its effect applied?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the second effect of Neptabyss, the Atlantean Prince activates, targeting a monster in my Graveyard, but my opponent chains D.D. Crow so that Neptabyss, the Atlantean Prince is no longer present in my Graveyard when its effect resolves, how is its effect applied?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3067\u3082\u3001\u65e2\u306b\u767a\u52d5\u3057\u305f\u300c<<11762>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u3001\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u7279\u6b8a\u53ec\u559a\u3055\u308c\u307e\u3059\u3002",
+            "id": 14976,
+            "question": "\u300c<<11762>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6c34\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u305f\u3081\u306b\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u300c<<11762>>\u300d\u4ee5\u5916\u306e\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u6d77\u7687\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3059\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u76f8\u624b\u304c\u300c<<6980>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u300c<<11762>>\u300d\u81ea\u8eab\u304c\u5893\u5730\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u3001\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u6c34\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u305f\u3081\u306b\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u300c<<11762>>\u300d\u304c\u3001\u52b9\u679c\u51e6\u7406\u6642\u306b\u5893\u5730\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

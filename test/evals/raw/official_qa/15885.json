@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11890
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this situation, the first card effect activated by your opponent during the Battle Phase will be negated by each copy of <<11890>>. Therefore, even if multiple copies of <<11890>> are equipped, only 1 effect activated by the opponent will be negated.",
+            "id": 15885,
+            "question": "If a monster is equipped with 2 copies of <<11890>>, can 2 different effects activated by the opponent be negated during the Battle Phase?",
+            "thisSrc": {
+                "date": "2015-05-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a monster is equipped with 2 copies of <<11890>>, can 2 different effects activated by the opponent be negated during the Battle Phase?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u4e2d\u306b\u76f8\u624b\u304c\u6700\u521d\u306b\u767a\u52d5\u3057\u305f\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u5bfe\u3057\u3066\u3001\u305d\u308c\u305e\u308c\u306e\u300c<<11890>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u305d\u306e\u52b9\u679c\u3092\u7121\u52b9\u306b\u3057\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u7d50\u679c\u3068\u3057\u3066\u3001\u300c<<11890>>\u300d\u304c\u8907\u6570\u679a\u5b58\u5728\u3057\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u76f8\u624b\u306e\u52b9\u679c\u306f1\u3064\u3057\u304b\u7121\u52b9\u306b\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 15885,
+            "question": "\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u308b\u300c<<11890>>\u300d\u304c2\u679a\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u3053\u306e\u30ab\u30fc\u30c9\u304c\u88c5\u5099\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u81ea\u5206\u30fb\u76f8\u624b\u306e\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u4e2d\u306b\uff11\u5ea6\u3060\u3051\u3001\u76f8\u624b\u304c\u767a\u52d5\u3057\u305f\u9b54\u6cd5\u30fb\u7f60\u30fb\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u7121\u52b9\u306b\u3059\u308b\u3002\u3053\u306e\u52b9\u679c\u3092\u9069\u7528\u3057\u305f\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u4e2d\u3001\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\uff12\u56de\u653b\u6483\u3067\u304d\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u76f8\u624b\u306e\u52b9\u679c\u3092\uff12\u3064\u7121\u52b9\u306b\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u306e\u300c<<11890>>\u300d\u304c2\u679a\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u76f8\u624b\u306e\u52b9\u679c\u3092\uff12\u3064\u7121\u52b9\u306b\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

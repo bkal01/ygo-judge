@@ -1,0 +1,38 @@
+{
+    "cards": [
+        12950,
+        14304
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of Fusion Destiny will be negated.\n\nAs a result, you can still Special Summon monsters other than DARK \"HERO\" monsters during this turn.",
+            "id": 23372,
+            "question": "What happens if the effect of Ash Blossom & Joyous Spring is chained to the activation of Fusion Destiny?",
+            "thisSrc": {
+                "date": "2021-10-23",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "What happens if the effect of Ash Blossom & Joyous Spring is chained to the activation of Fusion Destiny?",
+            "tlSrc": {
+                "date": "2021-10-23",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u95c7\u5c5e\u6027\u306e\u300cHERO\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3082\u3053\u306e\u30bf\u30fc\u30f3\u4e2d\u306b\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u3002",
+            "id": 23372,
+            "question": "\u300c<<14304>>\u300d\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<12950>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u300c<<14304>>\u300d\u306e\u52b9\u679c\u3092\u7121\u52b9\u306b\u3057\u305f\u5834\u5408\u3001\u300c<<14304>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u5f8c\u3001\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u81ea\u5206\u306f\u95c7\u5c5e\u6027\u306e\u300cHERO\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304b\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u3002\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2021-10-23",
+                "type": 0
+            },
+            "title": "\u300c<<14304>>\u300d\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<12950>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

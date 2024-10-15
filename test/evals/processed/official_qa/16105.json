@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11944
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If Stardust Chronicle Spark Dragon is destroyed by battle with an opponent's monster, whether it was attacking or being attacked, you can activate its effect that Special Summons 1 of your banished Dragon-Type Synchro Monsters.",
+            "id": 16105,
+            "question": "If Stardust Chronicle Spark Dragon is destroyed by battle with an attacking monster, or if Stardust Chronicle Spark Dragon attacks but is destroyed by battle, can its effect that Special Summons 1 of my banished Dragon-Type Synchro Monsters be activated in either case?",
+            "thisSrc": {
+                "date": "2015-06-03",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Stardust Chronicle Spark Dragon is destroyed by battle with an attacking monster, or if Stardust Chronicle Spark Dragon attacks but is destroyed by battle, can its effect that Special Summons 1 of my banished Dragon-Type Synchro Monsters be activated in either case?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11944>>\u300d\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u306e\u6226\u95d8\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u300c<<11944>>\u300d\u81ea\u8eab\u304c\u653b\u6483\u3057\u305f\u5834\u5408\u3067\u3082\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u653b\u6483\u3055\u308c\u305f\u5834\u5408\u3067\u3082\u3001\u300e\u9664\u5916\u3055\u308c\u3066\u3044\u308b\u81ea\u5206\u306e\u30c9\u30e9\u30b4\u30f3\u65cfS\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 16105,
+            "question": "\u300c<<11944>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u76f8\u624b\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u9664\u5916\u3055\u308c\u3066\u3044\u308b\u81ea\u5206\u306e\u30c9\u30e9\u30b4\u30f3\u65cfS\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u306f\u3001\u300c<<11944>>\u300d\u81ea\u8eab\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u653b\u6483\u3057\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u653b\u6483\u3055\u308c\u300c<<11944>>\u300d\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u3044\u305a\u308c\u306e\u5834\u5408\u3067\u3082\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11944>>\u300d\u306f\u3001\u81ea\u8eab\u304c\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u76f8\u624b\u306b\u653b\u6483\u3055\u308c\u305f\u5834\u5408\u3001\u3069\u3061\u3089\u306e\u5834\u5408\u3067\u3082\u7834\u58ca\u3055\u308c\u305f\u969b\u306b\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

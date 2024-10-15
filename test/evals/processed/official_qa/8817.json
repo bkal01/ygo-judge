@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6495,
+        7178
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effects of\u00a0Hero Barrier and\u00a0Necro Gardna negate the next attack during that turn from a monster your opponent controls.\nTherefore, even if multiple\u00a0Hero Barrier, etc., are activated, only the first attack after that is negated.",
+            "id": 8817,
+            "question": "If I activate the effect of\u00a0Hero Barrier or\u00a0Necro Gardna multiple times, how many times can I negate an opponent's attack?",
+            "thisSrc": {
+                "date": "2020-06-20",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "If the effects of\u00a0Hero Barrier or\u00a0Necro Gardna is activated multiple times, how many times can an attack be negated?",
+            "tlSrc": {
+                "date": "2020-06-20",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<6495>>\u300d\u3084\u300c<<7178>>\u300d\u306e\u52b9\u679c\u306f\u3001\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5f8c\u306e\u6700\u521d\u306e\u653b\u6483\u3092\u7121\u52b9\u306b\u3057\u307e\u3059\u3002\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<6495>>\u300d\u3092\u8907\u6570\u679a\u767a\u52d5\u3057\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u305d\u306e\u5f8c\u306b\u884c\u308f\u308c\u308b\u6700\u521d\u306e\u653b\u6483\u3057\u304b\u7121\u52b9\u306b\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 8817,
+            "question": "\u300c<<6495>>\u300d\u3084\u300c<<7178>>\u300d\u306e\u52b9\u679c\u3092\u8907\u6570\u56de\u767a\u52d5\u3057\u3066\u3044\u308b\u5834\u5408\u3001\u76f8\u624b\u306e\u884c\u3046\u653b\u6483\u3092\u4f55\u56de\u7121\u52b9\u306b\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2020-06-20",
+                "type": 0
+            },
+            "title": "\u300c<<6495>>\u300d\u3084\u300c<<7178>>\u300d\u306e\u52b9\u679c\u3092\u8907\u6570\u56de\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u3092\u4f55\u56de\u7121\u52b9\u306b\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap",
+        "o:Negating Attacks"
+    ]
+}

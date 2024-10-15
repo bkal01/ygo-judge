@@ -1,6 +1,0 @@
-{
-    "title": "While the effect of Cuben is applying, if the die result was 6, but then Cuben becomes an Equip Card by the effect of Relinquished, does the effect still apply normally?",
-    "question": "While the effect of Cuben is applying, if the die result was 6, but then Cuben becomes an Equip Card by the effect of Relinquished, does the effect still apply normally?",
-    "answer": "In this scenario, if the effect of Cuben has already resolved, but then Cuben becomes an Equip Card by the effect of Relinquished, its effect stops applying. (In this case, players will now be able to Normal and Special Summon Level 6 monsters.)",
-    "llm_answer": "Yes, the effect still applies normally. Since the effect of Cuben that says \"Once per turn: You can roll a six-sided die, and while this monster is face-up on the field, neither player can Normal or Special Summon monsters with the same Level as the result.\" is a Continuous Effect, it keeps applying as long as Cuben remains face-up on the field. \n\nWhen Cuben is equipped to Relinquished, it is still face-up on the field, albeit in the Spell & Trap Zone as an Equip Card. Therefore, the restriction on Normal or Special Summoning monsters of the same Level as the die result remains in effect."
-}

@@ -1,0 +1,42 @@
+{
+    "cards": [
+        6453,
+        7694,
+        8222,
+        8606,
+        17371,
+        19049
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "All of these cards/effects can be activated by targeting respectively banishing Scrap-Iron Scarecrow. Additionally, for all of these cases,\u300enegate the attack\u300fwill be applied normally.\n\nIn situations where a Trap Card was activated (i.e., the effect of Scrap-Iron Scarecrow is being applied by Transaction Rollback's \u2460st effect, Trap of Darkness, Fake Feather, or Labrynth Barrage),\u300eSet this card face-down instead of sending it to the Graveyard\u300fwill also be applied normally.\n\nIf no Trap Card was activated (i.e., the effect of Scrap-Iron Scarecrow is being applied by Transaction Rollback's \u2461nd effect, or by Junk Collector's effect), then\u300eSet this card face-down instead of sending it to the Graveyard\u300fwill not be applied.",
+            "id": 23608,
+            "question": "Can I target Scrap-Iron Scarecrow, which has the\u300eSet this card face-down instead of sending it to the Graveyard\u300feffect, to activate Trap of Darkness, Fake Feather or Transaction Rollback, or can I activate Labrynth Barrage in response to Scrap-Iron Scarecrow's activation?\n\nAdditionally, can I activate the \u2461nd effect of Transaction Rollback by targeting Scrap-Iron Scarecrow, or activate Junk Collector's effect by banishing Scrap-Iron Scarecrow?",
+            "thisSrc": {
+                "date": "2023-07-04",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Using a\u300ethis effect becomes that Normal Trap's effect when that card is activated\u300feffect, can I apply the effect of a Normal Trap which includes a\u300eSet this card face-down instead of sending it to the Graveyard\u300feffect?",
+            "tlSrc": {
+                "date": "2023-07-04",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3044\u305a\u308c\u3082\u767a\u52d5\u3067\u304d\u3001\u305d\u306e\u51e6\u7406\u6642\u306b\u306f\u653b\u6483\u3092\u7121\u52b9\u306b\u3059\u308b\u51e6\u7406\u304c\u884c\u308f\u308c\u307e\u3059\u3002\n\n\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u3092\u884c\u3063\u3066\u3044\u305f\u5834\u5408\uff08\u300c<<19049>>\u300d\u306e\u2460\u3084\u3001\u300c<<6453>>\u300d\u300c<<8222>>\u300d\u300c<<17371>>\u300d\u306b\u3088\u3063\u3066\u51e6\u7406\u3092\u9069\u7528\u3057\u305f\u5834\u5408\uff09\u306b\u306f\u3001\u300e\u5893\u5730\u3078\u9001\u3089\u305a\u3001\u305d\u306e\u307e\u307e\u30bb\u30c3\u30c8\u3059\u308b\u300f\u51e6\u7406\u3082\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\n\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u3092\u884c\u3063\u3066\u3044\u306a\u304b\u3063\u305f\u5834\u5408\u3001\uff08\u300c<<19049>>\u300d\u306e\u2461\u3084\u3001\u300c<<8606>>\u300d\u306b\u3088\u3063\u3066\u51e6\u7406\u3092\u9069\u7528\u3057\u305f\u5834\u5408\uff09\u306b\u306f\u3001\u300e\u5893\u5730\u3078\u9001\u3089\u305a\u3001\u305d\u306e\u307e\u307e\u30bb\u30c3\u30c8\u3059\u308b\u300f\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 23608,
+            "question": "\u300e\u767a\u52d5\u5f8c\u3053\u306e\u30ab\u30fc\u30c9\u306f\u5893\u5730\u3078\u9001\u3089\u305a\u3001\u305d\u306e\u307e\u307e\u30bb\u30c3\u30c8\u3059\u308b\u300f\u52b9\u679c\u3092\u6301\u3064\u300c<<7694>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<6453>>\u300d\u300c<<8222>>\u300d\u300c<<19049>>\u300d\u3092\u767a\u52d5\u3057\u305f\u308a\u3001\u300c<<7694>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<17371>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<7694>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<19049>>\u300d\u306e\u2461\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u3053\u3068\u3084\u3001\u300c<<7694>>\u300d\u3092\u9664\u5916\u3057\u3066\u300c<<8606>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-07-04",
+                "type": 0
+            },
+            "title": "\u300e\u767a\u52d5\u5f8c\u3053\u306e\u30ab\u30fc\u30c9\u306f\u5893\u5730\u3078\u9001\u3089\u305a\u3001\u305d\u306e\u307e\u307e\u30bb\u30c3\u30c8\u3059\u308b\u300f\u51e6\u7406\u3092\u3001\u300e\u3053\u306e\u52b9\u679c\u306f\u3001\u305d\u306e\u901a\u5e38\u7f60\u30ab\u30fc\u30c9\u767a\u52d5\u6642\u306e\u52b9\u679c\u3068\u540c\u3058\u306b\u306a\u308b\u300f\u51e6\u7406\u3068\u3057\u3066\u9069\u7528\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

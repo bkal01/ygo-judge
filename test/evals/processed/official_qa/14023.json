@@ -1,0 +1,39 @@
+{
+    "cards": [
+        8519,
+        9352
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in that case, it is destroyed during the End Phase normally.",
+            "id": 14023,
+            "question": "If a monster Special Summoned by Regretful Rebirth is affected by Forbidden Lance, is that monster destroyed during the End Phase?",
+            "thisSrc": {
+                "date": "2014-10-17",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a monster Special Summoned by Regretful Rebirth is affected by Forbidden Lance, is that monster destroyed during the End Phase?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<8519>>\u300d\u306e\u52b9\u679c\u306b\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u300c<<9352>>\u300d\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3067\u3082\u3001\u901a\u5e38\u901a\u308a\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u7834\u58ca\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 14023,
+            "question": "\u300c<<8519>>\u300d\u306e\u52b9\u679c\u306b\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u300c<<9352>>\u300d\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u300e\u3053\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u81ea\u5206\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u6642\u306b\u7834\u58ca\u3055\u308c\u308b\u300f\u51e6\u7406\u306b\u3088\u3063\u3066\u3001\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8519>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u300c<<9352>>\u300d\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell",
+        "k:Trap"
+    ]
+}

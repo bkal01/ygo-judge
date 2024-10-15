@@ -1,0 +1,39 @@
+{
+    "cards": [
+        7858,
+        11497
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, it cannot. However, during the second Standby Phase after the effect of <<11497>> resolved, if <<7858>> is on the field, the banished card will be added to the hand normally. Also, if <<7858>> is chained to the effect of <<11497>>, the effect does not resolve. (No card is selected from the Main Deck.)",
+            "id": 13913,
+            "question": "Can the effect of <<11497>> be activated if <<7858>> is on the field?",
+            "thisSrc": {
+                "date": "2014-10-15",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can the effect of <<11497>> be activated if <<7858>> is on the field?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<7858>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u81ea\u5206\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u300c<<11497>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u300e\u30c7\u30c3\u30ad\u304b\u3089\u300c\u970a\u7363\u300d\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9664\u5916\u3059\u308b\u300f\u51e6\u7406\u3092\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\u306a\u304a\u3001\u300e\u767a\u52d5\u5f8c\uff12\u56de\u76ee\u306e\u81ea\u5206\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u306b\u3001\u3053\u306e\u52b9\u679c\u3067\u9664\u5916\u3057\u305f\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u51e6\u7406\u304c\u884c\u308f\u308c\u308b\u969b\u306b\u306f\u3001\u300c<<7858>>\u304c\u300d\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u52b9\u679c\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\n\u307e\u305f\u3001\u300c<<11497>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<7858>>\u300d\u304c\u767a\u52d5\u3057\u305f\u5834\u5408\u306b\u306f\u3001\u52b9\u679c\u51e6\u7406\u3092\u9069\u7528\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u3002\uff08\u30c7\u30c3\u30ad\u304b\u3089\u300c\u970a\u7363\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\u3092\u9078\u3076\u4e8b\u3082\u884c\u3044\u307e\u305b\u3093\u3002\uff09",
+            "id": 13913,
+            "question": "\u300c<<7858>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<11497>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<7858>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<11497>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Trap"
+    ]
+}

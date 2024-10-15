@@ -1,0 +1,37 @@
+{
+    "cards": [
+        10270
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "You cannot activate the effect of Madolche Queen Tiaramisu if your opponent controls no cards. When resolving the effect of Madolche Queen Tiaramisu, if your opponent controls no cards, although you still return the targeted cards to your Deck, you do not apply the effect of returning your opponent's cards to the Deck.",
+            "id": 18,
+            "question": "If my opponent does not control any cards, can I activate the effect of Madolche Queen Tiaramisu? Also, when resolving the effect of Madolche Queen Tiaramisu, if my opponent does not control any cards, how does the effect resolve?",
+            "thisSrc": {
+                "date": "2015-02-05",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If my opponent does not control any cards, can I activate the effect of Madolche Queen Tiaramisu? Also, when resolving the effect of Madolche Queen Tiaramisu, if my opponent does not control any cards, how does the effect resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30ab\u30fc\u30c9\u304c\uff11\u679a\u3082\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u300c<<10270>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u306a\u304a\u3001\u300c<<10270>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30ab\u30fc\u30c9\u304c\uff11\u679a\u3082\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u306b\u306f\u3001\u300e\u9078\u629e\u3057\u305f\u30ab\u30fc\u30c9\u3092\u30c7\u30c3\u30ad\u306b\u623b\u3057\u300f\u306e\u51e6\u7406\u306f\u884c\u3044\u307e\u3059\u304c\u3001\u300e\u623b\u3057\u305f\u30ab\u30fc\u30c9\u306e\u6570\u307e\u3067\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u30ab\u30fc\u30c9\u3092\u9078\u3093\u3067\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306b\u623b\u3059\u300f\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 18,
+            "question": "\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30ab\u30fc\u30c9\u304c\uff11\u679a\u3082\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u300c<<10270>>\u300d\u306e\u300e\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3092\uff11\u3064\u53d6\u308a\u9664\u304d\u3001\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u30de\u30c9\u30eb\u30c1\u30a7\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\u3092\uff12\u679a\u307e\u3067\u9078\u629e\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u9078\u629e\u3057\u305f\u30ab\u30fc\u30c9\u3092\u30c7\u30c3\u30ad\u306b\u623b\u3057\u3001\u623b\u3057\u305f\u30ab\u30fc\u30c9\u306e\u6570\u307e\u3067\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u30ab\u30fc\u30c9\u3092\u9078\u3093\u3067\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306b\u623b\u3059\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f \n\n\u307e\u305f\u3001\u300c<<10270>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30ab\u30fc\u30c9\u304c\uff11\u679a\u3082\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3059\u308b\u30ab\u30fc\u30c9\u304c0\u679a\u306e\u5834\u5408\u3001\u300c<<10270>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

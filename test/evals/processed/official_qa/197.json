@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4348,
+        4922,
+        5350
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Each player starts the duel with 8000 Life Points, but there is no upper limit to the life points a player can obtain. Even if you have 8000 Life Points, you can activate cards or effects that increase life points. (The effect will resolve as usual, and the player will gain Life Points.)",
+            "id": 197,
+            "question": "While my Life Points are 8000, can I activate a card or effect that would increase my Life Points, such as \"Dian Keto the Cure Master\", \"Emergency Provisions\" or \"Nimble Momonga\"?",
+            "thisSrc": {
+                "date": "2019-11-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can a player gain Life Points if they have 8000 Life Points?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u30c7\u30e5\u30a8\u30eb\u958b\u59cb\u6642\u306b\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u6301\u3064\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u306f\uff18\uff10\uff10\uff10\u3067\u3059\u304c\u3001\u305d\u306e\uff18\uff10\uff10\uff10\u306f\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u306e\u4e0a\u9650\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u304c\uff18\uff10\uff10\uff10\u306e\u72b6\u614b\u3067\u3082\u3001\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u56de\u5fa9\u3059\u308b\u30ab\u30fc\u30c9\u3084\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\uff08\u51e6\u7406\u3082\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u3001\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u304c\u56de\u5fa9\u3057\u307e\u3059\u3002\uff09",
+            "id": 197,
+            "question": "\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u304c\uff18\uff10\uff10\uff10\u306e\u6642\u3001\u300c<<4348>>\u300d\u300c<<5350>>\u300d\u300c<<4922>>\u300d\u306a\u3069\u3001\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u56de\u5fa9\u3059\u308b\u30ab\u30fc\u30c9\u3084\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u304c\uff18\uff10\uff10\uff10\u306e\u6642\u3001\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u56de\u5fa9\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Basic Rules"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "cards": [
+        6682,
+        6695,
+        6707,
+        7858
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "As it turns out, 'you cannot banish' beats 'you must banish'",
+                "date": "2020-04-08",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "Even if the effect of\u00a0Imperial Iron Wall is applied, a Set\u00a0Macro Cosmos can be activated.\nAlso, when the effects of both\u00a0Imperial Iron Wall and\u00a0Macro Cosmos, etc., are applied, cards sent to the Graveyard will not be banished and are sent to the Graveyard normally.",
+            "id": 7460,
+            "question": "Even if\u00a0Imperial Iron Wall is face-up on the field, can a Set Macro Cosmos be activated?\nIf it can be activated, will cards sent to the Graveyard be banished when the effect of Imperial Iron Wall as well as that of Macro Cosmos,\u00a0Banisher of the Radiance, or\u00a0Dimensional Fissure are applied?",
+            "thisSrc": {
+                "date": "2020-04-08",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "If\u00a0Imperial Iron Wall and\u00a0Macro Cosmos are applied, will cards be sent to the Graveyard or banished instead?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<7858>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u30bb\u30c3\u30c8\u3055\u308c\u3066\u3044\u308b\u300c<<6682>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\u307e\u305f\u3001\u300c<<7858>>\u300d\u3068\u300c<<6682>>\u300d\u7b49\u306e\u52b9\u679c\u304c\u305d\u308c\u305e\u308c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u5893\u5730\u306b\u9001\u3089\u308c\u308b\u30ab\u30fc\u30c9\u306f\u9664\u5916\u3055\u308c\u305a\u3001\u5893\u5730\u306b\u9001\u3089\u308c\u307e\u3059\u3002",
+            "id": 7460,
+            "question": "\u300c<<7858>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u30bb\u30c3\u30c8\u3057\u3066\u3042\u308b\u300c<<6682>>\u300d\u3092\u8868\u5074\u8868\u793a\u306b\u3057\u3066\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\n\u307e\u305f\u3001\u767a\u52d5\u3067\u304d\u308b\u5834\u5408\u3001\u300c<<7858>>\u300d\u3068\u300c<<6682>>\u300d\u3084\u300c<<6695>>\u300d\u3001\u300c<<6707>>\u300d\u304c\u3001\u305d\u308c\u305e\u308c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u6642\u306b\u3001\u5893\u5730\u306b\u9001\u3089\u308c\u308b\u30ab\u30fc\u30c9\u306f\u3001\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<7858>>\u300d\u3068\u300c<<6682>>\u300d\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u5893\u5730\u306b\u9001\u3089\u308c\u308b\u30ab\u30fc\u30c9\u306f\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap",
+        "o:\"(a card) cannot be (...)\"",
+        "o:Banishing",
+        "o:Card Movement Redirection",
+        "o:Important Precedent"
+    ]
+}

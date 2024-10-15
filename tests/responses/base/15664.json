@@ -1,6 +1,0 @@
-{
-    "title": "The effect of a Superheavy Samurai Blowtorch in the hand was activated, targeting a Superheavy Samurai Blue Brawler.  If the effect of Enemy Controller to switch control or Compulsory Evacuation Device are activated so that Superheavy Samurai Blue Brawler is no longer on your side of the field, how does this resolve?",
-    "question": "The effect of a Superheavy Samurai Blowtorch in the hand was activated, targeting a Superheavy Samurai Blue Brawler.\n\nIf the effect of Enemy Controller to switch control or Compulsory Evacuation Device are activated so that Superheavy Samurai Blue Brawler is no longer on your side of the field, how does this resolve?",
-    "answer": "If at the time of the resolution of the effect of Superheavy Samurai Blowtorch the targeted Superheavy Samurai Blue Brawler has been returned to the hand by the effect of Compulsory Evacuation Device or has switched control by the effect of Enemy Controller, so that it cannot be targeted for an attack, the effect of Superheavy Samurai Blowtorch is not applied.",
-    "llm_answer": "The effect of Superheavy Samurai Blowtorch will not resolve because its target, Superheavy Samurai Blue Brawler, is no longer on your side of the field when the effect tries to resolve. The effect targets a specific card and if that card is not in the expected position, the effect cannot apply."
-}

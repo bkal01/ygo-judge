@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6770,
+        7574,
+        11183
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When resolving <<11183>>, you proceed to and perform damage calculation with its effect. Therefore, it is not possible to activate effects like <<7574>> or <<6770>>.",
+            "id": 13266,
+            "question": "If <<11183>> activates its effect and damage calculation is performed, is it possible to use the effects of <<7574>> or <<6770>> during this battle?",
+            "thisSrc": {
+                "date": "2014-05-30",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<11183>> activates its effect and damage calculation is performed, is it possible to use the effects of <<7574>> or <<6770>> during this battle?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11183>>\u300d\u306e\u52b9\u679c\u3067\u300e\u305d\u306e\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u5bfe\u8c61\u3092\u3053\u306e\u30ab\u30fc\u30c9\u306b\u79fb\u3057\u66ff\u3048\u3066\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u3092\u884c\u3046\u300f\u5834\u5408\u3001\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u307e\u3067\u3092\u52b9\u679c\u51e6\u7406\u306b\u3066\u884c\u3046\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<6770>>\u300d\u3084\u300c<<7574>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 13266,
+            "question": "\u300c<<11183>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u304c\u884c\u308f\u308c\u308b\u5834\u5408\u3001\u300c<<6770>>\u300d\u3084\u300c<<7574>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11183>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u304c\u884c\u308f\u308c\u308b\u5834\u5408\u3001\u300c<<6770>>\u300d\u3084\u300c<<7574>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Damage Step"
+    ]
+}

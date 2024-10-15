@@ -1,0 +1,43 @@
+{
+    "cards": [
+        13307,
+        13308,
+        13309,
+        13310,
+        13311,
+        13312,
+        13313
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in this scenario, you can activate <<13313>>. However, since <<13313>> must Special Summon the targeted banished monster to a Main Monster Zone, you must send a monster from your Main Monster Zone to the Graveyard as the cost when activating it.",
+            "id": 10095,
+            "question": "If I have <<13312>> in my Extra Monster Zone, and <<13307>>, <<13308>>, <<13309>>, <<13310>>, and <<13311>> in my Main Monster Zones, can I activate <<13313>>?",
+            "thisSrc": {
+                "date": "2017-09-04",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If I have <<13312>> in my Extra Monster Zone, and <<13307>>, <<13308>>, <<13309>>, <<13310>>, and <<13311>> in my Main Monster Zones, can I activate <<13313>>?",
+            "tlSrc": {
+                "date": "2017-08-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3067\u3082\u3001\u81ea\u5206\u306f\u300c<<13313>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u305f\u3060\u3057\u3001\u300c<<13313>>\u300d\u306f\u81ea\u5206\u306e\u30e1\u30a4\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u767a\u52d5\u3059\u308b\u969b\u306b\u30b3\u30b9\u30c8\u3068\u3057\u3066\u5893\u5730\u3078\u9001\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u81ea\u5206\u306e\u30e1\u30a4\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002",
+            "id": 10095,
+            "question": "\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u81ea\u5206\u306e\u300c<<13312>>\u300d\u304c\u5b58\u5728\u3057\u3001\u81ea\u5206\u306e\u30e1\u30a4\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<13307>>\u300d\u300c<<13308>>\u300d\u300c<<13309>>\u300d\u300c<<13310>>\u300d\u300c<<13311>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306f\u300c<<13313>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5893\u5730\u3078\u9001\u308a\u3001\u9664\u5916\u3055\u308c\u3066\u3044\u308b\u81ea\u5206\u306e\u300c\u516d\u6b66\u8846\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-08-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u30e1\u30a4\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u7a7a\u304d\u304c\u306a\u3044\u5834\u5408\u3001\u300c<<13313>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

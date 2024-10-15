@@ -1,6 +1,0 @@
-{
-    "title": "If Imperial Iron Wall is face-up in the Spell & Trap Zone, and its effect that prevents players from banishing cards is applying, can I activate the first effect of Linguriboh in response to the activation of an opponent's Trap Card?",
-    "question": "If Imperial Iron Wall is face-up in the Spell & Trap Zone, and its effect that prevents players from banishing cards is applying, can I activate the first effect of Linguriboh in response to the activation of an opponent's Trap Card?",
-    "answer": "If Imperial Iron Wall is already face-up on the field, as in this scenario, the first effect of Linguriboh cannot be activated. Note that if the effect of Imperial Iron Wall is applying when the effect of Lingurboh resolves, the effect of Linguriboh will negate the effect of your opponent's Trap Card, but that card is not banished. (If it is a Normal Trap Card such as Raigeki Break, it is sent to the Graveyard after its effect is negated. If it is a Continuous Trap Card such as Call of the Haunted, the effect is negated, but since it was successfully activated, it remains face-up in the Spell & Trap Zone.)",
-    "llm_answer": "No, you cannot activate the first effect of Linguriboh. Its effect to banish itself and negate a Trap Card cannot be used because Imperial Iron Wall prevents cards from being banished."
-}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        12934,
+        12983
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in this scenario, since <<12983>> was sent from your Spell & Trap Zone to the Graveyard, you can activate its effect.",
+            "id": 11469,
+            "question": "I Tribute Summon a <<12934>> by Tributing a Set <<12983>> in my Spell & Trap Zone. In this case, can I activate the effect of <<12983>> that targets and destroys 1 monster on the field?",
+            "thisSrc": {
+                "date": "2017-01-28",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I Tribute Summon a <<12934>> by Tributing a Set <<12983>> in my Spell & Trap Zone. In this case, can I activate the effect of <<12983>> that targets and destroys 1 monster on the field?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3067\u3082\u3001\u300c<<12983>>\u300d\u306f\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u304b\u3089\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u300c<<12983>>\u300d\u306e\u300e\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 11469,
+            "question": "\u300c<<12934>>\u300d\u3092\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3059\u308b\u969b\u306b\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u8868\u5074\u8868\u793a\u3067\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3059\u308b\u5834\u5408\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u4ee3\u308f\u308a\u306b\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u6c38\u7d9a\u9b54\u6cd5\u30fb\u6c38\u7d9a\u7f60\u30ab\u30fc\u30c9\u3092\u30ea\u30ea\u30fc\u30b9\u3067\u304d\u308b\u300f\u65b9\u6cd5\u306b\u3088\u3063\u3066\u3001\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u30bb\u30c3\u30c8\u3055\u308c\u3066\u3044\u308b\u300c<<12983>>\u300d\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3092\u884c\u3044\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u300c<<12983>>\u300d\u306e\u300e\u2462\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u304b\u3089\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u30bb\u30c3\u30c8\u3055\u308c\u3066\u3044\u308b\u300c<<12983>>\u300d\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u300c<<12934>>\u300d\u3092\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u300c<<12983>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

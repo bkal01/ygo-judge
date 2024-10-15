@@ -1,0 +1,39 @@
+{
+    "cards": [
+        7961,
+        10887
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "<<10887>> is a LIGHT Normal Monster, but even in this case, since <<7961>> battled a LIGHT monster, its effect will activate after damage calculation. A Chain Link will be created, but since <<10887>> is a Normal Monster, no effect is negated.",
+            "id": 7795,
+            "question": "An <<7961>> battles a <<10887>>. After damage calculation, will the effect of <<7961>> activate?",
+            "thisSrc": {
+                "date": "2016-03-10",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "An <<7961>> battles a <<10887>>. After damage calculation, will the effect of <<7961>> activate?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<10887>>\u300d\u306f\u5149\u5c5e\u6027\u306e\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u304c\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3067\u3082\u3001\u300c<<7961>>\u300d\u306f\u5149\u5c5e\u6027\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u305d\u306e\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u5f8c\u306b\u300c<<7961>>\u300d\u306e\u52b9\u679c\u306f\u767a\u52d5\u3057\u3001\u30c1\u30a7\u30fc\u30f3\u30d6\u30ed\u30c3\u30af\u304c\u4f5c\u3089\u308c\u307e\u3059\u304c\u3001\u300c<<10887>>\u300d\u306f\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u306e\u3067\u3001\u7d50\u679c\u7684\u306b\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 7795,
+            "question": "\u300c<<7961>>\u300d\u304c\u300c<<10887>>\u300d\u3068\u6226\u95d8\u3092\u884c\u3044\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u300c<<7961>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u3068\u6226\u95d8\u3092\u884c\u3063\u305f\u5149\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u5f8c\u306b\u7121\u52b9\u5316\u3059\u308b\u300f\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<7961>>\u300d\u304c\u5149\u5c5e\u6027\u306e\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3063\u305f\u5834\u5408\u3001\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u5f8c\u306b\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Damage Step",
+        "k:Normal/Token"
+    ]
+}

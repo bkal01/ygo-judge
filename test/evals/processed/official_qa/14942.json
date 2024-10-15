@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11755
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The monster's Level will remain changed as long as it remains face-up on the field.",
+            "id": 14942,
+            "question": "If a monster's Level is changed by Diceversity, does its Level remain changed indefinitely?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a monster's Level is changed by Diceversity, does its Level remain changed indefinitely?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11755>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u5909\u5316\u3057\u305f\u30ec\u30d9\u30eb\u306f\u3001\u305d\u306e\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u9650\u308a\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 14942,
+            "question": "\u300c<<11755>>\u300d\u306e\u300e\u2460\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u5143\u3005\u306e\u30ec\u30d9\u30eb\u3068\u7570\u306a\u308b\u30ec\u30d9\u30eb\u3092\u6301\u3064\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3053\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u308b\u3002\u30b5\u30a4\u30b3\u30ed\u3092\uff11\u56de\u632f\u308b\u3002\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ec\u30d9\u30eb\u306f\u51fa\u305f\u76ee\u3068\u540c\u3058\u306b\u306a\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u5909\u5316\u3057\u305f\u30ec\u30d9\u30eb\u306f\u3044\u3064\u307e\u3067\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11755>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u5909\u5316\u3057\u305f\u30ec\u30d9\u30eb\u306f\u3044\u3064\u307e\u3067\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "cards": [
+        10441
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if 2 copies of <<10441>> are sent to the Graveyard in the same turn, this effect can only be applied once per turn.",
+            "id": 13049,
+            "question": "If 2 copies of <<10441>> are sent to the Graveyard in the same turn, is it possible to use the effects of each one to reduce the number of Tributes needed for the Normal Summon of an \"lswarm\" monster?",
+            "thisSrc": {
+                "date": "2014-01-30",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If 2 copies of <<10441>> are sent to the Graveyard in the same turn, is it possible to use the effects of each one to reduce the number of Tributes needed for the Normal Summon of an \"lswarm\" monster?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u30012\u4f53\u306e\u300c<<10441>>\u300d\u304c\u540c\u4e00\u30bf\u30fc\u30f3\u306b\u3066\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u308b\u3088\u3046\u306a\u5834\u5408\u3067\u3082\u3001\u300e\u300c\u30f4\u30a7\u30eb\u30ba\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u53ec\u559a\u3059\u308b\u5834\u5408\u306b\u5fc5\u8981\u306a\u30ea\u30ea\u30fc\u30b9\u3092\uff11\u4f53\u5c11\u306a\u304f\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u3002\u300f\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u306e\u306f1\u30bf\u30fc\u30f3\u306b1\u5ea6\u3060\u3051\u3068\u306a\u308a\u307e\u3059\u3002",
+            "id": 13049,
+            "question": "2\u4f53\u306e\u300c<<10441>>\u300d\u304c\u540c\u4e00\u30bf\u30fc\u30f3\u306b\u3066\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306b\u300e\u300c\u30f4\u30a7\u30eb\u30ba\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u53ec\u559a\u3059\u308b\u5834\u5408\u306b\u5fc5\u8981\u306a\u30ea\u30ea\u30fc\u30b9\u3092\uff11\u4f53\u5c11\u306a\u304f\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u3002\u300f\u52b9\u679c\u30922\u56de\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "2\u4f53\u306e\u300c<<10441>>\u300d\u304c\u540c\u4e00\u30bf\u30fc\u30f3\u306b\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u30ea\u30ea\u30fc\u30b9\u30921\u4f53\u5c11\u306a\u304f\u3059\u308b\u52b9\u679c\u30922\u56de\u9069\u7528\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

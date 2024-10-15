@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5323,
+        11795
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If the opponent controls a D/D Pandora that you own, and it battles with a monster with the same ATK and both are destroyed and sent to the Graveyaard, providing that you control no cards, you can activate the effect of the D/D Pandora that was sent from the opponent's Monster Zone to your Graveyard.\n\nAlso, if the opponent controls a D/D Pandora that you own, and it is destroyed and sent to the Graveyard by a card effect, the effect of D/D Pandora cannot be activated.",
+            "id": 15669,
+            "question": "If the opponent controls a face-up Attack Position D/D Pandora you own, it battles with a monster you control and both monsters are destroyed in battle and sent to the Graveyard, can the effect of D/D Pandora be activated?\n\nAlso, if the opponent controls a face-up Attack Position you own, and it is destroyed and sent to the Graveyard by the effect fo your Exiled Force, can the effect of D/D Pandora be activated?",
+            "thisSrc": {
+                "date": "2015-05-01",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the opponent controls a face-up Attack Position D/D Pandora you own, it battles with a monster you control and both monsters are destroyed in battle and sent to the Graveyard, can the effect of D/D Pandora be activated? Also, if the opponent controls a face-up Attack Position you own, and it is destroyed and sent to the Graveyard by the effect fo your Exiled Force, can the effect of D/D Pandora be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u5143\u3005\u306e\u6301\u3061\u4e3b\u304c\u81ea\u5206\u306e\u300c<<11795>>\u300d\u304c\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u3001\u540c\u3058\u653b\u6483\u529b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3046\u7b49\u3067\u4e92\u3044\u306b\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u969b\u306b\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3057\u306a\u3044\u306e\u3067\u3042\u308c\u3070\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u304b\u3089\u81ea\u5206\u306e\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u300c<<11795>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u307e\u305f\u3001\u5143\u3005\u306e\u6301\u3061\u4e3b\u304c\u81ea\u5206\u306e\u300c<<11795>>\u300d\u304c\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u3001\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u81ea\u5206\u306e\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u5834\u5408\u306b\u306f\u300c<<11795>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 15669,
+            "question": "\u5143\u3005\u306e\u6301\u3061\u4e3b\u304c\u81ea\u5206\u306e\u300c<<11795>>\u300d\u304c\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u653b\u6483\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3044\u3001\u4e92\u3044\u306b\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u6642\u306b\u3001\u300c<<11795>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u307e\u305f\u306f\u76f8\u624b\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u6642\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff12\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u5143\u3005\u306e\u6301\u3061\u4e3b\u304c\u81ea\u5206\u306e\u300c<<11795>>\u300d\u304c\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u653b\u6483\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u81ea\u5206\u306e\u300c<<5323>>\u300d\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u6642\u306b\u3001\u300c<<11795>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u307e\u305f\u306f\u76f8\u624b\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u6642\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff12\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u5143\u3005\u306e\u6301\u3061\u4e3b\u304c\u81ea\u5206\u306e\u300c<<11795>>\u300d\u304c\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u3066\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u6642\u3001\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

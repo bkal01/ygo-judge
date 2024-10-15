@@ -1,0 +1,38 @@
+{
+    "cards": [
+        9177,
+        9384
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If you Tribute Summon <<9177>> by Tributing <<9384>> treated as two Tributes, you can then activate the effect of <<9177>>.",
+            "id": 10687,
+            "question": "If I treat <<9384>> as two Tributes for the Tribute Summon of <<9177>>, can I then activate <<9177>>'s effect?",
+            "thisSrc": {
+                "date": "2022-08-29",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If I Tribute <<9384>> to Tribute Summon <<9177>>, can I activate <<9177>>'s effect?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<9384>>\u300d\u3092\u30e2\u30f3\u30b9\u30bf\u30fc2\u4f53\u5206\u3068\u3057\u3066\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u300c<<9177>>\u300d\u306f\u3001\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 10687,
+            "question": "\u300c<<9384>>\u300d\u3092\u30e2\u30f3\u30b9\u30bf\u30fc2\u4f53\u5206\u3068\u3057\u3066\u30ea\u30ea\u30fc\u30b9\u3057\u3001\u300c<<9177>>\u300d\u3092\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300c<<9177>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9384>>\u300d\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u300c<<9177>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

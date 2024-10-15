@@ -1,6 +1,0 @@
-{
-    "title": "While the effect of Planckton is applying, if a Rank 4 or higher monster I control becomes unaffected by Spell/Trap effects due to the effect of Forbidden Lance, can that monster attack?",
-    "question": "While the effect of Planckton is applying, if a Rank 4 or higher monster I control becomes unaffected by Spell/Trap effects due to the effect of Forbidden Lance, can that monster attack?",
-    "answer": "Yes it can, even if Planckton already resolved.",
-    "llm_answer": "Yes, that monster can attack. The effect of **Planckton** that prevents Rank 4 or higher Xyz Monsters from attacking is a Continuous Effect that applies as long as **Planckton** remains face-up on the field. However, **Forbidden Lance** grants the targeted monster immunity from the effects of other Spell/Trap cards, including the attack restriction from **Planckton**. \n\nTherefore, **Forbidden Lance** negates the effect of **Planckton** on the targeted monster, allowing it to attack during that turn despite being a Rank 4 or higher Xyz Monster."
-}

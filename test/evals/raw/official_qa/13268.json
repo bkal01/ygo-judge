@@ -1,0 +1,41 @@
+{
+    "cards": [
+        4041,
+        5432,
+        7491,
+        10326
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "An <<7491>> that has changed its name to <<4041>> can be targeted with <<10326>>. However, if <<5432>> is chained, so that <<7491>> is changed to face-down Defense Position, and name reverts to the original. Because it is not treated as a \"<<4041>>\" monster, <<7491>> is not sent to the Graveyard, and no Fusion Monster is Special Summoned from the Extra Deck.",
+            "id": 13268,
+            "question": "By its own effect, <<7491>> has changed its name to <<4041>>, and is then targeted with <<10326>>. If <<5432>> is chained, so that <<7491>> is changed to face-down Defense Position, how does <<10326>> resolve?",
+            "thisSrc": {
+                "date": "2014-05-30",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "By its own effect, <<7491>> has changed its name to <<4041>>, and is then targeted with <<10326>>. If <<5432>> is chained, so that <<7491>> is changed to face-down Defense Position, how does <<10326>> resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<7491>>\u300d\u304c\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30ab\u30fc\u30c9\u540d\u304c\u300c<<4041>>\u300d\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u300c<<10326>>\u300d\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u5bfe\u8c61\u3068\u3057\u3066\u9078\u629e\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u3057\u304b\u3057\u306a\u304c\u3089\u3001\u300c<<10326>>\u300d\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<5432>>\u300d\u306b\u3088\u3063\u3066\u3001\u305d\u306e\u300c<<7491>>\u300d\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u30ab\u30fc\u30c9\u540d\u306f\u5143\u306b\u623b\u308a\u3001\u300c<<4041>>\u300d\u3068\u3057\u3066\u306f\u6271\u308f\u308c\u307e\u305b\u3093\u306e\u3067\u3001\u305d\u306e\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u300c<<7491>>\u300d\u3092\u5893\u5730\u3078\u9001\u308b\u4e8b\u306f\u3067\u304d\u305a\u3001\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u878d\u5408\u53ec\u559a\u3059\u308b\u4e8b\u3082\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 13268,
+            "question": "\u300c<<7491>>\u300d\u304c\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30ab\u30fc\u30c9\u540d\u304c\u300c<<4041>>\u300d\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u72b6\u6cc1\u306b\u3066\u3001\u305d\u306e\u300c<<7491>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<10326>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\u305d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5432>>\u300d\u304c\u767a\u52d5\u3057\u3001\u305d\u306e\u300c<<7491>>\u300d\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u30ab\u30fc\u30c9\u540d\u304c\u300c<<4041>>\u300d\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u300c<<7491>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<10326>>\u300d\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u300c<<7491>>\u300d\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain",
+        "k:Fusion"
+    ]
+}

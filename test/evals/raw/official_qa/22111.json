@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4818,
+        13209,
+        13364
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, even if your \"Vendread\" monster destroys an opponent's monster by battle with the additional attack gained by the effect of <<13364>>, you can activate the effect of <<13364>> again and have your monster attack another monster after that.",
+            "id": 22111,
+            "question": "There are 4 Sheep Tokens in my opponent's Monster Zone. If my <<13209>> attacks and destroys a Sheep Token by battle while I have <<13364>> in my Spell & Trap Zone, is it possible to continue activating the effect of <<13364>> so that <<13209>> can attack 3 or more Sheep Tokens?",
+            "thisSrc": {
+                "date": "2018-09-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "There are 4 Sheep Tokens in my opponent's Monster Zone. If my <<13209>> attacks and destroys a Sheep Token by battle while I have <<13364>> in my Spell & Trap Zone, is it possible to continue activating the effect of <<13364>> so that <<13209>> can attack 3 or more Sheep Tokens?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u300c<<13364>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7d9a\u3051\u3066\u653b\u6483\u3092\u884c\u3044\u3001\u305d\u306e\u653b\u6483\u3067\u3082\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u6226\u95d8\u3067\u7834\u58ca\u3057\u305f\u5834\u5408\u306b\u306f\u3001\u518d\u3073\u300c<<13364>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u3055\u3089\u306b\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u7d9a\u3051\u3066\u653b\u6483\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 22111,
+            "question": "\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<4818>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f4\u4f53\u306e\u7f8a\u30c8\u30fc\u30af\u30f3\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u306e\u300c<<13364>>\u300d\u304c\u5b58\u5728\u3057\u3001\u81ea\u5206\u306e\u300c<<13209>>\u300d\u306e\u653b\u6483\u30671\u4f53\u306e\u7f8a\u30c8\u30fc\u30af\u30f3\u3092\u6226\u95d8\u3067\u7834\u58ca\u3057\u305f\u969b\u306b\u3001\u300c<<13364>>\u300d\u306e\u300e\u2461\uff1a\u81ea\u5206\u306e\u300c\u30f4\u30a7\u30f3\u30c7\u30c3\u30c8\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u3067\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u305f\u6642\u3001\u81ea\u5206\u306e\u5893\u5730\u304b\u3089\u300c\u30f4\u30a7\u30f3\u30c7\u30c3\u30c8\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9664\u5916\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u7d9a\u3051\u3066\u653b\u6483\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u7d9a\u3051\u3066\u306e\u653b\u6483\u30672\u4f53\u76ee\u306e\u7f8a\u30c8\u30fc\u30af\u30f3\u3092\u6226\u95d8\u3067\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u3055\u3089\u306b\u300c<<13364>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<4818>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f4\u4f53\u306e\u7f8a\u30c8\u30fc\u30af\u30f3\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u300c<<13364>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u30013\u4f53\u4ee5\u4e0a\u306e\u7f8a\u30c8\u30fc\u30af\u30f3\u3092\u653b\u6483\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5432,
+        6869
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If Greed Quasar is flipped to face-down Defense Position, the Level gained by its effect is no longer applied.\n\nEven if it's flipped face-up afterwards, the Level increasement is no longer applied, and remains at the Level written in the card (= 7).",
+            "id": 12096,
+            "question": "Greed Quasar had its Level increased by its own effect.\n\nIf that Greed Quasar is flipped to face-down Defense Position by the effect of Book of Moon, what does its Level become?\n\nAlso, if it's later flipped face-up, what does its Level become?",
+            "thisSrc": {
+                "date": "2015-01-22",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Greed Quasar had its Level increased by its own effect.  If that Greed Quasar is flipped to face-down Defense Position by the effect of Book of Moon, what does its Level become?  Also, if it's later flipped face-up, what does its Level become?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<6869>>\u300d\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u4e0a\u304c\u3063\u305f\u30ec\u30d9\u30eb\u306f\u9069\u7528\u3055\u308c\u306a\u304f\u306a\u308a\u307e\u3059\u3002\n\n\u305d\u306e\u5f8c\u306b\u518d\u3073\u8868\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u969b\u3082\u3001\u305d\u308c\u307e\u3067\u306b\u4e0a\u304c\u3063\u3066\u3044\u305f\u30ec\u30d9\u30eb\u304c\u518d\u3073\u9069\u7528\u3055\u308c\u308b\u4e8b\u306f\u306a\u304f\u3001\u30ab\u30fc\u30c9\u306b\u8a18\u8f09\u3055\u308c\u305f\u5143\u3005\u306e\u30ec\u30d9\u30eb\uff08\uff1d\uff17\uff09\u306e\u72b6\u614b\u306e\u307e\u307e\u3067\u3059\u3002",
+            "id": 12096,
+            "question": "\u300c<<6869>>\u300d\u304c\u3001\u81ea\u8eab\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306e\u30ec\u30d9\u30eb\u306f\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3067\u7834\u58ca\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5143\u3005\u306e\u30ec\u30d9\u30eb\u5206\u3060\u3051\u4e0a\u304c\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u30ec\u30d9\u30eb\u304c\u4e0a\u304c\u3063\u3066\u3044\u308b\u72b6\u6cc1\u3067\u3059\u3002\n\n\u305d\u306e\u300c<<6869>>\u300d\u304c\u300c<<5432>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u30ec\u30d9\u30eb\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f\n\u307e\u305f\u3001\u305d\u306e\u5f8c\u3001\u518d\u3073\u8868\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u969b\u306b\u3001\u30ec\u30d9\u30eb\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30ec\u30d9\u30eb\u306e\u4e0a\u304c\u3063\u3066\u3044\u308b\u300c<<6869>>\u300d\u306b\u300c<<5432>>\u300d\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u30ec\u30d9\u30eb\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

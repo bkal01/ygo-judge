@@ -1,0 +1,49 @@
+{
+    "cards": [
+        7143,
+        12159
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "Activation legality for attempting to take control",
+                "date": "2021-11-08",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "When resolving that effect of Goyo King, you cannot choose a Botanical Lion whose effect is applying, as control of it cannot switch.\n\n(As a result, if the only monster your opponent controls is that Botanical Lion, you cannot activate the effect of Goyo King that takes control of your opponent's monster.)",
+            "id": 17477,
+            "question": "When my Goyo King destroys an opponent's monster by battle, I activate its effect and to take control of my opponent's monster. Can I choose a Botanical Lion as the monster to take control of?",
+            "thisSrc": {
+                "date": "2021-11-08",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can I choose Botanical Lion as the monster to take control of using Goyo King's effect?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<12159>>\u300d\u306e\u300e\u25cf\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u3093\u3067\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5f97\u308b\u300f\u52b9\u679c\u3067\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5f97\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5909\u66f4\u3059\u308b\u4e8b\u306f\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u3092\u6301\u3064\u300c<<7143>>\u300d\u3092\u9078\u3076\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\uff08\u3057\u305f\u304c\u3063\u3066\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u300c<<7143>>\u300d\u306e\u307f\u306e\u5834\u5408\u306b\u306f\u3001\u300e\u25cf\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u3093\u3067\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5f97\u308b\u300f\u52b9\u679c\u3092\u9078\u629e\u3057\u3066\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\uff09",
+            "id": 17477,
+            "question": "\u300c<<12159>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3067\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u5893\u5730\u3078\u9001\u3063\u305f\u6642\u3001\u4ee5\u4e0b\u306e\u52b9\u679c\u304b\u3089\uff11\u3064\u3092\u9078\u629e\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u300e\u25cf\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u3093\u3067\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5f97\u308b\u300f\u52b9\u679c\u3092\u9078\u629e\u3057\u305f\u5834\u5408\u3001\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5f97\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u300c<<7143>>\u300d\u3092\u9078\u3076\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12159>>\u300d\u306e\u52b9\u679c\u3067\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5f97\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u300c<<7143>>\u300d\u3092\u9078\u3079\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro",
+        "o:Important Precedent"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4737,
+        11646,
+        11647
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can.",
+            "id": 14740,
+            "question": "If my Relinquished is equipped with Tristan, Knight of the Underworld, can I Special Summon Isolde, Belle of the Underworld with its first effect?",
+            "thisSrc": {
+                "date": "2014-12-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If my Relinquished is equipped with Tristan, Knight of the Underworld, can I Special Summon Isolde, Belle of the Underworld with its first effect?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u3059\u3002",
+            "id": 14740,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c<<4737>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u88c5\u5099\u9b54\u6cd5\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u308b\u300c<<11646>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u300c<<11647>>\u300d\u3092\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c<<11646>>\u300d\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306f\u624b\u672d\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3067\u304d\u308b\u300f\u65b9\u6cd5\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<4737>>\u300d\u306e\u88c5\u5099\u30ab\u30fc\u30c9\u3068\u306a\u3063\u3066\u3044\u308b\u300c<<11646>>\u300d\u304c\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u300c<<11647>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

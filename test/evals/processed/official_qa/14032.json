@@ -1,0 +1,39 @@
+{
+    "cards": [
+        11353,
+        11540,
+        14983
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot.\n\nWhen activating Pendulum Xyz, you must currently be able to perform an Xyz Summon using the targeted monsters when this card is activated. It is not enough to be able to Xyz Summon by the time you reach that point in the effect's resolution.\n\nAs there is a \"Qliphort\" monster in your Pendulum Zone, its effect is currently preventing you from Special Summoning monsters, except \"Qli\" monsters. You will thus only be able to activate \"Pendulum Xyz\" if there is an appropriate \"Qli\" monster you could Xyz Summon using the targeted monsters.\n\nAs there are no \"Qli\" Xyz monsters, Pendulum Xyz cannot be activated in this situation.",
+            "id": 14032,
+            "question": "Can I activate Pendulum Xyz by targeting Qliphort Scout and Qliphort Monolith in my Pendulum Zones?",
+            "thisSrc": {
+                "date": "2020-10-31",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "Can I activate Pendulum Xyz by targeting two \"Qliphort\" monsters?",
+            "tlSrc": {
+                "date": "2020-10-28",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u300c<<14983>>\u300d\u306e\u767a\u52d5\u306b\u969b\u3057\u3066\u306f\u3001\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u307e\u3067\u51e6\u7406\u3092\u884c\u3048\u308b\u72b6\u6cc1\u3067\u3042\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002\u306a\u304a\u3001\u3053\u306e\u72b6\u6cc1\u3068\u306f\u3001\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3059\u308b\u76f4\u524d\u306e\u72b6\u6cc1\u3067\u306f\u306a\u304f\u3001\u300c<<14983>>\u300d\u306e\u767a\u52d5\u6642\u306e\u72b6\u6cc1\u3092\u6307\u3057\u307e\u3059\u3002\n\n\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u300c\u30af\u30ea\u30d5\u30a9\u30fc\u30c8\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u3001\u305d\u306e\u300e\u2460\uff1a\u81ea\u5206\u306f\u300c\u30af\u30ea\u30d5\u30a9\u30fc\u30c8\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304b\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u3002\u3053\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u5bfe\u8c61\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306e\u300c\u30af\u30ea\u30d5\u30a9\u30fc\u30c8\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3057\u3001\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u300c\u30af\u30ea\u30d5\u30a9\u30fc\u30c8\u300d\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3067\u304d\u308b\u72b6\u6cc1\u3067\u306e\u307f\u3001\u300c<<14983>>\u300d\u3092\u767a\u52d5\u3067\u304d\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u300c\u30af\u30ea\u30d5\u30a9\u30fc\u30c8\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u5b58\u5728\u3057\u307e\u305b\u3093\u306e\u3067\u3001\u305d\u306e\u72b6\u6cc1\u3067\u300c<<14983>>\u300d\u3092\u767a\u52d5\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 14032,
+            "question": "\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306e\u300c<<11353>>\u300d\u3068\u300c<<11540>>\u300d\u3092\u5bfe\u8c61\u306b\u3001\u300c<<14983>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2020-10-28",
+                "type": 0
+            },
+            "title": "\u300c\u30af\u30ea\u30d5\u30a9\u30fc\u30c8\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff12\u4f53\u3092\u5bfe\u8c61\u306b\u300c<<14983>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

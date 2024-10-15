@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4905,
+        5355,
+        11071
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The ATK halved by the effect of <<5355>> is treated as the Original ATK.\n\nTherefore, the effect of <<11071>> that destroys a monster with an ATK different than its Original ATK cannot be activated targeting a monster that has only been affected by the effect of <<5355>>.\n\n(If the monster affected by shrink is later affected by <<4905>> as well, since it is treated as a monster with an ATK different than its Original ATK, the effect of <<11071>> can be activated targeting that monster)",
+            "id": 13345,
+            "question": "Can the effect of <<11071>> that destroys a monster with a different ATK than its Original ATK be activated targeting a monster whose ATK has been halved by the effect of <<5355>>?\n\nAlso, can the effect of <<11071>> be activated targeting a monster whose ATK has been halved by the effect of <<5355>> and then affected by <<4905>>?",
+            "thisSrc": {
+                "date": "2014-07-10",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can the effect of <<11071>> that destroys a monster with a different ATK than its Original ATK be activated targeting a monster whose ATK has been halved by the effect of <<5355>>?  Also, can the effect of <<11071>> be activated targeting a monster whose ATK has been halved by the effect of <<5355>> and then affected by <<4905>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<5355>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u534a\u5206\u306b\u306a\u3063\u305f\u653b\u6483\u529b\u306f\u5143\u3005\u306e\u653b\u6483\u529b\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<5355>>\u300d\u306e\u307f\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u5143\u3005\u306e\u653b\u6483\u529b\u304c\u534a\u5206\u306b\u306a\u3063\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u300e\u5143\u3005\u306e\u653b\u6483\u529b\u3068\u7570\u306a\u308b\u653b\u6483\u529b\u3092\u6301\u3064\u30e2\u30f3\u30b9\u30bf\u30fc\u300f\u3068\u3057\u3066\u306f\u6271\u308f\u308c\u307e\u305b\u3093\u306e\u3067\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u300c<<11071>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\uff08\u300c<<5355>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u305d\u306e\u5f8c\u3001\u3055\u3089\u306b\u300c<<4905>>\u300d\u7b49\u306e\u52b9\u679c\u3082\u53d7\u3051\u308b\u5834\u5408\u306b\u306f\u3001\u300e\u5143\u3005\u306e\u653b\u6483\u529b\u3068\u7570\u306a\u308b\u653b\u6483\u529b\u3092\u6301\u3064\u30e2\u30f3\u30b9\u30bf\u30fc\u300f\u3068\u3057\u3066\u306f\u6271\u308f\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u300c<<11071>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\uff09",
+            "id": 13345,
+            "question": "\u300c<<5355>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u653b\u6483\u529b\u304c\u534a\u5206\u306b\u306a\u3063\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u300c<<11071>>\u300d\u306e\u300e\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3092\uff11\u3064\u53d6\u308a\u9664\u304d\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u653b\u6483\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u3001\u5143\u3005\u306e\u653b\u6483\u529b\u3068\u7570\u306a\u308b\u653b\u6483\u529b\u3092\u6301\u3064\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u629e\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u9078\u629e\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u3001\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\uff11\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<5355>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u653b\u6483\u529b\u304c\u534a\u5206\u306b\u306a\u3063\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u300c<<4905>>\u300d\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u300c<<11071>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5355>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u300c<<11071>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

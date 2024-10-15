@@ -1,0 +1,39 @@
+{
+    "cards": [
+        7752,
+        12910
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "After a Pendulum Summoned <<12910>> is changed to face-down Defense Position by the effect of <<7752>>, it is not treated as a monster that was Special Summoned by Pendulum Summon. Therefore, when using that <<12910>> as a <<9241>> monster, it is not banished and is added face-up to the Extra Deck.",
+            "id": 9238,
+            "question": "When I Pendulum Summon a <<12910>>, my opponent activates <<7752>>. After its effect resolves, and <<12910>> is changed to face-down Defense Position, it is later flipped face-up again. If <<12910>> is then used as a <<9241>> monster, will it be banished?",
+            "thisSrc": {
+                "date": "2017-01-12",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When I Pendulum Summon a <<12910>>, my opponent activates <<7752>>. After its effect resolves, and <<12910>> is changed to face-down Defense Position, it is later flipped face-up again. If <<12910>> is then used as a <<9241>> monster, will it be banished?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u5f8c\u306b\u300c<<7752>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u300c<<12910>>\u300d\u306f\u3001\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u306f\u6271\u308f\u308c\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u305d\u306e\u5f8c\u306b\u300c<<12910>>\u300d\u3092\u30b7\u30f3\u30af\u30ed\u7d20\u6750\u3068\u3057\u3066\u4f7f\u7528\u3057\u3001\u30b7\u30f3\u30af\u30ed\u53ec\u559a\u3092\u884c\u3063\u305f\u5834\u5408\u306b\u306f\u3001\u300eP\u53ec\u559a\u3057\u305f\u3053\u306e\u30ab\u30fc\u30c9\u306f\u3001S\u53ec\u559a\u306b\u4f7f\u7528\u3055\u308c\u305f\u5834\u5408\u306b\u9664\u5916\u3055\u308c\u308b\u300f\u306f\u9069\u7528\u3055\u308c\u305a\u3001\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u8868\u5074\u8868\u793a\u3067\u52a0\u308f\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 9238,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<12910>>\u300d\u304c\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u306b\u3001\u76f8\u624b\u304c\u300c<<7752>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u300c<<12910>>\u300d\u306f\u300c<<7752>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306b\u3088\u3063\u3066\u3001\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5f8c\u3001\u8868\u5074\u8868\u793a\u306b\u623b\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u5f8c\u3001\u305d\u306e\u300c<<12910>>\u300d\u3092\u30b7\u30f3\u30af\u30ed\u7d20\u6750\u3068\u3057\u3066\u4f7f\u7528\u3059\u308b\u5834\u5408\u3001\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3055\u308c\u305f\u300c<<12910>>\u300d\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u308a\u3001\u305d\u306e\u5f8c\u306b\u30b7\u30f3\u30af\u30ed\u7d20\u6750\u3068\u3057\u3066\u4f7f\u7528\u3055\u308c\u308b\u5834\u5408\u3001\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Pendulum",
+        "k:Synchro"
+    ]
+}

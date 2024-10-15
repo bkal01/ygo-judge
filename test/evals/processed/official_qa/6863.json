@@ -1,0 +1,48 @@
+{
+    "cards": [
+        7858,
+        9547,
+        9952,
+        11539,
+        11707,
+        12106,
+        12849,
+        13203,
+        13878,
+        15593,
+        15851,
+        16228
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot.\n\nHowever, do note that Invoked Mechaba's effect can be activated in response to the Trap Card activation of Imperial Iron Wall. (If you do, the activation of Imperial Iron Wall will be negated, and Imperial Iron Wall will be banished.)\n\nSimilarly, the following effects also cannot be activated if a\u300ecards cannot be banished\u300feffect is applying:\n\u2022 Nekroz of Areadbhair's \u2461nd effect\n\u2022 Dragunity Knight - Areadbhair's \u2460st and \u2461nd effects\n\u2022 Shooting Majestic Star Dragon's \u2462rd effect\n\u2022 Gameciel, the Sea Turtle Kaiju's \u2463th effect\n\u2022 Infernoid Onuncu's \u2461nd effect\n\n\u2022 Infernoid Devyaty's \u2461nd effect\n\u2022 The Huge Revolution is Over\n\n\u2022 Cynet Conflict\n\u2022 Debunk\n\u2022 Tri-Gate Wizard's\u300e\u25cf3:\u300feffect",
+            "id": 6863,
+            "question": "The\u300eneither player can banish cards\u300feffect of Imperial Iron Wall is applying. Can I activate Invoked Mechaba's\u300enegate the activation, and if you do, banish that card\u300feffect?",
+            "thisSrc": {
+                "date": "2023-12-10",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can Invoked Mechaba's effect be activated while Imperial Iron Wall's effect is applying?",
+            "tlSrc": {
+                "date": "2024-02-12",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u306a\u304a\u3001\u300c<<7858>>\u300d\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<12849>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u3059\u3002\n\u305d\u306e\u5834\u5408\u3001\u300c<<12849>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u300c<<7858>>\u300d\u306e\u767a\u52d5\u306f\u7121\u52b9\u306b\u306a\u308a\u3001\u305d\u306e\u300c<<7858>>\u300d\u306f\u9664\u5916\u3055\u308c\u307e\u3059\u3002\n\n\u4ee5\u4e0b\u306e\u52b9\u679c\u306b\u3064\u3044\u3066\u3082\u540c\u69d8\u306b\u3001\u300e\u9664\u5916\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u72b6\u6cc1\u3067\u306f\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\n\u300c<<15851>>\u300d\u306e\u2461\n\u300c<<15593>>\u300d\u306e\u2460\u3068\u2461\n\u300c<<16228>>\u300d\u306e\u2462\n\u300c<<12106>>\u300d\u306e\u2463\n\u300c<<11539>>\u300d\u306e\u2461\n\u300c<<11707>>\u300d\u306e\u2461\n\u300c<<9952>>\u300d\n\u300c<<13878>>\u300d\n\u300c<<9547>>\u300d\n\u300c<<13203>>\u300d\u306e\u300e\u25cf\uff13\u4f53\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u9b54\u6cd5\u30fb\u7f60\u30fb\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u304c\u767a\u52d5\u3057\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u9664\u5916\u3059\u308b\u300f\u52b9\u679c",
+            "id": 6863,
+            "question": "\u300c<<7858>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u304a\u4e92\u3044\u306b\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u300c<<12849>>\u300d\u306e\u300e\u2460\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u30fb\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u304c\u767a\u52d5\u3057\u305f\u6642\u3001\u305d\u306e\u30ab\u30fc\u30c9\u3068\u540c\u3058\u7a2e\u985e\uff08\u30e2\u30f3\u30b9\u30bf\u30fc\u30fb\u9b54\u6cd5\u30fb\u7f60\uff09\u306e\u624b\u672d\u3092\uff11\u679a\u5893\u5730\u3078\u9001\u3063\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-02-12",
+                "type": 0
+            },
+            "title": "\u300c<<7858>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<12849>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

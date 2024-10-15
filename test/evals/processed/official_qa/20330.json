@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4090,
+        6834
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, since the battle damage you would take is 1380, you must send 3 cards from the top of your Deck to the Graveyard to reduce that damage to 0.",
+            "id": 20330,
+            "question": "My opponent's face-up Attack Position Reaper of the Cards with 1380 ATK declares a direct attack. During damage calculation, if I activate Power Wall, how many cards do I sent from the top of my Deck to the Graveyard with its effect?",
+            "thisSrc": {
+                "date": "2016-12-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "My opponent's face-up Attack Position Reaper of the Cards with 1380 ATK declares a direct attack. During damage calculation, if I activate Power Wall, how many cards do I sent from the top of my Deck to the Graveyard with its effect?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u81ea\u5206\u304c\u53d7\u3051\u308b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f1380\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300e\u81ea\u5206\u3078\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u304c\uff10\u306b\u306a\u308b\u3088\u3046\u306b\uff15\uff10\uff10\u30c0\u30e1\u30fc\u30b8\u306b\u3064\u304d\uff11\u679a\u300f\u3001\u3064\u307e\u308a\u30013\u679a\u306e\u30ab\u30fc\u30c9\u3092\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u306e\u4e0a\u304b\u3089\u5893\u5730\u3078\u9001\u308b\u4e8b\u304c\u3067\u304d\u308b\u72b6\u614b\u3067\u3042\u308c\u3070\u3001\u300c<<6834>>\u300d\u3092\u767a\u52d5\u3057\u3001\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 20330,
+            "question": "\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u653b\u6483\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u3001\u653b\u6483\u529b\u304c1380\u306e\u300c<<4090>>\u300d\u304c\u76f4\u63a5\u653b\u6483\u3092\u5ba3\u8a00\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306b\u3001\u81ea\u5206\u306f\u300c<<6834>>\u300d\u306e\u300e\u2460\uff1a\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u306b\u3088\u3063\u3066\u81ea\u5206\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u6226\u95d8\u3067\u767a\u751f\u3059\u308b\u81ea\u5206\u3078\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u304c\uff10\u306b\u306a\u308b\u3088\u3046\u306b\uff15\uff10\uff10\u30c0\u30e1\u30fc\u30b8\u306b\u3064\u304d\uff11\u679a\u3001\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u306e\u4e0a\u304b\u3089\u30ab\u30fc\u30c9\u3092\u5893\u5730\u3078\u9001\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u306e\u300c<<4090>>\u300d\u304c\u76f4\u63a5\u653b\u6483\u3092\u5ba3\u8a00\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306b\u300c<<6834>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Damage Step"
+    ]
+}

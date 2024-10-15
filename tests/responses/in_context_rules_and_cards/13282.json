@@ -1,6 +1,0 @@
-{
-    "title": "If Shaddoll Falco is flipped face-up, can it use its effect to Special Summon El Shaddoll Winda or El Shaddoll Construct?",
-    "question": "If Shaddoll Falco is flipped face-up, can it use its effect to Special Summon El Shaddoll Winda or El Shaddoll Construct?",
-    "answer": "Yes, you can target a Fusion Monster with Shaddoll Falco's effect, so El Shaddoll Winda or El Shaddoll Construct can be Special Summoned.",
-    "llm_answer": "No, **Shaddoll Falco** cannot use its effect to Special Summon **El Shaddoll Winda** or **El Shaddoll Construct** from the Graveyard. \n\n**Reasoning:** The effect of Shaddoll Falco allows it to target and Special Summon a \"Shaddoll\" monster from the Graveyard, but both **El Shaddoll Winda** and **El Shaddoll Construct** have the condition \"Must first be Fusion Summoned.\" This means they must be Special Summoned by a Fusion Summon first, and then if they are sent to the Graveyard, they can be Special Summoned by other card effects. Since they have not been properly Fusion Summoned initially, they cannot be targeted by Shaddoll Falco's effect for a Special Summon.\n\n**Resolution:** Shaddoll Falco's effect would not resolve if it targets either El Shaddoll Winda or El Shaddoll Construct for a Special Summon from the Graveyard."
-}

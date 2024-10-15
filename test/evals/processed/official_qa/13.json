@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4905,
+        5408
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, Rush Recklessly will increase Des Volstgalph's ATK by 700, and its resolution will cause Des Volstgalph to gain 200 ATK by its own effect, for a total of 2200 + 700 + 200 = 3100.",
+            "id": 13,
+            "question": "If Des Volstgalph is battling and Rush Recklessly is activated targeting it during the Damage Step, what happens to its ATK?",
+            "thisSrc": {
+                "date": "2020-10-31",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "If Des Volstgalph is battling and Rush Recklessly is activated targeting it during the Damage Step, what happens to its ATK?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<5408>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u81ea\u5206\u307e\u305f\u306f\u76f8\u624b\u304c\u901a\u5e38\u30fb\u901f\u653b\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u767a\u52d5\u3059\u308b\u5ea6\u306b\u3001\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u3053\u306e\u30ab\u30fc\u30c9\u306e\u653b\u6483\u529b\u306f\uff12\uff10\uff10\u305a\u3064\u30a2\u30c3\u30d7\u3059\u308b\u300f\u52b9\u679c\u3082\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u30012200+700+200\uff1d3100\u306e\u653b\u6483\u529b\u306b\u3066\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u3092\u884c\u3046\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 13,
+            "question": "\u300c<<5408>>\u300d\u304c\u6226\u95d8\u3092\u884c\u3046\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u524d\u306b\u3066\u3001\u300c<<4905>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c<<5408>>\u300d\u306e\u653b\u6483\u529b\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5408>>\u300d\u304c\u6226\u95d8\u3092\u884c\u3046\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u306b\u300c<<4905>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Damage Step"
+    ]
+}

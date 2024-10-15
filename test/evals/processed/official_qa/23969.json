@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4340,
+        12067,
+        12070,
+        17047
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can. When this Chain then resolves, both PSY-Framegear Gamma and PSY-Frame Driver are Special Summoned, the activation of Ocean Dragon Lord - Kairyu-Shin's effect is negated, and Ocean Dragon Lord - Kairyu-Shin is destroyed. (Both PSY-Framegear Gamma and PSY-Frame Driver remain on the field.)",
+            "id": 23969,
+            "question": "My opponent controls both Umi and Ocean Dragon Lord - Kairyu-Shin, whose\u300eeach player can only control 1 face-up non-WATER monster.\u300feffect is applying. I control no monsters.\n\nIf my opponent now activates Ocean Dragon Lord - Kairyu-Shin's \u2461nd effect, can I activate the\u300eSpecial Summon both this card from your hand and 1 \"PSY-Frame Driver\" from your hand, Deck, or Graveyard, and if you do, negate that activation, and if you do that, destroy that monster.\u300feffect of a PSY-Framegear Gamma in my hand in response?",
+            "thisSrc": {
+                "date": "2023-05-13",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can the effect of PSY-Framegear Gamma be activated while Ocean Dragon Lord - Kairyu-Shin's \u2460st effect is applying?",
+            "tlSrc": {
+                "date": "2023-05-13",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\u305d\u306e\u51e6\u7406\u6642\u306b\u306f\u300c<<12070>>\u300d\u300c<<12067>>\u300d\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u3001\u300c<<17047>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306f\u7121\u52b9\u306b\u306a\u308a\u7834\u58ca\u3055\u308c\u307e\u3059\u3002\uff08\u300c<<12070>>\u300d\u3068\u300c<<12067>>\u300d\u306f\u3069\u3061\u3089\u3082\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u6b8b\u308a\u307e\u3059\u3002\uff09",
+            "id": 23969,
+            "question": "\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u8868\u5074\u8868\u793a\u306e\u300c<<4340>>\u300d\u3068\u300c<<17047>>\u300d\u304c\u5b58\u5728\u3057\u3001\u305d\u306e\u2460\u306e\u300e\u6c34\u5c5e\u6027\u4ee5\u5916\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u304a\u4e92\u3044\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u305d\u308c\u305e\u308c\uff11\u4f53\u3057\u304b\u5b58\u5728\u3067\u304d\u306a\u3044\uff08\u304a\u4e92\u3044\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u81ea\u8eab\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u6c34\u5c5e\u6027\u4ee5\u5916\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\uff12\u4f53\u4ee5\u4e0a\u5b58\u5728\u3059\u308b\u5834\u5408\u306b\u306f\u3001\uff11\u4f53\u306b\u306a\u308b\u3088\u3046\u306b\u5893\u5730\u3078\u9001\u3089\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\uff09\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u306f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u5b58\u5728\u3057\u3066\u3044\u307e\u305b\u3093\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u76f8\u624b\u304c\u300c<<17047>>\u300d\u306e\u2461\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u6642\u3001\u81ea\u5206\u306f\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<12070>>\u300d\u306e\u2460\u306e\u300e\u624b\u672d\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3068\u81ea\u5206\u306e\u624b\u672d\u30fb\u30c7\u30c3\u30ad\u30fb\u5893\u5730\u306e\u300c<<12067>>\u300d\uff11\u4f53\u3092\u9078\u3093\u3067\u7279\u6b8a\u53ec\u559a\u3057\u3001\u305d\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-05-13",
+                "type": 0
+            },
+            "title": "\u300c<<17047>>\u300d\u306e\u300e\u2460\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u72b6\u6cc1\u3067\u3001\u300c<<12070>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

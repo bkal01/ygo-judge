@@ -1,0 +1,53 @@
+{
+    "cards": [
+        5544,
+        11134,
+        13020
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "Changing from only-Spell to only-Monster creates a new copy",
+                "date": "2021-08-31",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "Catmaster0"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, when Raigeki Break resolves, the targeted Stargazer Magician will be in your Monster Zone due to the effect of Pendulum Switch. In this case, Stargazer Magician is no longer treated as the same card that was targeted by Raigeki Break, so it is not destroyed.",
+            "id": 9328,
+            "question": "Stargazer Magician is in my Pendulum Zone, and Pendulum Switch is face-up in my Spell & Trap Zone. In this situation, if my opponent activates Raigeki Break and targets Stargazer Magician, but I chain the effect of Pendulum Switch that Special Summons it from the Pendulum Zone, what happens?",
+            "thisSrc": {
+                "date": "2018-01-12",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Stargazer Magician is in my Pendulum Zone, and Pendulum Switch is face-up in my Spell & Trap Zone. In this situation, if my opponent activates Raigeki Break and targets Stargazer Magician, but I chain the effect of Pendulum Switch that Special Summons it from the Pendulum Zone, what happens?",
+            "tlSrc": {
+                "date": "2018-01-11",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u30c1\u30a7\u30fc\u30f32\u3067\u767a\u52d5\u3057\u305f\u300c<<13020>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<11134>>\u300d\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u72b6\u614b\u3067\u3001\u76f8\u624b\u306e\u300c<<5544>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u304c\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u7f6e\u304b\u308c\u305f\u300c<<11134>>\u300d\u306f\u3001\u300c<<5544>>\u300d\u306e\u5bfe\u8c61\u306e\u30ab\u30fc\u30c9\u3068\u3057\u3066\u306f\u6271\u308f\u308c\u307e\u305b\u3093\u306e\u3067\u3001\u7834\u58ca\u3055\u308c\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+            "id": 9328,
+            "question": "\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u300c<<11134>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u300c<<13020>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u76f8\u624b\u304c\u300c<<11134>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<5544>>\u300d\u3092\u767a\u52d5\u3057\u305f\u6642\u3001\u81ea\u5206\u306f\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<13020>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u306eP\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30ab\u30fc\u30c9\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u300c<<11134>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2018-01-11",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u304c\u767a\u52d5\u3057\u305f\u300c<<5544>>\u300d\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u300c<<13020>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u300c<<11134>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u30ab\u30fc\u30c9\u306f\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain",
+        "o:Cards as a Sequence of Copies",
+        "o:Changing a Card's Card Type",
+        "o:Important Precedent",
+        "o:Targeting"
+    ]
+}

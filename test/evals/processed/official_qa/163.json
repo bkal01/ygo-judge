@@ -1,0 +1,35 @@
+{
+    "cards": [],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Special Summon Monsters are monsters that cannot be Normal Summoned/Set and are Special Summoned according to the summoning procedure written on the card.\n\nFusion, Ritual, Synchro, Xyz, and Link Monsters are all Special Summon Monsters. In addition to these, there are also monsters that must be Special Summoned by the procedure written in their text. These monsters will have \"Special Summon\" listed together with their Type in recent text, such as [\u25cb\u25cb / Special Summon / Effect].\n\n(TL Note: As of 2020, the TCG has not adopted the OCG's listing of \"Special Summon\" in the type line.)",
+            "id": 163,
+            "question": "What does it mean to be a Special Summon Monster?",
+            "thisSrc": {
+                "date": "2020-10-31",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "What does it mean to be a Special Summon Monster?",
+            "tlSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u7279\u6b8a\u53ec\u559a\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u901a\u5e38\u53ec\u559a\u3059\u308b\u4e8b\u304c\u3067\u304d\u305a\u3001\u305d\u306e\u30ab\u30fc\u30c9\u306b\u3088\u3063\u3066\u5b9a\u3081\u3089\u308c\u3066\u3044\u308b\u624b\u9806\u306b\u3088\u3063\u3066\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u3002\n\n\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u3001\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\u3001\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u3001\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u3001\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u7279\u6b8a\u53ec\u559a\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u3002\n\n\u307e\u305f\u3001\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u3001\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\u3001\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u3001\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u3001\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u306b\u3082\u3001\u30ab\u30fc\u30c9\u306e\u30c6\u30ad\u30b9\u30c8\u306b\u8a18\u3055\u308c\u305f\u7279\u5225\u306a\u6761\u4ef6\u3084\u624b\u9806\u306b\u5f93\u3063\u3066\u884c\u3046\u7279\u6b8a\u53ec\u559a\u304c\u5fc5\u8981\u3068\u306a\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u307e\u3059\u3002\u305d\u308c\u3089\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u6700\u65b0\u306e\u30c6\u30ad\u30b9\u30c8\u3067\u306f\u3010\u25cb\u25cb\u65cf\uff0f\u7279\u6b8a\u53ec\u559a\uff0f\u52b9\u679c\u3011\u3068\u3044\u3046\u3088\u3046\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u7a2e\u65cf\u3068\u4f75\u305b\u3066\u8a18\u8f09\u3055\u308c\u3066\u3044\u307e\u3059\u3002",
+            "id": 163,
+            "question": "\u7279\u6b8a\u53ec\u559a\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u3064\u3044\u3066\u6559\u3048\u3066\u304f\u3060\u3055\u3044\u3002",
+            "thisSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "title": "\u7279\u6b8a\u53ec\u559a\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u306f\u4f55\u3067\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Basic Rules"
+    ]
+}

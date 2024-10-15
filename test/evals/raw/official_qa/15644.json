@@ -1,0 +1,39 @@
+{
+    "cards": [
+        8011,
+        11223,
+        11839
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If the ATK and DEF of <<11223>> have been halved by the effect of <<8011>>, they become 800 and 600 respectively. After the effect of <<11839>> is applied, the ATK will become 100, but the DEF remains unchanged, so the ATK and DEF will be 100 and 600 respectively. (Note that once the effect of <<11839>> stops applying, the ATK will return to its original value, but the effect of <<8011>> continues to apply to the DEF, so the ATK and DEF will be 1600 and 600, respectively.)",
+            "id": 15644,
+            "question": "If <<11839>> is activated by targeting an <<11223>> whose ATK and DEF has been halved by the effect of <<8011>>, what happens to its ATK and DEF?",
+            "thisSrc": {
+                "date": "2015-05-05",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<11839>> is activated by targeting an <<11223>> whose ATK and DEF has been halved by the effect of <<8011>>, what happens to its ATK and DEF?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<8011>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u304c\u534a\u5206\u306b\u306a\u308a\u3001\u653b\u6483\u529b800\u30fb\u5b88\u5099\u529b600\u306b\u306a\u3063\u3066\u3044\u308b\u300c<<11223>>\u300d\u306b\u300c<<11839>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u653b\u6483\u529b\u306f100\u306b\u306a\u308a\u307e\u3059\u304c\u3001\u5b88\u5099\u529b\u306e\u6570\u5024\u306f\u5909\u5316\u3057\u307e\u305b\u3093\u306e\u3067\u3001\u653b\u6483\u529b100\u30fb\u5b88\u5099\u529b600\u306e\u72b6\u614b\u306b\u306a\u308a\u307e\u3059\u3002\n\uff08\u306a\u304a\u3001\u300c<<11839>>\u300d\u306e\u52b9\u679c\u306e\u9069\u7528\u304c\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u306b\u306f\u3001\u653b\u6483\u529b\u306f\u5143\u306b\u623b\u308a\u307e\u3059\u304c\u3001\u5b88\u5099\u529b\u306f\u300c<<8011>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u307e\u307e\u3067\u3059\u306e\u3067\u3001\u653b\u6483\u529b1600\u30fb\u5b88\u5099\u529b600\u306e\u72b6\u614b\u306b\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 15644,
+            "question": "\u300c<<8011>>\u300d\u306e\u300e\u2461\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u3092\u534a\u5206\u306b\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u304c\u534a\u5206\u306b\u306a\u3063\u3066\u3044\u308b\u300c<<11223>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<11839>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8011>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<11839>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

@@ -1,6 +1,0 @@
-{
-    "title": "If a Pendulum Monster's Flip Summon is negated, what happens to it?",
-    "question": "If Performapal Momoncarpet's Flip Summon is negated, where will Performapal Momoncarpet go as a result?",
-    "answer": "Performapal Momoncarpet will be added to the Extra Deck face-up.\n\nIf a Flip Summon is negated, the monster in question is destroyed while in the Monster Zone. Therefore, since it is a Pendulum Monster, it will be added face-up to the Extra Deck.",
-    "llm_answer": "If Performapal Momoncarpet's Flip Summon is negated, **Performapal Momoncarpet will be sent to the Graveyard**. \n\nThis is because when a Flip Summon is negated, the monster that was attempted to be Flip Summoned is not treated as being destroyed by a card effect but is sent to the Graveyard nonetheless, as per the rules for negating Summons."
-}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        9824,
+        10468
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When the effect of Noble Arms - Caliburn resolves, if Noble Arms - Caliburn has been returned to your hand, the effect to gain Life Points does not apply.",
+            "id": 10592,
+            "question": "If the effect of Noble Arms - Caliburn which increases my Life Points is activated, but the effect of Constellar Pleiades is chained to it and returns Noble Arms - Caliburn to my hand, is the effect applied?",
+            "thisSrc": {
+                "date": "2015-05-14",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the effect of Noble Arms - Caliburn which increases my Life Points is activated, but the effect of Constellar Pleiades is chained to it and returns Noble Arms - Caliburn to my hand, is the effect applied?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<10468>>\u300d\u306e\u300e1\u30bf\u30fc\u30f3\u306b1\u5ea6\u3001\u81ea\u5206\u306f500\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u56de\u5fa9\u3067\u304d\u308b\u300f\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u300c<<10468>>\u300d\u304c\u6301\u3061\u4e3b\u306e\u624b\u672d\u306b\u623b\u3063\u3066\u3044\u308b\u5834\u5408\u306b\u306f\u3001\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u56de\u5fa9\u3059\u308b\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 10592,
+            "question": "\u300c<<10468>>\u300d\u306e\u300e1\u30bf\u30fc\u30f3\u306b1\u5ea6\u3001\u81ea\u5206\u306f500\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u56de\u5fa9\u3067\u304d\u308b\u300f\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u305f\u300c<<9824>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<10468>>\u300d\u304c\u6301\u3061\u4e3b\u306e\u624b\u672d\u306b\u623b\u308b\u5834\u5408\u3001\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u56de\u5fa9\u3059\u308b\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10468>>\u300d\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u56de\u5fa9\u3059\u308b\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u300c<<10468>>\u300d\u304c\u624b\u672d\u306b\u623b\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

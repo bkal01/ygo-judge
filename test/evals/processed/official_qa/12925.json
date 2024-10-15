@@ -1,0 +1,50 @@
+{
+    "cards": [
+        5114,
+        6390,
+        6727
+    ],
+    "notes": {
+        "invalid_tcg": [
+            {
+                "body": "In the TCG trigger effects get the chance to activate before trap card activations and cannot chain to them.",
+                "date": "2021-11-16",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "Catmaster0"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "Because Cyber Dragon doesn't have an effect that activates when it is Special Summoned, there is no other face-up card whose effect must be considered in the context of this question, and if one or both players want to activate a card or effect when it is Special Summoned (for example, activating a Set Spell/Trap, or activating a monster effect from the hand), players may do so in the proper order. (In the context of this question, the turn player has activated Torrential Tribute as Chain Link 1.) In that situation, if the opponent wants to activate the effect of Cyber Dinosaur, they may do so by chaining it to Torrential Tribute.",
+            "id": 12925,
+            "question": "If a player Special Summons Cyber Dragon from their hand, and they activate Torrential Tribute as Chain Link 1, is it possible for the opponent to activate the effect of Cyber Dinosaur?",
+            "thisSrc": {
+                "date": "2013-10-10",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a player Special Summons Cyber Dragon from their hand, and they activate Torrential Tribute as Chain Link 1, is it possible for the opponent to activate the effect of Cyber Dinosaur?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u30bf\u30fc\u30f3\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u306a\u308b\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u300c<<6390>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u300c<<6390>>\u300d\u306f\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u969b\u306b\u767a\u52d5\u3059\u308b\u52b9\u679c\u3092\u6301\u3063\u3066\u304a\u3089\u305a\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u3067\u306f\u4ed6\u306b\u767a\u52d5\u3059\u308b\u8868\u5074\u8868\u793a\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3082\u3042\u308a\u307e\u305b\u3093\u306e\u3067\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u306b\u767a\u52d5\u3057\u305f\u3044\u30ab\u30fc\u30c9\u306e\u52b9\u679c\uff08\u30bb\u30c3\u30c8\u3055\u308c\u3066\u3044\u308b\u901f\u653b\u9b54\u6cd5\u30fb\u7f60\u3084\u3001\u624b\u672d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306a\u3069\uff09\u304c\u3042\u308b\u5834\u5408\u3001\u30bf\u30fc\u30f3\u30d7\u30ec\u30a4\u30e4\u30fc\u304b\u3089\u9806\u306b\u767a\u52d5\u3092\u884c\u3046\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\uff08\u8cea\u554f\u306e\u72b6\u6cc1\u3067\u306f\u305d\u308c\u306b\u5f93\u3063\u3066\u3001\u76f8\u624b\u304c\u30c1\u30a7\u30fc\u30f31\u306b\u3066\u300c<<5114>>\u300d\u3092\u767a\u52d5\u3057\u3066\u3044\u307e\u3059\u3002\uff09\n\n\u305d\u306e\u72b6\u6cc1\u306b\u3066\u3001\u81ea\u5206\u304c\u300c<<6727>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u3044\u306e\u3067\u3042\u308c\u3070\u3001\u76f8\u624b\u306e\u300c<<5114>>\u300d\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3057\u3001\u300c<<6727>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 12925,
+            "question": "\u76f8\u624b\u30bf\u30fc\u30f3\u306b\u3066\u3001\u76f8\u624b\u304c\u624b\u672d\u304b\u3089\u300c<<6390>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u969b\u306b\u3001\u76f8\u624b\u304c\u30c1\u30a7\u30fc\u30f31\u3068\u3057\u3066\u300c<<5114>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u81ea\u5206\u306f\u300c<<6727>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u969b\u306b\u76f8\u624b\u304c\u300c<<5114>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u81ea\u5206\u306f\u300c<<6727>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain",
+        "o:Reader beware"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        9352,
+        12348
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of <<12348>> is not an effect that affects the monsters you control.\n\nTherefore, even if the effect of <<9352>> has been applied to one of your monsters, that monster can be used as Xyz Material for the Xyz Summon.",
+            "id": 18032,
+            "question": "When Xyz Summoning due to <<12348>>, can I use a monster I control to which <<9352>> has been applied as material?",
+            "thisSrc": {
+                "date": "2021-08-16",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "When Xyz Summoning due to <<12348>>, can a monster to which <<9352>> has been applied be used as material?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<12348>>\u300d\u306e\u52b9\u679c\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u9069\u7528\u3055\u308c\u308b\u52b9\u679c\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<9352>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u3063\u3066\u3082\u3001\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3068\u3057\u3066\u4f7f\u7528\u3057\u3001\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 18032,
+            "question": "\u300c<<12348>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7d20\u6750\u3068\u3057\u3066X\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092X\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3092\u884c\u3046\u5834\u5408\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u300c<<9352>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3068\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c\u30ef\u30f3\u30c0\u30fc\uff65\u30a8\u30af\u30b7\u30fc\u30ba\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3092\u884c\u3046\u969b\u306b\u3001\u300c<<9352>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u306b\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

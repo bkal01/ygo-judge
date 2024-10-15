@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4041,
+        11129
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Since Dark Magician is a DARK Spellcaster-Type monster with 2000 ATK or more, it can be affected by the effect of Black Illusion.\n\nIn that case, since Dark Magician is a Normal Monster, the end result is that its effects are not negated, it cannot be destroyed in battle, and it is not affected by the opponent's card effects.",
+            "id": 13521,
+            "question": "Dark Magician is a DARK Spellcaster-Type monster with 2000 ATK or more, but since it is a Normal Monster, it does not have an effect. Can it be affected by the effect of Black Illusion, despite being unable to have its effects negated?",
+            "thisSrc": {
+                "date": "2014-08-29",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Dark Magician is a DARK Spellcaster-Type monster with 2000 ATK or more, but since it is a Normal Monster, it does not have an effect. Can it be affected by the effect of Black Illusion, despite being unable to have its effects negated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<4041>>\u300d\u306f\u9b54\u6cd5\u4f7f\u3044\u65cf\u30fb\u95c7\u5c5e\u6027\u30fb\u653b\u6483\u529b2000\u4ee5\u4e0a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u306e\u3067\u3001\u300c<<11129>>\u300d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u300c<<4041>>\u300d\u306f\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u306e\u3067\u3001\u7d50\u679c\u7684\u306b\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u307e\u305b\u3093\u304c\u3001\u6226\u95d8\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u304f\u306a\u308a\u3001\u76f8\u624b\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u72b6\u614b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 13521,
+            "question": "\u300c<<4041>>\u300d\u306f\u9b54\u6cd5\u4f7f\u3044\u65cf\u30fb\u95c7\u5c5e\u6027\u30fb\u653b\u6483\u529b2000\u4ee5\u4e0a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u304c\u3001\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u305f\u3081\u3001\u52b9\u679c\u3092\u6301\u3063\u3066\u3044\u307e\u305b\u3093\u3002\u52b9\u679c\u3092\u7121\u52b9\u5316\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u304c\u3001\u300c<<11129>>\u300d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u300c<<4041>>\u300d\u306b\u300c<<11129>>\u300d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Normal/Token"
+    ]
+}

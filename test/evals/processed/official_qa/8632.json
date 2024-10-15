@@ -1,0 +1,50 @@
+{
+    "cards": [
+        4951,
+        5515,
+        8332
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "\"You can only control 1\" effects not destroying by card effect.",
+                "date": "2023-06-07",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "When an effect that allows only 1 card of a specific name to be face-up on the field such as that of Gravekeeper's Chief is applied, if the second Gravekeeper's Chief is flipped face-up and thus destroyed, it is not treated as destroyed by a card effect.\nTherefore, even if the effect of Archfiend Zombie-Skull is applied, the second Gravekeeper's Chief that became a Zombie monster will be destroyed.",
+            "id": 8632,
+            "question": "Due to the effects of DNA Surgery and Archfiend Zombie-Skull that are face-up on the field, all monsters on the field become Zombie type and Zombie monsters you control cannot be destroyed by card effects. If the second Gravekeeper's Chief that has the effect that allows you to control only 1 face-up Gravekeeper's Chief is flipped face-up by an attack, will it be destroyed?",
+            "thisSrc": {
+                "date": "2020-07-12",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "Will the second Gravekeeper's Chief be destroyed if it is flipped face-up while you control Archfiend Zombie-Skull?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<5515>>\u300d\u7b49\u306e\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b1\u679a\u3057\u304b\u5b58\u5728\u3059\u308b\u4e8b\u304c\u3067\u304d\u306a\u3044\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u6642\u306b\u3001\u30ea\u30d0\u30fc\u30b9\u3057\u305f2\u4f53\u76ee\u306e\u300c<<5515>>\u300d\u304c\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3001\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u308b\u6271\u3044\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\u3088\u3063\u3066\u3001\u300c<<8332>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3067\u3042\u3063\u3066\u3082\u3001\u30a2\u30f3\u30c7\u30c3\u30c8\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u306a\u3063\u3066\u3044\u308b2\u4f53\u76ee\u306e\u300c<<5515>>\u300d\u7b49\u306f\u7834\u58ca\u3055\u308c\u307e\u3059\u3002",
+            "id": 8632,
+            "question": "\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u300c<<8332>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u30a2\u30f3\u30c7\u30c3\u30c8\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u306a\u3044\u6642\u306b\u3001\u300c<<4951>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u7a2e\u65cf\u304c\u3001\u30a2\u30f3\u30c7\u30c3\u30c8\u65cf\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u6642\u306b\u3001\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b1\u679a\u3057\u304b\u5b58\u5728\u3067\u304d\u306a\u3044\u300f\u3068\u3044\u3046\u52b9\u679c\u3092\u6301\u3063\u3066\u3044\u308b\u30012\u4f53\u76ee\u306e\u300c<<5515>>\u300d\u7b49\u304c\u30ea\u30d0\u30fc\u30b9\u3057\u305f\u5834\u5408\u30012\u4f53\u76ee\u306e\u300c<<5515>>\u300d\u7b49\u306f\u3001\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8332>>\u300d\u304c\u5b58\u5728\u3059\u308b\u6642\u306b2\u4f53\u76ee\u306e\u300c<<5515>>\u300d\u304c\u30ea\u30d0\u30fc\u30b9\u3057\u305f\u5834\u5408\u3001\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro",
+        "o:Important Precedent"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "cards": [
+        7683,
+        9952,
+        12678
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if you have already Set cards during this turn, you can activate the effect of <<12678>> when you Normal or Special Summon it. (After the effect of <<12678>> is applied, you cannot Set cards for the rest of this turn.)",
+            "id": 19973,
+            "question": "During a turn that I have already Set cards, if I Normal or Special Summon an <<12678>>, can I activate its effect that adds an \"Ancient Gear\" card from my Deck to my hand?",
+            "thisSrc": {
+                "date": "2016-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "During a turn that I have already Set cards, if I Normal or Special Summon an <<12678>>, can I activate its effect that adds an \"Ancient Gear\" card from my Deck to my hand?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u81ea\u5206\u304c\u65e2\u306b\u30ab\u30fc\u30c9\u306e\u30bb\u30c3\u30c8\u3092\u884c\u3063\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u300c<<12678>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\uff08\u300c<<12678>>\u300d\u306e\u52b9\u679c\u9069\u7528\u5f8c\u3001\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u3001\u81ea\u5206\u306f\u30ab\u30fc\u30c9\u306e\u30bb\u30c3\u30c8\u304c\u884c\u3048\u306a\u304f\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 19973,
+            "question": "\u81ea\u5206\u304c\u624b\u672d\u304b\u3089\u300c<<7683>>\u300d\u3092\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u3001\u300c<<9952>>\u300d\u3092\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u3001\u305d\u308c\u305e\u308c\u30bb\u30c3\u30c8\u3057\u305f\u30bf\u30fc\u30f3\u3067\u3059\u3002\n\n\u3053\u306e\u30bf\u30fc\u30f3\u306b\u81ea\u5206\u304c\u300c<<12678>>\u300d\u306e\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u306b\u3001\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u300c<<12678>>\u300d\u4ee5\u5916\u306e\u300c\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u30fb\u30ae\u30a2\u300d\u30ab\u30fc\u30c9\uff11\u679a\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u3002\u3053\u306e\u52b9\u679c\u306e\u767a\u52d5\u5f8c\u3001\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u81ea\u5206\u306f\u30ab\u30fc\u30c9\u3092\u30bb\u30c3\u30c8\u3067\u304d\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u304c\u30ab\u30fc\u30c9\u3092\u65e2\u306b\u30bb\u30c3\u30c8\u3057\u3066\u3044\u308b\u30bf\u30fc\u30f3\u306b\u3001\u81ea\u5206\u306f\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u300c<<12678>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

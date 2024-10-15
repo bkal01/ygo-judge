@@ -1,6 +1,0 @@
-{
-    "title": "If a Pendulum Summoned Odd-Eyes Pendulum Dragon is destroyed by the effect of Scarlight Red Dragon Archfiend, is damage inflicted to the opponent?",
-    "question": "If a Pendulum Summoned Odd-Eyes Pendulum Dragon is destroyed by the effect of Scarlight Red Dragon Archfiend, is damage inflicted to the opponent?",
-    "answer": "Even in that case, the opponent takes damage by the effect of Scarlight Red Dragon Archfiend.",
-    "llm_answer": "**No damage is inflicted to the opponent.** \n\nWhen *Scarlight Red Dragon Archfiend* destroys other Special Summoned Effect Monsters, including a Pendulum Summoned *Odd-Eyes Pendulum Dragon*, the effect resolution is as follows: the monsters are destroyed first, and then damage is inflicted. However, since Pendulum Monsters like *Odd-Eyes Pendulum Dragon* are not sent to the Graveyard when destroyed while in a Monster Zone, they are instead added to the Extra Deck face-up. Therefore, the destruction and subsequent damage calculation happen simultaneously, but since *Odd-Eyes Pendulum Dragon* isn't actually destroyed and sent to the Graveyard, the condition for inflicting damage is not met."
-}

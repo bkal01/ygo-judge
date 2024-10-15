@@ -1,0 +1,44 @@
+{
+    "cards": [
+        4007,
+        4041,
+        4830,
+        5681,
+        6057,
+        12418,
+        12491
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of Magician's Rod allows you to add Spell/Trap Cards from your Deck to your hand, such as Dark Magic Attack, Dark Magic Curtain, or Miracle Restoring, that list the card name of Dark Magician in their text.\n\nSince the effect of Chaos Form includes the text \"and/or banish Blue-Eyes White Dragon or Dark Magician from your Graveyard\", Chaos Form is included as a Spell/Trap Card that lists the name of Dark Magician in its text.\n\nTherefore, you can add Chaos Form to your hand with the effect of Magician's Rod.",
+            "id": 13856,
+            "question": "Can I add Chaos Form to my hand with the first effect of Magician's Rod?",
+            "thisSrc": {
+                "date": "2020-09-20",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "Can I add Chaos Form to my hand with the first effect of Magician's Rod?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<12418>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3001\u300c<<6057>>\u300d\u3084\u300c<<4830>>\u300d\u3001\u300c<<5681>>\u300d\u306a\u3069\u3001\u300c<<4041>>\u300d\u306e\u30ab\u30fc\u30c9\u540d\u3092\u6307\u5b9a\u3057\u305f\u30c6\u30ad\u30b9\u30c8\u304c\u8a18\u8f09\u3055\u308c\u3066\u3044\u308b\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u4e8b\u304c\u3067\u304d\u308b\u52b9\u679c\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u300c<<12491>>\u300d\u306e\u30c6\u30ad\u30b9\u30c8\u306b\u306f\u3001\u300e\u307e\u305f\u306f\u30ea\u30ea\u30fc\u30b9\u306e\u4ee3\u308f\u308a\u306b\u81ea\u5206\u306e\u5893\u5730\u304b\u3089\u300c<<4007>>\u300d\u307e\u305f\u306f\u300c<<4041>>\u300d\u3092\u9664\u5916\u3057\u3001\u624b\u672d\u304b\u3089\u300c\u30ab\u30aa\u30b9\u300d\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5100\u5f0f\u53ec\u559a\u3059\u308b\u300f\u3068\u3044\u3046\u8a18\u8f09\u304c\u3042\u308a\u307e\u3059\u306e\u3067\u3001\u300c<<12491>>\u300d\u306f\u300c<<4041>>\u300d\u306e\u30ab\u30fc\u30c9\u540d\u304c\u8a18\u3055\u308c\u305f\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306b\u542b\u307e\u308c\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<12418>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30c7\u30c3\u30ad\u304b\u3089\u300c<<12491>>\u300d\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 13856,
+            "question": "\u300c<<12418>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u300c<<4041>>\u300d\u306e\u30ab\u30fc\u30c9\u540d\u304c\u8a18\u3055\u308c\u305f\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\uff11\u679a\u3092\u30c7\u30c3\u30ad\u304b\u3089\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30c7\u30c3\u30ad\u304b\u3089\u300c<<12491>>\u300d\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12418>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3067\u300c<<12491>>\u300d\u3092\u624b\u672d\u306b\u52a0\u3048\u3089\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Spell"
+    ]
+}

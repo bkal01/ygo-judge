@@ -1,6 +1,0 @@
-{
-    "title": "If Ignoble Knight of Black Laundsallyn is targeted by the last effect of Lady of the Lake, but Raigeki Break is chained, targeting and destroying Ignoble Knight of Black Laundsallyn, how will the effect of Lady of the Lake resolve?",
-    "question": "If Ignoble Knight of Black Laundsallyn is targeted by the last effect of Lady of the Lake, but Raigeki Break is chained, targeting and destroying Ignoble Knight of Black Laundsallyn, how will the effect of Lady of the Lake resolve?",
-    "answer": "The effect of Lady of the Lake cannot reduce the Level of Ignoble Knight of Black Laundsallyn by 1, so it is not Special Summoned.",
-    "llm_answer": "The effect of Lady of the Lake will **not** resolve. Since the target (Ignoble Knight of Black Laundsallyn) of Lady of the Lake's effect is no longer on the field when the effect tries to resolve, the effect cannot be applied."
-}

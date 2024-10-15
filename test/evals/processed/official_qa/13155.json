@@ -1,0 +1,38 @@
+{
+    "cards": [
+        10651,
+        11132
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Since Number 39: Utopia Beyond is also treated as an \"Utopia\" card, in that case, the requirement of having an \"Utopia\" monster attached to it is met.\n\nTherefore, Number C39: Utopia Ray Victory can activate its \"\u2022\" effect.",
+            "id": 13155,
+            "question": "If Number C39: Utopia Ray Victory has Number 39: Utopia Beyond attached to it as an Xyz Material, meeting the requirement of having an \"Utopia\" monster attached to it can it activate its \"\u2022\" effect?",
+            "thisSrc": {
+                "date": "2014-03-28",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Number C39: Utopia Ray Victory has Number 39: Utopia Beyond attached to it as an Xyz Material, meeting the requirement of having an \"Utopia\" monster attached to it can it activate its \"\u2022\" effect?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11132>>\u300d\u306f\u30eb\u30fc\u30eb\u4e0a\u300c\u5e0c\u671b\u7687\u30db\u30fc\u30d7\u300d\u3068\u3057\u3066\u3082\u6271\u308f\u308c\u308b\u305f\u3081\u3001\u300c<<10651>>\u300d\u304c\u300c<<11132>>\u300d\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3068\u3057\u3066\u6301\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u300c\u5e0c\u671b\u7687\u30db\u30fc\u30d7\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3068\u3057\u3066\u3044\u308b\u300f\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<10651>>\u300d\u306f\u300e\u25cf\u3053\u306e\u30ab\u30fc\u30c9\u304c\u76f8\u624b\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u653b\u6483\u5ba3\u8a00\u3057\u305f\u6642\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 13155,
+            "question": "\u300c<<10651>>\u300d\u304c\u3001\u300c<<11132>>\u300d\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3068\u3057\u3066\u6301\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u300c\u5e0c\u671b\u7687\u30db\u30fc\u30d7\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3068\u3057\u3066\u3044\u308b\u300f\u4e8b\u306b\u306a\u308a\u3001\u300e\u25cf\u3053\u306e\u30ab\u30fc\u30c9\u304c\u76f8\u624b\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u653b\u6483\u5ba3\u8a00\u3057\u305f\u6642\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10651>>\u300d\u304c\u300c<<11132>>\u300d\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3068\u3057\u3066\u3044\u308b\u5834\u5408\u3001\u300e\u25cf\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

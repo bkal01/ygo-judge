@@ -1,0 +1,39 @@
+{
+    "cards": [
+        13077,
+        13258,
+        15032
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The opponent cannot chain to those effects in either case.",
+            "id": 23556,
+            "question": "Supreme King Dragon Starving Venom has gained the effects of Borreload Dragon and has activated the effect to reduce a target monster's ATK/DEF. Can the opponent chain their own effect to that activation?\n\nAlso, if Supreme King Dragon Starving Venom has gained the effects of Accesscode Talker and activates its effect to destroy a card the opponent controls, can the opponent chain their own effect to that activation?",
+            "thisSrc": {
+                "date": "2022-02-19",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "If a monster gains the effects of Accesscode Talker or Borreload Dragon and activates one of its effects, can the opponent chain to that effect?",
+            "tlSrc": {
+                "date": "2022-02-18",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3044\u305a\u308c\u3082\u76f8\u624b\u306f\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 23556,
+            "question": "\u300c<<13258>>\u300d\u306e\u52b9\u679c\u3092\u5f97\u3066\u3044\u308b\u300c<<13077>>\u300d\u304c\u3001\u5f97\u305f\u300e\u2461\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\uff15\uff10\uff10\u30c0\u30a6\u30f3\u3059\u308b\u3002\u3053\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u5bfe\u3057\u3066\u76f8\u624b\u306f\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u6642\u3001\u76f8\u624b\u306f\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<15032>>\u300d\u306f\u30ab\u30fc\u30c9\u30c6\u30ad\u30b9\u30c8\u306b\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u5bfe\u3057\u3066\u76f8\u624b\u306f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u3068\u8a18\u8f09\u3055\u308c\u3066\u3044\u307e\u3059\u304c\u3001\u300c<<15032>>\u300d\u306e\u52b9\u679c\u3092\u5f97\u305f\u300c<<13077>>\u300d\u304c\u3001\u5f97\u305f\u300e\u2461\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u6642\u3001\u76f8\u624b\u306f\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-02-18",
+                "type": 0
+            },
+            "title": "\u300c<<15032>>\u300d\u3084\u300c<<13258>>\u300d\u306e\u52b9\u679c\u3092\u5f97\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u5f97\u305f\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u6642\u3001\u76f8\u624b\u306f\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

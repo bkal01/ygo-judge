@@ -1,6 +1,0 @@
-{
-    "title": "Shrink is activated by targeting Destiny HERO - Dystopia, and its ATK becomes 1400. In this situation, can I activate the effect of Destiny HERO - Dystopia that destroys a card on the field?",
-    "question": "Shrink is activated by targeting Destiny HERO - Dystopia, and its ATK becomes 1400. In this situation, can I activate the effect of Destiny HERO - Dystopia that destroys a card on the field?",
-    "answer": "If the effect of Shrink is applied, the halved original ATK is treated as the monster's new original ATK. Therefore, in this scenario, the original ATK of Destiny HERO - Dystopia is not different from its current ATK, so you cannot activate its effect that destroys a card on the field.",
-    "llm_answer": "Yes, you can activate the effect of Destiny HERO - Dystopia to destroy a card on the field. The condition for its effect is that its current ATK must be different from its original ATK, which is met when Shrink reduces its ATK to 1400. The scenario will resolve with you being able to destroy a card on the field and Dystopia's ATK returning to 2800."
-}

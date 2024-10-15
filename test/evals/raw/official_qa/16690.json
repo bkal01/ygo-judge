@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4790,
+        12088
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If a face-down Defense Position <<12088>> is flipped face-up by an opponent's monster's attack, the second effect of <<12088>> will apply. In this scenario, <<12088>> is not destroyed by battle.",
+            "id": 16690,
+            "question": "If a face-down Defense Position <<12088>> on my side of the field is attacked by my opponent's <<4790>>, and I have another \"Number\" Xyz Monster on my side of the field, is <<12088>> destroyed by battle?",
+            "thisSrc": {
+                "date": "2015-08-13",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a face-down Defense Position <<12088>> on my side of the field is attacked by my opponent's <<4790>>, and I have another \"Number\" Xyz Monster on my side of the field, is <<12088>> destroyed by battle?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u300c<<12088>>\u300d\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u653b\u6483\u3055\u308c\u30ea\u30d0\u30fc\u30b9\u3057\u305f\u5834\u5408\u3067\u3082\u3001\u300e\u2461\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u4ed6\u306e\u300cNo.\u300dX\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306f\u6226\u95d8\u30fb\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u306e\u3067\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<12088>>\u300d\u306f\u6226\u95d8\u3067\u306f\u7834\u58ca\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 16690,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<12088>>\u300d\u304c\u76f8\u624b\u306e\u300c<<4790>>\u300d\u306b\u653b\u6483\u3055\u308c\u30ea\u30d0\u30fc\u30b9\u3057\u307e\u3057\u305f\u3002\n\n\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u4ed6\u306e\u300cNo.\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u300c<<12088>>\u300d\u306f\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u300c<<12088>>\u300d\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u653b\u6483\u3055\u308c\u30ea\u30d0\u30fc\u30b9\u3057\u305f\u5834\u5408\u3001\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

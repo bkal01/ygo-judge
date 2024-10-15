@@ -1,6 +1,0 @@
-{
-    "title": "While the effect of Macro Cosmos is applying, can I still activate Power Wall during damage calculation if I would take battle damage?",
-    "question": "While the effect of Macro Cosmos is applying, can I still activate Power Wall during damage calculation if I would take battle damage?",
-    "answer": "Even while the effect of Macro Cosmos is applying, you can activate Power Wall. In that case, all cards that would be sent from the top of your Deck to the Graveyard are banished instead, but the battle damage you would take is still reduced to 0 normally.",
-    "llm_answer": "Yes, you can still activate **Power Wall** during damage calculation even if **Macro Cosmos** is face-up on the field. Here's the explanation:\n\n- **Power Wall** sends cards from the top of your Deck to the Graveyard as a cost for its effect. \n- **Macro Cosmos** banishes cards sent to the Graveyard instead of sending them there.\n- **Power Wall**'s effect can still be activated because the cost of sending cards to the Graveyard is not prevented by **Macro Cosmos**. Instead, the cards you send to the Graveyard are banished.\n\n**Resolution**: You can activate **Power Wall** during damage calculation, but the cards you would normally send to the Graveyard as cost are banished by **Macro Cosmos** instead."
-}
