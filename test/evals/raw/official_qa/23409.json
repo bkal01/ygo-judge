@@ -1,0 +1,37 @@
+{
+    "cards": [
+        16868
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can.",
+            "id": 23409,
+            "question": "Previously during this Duel, I have activated <<16868>> by declaring <<4844>>. If I activate another copy of <<16868>>, can I still declare <<4844>>?",
+            "thisSrc": {
+                "date": "2021-11-06",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If I have previously activated <<16868>> declaring a certain card during this Duel, can I declare that same card again?",
+            "tlSrc": {
+                "date": "2021-11-06",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u3059\u3002",
+            "id": 23409,
+            "question": "\u81ea\u5206\u304c\u300c<<16868>>\u300d\u3092\u767a\u52d5\u3057\u305f\u30c7\u30e5\u30a8\u30eb\u4e2d\u3001\u540c\u3058\u30ab\u30fc\u30c9\u540d\u3092\u5ba3\u8a00\u3057\u3066\u300c<<16868>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2021-11-06",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u304c\u300c<<16868>>\u300d\u3092\u767a\u52d5\u3057\u305f\u30c7\u30e5\u30a8\u30eb\u4e2d\u3001\u540c\u3058\u30ab\u30fc\u30c9\u540d\u3092\u5ba3\u8a00\u3057\u3066\u300c<<16868>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

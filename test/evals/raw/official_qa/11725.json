@@ -1,0 +1,38 @@
+{
+    "cards": [
+        10575,
+        11648
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of <<10575>> prevents the opponent from attacking other monsters on the controller's side of the field. If the effects of 2 copies of <<10575>> are applied, neither <<10575>> can be targeted for attacks. Thus, a monster such as <<11648>> with an effect allowing it to attack directly can still make a direct attack, but other monsters will not be able to declare an attack.",
+            "id": 11725,
+            "question": "If there are 2 copies of <<10575>> face-up in my opponent's Monster Zone, can my monsters attack my opponent directly?",
+            "thisSrc": {
+                "date": "2015-11-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If there are 2 copies of <<10575>> face-up in my opponent's Monster Zone, can my monsters attack my opponent directly?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<10575>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u76f8\u624b\u306f\u4ed6\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u653b\u6483\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3082\u542b\u3081\u3066\u4ed6\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u653b\u6483\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n2\u4f53\u306e\u300c<<10575>>\u300d\u306e\u52b9\u679c\u304c\u305d\u308c\u305e\u308c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u306b\u306f\u3001\u7d50\u679c\u7684\u306b\u300c<<10575>>\u300d\u3092\u542b\u3081\u3001\u3069\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3078\u3082\u653b\u6483\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u306a\u3044\u72b6\u614b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<11648>>\u300d\u306a\u3069\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306f\u76f4\u63a5\u653b\u6483\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u6301\u3064\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u308c\u3070\u3001\u30d7\u30ec\u30a4\u30e4\u30fc\u3078\u306e\u76f4\u63a5\u653b\u6483\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u304c\u3001\u305d\u306e\u4ed6\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u7d50\u679c\u7684\u306b\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u3078\u306e\u653b\u6483\u3082\u884c\u3048\u305a\u3001\u30d7\u30ec\u30a4\u30e4\u30fc\u3078\u306e\u76f4\u63a5\u653b\u6483\u3082\u884c\u3048\u306a\u3044\u72b6\u614b\u3068\u306a\u308a\u307e\u3059\u3002",
+            "id": 11725,
+            "question": "\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<10575>>\u300d\u304c2\u4f53\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u76f4\u63a5\u653b\u6483\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c<<10575>>\u300d\u304c2\u4f53\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u76f4\u63a5\u653b\u6483\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

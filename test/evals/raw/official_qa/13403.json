@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5919,
+        11369
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in that case, the part of the effect that sends a number of cards from each player's Extra Deck equal to the Level of the destroyed monster is still applied.",
+            "id": 13403,
+            "question": "A monster whose Original Attribute is not LIGHT is treated as a LIGHT monster by the effect of <<5919>>.\n\nIf that monster is destroyed by the effect of <<11369>>, is the part of the effect that sends a number of cards from each player's Extra Deck equal to the Level of the destroyed monster applied?",
+            "thisSrc": {
+                "date": "2014-07-31",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "A monster whose Original Attribute is not LIGHT is treated as a LIGHT monster by the effect of <<5919>>.  If that monster is destroyed by the effect of <<11369>>, is the part of the effect that sends a number of cards from each player's Extra Deck equal to the Level of the destroyed monster applied?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<5919>>\u300d\u306e\u52b9\u679c\u3067\u5149\u5c5e\u6027\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u5143\u3005\u304c\u5149\u5c5e\u6027\u3067\u306f\u306a\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u300c<<11369>>\u300d\u306e\u52b9\u679c\u3067\u7834\u58ca\u3057\u305f\u5834\u5408\u3067\u3082\u3001\u300e\u7834\u58ca\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5149\u5c5e\u6027\u3060\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u5143\u3005\u306e\u30ec\u30d9\u30eb\u307e\u305f\u306f\u30e9\u30f3\u30af\u306e\u6570\u3060\u3051\u3001\u304a\u4e92\u3044\u306f\u305d\u308c\u305e\u308c\u81ea\u5206\u306e\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\u9078\u3093\u3067\u5893\u5730\u3078\u9001\u308b\u300f\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 13403,
+            "question": "\u5143\u3005\u306e\u5c5e\u6027\u304c\u5149\u5c5e\u6027\u3067\u306f\u306a\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u300c<<5919>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u5149\u5c5e\u6027\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u300c<<11369>>\u300d\u306e\u52b9\u679c\u3067\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u300e\u7834\u58ca\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5149\u5c5e\u6027\u3060\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u5143\u3005\u306e\u30ec\u30d9\u30eb\u307e\u305f\u306f\u30e9\u30f3\u30af\u306e\u6570\u3060\u3051\u3001\u304a\u4e92\u3044\u306f\u305d\u308c\u305e\u308c\u81ea\u5206\u306e\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\u9078\u3093\u3067\u5893\u5730\u3078\u9001\u308b\u300f\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5919>>\u300d\u306e\u52b9\u679c\u3067\u5149\u5c5e\u6027\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u300c<<11369>>\u300d\u306e\u52b9\u679c\u3067\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Trap"
+    ]
+}

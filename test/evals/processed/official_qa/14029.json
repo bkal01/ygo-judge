@@ -1,0 +1,39 @@
+{
+    "cards": [
+        8213,
+        10599
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in that case, the effect that was applied is not negated.",
+            "id": 14029,
+            "question": "After the effect of Ghost Fairy Elfobia was applied, if that Ghost Fairy Elfobia is affected by the effect of Forbidden Chalice, negating its effects, what happens with the applied effect?",
+            "thisSrc": {
+                "date": "2014-10-17",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "After the effect of Ghost Fairy Elfobia was applied, if that Ghost Fairy Elfobia is affected by the effect of Forbidden Chalice, negating its effects, what happens with the applied effect?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<10599>>\u300d\u306e\u300e\u6b21\u306e\u76f8\u624b\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\uff11\u7d42\u4e86\u6642\u307e\u3067\u3001\u304a\u4e92\u3044\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u3001\u898b\u305b\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3088\u308a\u30ec\u30d9\u30eb\u306e\u9ad8\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u65e2\u306b\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u72b6\u614b\u3067\u3001\u305d\u306e\u300c<<10599>>\u300d\u306e\u52b9\u679c\u304c\u300c<<8213>>\u300d\u306b\u3088\u3063\u3066\u7121\u52b9\u306b\u306a\u3063\u305f\u3068\u3057\u3066\u3082\u3001\u65e2\u306b\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+            "id": 14029,
+            "question": "\u300c<<10599>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u304c\u884c\u308f\u308c\u305f\u5f8c\u3001\u305d\u306e\u300c<<10599>>\u300d\u306b\u300c<<8213>>\u300d\u304c\u9069\u7528\u3055\u308c\u3001\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u300e\u6b21\u306e\u76f8\u624b\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\uff11\u7d42\u4e86\u6642\u307e\u3067\u3001\u304a\u4e92\u3044\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u3001\u898b\u305b\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3088\u308a\u30ec\u30d9\u30eb\u306e\u9ad8\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10599>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u304c\u884c\u308f\u308c\u305f\u5f8c\u3001\u81ea\u8eab\u306e\u52b9\u679c\u304c\u300c<<8213>>\u300d\u3067\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Spell"
+    ]
+}

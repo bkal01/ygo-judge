@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11880
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In either of these situations, since it is not possible to Special Summon 3 \"Legendary Knight\" monsters, you cannot activate this effect of <<11880>>.",
+            "id": 16026,
+            "question": "If I only have 2 available Monster Zones when <<11880>> is destroyed by battle, can I activate its effect that Special Summons 3 \"Legendary Knight\" monsters? Furthermore, if <<11880>> is destroyed by battle, but I do not have 3 \"Legendary Knight\" monsters in my hand/Deck/Graveyard, can I activate its effect?",
+            "thisSrc": {
+                "date": "2015-05-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If I only have 2 available Monster Zones when <<11880>> is destroyed by battle, can I activate its effect that Special Summons 3 \"Legendary Knight\" monsters? Furthermore, if <<11880>> is destroyed by battle, but I do not have 3 \"Legendary Knight\" monsters in my hand/Deck/Graveyard, can I activate its effect?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u3044\u305a\u308c\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3082\u3001\u300c\u4f1d\u8aac\u306e\u9a0e\u58eb\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc3\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u304c\u3067\u304d\u306a\u3044\u72b6\u614b\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300c<<11880>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u81ea\u4f53\u304c\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 16026,
+            "question": "\u300c<<11880>>\u300d\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u969b\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u7a7a\u304d\u304c2\u3064\u3057\u304b\u306a\u3044\u5834\u5408\u3001\u300e\u2462\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u306e\u624b\u672d\u30fb\u30c7\u30c3\u30ad\u30fb\u5893\u5730\u306e\u300c\u4f1d\u8aac\u306e\u9a0e\u58eb\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff13\u4f53\u3092\u9078\u3073\u3001\u53ec\u559a\u6761\u4ef6\u3092\u7121\u8996\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<11880>>\u300d\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u969b\u3001\u81ea\u5206\u306e\u624b\u672d\u30fb\u30c7\u30c3\u30ad\u30fb\u5893\u5730\u306b\u300c\u4f1d\u8aac\u306e\u9a0e\u58eb\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c3\u4f53\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u300e\u2462\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u306e\u624b\u672d\u30fb\u30c7\u30c3\u30ad\u30fb\u5893\u5730\u306e\u300c\u4f1d\u8aac\u306e\u9a0e\u58eb\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff13\u4f53\u3092\u9078\u3073\u3001\u53ec\u559a\u6761\u4ef6\u3092\u7121\u8996\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11880>>\u300d\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u969b\u306b\u3001\u300c\u4f1d\u8aac\u306e\u9a0e\u58eb\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\uff13\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u5834\u5408\u3001\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

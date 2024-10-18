@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11924
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in this scenario, the effect of each Gogogo Aristera & Dexia is applied normally.",
+            "id": 16931,
+            "question": "If I have 2 copies of Gogogo Aristera & Dexia face-up on my side of the field, will each of their effects that prevent my opponent from targeting other \"Gogogo\" monsters on my side of the field with attacks or card effects apply?",
+            "thisSrc": {
+                "date": "2015-09-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If I have 2 copies of Gogogo Aristera & Dexia face-up on my side of the field, will each of their effects that prevent my opponent from targeting other \"Gogogo\" monsters on my side of the field with attacks or card effects apply?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3067\u3082\u3001\u300c<<11924>>\u300d\u306e\u52b9\u679c\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 16931,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b2\u4f53\u306e\u300c<<11924>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u3068\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u300c\u30b4\u30b4\u30b4\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u76f8\u624b\u306f\u300c\u30b4\u30b4\u30b4\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u653b\u6483\u5bfe\u8c61\u306b\u9078\u629e\u3067\u304d\u305a\u3001\u52b9\u679c\u306e\u5bfe\u8c61\u306b\u3082\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c\u30b4\u30b4\u30b4\u30a2\u30ea\u30b9\u30c6\u30e9&\u30c7\u30af\u30b7\u30a2\u300d\u304c2\u4f53\u5b58\u5728\u3059\u308b\u5834\u5408\u3067\u3082\u3001\u653b\u6483\u3084\u52b9\u679c\u306e\u5bfe\u8c61\u306b\u3067\u304d\u306a\u304f\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

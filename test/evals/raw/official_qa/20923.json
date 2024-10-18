@@ -1,0 +1,39 @@
+{
+    "cards": [
+        7858,
+        9454,
+        13119
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of <<13119>> makes one or the other player banish their battling monster face-down depending on the outcome of the rock-paper-scissors game. If the effects of <<7858>> or <<9454>> are applying, you cannot activate <<13119>>.",
+            "id": 20923,
+            "question": "If the effects of <<7858>> or <<9454>> prevent me from banishing cards, can I activate Transmigration Gear?",
+            "thisSrc": {
+                "date": "2017-08-05",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the effects of <<7858>> or <<9454>> prevent me from banishing cards, can I activate Transmigration Gear?",
+            "tlSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<13119>>\u300d\u306f\u305d\u306e\u52b9\u679c\u51e6\u7406\u306b\u3088\u3063\u3066\u3001\u305d\u306e\u767a\u52d5\u3057\u305f\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306b\u6226\u95d8\u3092\u884c\u3063\u3066\u3044\u308b\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u307e\u305f\u306f\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u3069\u3061\u3089\u304b\u304c\u9664\u5916\u3055\u308c\u307e\u3059\u3002\n\n\u300c<<7858>>\u300d\u306e\u52b9\u679c\u3084\u300c<<9454>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u306b\u306f\u3001\u300c<<13119>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u81ea\u4f53\u304c\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 20923,
+            "question": "\u300c<<7858>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u304a\u4e92\u3044\u306b\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u3084\u3001\u300c<<9454>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u76f8\u624b\u306f\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3067\u304d\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u300c<<13119>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "title": "\u300c<<7858>>\u300d\u3084\u300c<<9454>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u300c<<13119>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

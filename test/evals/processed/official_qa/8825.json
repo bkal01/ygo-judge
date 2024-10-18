@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5543,
+        10859
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Diamond Dust cannot be activated unless there is a face-up WATER monster on the field. Therefore, Diamond Dust is treated as an effect that would inflict damage to your opponent, so they can chain Barrel Behind the Door to it.",
+            "id": 8825,
+            "question": "When I activate Diamond Dust, can my opponent chain Barrel Behind the Door to it?",
+            "thisSrc": {
+                "date": "2015-07-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When I activate Diamond Dust, can my opponent chain Barrel Behind the Door to it?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<10859>>\u300d\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u6c34\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\u304c1\u4f53\u4ee5\u4e0a\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u306a\u3051\u308c\u3070\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<10859>>\u300d\u306f\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u52b9\u679c\u304c\u767a\u52d5\u3057\u305f\u6271\u3044\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u76f8\u624b\u306f\u300c<<5543>>\u300d\u3092\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 8825,
+            "question": "\u81ea\u5206\u304c\u300c<<10859>>\u300d\u3092\u767a\u52d5\u3057\u305f\u969b\u306b\u3001\u76f8\u624b\u306f\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5543>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\uff65\u30c0\u30b9\u30c8\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5543>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4862,
+        10317
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this case, that Noble Arms - Gallatin, is destroyd and sent to the Graveyard, but Spell Cards that have their activation negated by the effect of Magic Jammer are not considered to be destroyed and sent to the Graveyard from the field.\n\nTherefore, its effect to equip itself to a \"Noble Knight\" monster you control cannot be activated.",
+            "id": 13568,
+            "question": "Magic Jammer was activated in a chain to the activation of Noble Arms - Gallatin, negating its activation and destroying it.\n\nIn this case, can its effect to equip itself to a \"Noble Knight\" monster you control be activated?",
+            "thisSrc": {
+                "date": "2014-09-06",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Magic Jammer was activated in a chain to the activation of Noble Arms - Gallatin, negating its activation and destroying it. In this case, can its effect to equip itself to a \"Noble Knight\" monster you control be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<10317>>\u300d\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u304c\u300c<<4862>>\u300d\u3067\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u306b\u306f\u3001\u305d\u306e\u300c<<10317>>\u300d\u306f\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u307e\u3059\u304c\u3001\u300c<<4862>>\u300d\u306b\u3088\u3063\u3066\u767a\u52d5\u304c\u7121\u52b9\u306b\u306a\u3063\u305f\u9b54\u6cd5\u30ab\u30fc\u30c9\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u3066\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u6271\u3044\u306b\u306f\u306a\u308a\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<10317>>\u300d\u306e\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u3053\u306e\u30ab\u30fc\u30c9\u304c\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u300c\u8056\u9a0e\u58eb\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u6226\u58eb\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc1\u4f53\u3092\u9078\u629e\u3057\u3066\u3053\u306e\u30ab\u30fc\u30c9\u3092\u88c5\u5099\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 13568,
+            "question": "\u300c<<10317>>\u300d\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u300c<<4862>>\u300d\u304c\u767a\u52d5\u3057\u3001\u300c<<10317>>\u300d\u306e\u767a\u52d5\u304c\u7121\u52b9\u306b\u306a\u308a\u3001\u7834\u58ca\u3055\u308c\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u3053\u306e\u30ab\u30fc\u30c9\u304c\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u300c\u8056\u9a0e\u58eb\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u6226\u58eb\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc1\u4f53\u3092\u9078\u629e\u3057\u3066\u3053\u306e\u30ab\u30fc\u30c9\u3092\u88c5\u5099\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10317>>\u300d\u304c\u3001\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u305f\u300c<<4862>>\u300d\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u5893\u5730\u304b\u3089\u88c5\u5099\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

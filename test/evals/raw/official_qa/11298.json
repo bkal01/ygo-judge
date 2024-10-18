@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5432,
+        9117
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If <<9117>> has used its effects already this turn, and is then flipped face-down by <<5432>>, and then face-up again, it can once again use both of its effects.\nHowever, note that the effect that allows you to make a number of attacks equal to the number of Tuners excavated cannot be activated during Main Phase 2. (It can only be activated during Main Phase 1.)",
+            "id": 11298,
+            "question": "I have previously used <<9117>>'s effect that changes the number of attacks it has, and/or have previously used the effect that negates an effect that would destroy a card(s).\n\nIf <<9117>> is now flipped face-down by <<5432>>, then flipped face-up again during the same Main Phase, can I use its effects once again?",
+            "thisSrc": {
+                "date": "2022-08-29",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If <<9117>> is flipped face-down, then face-up again, can its effects be used once again?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u52b9\u679c\u30921\u5ea6\u305a\u3064\u4f7f\u7528\u3057\u3066\u3044\u308b\u300c<<9117>>\u300d\u304c\u3001\u300c<<5432>>\u300d\u7b49\u306b\u3088\u3063\u3066\u88cf\u5074\u8868\u793a\u306b\u306a\u308a\u3001\u540c\u4e00\u30bf\u30fc\u30f3\u4e2d\u306b\u518d\u3073\u8868\u5074\u8868\u793a\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u3082\u3046\u4e00\u5ea6\u3001\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\u3057\u304b\u3057\u3001\u4e00\u5ea6\u306e\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u4e2d\u306b\u3081\u304f\u3063\u305f\u30c1\u30e5\u30fc\u30ca\u30fc\u306e\u6570\u307e\u3067\u653b\u6483\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u52b9\u679c\u306b\u3064\u3044\u3066\u306f\u3001\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba2\u306b\u3066\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\uff08\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba1\u3067\u3042\u308c\u3070\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\uff09",
+            "id": 11298,
+            "question": "\u300c<<9117>>\u300d\u304c\u653b\u6483\u3067\u304d\u308b\u56de\u6570\u306e\u5909\u5316\u3059\u308b\u52b9\u679c\u3084\u3001\u7834\u58ca\u3059\u308b\u52b9\u679c\u3092\u7121\u52b9\u306b\u3059\u308b\u52b9\u679c\u30921\u5ea6\u3065\u3064\u4f7f\u7528\u3057\u305f\u5f8c\u306b\u300c<<5432>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u88cf\u5074\u8868\u793a\u306b\u306a\u308a\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u4e2d\u306b\u518d\u5ea6\u8868\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u3082\u3046\u4e00\u5ea6\u3001\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9117>>\u300d\u306e\u8907\u6570\u56de\u653b\u6483\u3067\u304d\u308b\u52b9\u679c\u7b49\u306f\u3001\u4e00\u5ea6\u88cf\u5074\u304b\u3089\u8868\u5074\u306b\u306a\u308c\u3070\u3082\u3046\u4e00\u5ea6\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

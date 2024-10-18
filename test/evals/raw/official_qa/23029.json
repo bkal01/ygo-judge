@@ -1,0 +1,43 @@
+{
+    "cards": [
+        6980,
+        12558,
+        12559,
+        12560,
+        12561,
+        12562,
+        15388
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When resolving\u00a0<<15388>>, if there are 3 or less \"Flower Cardian\" monsters in your Graveyard that can be Special Summoned, it is not possible to Special Summon 4 \"Flower Cardian\" from your Graveyard, so the effect is completed by returning 1 Synchro Monster you control to the Extra Deck.\n(In the given situation, you return\u00a0<<12562>> to your Extra Deck.)",
+            "id": 23029,
+            "question": "The only monster in your Monster Zone is\u00a0<<12562>>. The only 4 monsters in your Graveyard are\u00a0<<12560>>,\u00a0<<12558>>,\u00a0<<12559>>, and\u00a0<<12561>>.\n\nIn this situation, how does your <<15388>> resolve if <<6980>> is chained its activation so that there are 3 or less \"Flower Cardian\" monsters in your Graveyard?",
+            "thisSrc": {
+                "date": "2020-06-20",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "How does <<15388>> resolve if there are 3 or less \"Flower Cardian\" monsters that can be Special Summoned in your Graveyard during the resolution of the effect?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<15388>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u81ea\u5206\u306e\u5893\u5730\u306b\u7279\u6b8a\u53ec\u559a\u304c\u53ef\u80fd\u306a\u300c\u82b1\u672d\u885b\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\uff13\u4f53\u4ee5\u4e0b\u3068\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u306b\u306f\u3001\u300e\u81ea\u5206\u306e\u5893\u5730\u304b\u3089\u300c\u82b1\u672d\u885b\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff14\u4f53\u3092\u9078\u3093\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u51e6\u7406\u3092\u9069\u7528\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u306e\u3067\u3001\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306eS\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u3093\u3067\u6301\u3061\u4e3b\u306eEX\u30c7\u30c3\u30ad\u306b\u623b\u3057\u300f\u306e\u51e6\u7406\u306e\u307f\u3092\u884c\u3044\u3001\u52b9\u679c\u51e6\u7406\u304c\u5b8c\u4e86\u3057\u307e\u3059\u3002\n\uff08\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<12562>>\u300d\u3092\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u623b\u3057\u307e\u3059\u3002\uff09",
+            "id": 23029,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u300c<<12562>>\u300d\uff11\u4f53\u306e\u307f\u3067\u3001\u81ea\u5206\u306e\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u300c<<12560>>\u300d\u300c<<12558>>\u300d\u300c<<12559>>\u300d\u300c<<12561>>\u300d\u306e\u5408\u8a08\uff14\u4f53\u306e\u307f\u306e\u72b6\u614b\u3067\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u81ea\u5206\u306e\u300c<<15388>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u76f8\u624b\u304c\u767a\u52d5\u3057\u305f\u300c<<6980>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u82b1\u672d\u885b\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\uff13\u4f53\u4ee5\u4e0b\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<15388>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u81ea\u5206\u306e\u5893\u5730\u306b\u7279\u6b8a\u53ec\u559a\u304c\u53ef\u80fd\u306a\u300c\u82b1\u672d\u885b\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\uff13\u4f53\u4ee5\u4e0b\u3068\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

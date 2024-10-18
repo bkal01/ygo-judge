@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4989,
+        12018
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, the effect of Graydle Parasite does not resolve.",
+            "id": 16575,
+            "question": "If the opponent activates Call of the Haunted in a chain to the activation of the effect of Graydle Parasite that Special Summons a monster to their side of the field, so that they control monsters, how does this resolve?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the opponent activates Call of the Haunted in a chain to the activation of the effect of Graydle Parasite that Special Summons a monster to their side of the field, so that they control monsters, how does this resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u306b\u306f\u3001\u300e\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 16575,
+            "question": "\u300c<<12018>>\u300d\u306e\u300e\u2461\uff1a\u81ea\u5206\u306e\u300c\u30b0\u30ec\u30a4\u30c9\u30eb\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u76f4\u63a5\u653b\u6483\u5ba3\u8a00\u6642\u306b\u3001\u76f8\u624b\u306e\u5893\u5730\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u76f8\u624b\u304c\u300c<<4989>>\u300d\u3092\u767a\u52d5\u3057\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u300c\u30b0\u30ec\u30a4\u30c9\u30eb\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u76f4\u63a5\u653b\u6483\u5ba3\u8a00\u6642\u306b\u767a\u52d5\u3057\u305f\u300c<<12018>>\u300d\u306e\u52b9\u679c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<4989>>\u300d\u304c\u767a\u52d5\u3057\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

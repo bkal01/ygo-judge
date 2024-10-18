@@ -1,0 +1,37 @@
+{
+    "cards": [
+        15105
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Fusion, Synchro, Xyz, and Link Monsters can be chosen as cards to return to the hand by the first effect of <<15105>>. In that case, those monsters return to the Extra Deck instead of the hand.",
+            "id": 22984,
+            "question": "Can Fusion, Synchro, Xyz, and Link Monsters be chosen as cards to return to the hand by the first effect of <<15105>>?",
+            "thisSrc": {
+                "date": "2020-03-26",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "Can a Fusion Monsters be chosen as cards to return to the hand by the first effect of <<15105>>?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<15105>>\u300d\u306e\u300e\u2460\u300f\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u624b\u672d\u306b\u623b\u3059\u30ab\u30fc\u30c9\u3068\u3057\u3066\u3001\u878d\u5408\u30fb\u30b7\u30f3\u30af\u30ed\u30fb\u30a8\u30af\u30b7\u30fc\u30ba\u30fb\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u3076\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u305d\u306e\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u7b49\u306f\u3001\u624b\u672d\u3067\u306f\u306a\u304f\u6301\u3061\u4e3b\u306e\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u623b\u3057\u307e\u3059\u3002",
+            "id": 22984,
+            "question": "\u300c<<15105>>\u300d\u306e\u300e\u2460\u300f\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u624b\u672d\u306b\u623b\u3059\u30ab\u30fc\u30c9\u3068\u3057\u3066\u3001\u878d\u5408\u30fb\u30b7\u30f3\u30af\u30ed\u30fb\u30a8\u30af\u30b7\u30fc\u30ba\u30fb\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u3076\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<15105>>\u300d\u306e\u300e\u2460\u300f\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3067\u624b\u672d\u306b\u623b\u3059\u30ab\u30fc\u30c9\u3068\u3057\u3066\u3001\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u7b49\u3092\u9078\u3079\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

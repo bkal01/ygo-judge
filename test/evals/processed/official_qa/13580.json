@@ -1,0 +1,37 @@
+{
+    "cards": [
+        5605
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, both monsters were already on the field when the effect of Kaiser Colosseum started applying. The effect of Kaiser Colosseum prevents you from putting into play any new monsters if it would result in you controlling more than your opponent. Therefore, you can still Normal Summon a Gemini monster that's already in the Monster Zone.",
+            "id": 13580,
+            "question": "My opponent activates Kaiser Colosseum while my opponent has 1 monster in their Monster Zone, and I have 1 Gemini monster treated as a Normal Monster in my Monster Zone. In this situation, during my turn, can I Normal Summon that Gemini monster again so that it becomes an Effect Monster?",
+            "thisSrc": {
+                "date": "2019-05-16",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "My opponent activates Kaiser Colosseum while my opponent has 1 monster in their Monster Zone, and I have 1 Gemini monster treated as a Normal Monster in my Monster Zone. In this situation, during my turn, can I Normal Summon that Gemini monster again so that it becomes an Effect Monster?",
+            "tlSrc": {
+                "date": "2019-04-15",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u304a\u4e92\u3044\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3057\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u300c<<5605>>\u300d\u304c\u9069\u7528\u3055\u308c\u308b\u524d\u306b\u5b58\u5728\u3057\u3066\u304a\u308a\u3001\u307e\u305f\u3001\u300c<<5605>>\u300d\u306e\u52b9\u679c\u306f\u65b0\u305f\u306a\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u51fa\u3059\u5834\u5408\u306b\u3001\u300c<<5605>>\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30e9\u30fc\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6570\u3092\u8d8a\u3048\u308b\u3088\u3046\u306b\u51fa\u3059\u4e8b\u304c\u3067\u304d\u306a\u3044\u52b9\u679c\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u65e2\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3057\u3066\u3044\u308b\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u6271\u3044\u306e\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u3082\u30461\u5ea6\u53ec\u559a\u3059\u308b\u4e8b\u3092\u901a\u5e38\u901a\u308a\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 13580,
+            "question": "\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c1\u4f53\u5b58\u5728\u3057\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u306f\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u542b\u30802\u4f53\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u308b\u72b6\u6cc1\u3067\u3001\u76f8\u624b\u304c\u300c<<5605>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5f8c\u3001\u6b21\u306e\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u3092\u8fce\u3048\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u81ea\u5206\u306f\u3001\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u3082\u30461\u5ea6\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2019-04-15",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u306e\u300c<<5605>>\u300d\u306e\u52b9\u679c\u9069\u7528\u4e2d\u306b\u3001\u81ea\u5206\u306f\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u3082\u30461\u5ea6\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Gemini"
+    ]
+}

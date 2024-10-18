@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5355,
+        7696,
+        11621
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If the effect of <<11621>> is applied, it is not the Original ATK of the monster that is doubled during Damage Calculation but rather the ATK value of that \"Warrior\" monster on the field. (The same happens if the ATK has been modified by Equip Spell Cards)\n\nTherefore, in the proposed scenario, the ATK of <<7696>> becomes twice as much of 1150 for a value of 2300 during Damage calculation only.\n\nFurthermore, in that case, after Damage Calculation for the duration of that turn, since the Original ATK of that <<7696>> has been halved by the effect of <<5355>>, its ATK remains in 1150 until the end of the turn.",
+            "id": 14534,
+            "question": "The effect of <<5355>> was applied on <<7696>>, making its ATK half of its Original ATK for a value of 1150.\n\nAt this time, if <<7696>> battles with an opponent's monster and the effect of <<11621>> that doubles ATK is activated, what does its ATK become?",
+            "thisSrc": {
+                "date": "2014-12-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "The effect of <<5355>> was applied on <<7696>>, making its ATK half of its Original ATK for a value of 1150.  At this time, if <<7696>> battles with an opponent's monster and the effect of <<11621>> that doubles ATK is activated, what does its ATK become?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11621>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u308b\u5834\u5408\u3001\u305d\u306e\u81ea\u5206\u306e\u300c\u30a6\u30a9\u30ea\u30a2\u30fc\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u5143\u3005\u306e\u653b\u6483\u529b\u3067\u306f\u306a\u304f\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u3066\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u653b\u6483\u529b\u304c\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306e\u307f\u500d\u306b\u306a\u308a\u307e\u3059\u3002\uff08\u88c5\u5099\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u653b\u6483\u529b\u304c\u5909\u5316\u3057\u3066\u3044\u308b\u5834\u5408\u3082\u540c\u69d8\u3067\u3059\u3002\uff09\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<7696>>\u300d\u306e\u653b\u6483\u529b\u306f\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306e\u307f\uff11\uff11\uff15\uff10\u306e\u500d\u306e\uff12\uff13\uff10\uff10\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u306a\u304a\u3001\u305d\u306e\u5834\u5408\u3001\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u304c\u7d42\u4e86\u3057\u305f\u5f8c\u306e\u300c<<7696>>\u300d\u306f\u305d\u306e\u30bf\u30fc\u30f3\u306e\u9593\u3001\u300c<<5355>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u5143\u3005\u306e\u653b\u6483\u529b\u304c\u534a\u5206\u3068\u306a\u3063\u305f\u72b6\u614b\u306e\u307e\u307e\u3067\u3059\u306e\u3067\u3001\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u306f\u653b\u6483\u529b\u304c\uff11\uff11\uff15\uff10\u306e\u72b6\u614b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 14534,
+            "question": "\u300c<<7696>>\u300d\u306b\u300c<<5355>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u653b\u6483\u529b\u304c\u5143\u3005\u306e\u534a\u5206\u306e\uff11\uff11\uff15\uff10\u306e\u72b6\u614b\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u72b6\u6cc1\u306b\u3066\u3001\u300c<<7696>>\u300d\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3046\u969b\u306b\u624b\u672d\u306e\u300c<<11621>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u306e\u300c\u30a6\u30a9\u30ea\u30a2\u30fc\u300dS\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3046\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u3001\u3053\u306e\u30ab\u30fc\u30c9\u3092\u624b\u672d\u304b\u3089\u5893\u5730\u3078\u9001\u3063\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u6226\u95d8\u3092\u884c\u3046\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u3001\u305d\u306e\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306e\u307f\u500d\u306b\u306a\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5355>>\u300d\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u300c<<7696>>\u300d\u304c\u6226\u95d8\u3092\u884c\u3046\u969b\u306b\u3001\u624b\u672d\u306e\u300c<<11621>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

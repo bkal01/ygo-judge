@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4909,
+        7178,
+        14548
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, you only have 1 card in your hand when <<14548>> resolves. The part of the effect that adds 2 cards from your hand to your opponent's cannot be applied, so you also do not draw 2 cards. (<<7178>> remains in your hand.)",
+            "id": 22659,
+            "question": "<<14548>>, <<4909>>, and <<7178>> are the 3 cards in my hand. In this situation, if I activate <<14548>>, but chain <<4909>> from my hand so that my hand has 1 card in it, what happens?",
+            "thisSrc": {
+                "date": "2019-05-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<14548>>, <<4909>>, and <<7178>> are the 3 cards in my hand. In this situation, if I activate <<14548>>, but chain <<4909>> from my hand so that my hand has 1 card in it, what happens?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<14548>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u81ea\u5206\u306e\u624b\u672d\u306f\u300c<<7178>>\u300d\u306e1\u679a\u306e\u307f\u3068\u306a\u3063\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u300e\u81ea\u5206\u306e\u624b\u672d\u3092\uff12\u679a\u9078\u3093\u3067\u76f8\u624b\u306e\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u51e6\u7406\u3092\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u305a\u3001\u300e\u305d\u306e\u5f8c\u3001\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff12\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u51e6\u7406\u3082\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\n\uff08\u306a\u304a\u3001\u300c<<7178>>\u300d\u306f\u81ea\u5206\u306e\u624b\u672d\u306b\u6b8b\u308a\u307e\u3059\u3002\uff09",
+            "id": 22659,
+            "question": "\u81ea\u5206\u306e\u624b\u672d\u304c\u300c<<14548>>\u300d\u3001\u300c<<4909>>\u300d\u3001\u300c<<7178>>\u300d\u306e3\u679a\u306e\u307f\u3068\u3044\u3046\u72b6\u6cc1\u3067\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u304c\u300c<<14548>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u306e\u624b\u672d\u3092\uff12\u679a\u9078\u3093\u3067\u76f8\u624b\u306e\u624b\u672d\u306b\u52a0\u3048\u308b\u3002\u305d\u306e\u5f8c\u3001\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff12\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u81ea\u5206\u304c\u300c<<4909>>\u300d\u3092\u767a\u52d5\u3057\u3001\u81ea\u5206\u306e\u624b\u672d\u304c1\u679a\u3068\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<14548>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u81ea\u5206\u306e\u624b\u672d\u304c1\u679a\u4ee5\u4e0b\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

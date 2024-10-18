@@ -1,0 +1,50 @@
+{
+    "cards": [
+        5910,
+        12021,
+        12316
+    ],
+    "notes": {
+        "invalid_tcg": [
+            {
+                "body": "In the TCG Amorphactor Pain says the opponent's next M1 is skipped.",
+                "date": "2022-07-26",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "Catmaster0"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "If Amorphactor Pain, the Imagination Dracoverlord is Ritual Summoned during the opponent's turn by Urgent Ritual Art, the Main Phase 1 of the ongoing turn will not be skipped. Instead, the Main Phase 1 of your opponent's next turn will be skipped.",
+            "id": 18220,
+            "question": "During my opponent's turn, I activate Urgent Ritual Art by banishing Earth Chant, and Ritual Summon Amorphactor Pain, the Imagination Dracoverlord when it resolves.\n\nIn this situation, how is the effect of Amorphactor Pain, the Imagination Dracoverlord that skips the opponent's Main Phase applied?",
+            "thisSrc": {
+                "date": "2022-01-02",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If I activate Urgent Ritual Art and Ritual Summon Amorphactor Pain, the Imagination Dracoverlord during my opponent's turn, which Main Phase 1 will be skipped?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<12021>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306b\u3088\u3063\u3066\u300c<<12316>>\u300d\u304c\u76f8\u624b\u30bf\u30fc\u30f3\u4e2d\u306b\u5100\u5f0f\u53ec\u559a\u3055\u308c\u305f\u3068\u3057\u3066\u3082\u3001\u305d\u306e\u9032\u884c\u4e2d\u306e\u76f8\u624b\u306e\u30bf\u30fc\u30f3\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba1\u304c\u30b9\u30ad\u30c3\u30d7\u3055\u308c\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u300c<<12316>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u5100\u5f0f\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u5834\u5408\u3001\u6b21\u306e\u76f8\u624b\u30bf\u30fc\u30f3\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\uff11\u3092\u30b9\u30ad\u30c3\u30d7\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba1\u304c\u30b9\u30ad\u30c3\u30d7\u3055\u308c\u308b\u306e\u306f\u3001\u305d\u306e\u6b21\u306e\u76f8\u624b\u30bf\u30fc\u30f3\u3068\u306a\u308a\u307e\u3059\u3002",
+            "id": 18220,
+            "question": "\u76f8\u624b\u306e\u30bf\u30fc\u30f3\u306b\u300c<<12021>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u81ea\u5206\u306e\u624b\u672d\u30fb\u5893\u5730\u304b\u3089\u5100\u5f0f\u9b54\u6cd5\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9664\u5916\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306f\u3001\u305d\u306e\u5100\u5f0f\u9b54\u6cd5\u30ab\u30fc\u30c9\u767a\u52d5\u6642\u306e\u5100\u5f0f\u53ec\u559a\u3059\u308b\u52b9\u679c\u3068\u540c\u3058\u306b\u306a\u308b\u300f\u51e6\u7406\u306b\u3088\u3063\u3066\u300c<<5910>>\u300d\u3092\u9664\u5916\u3057\u3001\u300c<<12316>>\u300d\u3092\u5100\u5f0f\u53ec\u559a\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u300c<<12316>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u5100\u5f0f\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u5834\u5408\u3001\u6b21\u306e\u76f8\u624b\u30bf\u30fc\u30f3\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\uff11\u3092\u30b9\u30ad\u30c3\u30d7\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u30bf\u30fc\u30f3\u306b\u300c<<12021>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300c<<12316>>\u300d\u3092\u5100\u5f0f\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u3044\u3064\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba1\u304c\u30b9\u30ad\u30c3\u30d7\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Ritual",
+        "o:Reader beware"
+    ]
+}

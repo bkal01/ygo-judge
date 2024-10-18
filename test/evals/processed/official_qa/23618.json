@@ -1,0 +1,38 @@
+{
+    "cards": [
+        13346,
+        14496
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The ATK will return to 3200.",
+            "id": 23618,
+            "question": "I control an Apollousa, Bow of the Goddess, whose original ATK is 3200 due to being Summoned using 4 materials.\n\nThis Apollousa, Bow of the Goddess has used its effect once, causing its current ATK to become 2400. Afterwards, the effect of Linkuriboh is applied to it, causing its current ATK to become 0.\n\nOnce Linkuriboh's effect ends at the end of the turn, what will the current ATK of Apollousa, Bow of the Goddess be during the next turn?",
+            "thisSrc": {
+                "date": "2022-03-26",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If the effect of Linkuriboh is used on an Apollousa, Bow of the Goddess whose ATK is reduced by its own effect, what will its ATK be next turn?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\uff13\uff12\uff10\uff10\u306b\u623b\u308a\u307e\u3059\u3002",
+            "id": 23618,
+            "question": "\u30e2\u30f3\u30b9\u30bf\u30fc\uff14\u4f53\u3092\u7d20\u6750\u3068\u3057\u3066\u30ea\u30f3\u30af\u53ec\u559a\u3057\u305f\u3001\u5143\u3005\u306e\u653b\u6483\u529b\u304c\uff13\uff12\uff10\uff10\u306e\u300c<<14496>>\u300d\u304c\u5b58\u5728\u3057\u307e\u3059\u3002\n\n\u3053\u306e\u300c<<14496>>\u300d\u304c\u52b9\u679c\u3092\uff11\u56de\u4f7f\u7528\u3057\u3001\u653b\u6483\u529b\u304c\uff12\uff14\uff10\uff10\u306b\u306a\u3063\u305f\u5f8c\u3001\u300c<<13346>>\u300d\u306e\u52b9\u679c\u3092\u53d7\u3051\u3066\u653b\u6483\u529b\u304c\uff10\u306b\u306a\u308a\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u6b21\u306e\u30bf\u30fc\u30f3\u304b\u3089\u300c<<14496>>\u300d\u306e\u653b\u6483\u529b\u306f\u4f55\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u81ea\u8eab\u306e\u52b9\u679c\u3067\u653b\u6483\u529b\u304c\u30c0\u30a6\u30f3\u3057\u3066\u3044\u308b\u300c<<14496>>\u300d\u306b\u5bfe\u3057\u3066\u300c<<13346>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u6b21\u306e\u30bf\u30fc\u30f3\u304b\u3089\u653b\u6483\u529b\u306f\u4f55\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Link"
+    ]
+}

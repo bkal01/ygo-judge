@@ -1,0 +1,43 @@
+{
+    "cards": [
+        6682,
+        8165,
+        8815,
+        11384,
+        14740,
+        15515,
+        17757
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In all of the situations given, you can still activate the effect of Blackwing - Vata the Emblem of Wandering. However, the monsters chosen during resolution will be banished instead of being sent to the Graveyard. Thus, the effect's resolution will end, and you will not Special Summon Black-Winged Dragon.",
+            "id": 23810,
+            "question": "While the effects of Dimension Shifter or Macro Cosmos (any card sent to the Graveyard would be banished), or the effect of Virtual World Kyubi - Shenshen (any card sent from the field to the Graveyard would be banished), or the effect of Herald of the Arc Light (any monster sent from the Deck to the Graveyard would be banished) is applying, can I activate and/or resolve the effect of Blackwing - Vata the Emblem of Wandering, banishing Blackwing - Vata the Emblem of Wandering (Level 2) and Blackwing - Elphin the Raven (Level 6) to Special Summon Black-Winged Dragon?",
+            "thisSrc": {
+                "date": "2022-07-16",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Is it possible to activate and/or resolve the effect of Blackwing - Vata the Emblem of Wandering while cards sent to the Graveyard would be banished?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3044\u305a\u308c\u306e\u72b6\u6cc1\u3067\u3082\u3001\u300c<<17757>>\u300d\u306e\u2461\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\u305f\u3060\u3057\u3001\u51e6\u7406\u6642\u306b\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u300c<<17757>>\u300d\u3084\u30c7\u30c3\u30ad\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5893\u5730\u3078\u884c\u304b\u305a\u306b\u9664\u5916\u3055\u308c\u305f\u5834\u5408\u306b\u306f\u305d\u3053\u3067\u51e6\u7406\u3092\u5b8c\u4e86\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u3001\u300c<<8815>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u51e6\u7406\u306f\u884c\u308f\u308c\u307e\u305b\u3093\u3002",
+            "id": 23810,
+            "question": "\u300c<<14740>>\u300d\u300c<<6682>>\u300d\u306e\u300e\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u30ab\u30fc\u30c9\u306f\u5893\u5730\u3078\u306f\u884c\u304b\u305a\u9664\u5916\u3055\u308c\u308b\u300f\u52b9\u679c\u3084\u3001\u300c<<15515>>\u300d\u306e\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u30ab\u30fc\u30c9\u306f\u5893\u5730\u3078\u306f\u884c\u304b\u305a\u9664\u5916\u3055\u308c\u308b\u300f\u52b9\u679c\u3001\u300c<<11384>>\u300d\u306e\u300e\u304a\u4e92\u3044\u306e\u624b\u672d\u30fb\u30c7\u30c3\u30ad\u304b\u3089\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u5893\u5730\u3078\u306f\u884c\u304b\u305a\u9664\u5916\u3055\u308c\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u72b6\u6cc1\u3067\u3001\u300c<<17757>>\u300d\u306e\u2461\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u30ec\u30d9\u30eb\uff12\u306e\u300c<<17757>>\u300d\u3068\u30ec\u30d9\u30eb\uff16\u306e\u300c<<8165>>\u300d\u3092\u9664\u5916\u3057\u3066\u300c<<8815>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u30d5\u30a3\u30fc\u30eb\u30c9\u3084\u30c7\u30c3\u30ad\u304b\u3089\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u9664\u5916\u3055\u308c\u308b\u72b6\u6cc1\u3067\u3001\u300c<<17757>>\u300d\u306e\u2461\u306e\u52b9\u679c\u306e\u767a\u52d5\u30fb\u51e6\u7406\u3092\u884c\u3048\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5432,
+        11954
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, the effect that changes the Level cannot be applied, but even in that case, since the effect of D/D Berfomet was activated that turn, the effect that prevents you from Special Summoning monsters except \"D/D\" Monsters is still applied.",
+            "id": 16377,
+            "question": "If Book of Moon is activated in a chain to the activation of the effect of D/D Berfomet, so that the targeted \"D/D\" monster is changed to face-down Defense Position, how does this resolve?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Book of Moon is activated in a chain to the activation of the effect of D/D Berfomet, so that the targeted \"D/D\" monster is changed to face-down Defense Position, how does this resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300e\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u5ba3\u8a00\u3057\u305f\u30ec\u30d9\u30eb\u306b\u306a\u308b\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u304c\u3001\u305d\u306e\u5834\u5408\u3067\u3082\u3001\u3053\u306e\u30bf\u30fc\u30f3\u306b\u306f\u300c<<11954>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3057\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u300e\u3053\u306e\u52b9\u679c\u306e\u767a\u52d5\u5f8c\u3001\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u81ea\u5206\u306f\u300cDD\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304b\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 16377,
+            "question": "\u300c<<11954>>\u300d\u306e\u300e\u2460\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u300c<<11954>>\u300d\u4ee5\u5916\u306e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300cDD\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3001\uff11\uff5e\uff18\u307e\u3067\u306e\u4efb\u610f\u306e\u30ec\u30d9\u30eb\u3092\u5ba3\u8a00\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u5ba3\u8a00\u3057\u305f\u30ec\u30d9\u30eb\u306b\u306a\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5432>>\u300d\u304c\u767a\u52d5\u3057\u3001\u5bfe\u8c61\u3068\u306a\u3063\u305f\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300cDD\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11954>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

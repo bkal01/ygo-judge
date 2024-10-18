@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12222
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, it can.\n\nIn that case, that Fusion, Synchro, Xyz, or Link Monster is not returned to the Deck and is returned to the Extra Deck instead.",
+            "id": 17700,
+            "question": "Can a Fusion, Synchro, Xyz, or Link Monster be chosen to be returned to the owner's Deck by the effect of <<12222>>?",
+            "thisSrc": {
+                "date": "2021-12-02",
+                "misc": "Catmaster0",
+                "type": 4
+            },
+            "title": "Can a Fusion, Synchro, Xyz, or Link Monster be chosen to be returned to the owner's Deck by the effect of <<12222>>?",
+            "tlSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<12222>>\u300d\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\u3092\u30c7\u30c3\u30ad\u306b\u623b\u3059\u52b9\u679c\u3067\u3001\u878d\u5408\u30fb\u30b7\u30f3\u30af\u30ed\u30fb\u30a8\u30af\u30b7\u30fc\u30ba\u30fb\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u9078\u3076\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u305d\u306e\u878d\u5408\u30fb\u30b7\u30f3\u30af\u30ed\u30fb\u30a8\u30af\u30b7\u30fc\u30ba\u30fb\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u30c7\u30c3\u30ad\u3067\u306f\u306a\u304f\u3001\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u623b\u308a\u307e\u3059\u3002",
+            "id": 17700,
+            "question": "\u300c<<12222>>\u300d\u306e\u300e\u25cf\uff12\u7a2e\u985e\u4ee5\u4e0a\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u30fb\u76f8\u624b\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u3053\u306e\u30ab\u30fc\u30c9\u306eX\u7d20\u6750\u3092\uff11\u3064\u53d6\u308a\u9664\u3044\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u30c7\u30c3\u30ad\u306b\u623b\u3059\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306b\u623b\u3059\u30ab\u30fc\u30c9\u3068\u3057\u3066\u3001\u878d\u5408\u30fb\u30b7\u30f3\u30af\u30ed\u30fb\u30a8\u30af\u30b7\u30fc\u30ba\u30fb\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u3076\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "title": "\u300c<<12222>>\u300d\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\u3092\u30c7\u30c3\u30ad\u306b\u623b\u3059\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3067\u3001\u878d\u5408\u30fb\u30b7\u30f3\u30af\u30ed\u30fb\u30a8\u30af\u30b7\u30fc\u30ba\u30fb\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u3079\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

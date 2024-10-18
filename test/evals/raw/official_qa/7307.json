@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5432,
+        10859
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When resolving the effect of <<10859>>, only face-up WATER monsters on the field are destroyed. Therefore, if there are no face-up WATER monsters in the Monster Zone, <<10859>> could not be activated. In addition, if <<5432>> is chained to <<10859>>, the WATER monster that is changed to face-down Defense Position is not destroyed.",
+            "id": 7307,
+            "question": "When the effect of <<10859>> is applied, will face-down WATER monsters on the field be destroyed? Also, if <<5432>> is chained to <<10859>>, changing a WATER monster that was face-up on the field to face-down Defense Position, will that monster be destroyed?",
+            "thisSrc": {
+                "date": "2015-04-30",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When the effect of <<10859>> is applied, will face-down WATER monsters on the field be destroyed? Also, if <<5432>> is chained to <<10859>>, changing a WATER monster that was face-up on the field to face-down Defense Position, will that monster be destroyed?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<10859>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u305d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u308b\u6c34\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u307f\u3068\u306a\u308a\u307e\u3059\u3002\n\u3057\u305f\u304c\u3063\u3066\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u306e\u6c34\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\u304c1\u4f53\u3082\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u306b\u306f\u3001\u300c<<10859>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u81ea\u4f53\u304c\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u307e\u305f\u3001\u300c<<10859>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u305f\u300c<<5432>>\u300d\u306b\u3088\u3063\u3066\u52b9\u679c\u51e6\u7406\u6642\u306b\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u3066\u3044\u308b\u6c34\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u300c<<10859>>\u300d\u306e\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 7307,
+            "question": "\u300c<<10859>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u308b\u5834\u5408\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u6c34\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<10859>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5432>>\u300d\u304c\u767a\u52d5\u3057\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u305f\u6c34\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u52b9\u679c\u51e6\u7406\u6642\u306b\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u305d\u306e\u6c34\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10859>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u6c34\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

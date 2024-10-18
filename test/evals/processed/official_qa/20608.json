@@ -1,0 +1,38 @@
+{
+    "cards": [
+        9778,
+        13005
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even while the effect of One Day of Peace is applying, you can activate Contract with Don Thousand. Since the effect that makes each player lose 1000 Life Points is not considered damage, it applies normally.",
+            "id": 20608,
+            "question": "During this turn, the effect of my opponent's One Day of Peace that prevents either player from taking damage is applying. In this situation, can I activate Contract with Don Thousand?",
+            "thisSrc": {
+                "date": "2017-02-12",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "During this turn, the effect of my opponent's One Day of Peace that prevents either player from taking damage is applying. In this situation, can I activate Contract with Don Thousand?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<9778>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u300c<<13005>>\u300d\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u3092\u884c\u3046\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u300e\u304a\u4e92\u3044\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\uff11\uff10\uff10\uff10LP\u3092\u5931\u3044\u300f\u306e\u51e6\u7406\u306f\u3001\u30c0\u30e1\u30fc\u30b8\u3068\u3057\u3066\u306f\u6271\u308f\u308c\u307e\u305b\u3093\u306e\u3067\u3001\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u6642\u306e\u52b9\u679c\u51e6\u7406\u3068\u3057\u3066\u3001\u304a\u4e92\u3044\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\uff11\uff10\uff10\uff10LP\u3092\u5931\u3044\u3001\u305d\u308c\u305e\u308c\u30c7\u30c3\u30ad\u304b\u3089\uff11\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 20608,
+            "question": "\u76f8\u624b\u304c\u767a\u52d5\u3057\u305f\u300c<<9778>>\u300d\u306e\u300e\u6b21\u306e\u76f8\u624b\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u3001\u304a\u4e92\u3044\u304c\u53d7\u3051\u308b\u5168\u3066\u306e\u30c0\u30e1\u30fc\u30b8\u306f\uff10\u306b\u306a\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30bf\u30fc\u30f3\u3067\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306f\u300c<<13005>>\u300d\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u3092\u884c\u3048\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9778>>\u300d\u306e\u9069\u7528\u4e2d\u3001\u300c\u30c9\u30f3\uff65\u30b5\u30a6\u30b6\u30f3\u30c9\u306e\u5951\u7d04\u300d\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u3092\u884c\u3048\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

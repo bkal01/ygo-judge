@@ -1,0 +1,55 @@
+{
+    "cards": [
+        12607,
+        12608,
+        12609,
+        12610
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "Activation legality for destroy + Summon with no zones",
+                "date": "2024-02-02",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "The effect of a monster such as <<12607>> Special Summons a \"Crystron\" Tuner monster from your Deck, so if there are already 5 monsters in your Main Monster Zones, you can only activate the effect by targeting a face-up monster in your Main Monster Zone. (Face-up cards in your Spell & Trap Zones, Field Zone, or the Extra Monster Zone cannot be targeted.)",
+            "id": 19576,
+            "question": "If there are 5 monsters in my Main Monster Zones, can I activate the effect of <<12607>>, <<12608>>, <<12609>>, or <<12610>> that destroys a face-up card on my field and Special Summons a \"Crystron\" Tuner monster from my Deck?",
+            "thisSrc": {
+                "date": "2017-03-31",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If there are 5 monsters in my Main Monster Zones, can I activate the effect of <<12607>>, <<12608>>, <<12609>>, or <<12610>> that destroys a face-up card on my field and Special Summons a \"Crystron\" Tuner monster from my Deck?",
+            "tlSrc": {
+                "date": "2017-03-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<12607>>\u300d\u7b49\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3001\u30c7\u30c3\u30ad\u304b\u3089\u300c\u30af\u30ea\u30b9\u30c8\u30ed\u30f3\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30c1\u30e5\u30fc\u30ca\u30fc1\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u81ea\u5206\u306e\u30e1\u30a4\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c5\u4f53\u5b58\u5728\u3059\u308b\u72b6\u6cc1\u3067\u767a\u52d5\u3059\u308b\u5834\u5408\u306b\u306f\u3001\u7834\u58ca\u3059\u308b\u5bfe\u8c61\u3068\u3057\u3066\u81ea\u5206\u306e\u30e1\u30a4\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u629e\u3057\u3066\u767a\u52d5\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\uff08\u3053\u306e\u5834\u5408\u3001\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u30fb\u81ea\u5206\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30ab\u30fc\u30c9\u3084\u3001\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<12607>>\u300d\u7b49\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\uff09",
+            "id": 19576,
+            "question": "\u81ea\u5206\u306e\u30e1\u30a4\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c5\u4f53\u5b58\u5728\u3057\u3066\u3044\u308b\u72b6\u614b\u3067\u3059\u3002\n\n\u3053\u306e\u30bf\u30fc\u30f3\u306b\u81ea\u5206\u306f\u3001\u300c<<12607>>\u300d\u3001\u300c<<12608>>\u300d\u3001\u300c<<12609>>\u300d\u3001\u300c<<12610>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3057\u3001\u30c7\u30c3\u30ad\u304b\u3089\u300c\u30af\u30ea\u30b9\u30c8\u30ed\u30f3\u300d\u30c1\u30e5\u30fc\u30ca\u30fc\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u3002\u3053\u306e\u52b9\u679c\u306e\u767a\u52d5\u5f8c\u3001\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u81ea\u5206\u306f\u6a5f\u68b0\u65cfS\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304b\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-30",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u30e1\u30a4\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c5\u4f53\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u300c<<12607>>\u300d\u7b49\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "o:Activation Legality",
+        "o:Destruction",
+        "o:Important Precedent",
+        "o:No Available Zones",
+        "o:Special Summoning"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "cards": [
+        7423,
+        8110,
+        16544
+    ],
+    "notes": {
+        "invalid_tcg": [
+            {
+                "body": "In the Official Card Game, activating Magnificent Map's second effect is optional. It is unclear whether this is the case in the TCG.",
+                "date": "2021-11-30",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot activate the effects in the order you propose.\n\nIn the situation given, you can first choose whether to activate the Spell Speed 1 effect of Floowandereeze and the Magnificent Map as Chain Link 2. If you choose not to, you can then choose whether to activate the Spell Speed 2 effect of Mist Valley Apex Avian in response to the effect of Armageddon Knight.",
+            "id": 23443,
+            "question": "While I control a Floowandereeze and the Magnificent Map, and a Mist Valley Apex Avian, my opponent Normal Summons Armageddon Knight, and activates its effect.\n\nCan I now activate the effect of Mist Valley Apex Avian as Chain Link 2, and then activate the effect of Floowandereeze and the Magnificent Map as Chain Link 3?",
+            "thisSrc": {
+                "date": "2021-11-21",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If my opponent activates the Trigger effect of a monster that was Normal Summoned, in what order can I activate the effects of Mist Valley Apex Avian and Floowandereeze and the Magnificent Map?",
+            "tlSrc": {
+                "date": "2021-11-20",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u305d\u306e\u9806\u756a\u3067\u30c1\u30a7\u30fc\u30f3\u3092\u7d44\u3093\u3067\u767a\u52d5\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u307e\u305a\u30b9\u30da\u30eb\u30b9\u30d4\u30fc\u30c9\uff11\u3067\u3042\u308b\u300c<<16544>>\u300d\u306e\u300e\u2461\u300f\u306e\u52b9\u679c\u3092\u30c1\u30a7\u30fc\u30f3\uff12\u3067\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\u767a\u52d5\u3057\u306a\u3044\u5834\u5408\u3001\u300c<<7423>>\u300d\u306e\u52b9\u679c\u306b\u30c1\u30a7\u30fc\u30f3\u3059\u308b\u5f62\u3067\u30b9\u30da\u30eb\u30b9\u30d4\u30fc\u30c9\uff12\u3067\u3042\u308b\u300c<<8110>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u3002",
+            "id": 23443,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u306f\u300c<<16544>>\u300d\u3068\u300c<<8110>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u76f8\u624b\u304c\u300c<<7423>>\u300d\u53ec\u559a\u3057\u3001\u305d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u30c1\u30a7\u30fc\u30f3\uff12\u3067\u300c<<8110>>\u300d\u306e\u52b9\u679c\u3001\u30c1\u30a7\u30fc\u30f3\uff13\u3067\u300c<<16544>>\u300d\u306e\u300e\u2461\u300f\u306e\u52b9\u679c\u3001\u3068\u3044\u3063\u305f\u9806\u756a\u3067\u30c1\u30a7\u30fc\u30f3\u3092\u7d44\u3093\u3067\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2021-11-20",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u53ec\u559a\u6210\u529f\u6642\u306b\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u6642\u3001\u81ea\u5206\u306f\u300c<<16544>>\u300d\u3068\u300c<<8110>>\u300d\u306e\u52b9\u679c\u306e\u3069\u3061\u3089\u3092\u5148\u306b\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell",
+        "o:Reader beware"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5740,
+        16084,
+        16096
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The \"\u25cf\" effects of <<16096>> are only applied while resolving the Chain Link immediately preceding its own.\n\nHowever, the effect of <<5740>> that negates monsters' effects applies not only while resolving the Chain Link formed by <<5740>>'s activation, but continues to apply after that, as long as <<5740>> remains in the Spell & Trap Zone.\n\nTherefore, in the situation given, the \"\u25cf\" effects of <<16096>> only apply to the resolution of Chain Link 2, formed by the activation of <<5740>>. However, they do not apply when resolving Chain Link 1, formed by the activation of <<16084>>'s effect. Therefore, the effect of <<5740>> applies normally at that time, and the effect of <<16084>> is negated as a result.",
+            "id": 23220,
+            "question": "I activate the monster effect of <<16084>> as Chain Link 1, and my opponent activates <<5740>> as Chain Link 2 in response.\n\nIn this situation, what happens if I activate <<16096>>?",
+            "thisSrc": {
+                "date": "2021-03-17",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "What happens if I activate <<16096>> in response to the activation of <<5740>>?",
+            "tlSrc": {
+                "date": "2021-03-17",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<16096>>\u300d\u306e\u300e\u25cf\u300f\u306e\u52b9\u679c\u306f\u3001\u305d\u306e\u76f4\u524d\u306e\u30c1\u30a7\u30fc\u30f3\u30d6\u30ed\u30c3\u30af\u306e\u52b9\u679c\u51e6\u7406\u306e\u9593\u306e\u307f\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\n\u305f\u3060\u3057\u300c<<5740>>\u300d\u306e\u52b9\u679c\u306f\u3001\u300c<<5740>>\u300d\u3092\u767a\u52d5\u3057\u305f\u30c1\u30a7\u30fc\u30f3\u30d6\u30ed\u30c3\u30af\u306e\u51e6\u7406\u6642\u306e\u307f\u306a\u3089\u305a\u3001\u305d\u306e\u5f8c\u3082\u300c<<5740>>\u300d\u304c\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u9069\u7528\u3055\u308c\u7d9a\u3051\u308b\u52b9\u679c\u3067\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u4e0a\u8a18\u306e\u72b6\u6cc1\u306b\u304a\u3044\u3066\u306f\u3001\u30c1\u30a7\u30fc\u30f3\uff12\u306e\u300c<<5740>>\u300d\u306e\u51e6\u7406\u6642\u306b\u306f\u300c<<16096>>\u300d\u306e\u300e\u25cf\u300f\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u307e\u3059\u304c\u3001\u30c1\u30a7\u30fc\u30f3\uff11\u306e\u300c<<16084>>\u300d\u306e\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u306f\u300c<<16096>>\u300d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\u305d\u306e\u305f\u3081\u3001\u300c<<5740>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u30c1\u30a7\u30fc\u30f3\uff11\u306e\u300c<<16084>>\u300d\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u307e\u3059\u3002",
+            "id": 23220,
+            "question": "\u81ea\u5206\u304c\u30c1\u30a7\u30fc\u30f3\uff11\u3067\u300c<<16084>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u6642\u3001\u76f8\u624b\u304c\u30c1\u30a7\u30fc\u30f3\uff12\u3067\u300c<<5740>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u308c\u306b\u5bfe\u3057\u3066\u3055\u3089\u306b\u81ea\u5206\u304c\u300c<<16096>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2021-03-17",
+                "type": 0
+            },
+            "title": "\u300c<<5740>>\u300d\u306e\u767a\u52d5\u306b\u5bfe\u3057\u3066\u300c<<16096>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "cards": [
+        9618,
+        12097,
+        14221
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Utopic Onomatopoeia is always treated as a \"Gagaga\" monster, so even if you Special Summoned it with the effect of Gagaga Head, as in this scenario, you can use it as material for an Xyz Summon with Gagaga Magician.",
+            "id": 22469,
+            "question": "I activated the effect of Gagaga Head this turn, and Special Summoned a Gagaga Magician and Utopic Onomatopoeia from my Graveyard. In this situation, can I Xyz Summon using that Gagaga Magician and Utopic Onomatopoeia as materials this turn?",
+            "thisSrc": {
+                "date": "2019-02-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I activated the effect of Gagaga Head this turn, and Special Summoned a Gagaga Magician and Utopic Onomatopoeia from my Graveyard. In this situation, can I Xyz Summon using that Gagaga Magician and Utopic Onomatopoeia as materials this turn?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<14221>>\u300d\u306f\u30eb\u30fc\u30eb\u4e0a\u3001\u300c\u30ac\u30ac\u30ac\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u306e\u3067\u3001\u300c<<12097>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3092\u884c\u3063\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u30ec\u30d9\u30eb4\u306e\u300c<<9618>>\u300d\u3068\u300c<<14221>>\u300d\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3068\u3057\u3066\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3092\u884c\u3046\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 22469,
+            "question": "\u81ea\u5206\u306e\u300c<<12097>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u3001\u300c<<12097>>\u300d\u4ee5\u5916\u306e\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u30ac\u30ac\u30ac\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\uff12\u4f53\u307e\u3067\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u3002\u3053\u306e\u30bf\u30fc\u30f3\u81ea\u5206\u306f\u300c\u30ac\u30ac\u30ac\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u307f\u3092\u7d20\u6750\u3068\u3057\u305fX\u53ec\u559a\u4ee5\u5916\u306e\u7279\u6b8a\u53ec\u559a\u304c\u3067\u304d\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u81ea\u5206\u306e\u5893\u5730\u304b\u3089\u300c<<9618>>\u300d\u3068\u300c<<14221>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u3066\u3044\u308b\u30bf\u30fc\u30f3\u3067\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306f\u30ec\u30d9\u30eb4\u306e\u300c<<9618>>\u300d\u3068\u300c<<14221>>\u300d\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3068\u3057\u3066\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3092\u884c\u3046\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<12097>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u5893\u5730\u306e\u300c<<14221>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30bf\u30fc\u30f3\u3001\u300c<<14221>>\u300d\u3092\u7d20\u6750\u3068\u3057\u3066\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

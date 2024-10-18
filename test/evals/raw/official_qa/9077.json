@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5162,
+        8649
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "\"The opponent\" is viewed from the perspective of the player that Ritual Summoned using <<8649>>. Therefore, if the Ritual Monster switches control, the effect will not apply if it inflicts battle damage to the player that Ritual Summoned it.",
+            "id": 9077,
+            "question": "If a Ritual Monster was Ritual Summoned using <<8649>>, and then control of it is switched to the opponent with <<5162>>, will the effect to make the opponent discard a card each time that Ritual Monster inflicts battle damage still apply?",
+            "thisSrc": {
+                "date": "2014-10-31",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a Ritual Monster was Ritual Summoned using <<8649>>, and then control of it is switched to the opponent with <<5162>>, will the effect to make the opponent discard a card each time that Ritual Monster inflicts battle damage still apply?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<8649>>\u300d\u306e\u52b9\u679c\u306f\u3001\u300c<<8649>>\u300d\u3092\u4f7f\u7528\u3057\u3066\u5100\u5f0f\u53ec\u559a\u3057\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u304b\u3089\u898b\u3066\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u3001\u305d\u306e\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u305f\u6642\u306b\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u305d\u306e\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u76f8\u624b\u306b\u79fb\u308a\u3001\u5100\u5f0f\u53ec\u559a\u3057\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u305f\u3068\u3057\u3066\u3082\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 9077,
+            "question": "\u300c<<8649>>\u300d\u3092\u4f7f\u7528\u3057\u3066\u5100\u5f0f\u53ec\u559a\u3055\u308c\u305f\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u300c<<5162>>\u300d\u306b\u3088\u3063\u3066\u76f8\u624b\u306b\u79fb\u308a\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u5f8c\u3001\u305d\u306e\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u306b\u3088\u3063\u3066\u3001\u81ea\u5206\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u305f\u5834\u5408\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u5100\u5f0f\u53ec\u559a\u306b\u4f7f\u7528\u3057\u305f\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f8\u624b\u30e9\u30a4\u30d5\u306b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u305f\u6642\u3001\u76f8\u624b\u306f\u624b\u672d\u3092\uff11\u679a\u9078\u629e\u3057\u3066\u6368\u3066\u308b\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8649>>\u300d\u3092\u4f7f\u7528\u3057\u3066\u5100\u5f0f\u53ec\u559a\u3055\u308c\u305f\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u76f8\u624b\u306b\u79fb\u308a\u3001\u81ea\u5206\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u305f\u5834\u5408\u3001\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Ritual"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4861,
+        10476,
+        11213,
+        11935
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, if you Pendulum Summon a Spellcaster-Type and a Dragon-Type monster at the same time, your opponent can activate <<4861>>. In that case, because the effect of <<10476>> was applied, the Pendulum Summon of <<11935>> is not negated, but the Pendulum Summon of <<11213>> is negated, and it is destroyed. (Only <<11935>> will be treated as being successfully Pendulum Summoned.)",
+            "id": 12680,
+            "question": "This turn, I activated the first effect of <<10476>>, so that the Summons of Spellcaster-Type monsters cannot be negated, and my opponent cannot activate cards/effects when Spellcaster-Type monsters are Summoned. This turn, if I Pendulum Summon <<11935>> and <<11213>> at the same time, can my opponent negate the Pendulum Summon with <<4861>>?",
+            "thisSrc": {
+                "date": "2015-10-15",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "This turn, I activated the first effect of <<10476>>, so that the Summons of Spellcaster-Type monsters cannot be negated, and my opponent cannot activate cards/effects when Spellcaster-Type monsters are Summoned. This turn, if I Pendulum Summon <<11935>> and <<11213>> at the same time, can my opponent negate the Pendulum Summon with <<4861>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u306b\u3088\u3063\u3066\u3001\u9b54\u6cd5\u4f7f\u3044\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u30c9\u30e9\u30b4\u30f3\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u540c\u6642\u306b\u7279\u6b8a\u53ec\u559a\u3055\u308c\u308b\u5834\u5408\u306b\u3001\u76f8\u624b\u306f\u300c<<4861>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3067\u3082\u3001\u300c<<10476>>\u300d\u306e\u300e\u3053\u306e\u30bf\u30fc\u30f3\u3001\u9b54\u6cd5\u4f7f\u3044\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u53ec\u559a\u30fb\u53cd\u8ee2\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u306f\u7121\u52b9\u5316\u3055\u308c\u305a\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<11935>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u306f\u7121\u52b9\u5316\u3055\u308c\u305a\u3001\u300c<<11213>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u306e\u307f\u7121\u52b9\u306b\u306a\u308a\u7834\u58ca\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\uff08\u300c<<11935>>\u300d\u306e\u307f\u901a\u5e38\u901a\u308a\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6271\u3044\u3068\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 12680,
+            "question": "\u81ea\u5206\u304c\u767a\u52d5\u3057\u305f\u300c<<10476>>\u300d\u306e\u300e\u25cf\u3053\u306e\u30bf\u30fc\u30f3\u3001\u9b54\u6cd5\u4f7f\u3044\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u53ec\u559a\u30fb\u53cd\u8ee2\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u306f\u7121\u52b9\u5316\u3055\u308c\u305a\u3001\u9b54\u6cd5\u4f7f\u3044\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u53ec\u559a\u30fb\u53cd\u8ee2\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u3001\u76f8\u624b\u306f\u9b54\u6cd5\u30fb\u7f60\u30fb\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30bf\u30fc\u30f3\u3067\u3059\u3002\n\n\u3053\u306e\u30bf\u30fc\u30f3\u306b\u81ea\u5206\u304c\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u306b\u3088\u3063\u3066\u9b54\u6cd5\u4f7f\u3044\u65cf\u306e\u300c<<11935>>\u300d\u3068\u30c9\u30e9\u30b4\u30f3\u65cf\u306e\u300c<<11213>>\u300d\u3092\u540c\u6642\u306b\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u76f8\u624b\u306f\u305d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3092\u7121\u52b9\u306b\u3059\u308b\u305f\u3081\u306b\u300c<<4861>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10476>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u9b54\u6cd5\u4f7f\u3044\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3001\u30c9\u30e9\u30b4\u30f3\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3055\u308c\u305f\u6642\u3001\u76f8\u624b\u306f\u300c<<4861>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Pendulum"
+    ]
+}

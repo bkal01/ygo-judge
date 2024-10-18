@@ -1,0 +1,37 @@
+{
+    "cards": [
+        15737
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "You cannot.\n\nThe Field Zone is not a Spell & Trap Zone, so it cannot be chosen when activating the effect of Springans Ship - Exblowrer. Furthermore, no matter which zone you choose when activating that effect, cards in the Field Zone will never be destroyed by it.",
+            "id": 23103,
+            "question": "Can I destroy cards in my opponent's Field Zone with the effect of Springans Ship - Exblowrer that destroys my opponent's cards?",
+            "thisSrc": {
+                "date": "2020-10-31",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can cards in the Field Zone be destroyed by the effect of Springans Ship - Exblowrer?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306f\u3001\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u3068\u306f\u5225\u306e\u30be\u30fc\u30f3\u3067\u3059\u306e\u3067\u3001\u300c<<15737>>\u300d\u306e\u52b9\u679c\u3067\u6307\u5b9a\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002\u307e\u305f\u3001\u3069\u306e\u30be\u30fc\u30f3\u3092\u6307\u5b9a\u3057\u3066\u300c<<15737>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3067\u3082\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 23103,
+            "question": "\u300c<<15737>>\u300d\u306e\u300e\u2460\uff1a\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u307e\u305f\u306f\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u3092\uff11\u30f5\u6240\u6307\u5b9a\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u30ab\u30fc\u30c9\u306eX\u7d20\u6750\u3092\u4efb\u610f\u306e\u6570\u3060\u3051\u53d6\u308a\u9664\u304d\u3001\u305d\u306e\u6570\u3060\u3051\u3001\u6307\u5b9a\u3057\u305f\u30be\u30fc\u30f3\u53ca\u3073\u305d\u306e\u524d\u30fb\u5f8c\u30fb\u96a3\u306e\u30be\u30fc\u30f3\uff08\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u30fb\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\uff09\u306b\u5b58\u5728\u3059\u308b\u30ab\u30fc\u30c9\u306e\u4e2d\u304b\u3089\u3001\u76f8\u624b\u306e\u30ab\u30fc\u30c9\u3092\u9078\u3093\u3067\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u3067\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<15737>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u3067\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

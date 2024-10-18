@@ -1,0 +1,38 @@
+{
+    "cards": [
+        6845,
+        8089
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in this scenario, the effect of <<6845>> will activate. Since <<8089>> has an original DEF printed as \"?\", no damage is inflicted to your opponent.",
+            "id": 19359,
+            "question": "If <<6845>> destroys a <<8089>> by battle, will the effect of <<6845>> activate?",
+            "thisSrc": {
+                "date": "2016-05-16",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<6845>> destroys a <<8089>> by battle, will the effect of <<6845>> activate?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3067\u3082\u3001\u300c<<6845>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u3002\n\n\u300c<<8089>>\u300d\u306e\u5143\u3005\u306e\u5b88\u5099\u529b\u306f\uff1f\u3067\u3059\u306e\u3067\u3001\u76f8\u624b\u306b\u4e0e\u3048\u308b\u30c0\u30e1\u30fc\u30b8\u306f\u7d50\u679c\u7684\u306b0\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 19359,
+            "question": "\u300c<<8089>>\u300d\u3092\u300c<<6845>>\u300d\u304c\u6226\u95d8\u3067\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u300c<<6845>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3067\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u5893\u5730\u3078\u9001\u3063\u305f\u5834\u5408\u306b\u767a\u52d5\u3059\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5143\u3005\u306e\u5b88\u5099\u529b\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u76f8\u624b\u306b\u4e0e\u3048\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<6845>>\u300d\u304c\u6226\u95d8\u3067\u300c<<8089>>\u300d\u3092\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

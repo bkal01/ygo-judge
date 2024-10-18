@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12583
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of B-Buster Drake that activates in your Graveyard can be activated not only when it is sent to the Graveyard from your Monster Zone, but also when it is treated as an Equip Card and sent from your Spell & Trap Zone to the Graveyard.",
+            "id": 19490,
+            "question": "Can the effect of B-Buster Drake that adds a Union monster from my Deck to my hand only be activated if B-Buster Drake is sent from the Monster Zone to the Graveyard?",
+            "thisSrc": {
+                "date": "2016-06-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can the effect of B-Buster Drake that adds a Union monster from my Deck to my hand only be activated if B-Buster Drake is sent from the Monster Zone to the Graveyard?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u5893\u5730\u306b\u3066\u767a\u52d5\u3059\u308b\u300c<<12583>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u304b\u3089\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3060\u3051\u3067\u306a\u304f\u3001\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u308b\u72b6\u614b\u3067\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u304b\u3089\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u306b\u3082\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u52b9\u679c\u3067\u3059\u3002",
+            "id": 19490,
+            "question": "\u300c<<12583>>\u300d\u306f\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u304b\u3089\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u306b\u306e\u307f\u3001\u300e\u2462\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u30e6\u30cb\u30aa\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12583>>\u300d\u306f\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u304b\u3089\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u306e\u307f\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Union"
+    ]
+}

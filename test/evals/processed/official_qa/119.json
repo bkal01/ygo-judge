@@ -1,0 +1,35 @@
+{
+    "cards": [],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If a player activates a card or effect, their opponent can chain to that activation next.\n\nIf your opponent chooses to chain a card or effect to your activation, then you cannot activate a Trap or Quickplay Spell Card by directly chaining it to your own activation.\n\nIf your opponent does not chain a card or effect to your activation, you can now activate further cards and effects, so you can activate a Trap or Quickplay Spell Card by directly chaining it to your own activation.",
+            "id": 119,
+            "question": "Can I activate a Trap or Quickplay Spell Card by chaining it to the activation of my own card or effect?",
+            "thisSrc": {
+                "date": "2020-10-31",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "Can I activate a Trap or Quickplay Spell Card by directly chaining it to the activation of my own card or effect?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\uff11\u3064\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306e\u767a\u52d5\u304c\u884c\u308f\u308c\u305f\u5834\u5408\u3001\u305d\u308c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u6b21\u306b\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u308b\u306e\u306f\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u81ea\u5206\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u76f4\u63a5\u30c1\u30a7\u30fc\u30f3\u3059\u308b\u5f62\u3067\u81ea\u5206\u306e\u901f\u653b\u9b54\u6cd5\u3084\u7f60\u30ab\u30fc\u30c9\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u306a\u3044\u306e\u3067\u3042\u308c\u3070\u3001\u81ea\u5206\u304c\u3055\u3089\u306b\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306e\u767a\u52d5\u3092\u884c\u3048\u307e\u3059\u306e\u3067\u3001\u81ea\u5206\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u76f4\u63a5\u30c1\u30a7\u30fc\u30f3\u3059\u308b\u5f62\u3067\u81ea\u5206\u306e\u901f\u653b\u9b54\u6cd5\u3084\u7f60\u30ab\u30fc\u30c9\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 119,
+            "question": "\u81ea\u5206\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u76f4\u63a5\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u81ea\u5206\u306e\u901f\u653b\u9b54\u6cd5\u3084\u7f60\u30ab\u30fc\u30c9\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u76f4\u63a5\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u81ea\u5206\u306e\u901f\u653b\u9b54\u6cd5\u3084\u7f60\u30ab\u30fc\u30c9\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

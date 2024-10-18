@@ -1,0 +1,40 @@
+{
+    "cards": [
+        13578,
+        13579,
+        13580,
+        13620
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When activating Monster Reborn Reborn, all 3 targets must be monsters that can be Special Summoned. In this scenario, since Phosphorage the Elemental Lord cannot be Special Summoned from the Graveyard, it cannot be included as a target when activating Monster Reborn Reborn.",
+            "id": 10606,
+            "question": "When activating Monster Reborn Reborn, can I target a Elementsaber Molehu, Elementsaber Lapauila Mana, and Phosphorage the Elemental Lord in my Graveyard?",
+            "thisSrc": {
+                "date": "2018-02-10",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When activating Monster Reborn Reborn, can I target a Phosphorage the Elemental Lord in my Graveyard?",
+            "tlSrc": {
+                "date": "2022-08-03",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<13620>>\u300d\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u5bfe\u8c61\u3068\u306a\u308b3\u4f53\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u3044\u305a\u308c\u3082\u7279\u6b8a\u53ec\u559a\u304c\u53ef\u80fd\u306a\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<13580>>\u300d\u306f\u5893\u5730\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u304c\u3067\u304d\u306a\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u306e\u3067\u3001\u300c<<13580>>\u300d\u3092\u542b\u30803\u4f53\u3092\u9078\u629e\u3057\u3066\u300c<<13620>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 10606,
+            "question": "\u300c<<13620>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u306e\u5893\u5730\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff13\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u76f8\u624b\u306f\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u4e2d\u304b\u3089\uff11\u4f53\u3092\u9078\u3076\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u7279\u6b8a\u53ec\u559a\u3057\u3001\u6b8b\u308a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u5168\u3066\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u3001\u5bfe\u8c61\u3068\u3057\u3066\u3001\u81ea\u5206\u306e\u5893\u5730\u306e\u300c<<13578>>\u300d\u300c<<13579>>\u300d\u300c<<13580>>\u300d\u306e3\u4f53\u3092\u9078\u629e\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-08-03",
+                "type": 0
+            },
+            "title": "\u300c<<13620>>\u300d\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u81ea\u5206\u306e\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u300c<<13580>>\u300d\u3092\u9078\u629e\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Special Summon Monster"
+    ]
+}

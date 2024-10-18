@@ -1,0 +1,41 @@
+{
+    "cards": [
+        4904,
+        11977,
+        11978,
+        11979
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, it cannot.",
+            "id": 13323,
+            "question": "<<11977>>, <<11978>> or <<11979>> were destroyed, and became an Equip Card by their own effect.\n\nAt this time, can the <<11977>> or similar that became an Equip Card be changed to a different monster by the effect of <<4904>>?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<11977>>, <<11978>> or <<11979>> were destroyed, and became an Equip Card by their own effect. At this time, can the <<11977>> or similar that became an Equip Card be changed to a different monster by the effect of <<4904>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 13323,
+            "question": "\u300c<<11977>>\u300d\u3001\u300c<<11978>>\u300d\u3001\u300c<<11979>>\u300d\u304c\u7834\u58ca\u3055\u308c\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u305d\u306e\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u88c5\u5099\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u305d\u306e\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u308b\u300c<<11977>>\u300d\u7b49\u3092\u300c<<4904>>\u300d\u306e\u52b9\u679c\u3067\u4ed6\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u79fb\u3057\u66ff\u3048\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u308b\u300c<<11977>>\u300d\u7b49\u3092\u3001\u300c<<4904>>\u300d\u306e\u52b9\u679c\u3067\u79fb\u3057\u66ff\u3048\u3089\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Spell"
+    ]
+}

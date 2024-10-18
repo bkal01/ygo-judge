@@ -1,0 +1,38 @@
+{
+    "cards": [
+        14202,
+        14730
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot.\n\nThe effect of Brotherhood of the Fire Fist - Eagle can be only be applied when an effect of a \"Fire Fist\" monster requires you to specifically send \"Fire Fist\" or \"Fire Formation\" card(s) from your hand or field to the Graveyard as a cost.",
+            "id": 23084,
+            "question": "Can I apply the effect of Brotherhood of the Fire Fist - Eagle that allows me to activate \"Fire Fist\" monsters' effects without sending \"Fire Fist\" or \"Fire Formation\" card(s) from my hand or field to the Graveyard when activating the effect of Brotherhood of the Fire Fist - Eland that Sets 1 \"Fire Formation\" Spell/Trap directly from your Deck or Graveyard?",
+            "thisSrc": {
+                "date": "2020-10-05",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "Can I apply the effect of Brotherhood of the Fire Fist - Eagle when activating the effect of Brotherhood of the Fire Fist - Eland that Sets 1 \"Fire Formation\" Spell/Trap directly from your Deck or Graveyard?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u300c<<14202>>\u300d\u306e\u52b9\u679c\u306f\u3001\u30b3\u30b9\u30c8\u3068\u3057\u3066\u300c\u708e\u661f\u300d\u30ab\u30fc\u30c9\u3084\u300c\u708e\u821e\u300d\u30ab\u30fc\u30c9\u3092\u5fc5\u8981\u3068\u3059\u308b\u300c\u708e\u661f\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u9069\u7528\u3067\u304d\u307e\u3059\u3002",
+            "id": 23084,
+            "question": "\u300c<<14202>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u81ea\u5206\u304c\u300c\u708e\u661f\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u3001\u81ea\u5206\u306e\u624b\u672d\u30fb\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c\u708e\u661f\u300d\u30ab\u30fc\u30c9\u53ca\u3073\u300c\u708e\u821e\u300d\u30ab\u30fc\u30c9\u3092\u5893\u5730\u3078\u9001\u3089\u305a\u306b\u767a\u52d5\u3059\u308b\u4e8b\u3082\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u9069\u7528\u3057\u3066\u3001\u300c<<14730>>\u300d\u306e\u300e\u2460\uff1a\u624b\u672d\u304b\u3089\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u6368\u3066\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u30fb\u5893\u5730\u304b\u3089\u300c\u708e\u821e\u300d\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30bb\u30c3\u30c8\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<14202>>\u300d\u306e\u52b9\u679c\u3092\u9069\u7528\u3057\u3066\u300c<<14730>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Ritual"
+    ]
+}

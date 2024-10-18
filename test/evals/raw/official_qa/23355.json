@@ -1,0 +1,41 @@
+{
+    "cards": [
+        4737,
+        11752,
+        15568,
+        15570,
+        15572
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If a monster equipped as an Equip Card is banished, you will be treated as having banished a monster, therefore you will Special Summon <<15570>>. (If <<15570>> is not in your Deck, you cannot activate the effect of <<15568>> by banishing a monster in this case).\n\nIf a Trap Card that exists in the Monster Zone as a monster is banished, you will be considered to have banished a Trap Card, therefore you will Special Summon <<15572>>. (If <<15572>> is not in your Deck, you cannot activate the effect of <<15568>> by banishing a Trap Card this way.) It does not make a difference whether the Trap Card in the Monster Zone is still treated as a Trap.",
+            "id": 23355,
+            "question": "If a monster equipped to <<4737>> as an Equip Card, or a Trap Card such as <<11752>> that exists in the Monster Zone as a monster, are banished as a cost to activate the effect of <<15568>>, what can I Special Summon?",
+            "thisSrc": {
+                "date": "2021-09-25",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "If a monster treated as an Equip Spell, or a Trap Card treated as a monster, is banished to activate the effect of <<15568>>, what can be Special Summoned?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u88c5\u5099\u30ab\u30fc\u30c9\u3068\u3057\u3066\u88c5\u5099\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u305f\u5834\u5408\u3001\u300e\u25cf\u30e2\u30f3\u30b9\u30bf\u30fc\u300f\u3064\u307e\u308a\u300c<<15570>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3059\u3002\uff08\u30c7\u30c3\u30ad\u306b\u300c<<15570>>\u300d\u304c\u5b58\u5728\u3057\u306a\u3044\u72b6\u6cc1\u3067\u306f\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u3066\u300c<<15568>>\u300d\u306e\u300e\u2461\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002\uff09\n\n\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u7f60\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u305f\u5834\u5408\u3001\u300e\u25cf\u7f60\u300f\u3064\u307e\u308a\u300c<<15572>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3059\u3002\uff08\u30c7\u30c3\u30ad\u306b\u300c<<15572>>\u300d\u304c\u5b58\u5728\u3057\u306a\u3044\u72b6\u6cc1\u3067\u306f\u3001\u7f60\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u3066\u300c<<15568>>\u300d\u306e\u300e\u2461\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002\uff09\u306a\u304a\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u7f60\u30ab\u30fc\u30c9\u304c\u7f60\u30ab\u30fc\u30c9\u3068\u3057\u3066\u3082\u6271\u308f\u308c\u3066\u3044\u308b\u304b\u3069\u3046\u304b\u306b\u3088\u3063\u3066\u9055\u3044\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+            "id": 23355,
+            "question": "\u300c<<4737>>\u300d\u304c\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u88c5\u5099\u3057\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u3084\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u6271\u3044\u3068\u3057\u3066\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u300c<<11752>>\u300d\u306e\u3088\u3046\u306a\u7f60\u30ab\u30fc\u30c9\u3092\u3001\u300c<<15568>>\u300d\u306e\u300e\u2461\u300f\u306e\u52b9\u679c\u306e\u30b3\u30b9\u30c8\u3068\u3057\u3066\u9664\u5916\u3057\u305f\u5834\u5408\u3001\u4f55\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u88c5\u5099\u9b54\u6cd5\u30ab\u30fc\u30c9\u6271\u3044\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3084\u30e2\u30f3\u30b9\u30bf\u30fc\u6271\u3044\u306e\u7f60\u30ab\u30fc\u30c9\u3092\u300c<<15568>>\u300d\u306e\u52b9\u679c\u306e\u30b3\u30b9\u30c8\u3068\u3057\u3066\u9664\u5916\u3057\u305f\u5834\u5408\u3001\u4f55\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

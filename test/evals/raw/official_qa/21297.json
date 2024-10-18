@@ -1,0 +1,60 @@
+{
+    "cards": [
+        7615,
+        7734,
+        12187,
+        13346,
+        14904,
+        15515,
+        16525,
+        17452,
+        18498,
+        18664,
+        18912,
+        19507,
+        19542,
+        19880,
+        19881,
+        19888,
+        19889,
+        19890,
+        19891,
+        20221,
+        20227,
+        20585,
+        20586,
+        20587
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot.\n\nIn order to Special Summon a Fusion, Synchro, Xyz, or Link Monster from the Graveyard or from banishment, it must have previously been properly Special Summoned.\n\n~~~\n\nFor example, if the following monsters have been sent to the Graveyard without being properly Special Summoned, their respective effects cannot be activated:\n\u25cf <<16525>>'s \u2461nd effect\n\u25cf <<18498>>'s \u2462rd effect\n\u25cf <<7615>>'s \u2461nd effect\n\u25cf <<15515>>'s \u2462rd effect\n\u25cf <<7734>>'s \u2461nd effect\n\u25cf <<19880>>'s \u2461nd effect\n\u25cf <<19881>>'s \u2462rd effect\n\u25cf <<19542>>'s \u2461nd effect\n\u25cf <<20221>>'s \u2461nd effect\n\u25cf <<20587>>'s \u2461nd effect\n\u25cf <<20586>>'s \u2462rd effect\n\u25cf <<20585>>'s \u2462rd effect\n\u25cf <<20227>>'s \u2461nd effect\n\u25cf <<19889>>'s \u2461nd effect\n\u25cf <<19890>>'s \u2461nd effect\n\u25cf <<19891>>'s \u2461nd effect\n\u25cf <<19888>>'s \u2461nd effect\n\u25cf <<18912>>'s \u2461nd effect\n\u25cf <<19507>>'s \u2462rd effect\n\u25cf <<17452>>'s \u2461nd effect\n\u25cf <<18664>>'s \u2460st effect\n\u25cf <<14904>>'s \u2461nd effect",
+            "id": 21297,
+            "question": "I attempt to Link Summon <<13346>>, but <<12187>> is activated, negating the Link Summon and sending <<13346>> to the Graveyard. Can I now activate <<13346>>'s\u300eSpecial Summon this card [from the Graveyard]\u300feffect?",
+            "thisSrc": {
+                "date": "2024-09-16",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If <<13346>> was not successfully Link Summoned, can I activate its effect that Special Summons it from the Graveyard?",
+            "tlSrc": {
+                "date": "2024-09-16",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u878d\u5408\u30fb\u30b7\u30f3\u30af\u30ed\u30fb\u30a8\u30af\u30b7\u30fc\u30ba\u30fb\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5893\u5730\u3084\u9664\u5916\u72b6\u614b\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3059\u308b\u5834\u5408\u3001\uff11\u5ea6\u6b63\u898f\u306e\u65b9\u6cd5\u3067\u306e\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u3066\u3044\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002\n\n\u4f8b\u3068\u3057\u3066\u3001\u4ee5\u4e0b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\uff11\u5ea6\u3082\u6b63\u898f\u306e\u65b9\u6cd5\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305a\u306b\u5893\u5730\u306b\u9001\u3089\u308c\u3066\u3044\u305f\u308a\u3001\u9664\u5916\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u306f\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\n\u300c<<16525>>\u300d\u2461\n\u300c<<18498>>\u300d\u2462\n\u300c<<7615>>\u300d\u2461\n\u300c<<15515>>\u300d\u2462\n\u300c<<7734>>\u300d\u2461\n\u300c<<19880>>\u300d\u2461\n\u300c<<19881>>\u300d\u2462\n\u300c<<19542>>\u300d\u2461\n\u300c<<20221>>\u300d\u2461\n\u300c<<20587>>\u300d\u2461\n\u300c<<20586>>\u300d\u2462\n\u300c<<20585>>\u300d\u2462\n\u300c<<20227>>\u300d\u2461\n\u300c<<19889>>\u300d\u2461\n\u300c<<19890>>\u300d\u2461\n\u300c<<19891>>\u300d\u2461\n\u300c<<19888>>\u300d\u2461\n\u300c<<18912>>\u300d\u2461\n\u300c<<19507>>\u300d\u2462\n\u300c<<17452>>\u300d\u2461\n\u300c<<18664>>\u300d\u2460\n\u300c<<14904>>\u300d\u2461",
+            "id": 21297,
+            "question": "\u300c<<13346>>\u300d\u3092\u30ea\u30f3\u30af\u53ec\u559a\u3059\u308b\u969b\u306b\u3001\u300c<<12187>>\u300d\u304c\u767a\u52d5\u3057\u305f\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u305d\u306e\u30ea\u30f3\u30af\u53ec\u559a\u304c\u7121\u52b9\u306b\u306a\u308a\u5893\u5730\u3078\u9001\u3089\u308c\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u5f8c\u3001\u305d\u306e\u5893\u5730\u306e\u300c<<13346>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ec\u30d9\u30eb\uff11\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u30ab\u30fc\u30c9\u3092\u5893\u5730\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3059\u308b\u3002\u3053\u306e\u52b9\u679c\u306f\u76f8\u624b\u30bf\u30fc\u30f3\u3067\u3082\u767a\u52d5\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-09-16",
+                "type": 0
+            },
+            "title": "\u30ea\u30f3\u30af\u53ec\u559a\u306b\u6210\u529f\u3057\u3066\u3044\u306a\u3044\u300c<<13346>>\u300d\u306e\u2461\u306e\u52b9\u679c\u306f\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

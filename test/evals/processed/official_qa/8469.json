@@ -1,0 +1,55 @@
+{
+    "cards": [
+        4842,
+        5919,
+        8288,
+        11225
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "Property changing and being treated as having Special Summoned monsters with a given property",
+                "date": "2021-05-11",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "Even if you Special Summoned a Darklord Superbia (whose original Attribute is DARK) this turn, if you did so while the effect of DNA Transplant was applying declaring LIGHT, you can activate the effect of Mozarta the Melodious Maestra.\n\nHowever, if you first activated the effect of Mozarta the Melodious Maestra, you cannot Special Summon monsters whose original Attributes are anything other than LIGHT, even if the effect of DNA Transplant is applying.",
+            "id": 8469,
+            "question": "A DNA Transplant that was activated by declaring the LIGHT Attribute is face-up on the field. In this situation, I activate Monster Reborn and Special Summon Darklord Superbia from my Graveyard, then activate its effect and Special Summon Mozarta the Melodious Maestra from the Graveyard. During the same turn, can I activate the effect of Mozarta the Melodious Maestra?",
+            "thisSrc": {
+                "date": "2017-07-01",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can the effect of Mozarta the Melodious Maestra be activated after a non-LIGHT monster was Special Summoned while DNA Transplant was declaring LIGHT?",
+            "tlSrc": {
+                "date": "2017-06-29",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u5149\u5c5e\u6027\u3092\u5ba3\u8a00\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<5919>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u5143\u3005\u306e\u5c5e\u6027\u304c\u95c7\u5c5e\u6027\u306e\u300c<<8288>>\u300d\u3092\u8868\u5074\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3057\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u3053\u306e\u30bf\u30fc\u30f3\u306b\u300c<<11225>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u306a\u304a\u3001\u300c<<11225>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u9069\u7528\u5f8c\u306f\u3001\u300c<<5919>>\u300d\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u305f\u3068\u3057\u3066\u3082\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306f\u5143\u3005\u306e\u5c5e\u6027\u304c\u5149\u5c5e\u6027\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304b\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 8469,
+            "question": "\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u5149\u5c5e\u6027\u3092\u5ba3\u8a00\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<5919>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u5168\u3066\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u81ea\u5206\u304c\u5ba3\u8a00\u3057\u305f\u5c5e\u6027\u306b\u306a\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u300c<<4842>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u300c<<8288>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u5893\u5730\u304b\u3089\u306e\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u3001\u300c<<8288>>\u300d\u4ee5\u5916\u306e\u81ea\u5206\u306e\u5893\u5730\u306e\u5929\u4f7f\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u5929\u4f7f\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<11225>>\u300d\u3092\u5893\u5730\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u30bf\u30fc\u30f3\u3001\u81ea\u5206\u306f\u300c<<11225>>\u300d\u306e\u300e\u2460\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u624b\u672d\u304b\u3089\u5929\u4f7f\u65cf\u30fb\u5149\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-06-29",
+                "type": 0
+            },
+            "title": "\u5149\u5c5e\u6027\u3092\u5ba3\u8a00\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<5919>>\u300d\u306e\u9069\u7528\u4e2d\u3001\u5143\u3005\u306e\u5c5e\u6027\u304c\u5149\u5c5e\u6027\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u306f\u306a\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3057\u3066\u3044\u308b\u5834\u5408\u3001\u300c<<11225>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Trap",
+        "o:\"You cannot (...) during the turn (...)\"",
+        "o:Activation Legality",
+        "o:Changing a Card's Properties",
+        "o:Important Precedent"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4909,
+        9203,
+        13175
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, the effect of <<13175>> has already been applied to the Special Summoned <<9203>>, so even if <<13175>> is destroyed by <<4909>>, <<9203>> will continue to gain 500 ATK until the end of the turn.",
+            "id": 21092,
+            "question": "<<9203>> is Special Summoned by the first effect of <<13175>>, and it gains 500 ATK. If <<13175>> is then destroyed by the effect of <<4909>>, what happens to the ATK of <<9203>>?",
+            "thisSrc": {
+                "date": "2017-06-03",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<9203>> is Special Summoned by the first effect of <<13175>>, and it gains 500 ATK. If <<13175>> is then destroyed by the effect of <<4909>>, what happens to the ATK of <<9203>>?",
+            "tlSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "translationStatus": "outdated"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<13175>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<9203>>\u300d\u306f\u300e\u3053\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\uff15\uff10\uff10\u30a2\u30c3\u30d7\u3059\u308b\u300f\u52b9\u679c\u304c\u65e2\u306b\u9069\u7528\u3055\u308c\u3001\u653b\u6483\u529b\u304c\u30a2\u30c3\u30d7\u3057\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u305d\u306e\u5f8c\u306b\u300c<<13175>>\u300d\u304c\u300c<<4909>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u3068\u3057\u3066\u3082\u3001\u3053\u306e\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u306f\u3001\u653b\u6483\u529b\u304c500\u30a2\u30c3\u30d7\u3057\u305f\u72b6\u614b\u306e\u307e\u307e\u3067\u3059\u3002",
+            "id": 21092,
+            "question": "\u300c<<13175>>\u300d\u306e\u300e\u2460\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u30fb\u76f8\u624b\u306e\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u624b\u672d\u304b\u3089\u300c\u30a2\u30de\u30be\u30cd\u30b9\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u3002\u3053\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\uff15\uff10\uff10\u30a2\u30c3\u30d7\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u624b\u672d\u304b\u3089\u300c<<9203>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u3066\u3044\u308b\u30bf\u30fc\u30f3\u3067\u3059\u3002\n\n\u3053\u306e\u30bf\u30fc\u30f3\u306b\u3001\u76f8\u624b\u304c\u300c<<4909>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300c<<13175>>\u300d\u3092\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u300c<<9203>>\u300d\u306e\u653b\u6483\u529b\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "title": "\u300c<<13175>>\u300d\u306e\u52b9\u679c\u3067\u624b\u672d\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u3001\u305d\u306e\u5f8c\u306b\u300c<<13175>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

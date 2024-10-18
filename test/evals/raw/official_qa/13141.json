@@ -1,0 +1,35 @@
+{
+    "cards": [],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If a Pendulum Monster leaves the hand as a Spell Card, it must be activated face-up. (It cannot be set from the hand as a Spell Card)",
+            "id": 13141,
+            "question": "Can a Pendulum Monster leave the hand as a Spell Card and be placed in a Pendulum Zone by setting it in the Pendulum Zone?",
+            "thisSrc": {
+                "date": "2014-03-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can a Pendulum Monster leave the hand as a Spell Card and be placed in a Pendulum Zone by setting it in the Pendulum Zone?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u9b54\u6cd5\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u624b\u672d\u304b\u3089\u51fa\u3059\u5834\u5408\u3001\u5fc5\u305a\u8868\u5074\u8868\u793a\u3067\u51fa\u3057\u3066\u767a\u52d5\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\uff08\u624b\u672d\u304b\u3089\u9b54\u6cd5\u30ab\u30fc\u30c9\u3068\u3057\u3066\u30bb\u30c3\u30c8\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\uff09",
+            "id": 13141,
+            "question": "\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9b54\u6cd5\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u624b\u672d\u304b\u3089\u51fa\u3059\u969b\u306b\u3001\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u30bb\u30c3\u30c8\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u30bb\u30c3\u30c8\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Pendulum"
+    ]
+}

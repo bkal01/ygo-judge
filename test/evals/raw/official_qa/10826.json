@@ -1,0 +1,53 @@
+{
+    "cards": [
+        5432,
+        6114,
+        7734
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "Negating the activation of a monster's activated effect while it is face-down",
+                "date": "2022-03-31",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "Even if <<6114>> is changed to face-down Defense Position by <<5432>>, the effect of <<7734>> will still negate the activation of <<6114>>'s effect, and destroy <<6114>>.",
+            "id": 10826,
+            "question": "When I Tribute Summon <<6114>>, I activate its effect. However, my opponent activates the effect of <<7734>> in response. If I now further activate <<5432>> by targeting my <<6114>>, this chain resolves backwards, and causes <<6114>> to be face-down by the time <<7734>>'s effect resolves.\n\nIn this situation, will the effect of <<7734>> still negate the activation of <<6114>>'s effect, and destroy it?",
+            "thisSrc": {
+                "date": "2022-03-31",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "What happens if <<5432>> is chained to <<7734>>'s effect, causing the monster that activated its effect to be face-down?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u300c<<6114>>\u300d\u304c\u300c<<5432>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u88cf\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3067\u3042\u3063\u3066\u3082\u3001\u300c<<7734>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<6114>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u3066\u7834\u58ca\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 10826,
+            "question": "\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u306b\u767a\u52d5\u3057\u305f\u300c<<6114>>\u300d\u306e\u52b9\u679c\u306b\u30c1\u30a7\u30fc\u30f3\u3092\u3057\u3066\u300c<<7734>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u304c\u3001\u3055\u3089\u306b\u30c1\u30a7\u30fc\u30f3\u3092\u3057\u3066\u300c<<5432>>\u300d\u3092\u767a\u52d5\u3057\u3001\u9006\u9806\u51e6\u7406\u306b\u3088\u308a\u300c<<6114>>\u300d\u3092\u88cf\u5074\u8868\u793a\u306b\u3057\u307e\u3057\u305f\u3002\n\u3053\u306e\u5834\u5408\u3001\u300c<<7734>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<6114>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u3066\u7834\u58ca\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<7734>>\u300d\u306e\u52b9\u679c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u305f\u300c<<5432>>\u300d\u3067\u3001\u7834\u58ca\u3055\u308c\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u88cf\u5074\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u52b9\u679c\u51e6\u7406\u306f\u3069\u306e\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain",
+        "k:Synchro",
+        "o:Being Currently Face-Down",
+        "o:Important Precedent",
+        "o:Negating a Chain Link's Activation"
+    ]
+}

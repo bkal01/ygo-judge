@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4909,
+        11999
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in the proposed scenario, since the effect of <<11999>> has already been applied, even if it is later destroyed by <<4909>>, the effect that reduces battle damage to 0 remains applied.",
+            "id": 16501,
+            "question": "After activating the effect of <<11999>> and adding a \"Rank-Up-Magic\" Spell Card to the hand, if <<4909>> is activated during that Battle Step, destroying <<11999>>, how does this resolve?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "After activating the effect of <<11999>> and adding a \"Rank-Up-Magic\" Spell Card to the hand, if <<4909>> is activated during that Battle Step, destroying <<11999>>, how does this resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u65e2\u306b\u300c<<11999>>\u300d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u5f8c\u304b\u3089\u767a\u52d5\u3057\u305f\u300c<<4909>>\u300d\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3067\u3082\u3001\u300e\u305d\u306e\u6226\u95d8\u3067\u767a\u751f\u3059\u308b\u81ea\u5206\u3078\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\uff10\u306b\u306a\u308b\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u305f\u307e\u307e\u3068\u306a\u308a\u307e\u3059\u3002",
+            "id": 16501,
+            "question": "\u300c<<11999>>\u300d\u306e\u300e\u2461\uff1a\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u3088\u308a\u653b\u6483\u529b\u304c\u9ad8\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u5bfe\u8c61\u306b\u9078\u629e\u3055\u308c\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u300cRUM\u300d\u9b54\u6cd5\u30ab\u30fc\u30c9\uff11\u679a\u3092\u624b\u672d\u306b\u52a0\u3048\u3001\u305d\u306e\u6226\u95d8\u3067\u767a\u751f\u3059\u308b\u81ea\u5206\u3078\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\uff10\u306b\u306a\u308b\u300f\u52b9\u679c\u304c\u767a\u52d5\u3057\u3001\u300cRUM\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u52a0\u3048\u305f\u5f8c\u3001\u305d\u306e\u30d0\u30c8\u30eb\u30b9\u30c6\u30c3\u30d7\u306b\u3066\u300c<<4909>>\u300d\u304c\u767a\u52d5\u3057\u3001\u300c<<11999>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11999>>\u300d\u306e\u52b9\u679c\u3067\u30c7\u30c3\u30ad\u304b\u3089\u300cRUM\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u52a0\u3048\u305f\u5f8c\u3001\u300c<<4909>>\u300d\u306e\u52b9\u679c\u3067\u300c<<11999>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u300e\u305d\u306e\u6226\u95d8\u3067\u767a\u751f\u3059\u308b\u81ea\u5206\u3078\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\uff10\u306b\u306a\u308b\u300f\u52b9\u679c\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

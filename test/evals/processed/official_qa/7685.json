@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4909,
+        7840
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If the number of Spells/Traps on the field is lower than the number of Tuners, that effect of Ally of Justice Cyclone Creator cannot be activated.\nFurthermore, if, when you resolve Ally of Justice Cyclone Creator's effect, there are fewer Spells/Traps than Tuners on the field, the effect will not be applied. (No cards are returned to the hand.)",
+            "id": 7685,
+            "question": "The effect of Ally of Justice Cyclone Creator returns Spells/Traps on the field to the hand, equal to the number of Tuners on the field. Can this effect be activated if there are fewer Spells/Traps than Tuners?\n\nAlso, I have activated that effect of Ally of Justice Cyclone Creator, but my opponent activates their Set Mystical Space Typhoon in response. As a result, there are fewer Spells/Traps than tuners when the effect of Ally of Justice Cyclone Creator resolves. Can I still return Spells/Traps to the hand?",
+            "thisSrc": {
+                "date": "2022-11-04",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If there are fewer Spells/Traps than Tuners on the field, can I activate the effect of Ally of Justice Cyclone Creator?",
+            "tlSrc": {
+                "date": "2022-11-04",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u30c1\u30e5\u30fc\u30ca\u30fc\u306e\u6570\u3088\u308a\u3001\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u679a\u6570\u304c\u5c11\u306a\u3044\u5834\u5408\u3001\u300c<<7840>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u3002\n\u307e\u305f\u3001\u300c<<7840>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u3092\u884c\u3046\u6642\u306b\u3001\u30c1\u30e5\u30fc\u30ca\u30fc\u306e\u6570\u3088\u308a\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u679a\u6570\u304c\u5c11\u306a\u304f\u306a\u3063\u3066\u3057\u307e\u3063\u305f\u5834\u5408\u3001\u624b\u672d\u306b\u623b\u3059\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 7685,
+            "question": "\u300c<<7840>>\u300d\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u30c1\u30e5\u30fc\u30ca\u30fc\u306e\u6570\u3060\u3051\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u623b\u3059\u52b9\u679c\u306f\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u30c1\u30e5\u30fc\u30ca\u30fc\u306e\u679a\u6570\u3088\u308a\u3001\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u679a\u6570\u304c\u5c11\u306a\u3044\u6642\u306b\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f\n\u307e\u305f\u3001\u300c<<7840>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3092\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<4909>>\u300d\u7b49\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<7840>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u3092\u884c\u3046\u6642\u306b\u30c1\u30e5\u30fc\u30ca\u30fc\u3088\u308a\u3082\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u304c\u5c11\u306a\u304f\u306a\u3063\u3066\u3044\u305f\u5834\u5408\u3001\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u623b\u3059\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-11-04",
+                "type": 0
+            },
+            "title": "\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u30c1\u30e5\u30fc\u30ca\u30fc\u306e\u679a\u6570\u3088\u308a\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u304c\u5c11\u306a\u3044\u5834\u5408\u3001\u300c<<7840>>\u300d\u306e\u624b\u672d\u306b\u623b\u3059\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

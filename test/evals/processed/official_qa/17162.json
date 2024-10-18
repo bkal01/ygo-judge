@@ -1,0 +1,39 @@
+{
+    "cards": [
+        7858,
+        9352,
+        11512
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of U.A. Powered Jersey that banishes the equipped monster is a mandatory effect that activates during each of your Standby Phases. If the effect of Forbidden Lance or Imperial Iron Wall is applied, and the equipped monster is not banished, it and the equipped U.A. Powered Jersey remain on the field. (The effect will not activate again during that Standby Phase.) Then, when you reach your next Standby Phase, the effect of U.A. Powered Jersey will activate again.",
+            "id": 17162,
+            "question": "If the effect of U.A. Powered Jersey that banishes the equipped monster is activated during my Standby Phase, but Forbidden Lance or Imperial Iron Wall are chained. In that case, if the equipped monster is not banished by the effect, will that effect still activate again during my next Standby Phase?",
+            "thisSrc": {
+                "date": "2015-10-06",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the effect of U.A. Powered Jersey that banishes the equipped monster is activated during my Standby Phase, but Forbidden Lance or Imperial Iron Wall are chained. In that case, if the equipped monster is not banished by the effect, will that effect still activate again during my next Standby Phase?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11512>>\u300d\u306e\u300e\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u306f\u3001\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306e\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u3092\u8fce\u3048\u308b\u6bce\u306b1\u5ea6\u3001\u5fc5\u305a\u767a\u52d5\u3059\u308b\u52b9\u679c\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u300c<<7858>>\u300d\u3084\u300c<<9352>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u4e8b\u306b\u3088\u3063\u3066\u3001\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u9664\u5916\u3055\u308c\u306a\u304b\u3063\u305f\u5834\u5408\u306b\u306f\u3001\u300c<<11512>>\u300d\u306f\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u88c5\u5099\u3055\u308c\u305f\u72b6\u614b\u306e\u307e\u307e\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u6b8b\u308a\u307e\u3059\u3002\uff08\u540c\u4e00\u306e\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u306b\u518d\u3073\u52b9\u679c\u304c\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002\uff09\n\n\u305d\u306e\u5f8c\u306b\u3001\u6b21\u306e\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306e\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u3092\u8fce\u3048\u305f\u969b\u306b\u306f\u3001\u518d\u3073\u300c<<11512>>\u300d\u306e\u300e\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u304c\u767a\u52d5\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 17162,
+            "question": "\u300c<<11512>>\u300d\u306e\u300e\u2462\uff1a\u81ea\u5206\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u306b\u767a\u52d5\u3059\u308b\u3002\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<9352>>\u300d\u3084\u300c<<7858>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u308c\u306b\u3088\u3063\u3066\u3001\u300c<<11512>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306e\u969b\u306b\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u9664\u5916\u3055\u308c\u306a\u304b\u3063\u305f\u5834\u5408\u3001\u6b21\u306e\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306e\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u306b\u518d\u3073\u52b9\u679c\u304c\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11512>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306b\u3088\u3063\u3066\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u9664\u5916\u3055\u308c\u306a\u304b\u3063\u305f\u5834\u5408\u3001\u6b21\u306e\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306e\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u306b\u518d\u3073\u52b9\u679c\u304c\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4937,
+        9460,
+        10206
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "<<10206>> negates the effect of the Special Summoned monster, and if it does, destroys it. Because the effect of <<9460>> is negated, it does not apply. (Therefore it is destroyed as usual.)",
+            "id": 14755,
+            "question": "If <<4937>> is on the field, and <<9460>> is Special Summoned with an ATK of 2000 or higher, and <<10206>> is activated, does the last effect of <<9460>> apply?",
+            "thisSrc": {
+                "date": "2014-12-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<4937>> is on the field, and <<9460>> is Special Summoned with an ATK of 2000 or higher, and <<10206>> is activated, does the last effect of <<9460>> apply?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<10206>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u308b\u5834\u5408\u3001\u52b9\u679c\u3092\u7121\u52b9\u306b\u3057\u7834\u58ca\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300c<<9460>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306f\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3060\u3051\u3001\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u3082\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u3002\n\uff08\u3057\u305f\u304c\u3063\u3066\u3001\u901a\u5e38\u901a\u308a\u7834\u58ca\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 14755,
+            "question": "\u300c<<4937>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u7b49\u306b\u3088\u3063\u3066\u3001\u300c<<9460>>\u300d\u304c\u653b\u6483\u529b\uff12\uff10\uff10\uff10\u4ee5\u4e0a\u306e\u72b6\u614b\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u969b\u306b\u3001\u300c<<10206>>\u300d\u304c\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306f\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3060\u3051\u3001\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9460>>\u300d\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u969b\u306b\u300c<<10206>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u308b\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "cards": [
+        8933,
+        11642,
+        11931
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of Stardust Sifr Divine Dragon can negate monster effects even if they activate from the hand or Graveyard. However, the part of the effect that destroys 1 card on the field will still be applied, and if there are no other cards on the field, Stardust Sifr Divine Dragon must destroy itself with its effect.",
+            "id": 16064,
+            "question": "Can the effect of Stardust Sifr Divine Dragon that negates monster effects activated by the opponent also negate effects that activate in the hand, such as Effect Veiler, or effects that activate in the Graveyard, such as Absolute King Back Jack?",
+            "thisSrc": {
+                "date": "2015-05-26",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can the effect of Stardust Sifr Divine Dragon that negates monster effects activated by the opponent also negate effects that activate in the hand, such as Effect Veiler, or effects that activate in the Graveyard, such as Absolute King Back Jack?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11931>>\u300d\u306e\u300e\u305d\u306e\u52b9\u679c\u3092\u7121\u52b9\u306b\u3057\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u306f\u3001\u76f8\u624b\u304c\u767a\u52d5\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3067\u3042\u308c\u3070\u624b\u672d\u3084\u5893\u5730\u306b\u3066\u767a\u52d5\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3082\u7121\u52b9\u306b\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u305f\u3060\u3057\u3001\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u7834\u58ca\u3059\u308b\u300f\u51e6\u7406\u3082\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u304a\u4e92\u3044\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u3066\u3044\u308b\u30ab\u30fc\u30c9\u304c\u300c<<11931>>\u300d\u306e\u307f\u3001\u3068\u3044\u3046\u5834\u5408\u3067\u3042\u308c\u3070\u3001\u300c<<11931>>\u300d\u81ea\u8eab\u3092\u7834\u58ca\u3059\u308b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\u3068\u3057\u3066\u9078\u3070\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002",
+            "id": 16064,
+            "question": "\u300c<<11931>>\u300d\u306e\u300e\u2461\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u76f8\u624b\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u52b9\u679c\u3092\u7121\u52b9\u306b\u3057\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u3067\u3001\u76f8\u624b\u304c\u624b\u672d\u3067\u767a\u52d5\u3057\u305f\u300c<<8933>>\u300d\u306e\u52b9\u679c\u3084\u3001\u76f8\u624b\u304c\u5893\u5730\u3067\u767a\u52d5\u3057\u305f\u300c<<11642>>\u300d\u306e\u52b9\u679c\u3092\u7121\u52b9\u306b\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11931>>\u300d\u306e\u52b9\u679c\u3067\u3001\u76f8\u624b\u304c\u624b\u672d\u3084\u5893\u5730\u304b\u3089\u767a\u52d5\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u7121\u52b9\u306b\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

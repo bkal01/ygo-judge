@@ -1,0 +1,40 @@
+{
+    "cards": [
+        5431,
+        5432,
+        6816,
+        13009
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When a monster that was Special Summoned from the Deck by the effect of Petiteranodon is changed to face-down Defense Position, the part of the effect that prevents that monster from attacking this turn no longer applies. Therefore, if that monster becomes face-up again as in this scenario, it can attack during the Battle Phase that turn.",
+            "id": 8005,
+            "question": "During my Main Phase 1, when my Petiteranodon is destroyed by a card effect, I activate its effect and Special Summon a Super Conductor Tyranno from my Deck. Then my opponent activates Book of Moon and changes Super Conductor Tyranno to face-down Defense Position. In this situation, if I activate Book of Taiyou and change Super Conductor Tyranno to face-up Attack Position, can it attack during the Battle Phase this turn?",
+            "thisSrc": {
+                "date": "2017-03-09",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "During my Main Phase 1, when my Petiteranodon is destroyed by a card effect, I activate its effect and Special Summon a Super Conductor Tyranno from my Deck. Then my opponent activates Book of Moon and changes Super Conductor Tyranno to face-down Defense Position. In this situation, if I activate Book of Taiyou and change Super Conductor Tyranno to face-up Attack Position, can it attack during the Battle Phase this turn?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<13009>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u6050\u7adc\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u300e\u3053\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3053\u306e\u30bf\u30fc\u30f3\u653b\u6483\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306e\u9069\u7528\u306f\u306a\u304f\u306a\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306b\u767a\u52d5\u3057\u305f\u300c<<13009>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u5f8c\u306b\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u8868\u5074\u653b\u6483\u8868\u793a\u306b\u623b\u3063\u3066\u3044\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u3053\u306e\u30bf\u30fc\u30f3\u306e\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u306b\u653b\u6483\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 8005,
+            "question": "\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u3001\u81ea\u5206\u306e\u300c<<13009>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3059\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u30ec\u30d9\u30eb\uff14\u4ee5\u4e0a\u306e\u6050\u7adc\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u3002\u3053\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3053\u306e\u30bf\u30fc\u30f3\u653b\u6483\u3067\u304d\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u767a\u52d5\u3057\u3001\u30c7\u30c3\u30ad\u304b\u3089\u300c<<6816>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u76f8\u624b\u304c\u300c<<5432>>\u300d\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u300c<<6816>>\u300d\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u308a\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u304c\u300c<<5431>>\u300d\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u300c<<6816>>\u300d\u3092\u8868\u5074\u653b\u6483\u8868\u793a\u306b\u3057\u305f\u5834\u5408\u3001\u3053\u306e\u30bf\u30fc\u30f3\u306e\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u306b\u653b\u6483\u3092\u884c\u3046\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306b\u767a\u52d5\u3057\u305f\u300c<<13009>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u6050\u7adc\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u308a\u3001\u305d\u306e\u30bf\u30fc\u30f3\u4e2d\u306b\u8868\u5074\u653b\u6483\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u653b\u6483\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11751
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if you have no Fiend-Type monsters in your Deck, you can activate <<11751>>. In that case, you will only apply the part of the effect that shuffles 1 monster in your opponent's Graveyard into their Deck.",
+            "id": 14926,
+            "question": "Can I activate <<11751>> if I have no Fiend-Type monsters in my Deck?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can I activate <<11751>> if I have no Fiend-Type monsters in my Deck?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u306b\u60aa\u9b54\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3067\u3082\u3001\u300c<<11751>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u300e\u76f8\u624b\u306e\u5893\u5730\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u76f8\u624b\u306e\u30c7\u30c3\u30ad\u306b\u623b\u3059\u300f\u51e6\u7406\u306e\u307f\u3092\u9069\u7528\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 14926,
+            "question": "\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u306b\u60aa\u9b54\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u300c<<11751>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u306b\u60aa\u9b54\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u300c<<11751>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

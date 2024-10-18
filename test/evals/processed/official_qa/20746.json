@@ -1,0 +1,35 @@
+{
+    "cards": [],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Normally, each player can use 1 of 2 Extra Monster Zones during a Duel, one at a time. The Extra Monster Zone that is vacant is not treated as part of either player's field. The Extra Monster Zone is treated as part of your field while you have a monster in it, and part of your opponent's field while your opponent has a monster in it.",
+            "id": 20746,
+            "question": "If a player Special Summons a monster to the Extra Monster Zone, is that Extra Monster Zone treated as part of that player's field?",
+            "thisSrc": {
+                "date": "2017-03-25",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a player Special Summons a monster to the Extra Monster Zone, is that Extra Monster Zone treated as part of that player's field?",
+            "tlSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "translationStatus": "outdated"
+        },
+        "ja": {
+            "answer": "\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306f2\u30f5\u6240\u3042\u308a\u307e\u3059\u304c\u3001\u57fa\u672c\u7684\u306b\u30c7\u30e5\u30a8\u30eb\u4e2d\u306f\u304a\u4e92\u3044\u306b1\u30f5\u6240\u305a\u3064\u3092\u4f7f\u7528\u3057\u307e\u3059\u3002\n\n\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7f6e\u304b\u308c\u3066\u3044\u306a\u3044\u72b6\u614b\u306e\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306f\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u3082\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u3082\u542b\u307e\u308c\u307e\u305b\u3093\u3002\n\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306f\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7f6e\u304b\u308c\u3066\u3044\u308b\u9593\u306f\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7f6e\u304b\u308c\u3066\u3044\u308b\u9593\u306f\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u3068\u3057\u3066\u3001\u6271\u308f\u308c\u308b\u30be\u30fc\u30f3\u3067\u3059\u3002",
+            "id": 20746,
+            "question": "\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306f\u3001\u4e00\u5ea6\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u3089\u3001\u305d\u306e\u30c7\u30e5\u30a8\u30eb\u4e2d\u306f\u305d\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u30be\u30fc\u30f3\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "title": "\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306f\u3001\u4e00\u5ea6\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u3089\u3001\u305d\u306e\u30c7\u30e5\u30a8\u30eb\u4e2d\u306f\u305d\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u30be\u30fc\u30f3\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Basic Rules"
+    ]
+}

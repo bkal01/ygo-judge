@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4310,
+        4317,
+        7195,
+        8691
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When Inverse Universe is applied, the current ATK/DEF as calculated on the field will be switched.\n\nIn the example given, if Elemental HERO Neos Alius (ATK 1900/DEF 1300) is equipped with Axe of Despair (+1000 ATK), and Inverse Universe then applies, its ATK will be 1300, and its DEF will be 2900.\n\nEven if Axe of Despair is then later destroyed, these values will not change. If you then later equip Black Pendant (+500 ATK) to this Elemental HERO Neos Alius, its ATK will be 1800.",
+            "id": 9502,
+            "question": "If Inverse Universe is applied to a monster whose ATk is increased by an effect such as that of Axe of Despair, what happens to its ATK/DEF?\nFor example, if a Elemental HERO Neos Alius is equipped with Axe of Despair (ATK 2900/DEF 1300), and Inverse Universe applies to it, what happens?\nFurthermore, if Axe of Despair is then later destroyed, what happens then?",
+            "thisSrc": {
+                "date": "2022-05-13",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If Inverse Universe applies to a monster whose ATK is increased by an Equip Spell, what happens?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<8691>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u3067\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306e\u6570\u5024\u3092\u5165\u308c\u66ff\u3048\u307e\u3059\u3002\n\u4f8b\u306e\u5834\u5408\u3001\u300c<<7195>>\u300d\uff08\u653b\u6483\u529b1900\u30fb\u5b88\u5099\u529b1300\uff09\u304c\u300c<<4310>>\u300d\uff08\u653b\u6483\u529b1000\u30a2\u30c3\u30d7\uff09\u3092\u88c5\u5099\u3057\u3066\u3044\u308b\u6642\u306b\u3001\u300c<<8691>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u529b1300\u30fb\u5b88\u5099\u529b2900\u3068\u306a\u308a\u307e\u3059\u3002\n\u307e\u305f\u3001\u305d\u306e\u5f8c\u88c5\u5099\u3057\u3066\u3044\u308b\u300c<<4310>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3067\u3082\u3001\u300c<<7195>>\u300d\u306e\u653b\u6483\u529b1300\u30fb\u5b88\u5099\u529b2900\u306e\u6570\u5024\u306f\u5909\u5316\u3057\u307e\u305b\u3093\u3002\n\u306a\u304a\u3001\u3055\u3089\u306b\u300c<<4317>>\u300d\uff08\u653b\u6483\u529b500\u30a2\u30c3\u30d7\uff09\u3092\u88c5\u5099\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u306e\u6570\u5024\u306f1800\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 9502,
+            "question": "\u300c<<4310>>\u300d\u7b49\u306e\u88c5\u5099\u9b54\u6cd5\u30ab\u30fc\u30c9\u7b49\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u653b\u6483\u529b\u304c\u5909\u5316\u3057\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u300c<<8691>>\u300d\u306e\u52b9\u679c\u3092\u53d7\u3051\u308b\u5834\u5408\u3001\u653b\u6483\u529b\u3068\u5b88\u5099\u529b\u306e\u6570\u5024\u306f\u3069\u306e\u69d8\u306b\u5909\u5316\u3057\u307e\u3059\u304b\uff1f\n\u4f8b\uff09\n\u300c<<4310>>\u300d\u3092\u88c5\u5099\u3057\u3066\u3044\u308b\u300c<<7195>>\u300d\uff08\u653b\u6483\u529b2900\u30fb\u5b88\u5099\u529b1300\uff09\u304c\u3001\u300c<<8691>>\u300d\u306e\u52b9\u679c\u3092\u53d7\u3051\u308b\u5834\u5408\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\u3069\u306e\u69d8\u306b\u5909\u5316\u3057\u307e\u3059\u304b\uff1f\n\u307e\u305f\u3001\u300c<<8691>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5f8c\u306b\u88c5\u5099\u3057\u3066\u3044\u305f\u300c<<4310>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\u5909\u5316\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8691>>\u300d\u304c\u3001\u88c5\u5099\u30ab\u30fc\u30c9\u3067\u30a2\u30c3\u30d7\u3057\u3066\u3044\u308b\u653b\u6483\u529b\u3092\u5165\u308c\u66ff\u3048\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u306f\u3069\u306e\u3088\u3046\u306b\u5909\u5316\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

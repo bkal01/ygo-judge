@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4007,
+        4837,
+        12253,
+        14365
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The materials required to Fusion Summon <<14365>> are 3 <<4007>>s\n\nIn this scenario, the effect of <<12253>> that treats it as <<4007>> is not applied while it is in your hand.\n\nSince you do not have 3 <<4007>>s in your hand to use as materials, you cannot Fusion Summon <<14365>> with <<4837>>.",
+            "id": 22461,
+            "question": "There are 2 copies of <<12253>> and 1 <<4007>> in my hand.\n\nIn this situation, can I activate <<4837>> and Fusion Summon a <<14365>> using those 3 monsters as Fusion Material?",
+            "thisSrc": {
+                "date": "2020-10-09",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "Can I Fusion Summon <<14365>> using 3 monsters including a <<12253>> in my hand as Fusion Material?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<14365>>\u300d\u306e\u878d\u5408\u53ec\u559a\u3092\u884c\u3046\u969b\u306b\u306f\u3001\u878d\u5408\u7d20\u6750\u3068\u3057\u30663\u4f53\u306e\u300c<<4007>>\u300d\u304c\u5fc5\u8981\u3067\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u624b\u672d\u306e\u300c<<12253>>\u300d\u306f\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306e\u30ab\u30fc\u30c9\u540d\u306f\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u300c<<4007>>\u300d\u3068\u3057\u3066\u6271\u3046\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u306e\u3067\u3001\u300c<<4007>>\u300d\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u307e\u305b\u3093\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u878d\u5408\u7d20\u6750\u3068\u3057\u30663\u4f53\u306e\u300c<<4007>>\u300d\u304c\u624b\u672d\u306b\u63c3\u3063\u3066\u3044\u307e\u305b\u3093\u306e\u3067\u3001\u300c<<4837>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300c<<14365>>\u300d\u3092\u878d\u5408\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 22461,
+            "question": "\u81ea\u5206\u306e\u624b\u672d\u306b\u300c<<4007>>\u300d2\u4f53\u3068\u300c<<12253>>\u300d1\u4f53\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u300c<<4837>>\u300d\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc3\u4f53\u3092\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u3001\u300c<<14365>>\u300d\u3092\u878d\u5408\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u624b\u672d\u306e\u300c<<12253>>\u300d\u3092\u542b\u30803\u4f53\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u3001\u300c<<14365>>\u300d\u3092\u878d\u5408\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        12950,
+        15538
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When your opponent activates Dual Avatar Defeating Evil, you can chain the effect of Ash Blossom & Joyous Spring. (It does not matter whether or not your opponent targeted a \"Dual Avatar\" Fusion Monster when activating Dual Avatar Defeating Evil.)",
+            "id": 23050,
+            "question": "When my opponent activates Dual Avatar Defeating Evil, can I chain the effect of Ash Blossom & Joyous Spring in my hand?",
+            "thisSrc": {
+                "date": "2020-08-14",
+                "misc": "Redshift",
+                "type": 4
+            },
+            "title": "When my opponent activates Dual Avatar Defeating Evil, can I chain the effect of Ash Blossom & Joyous Spring in my hand?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u76f8\u624b\u304c\u300c<<15538>>\u300d\u3092\u767a\u52d5\u3057\u305f\u6642\u3001\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u624b\u672d\u306e\u300c<<12950>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\uff08\u76f8\u624b\u306e\u300c<<15538>>\u300d\u304c\u767a\u52d5\u3057\u305f\u969b\u306b\u3001\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u9078\u629e\u3057\u3066\u3044\u308b\u304b\u30fb\u3044\u306a\u3044\u304b\u306b\u3088\u3063\u3066\u51e6\u7406\u306b\u9055\u3044\u306f\u3042\u308a\u307e\u305b\u3093\u3002\uff09",
+            "id": 23050,
+            "question": "\u76f8\u624b\u304c\u300c<<15538>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u6642\u3001\u81ea\u5206\u306f\u3001\u624b\u672d\u306e\u300c<<12950>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u304c\u300c<<15538>>\u300d\u3092\u767a\u52d5\u3057\u305f\u6642\u3001\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u624b\u672d\u306e\u300c<<12950>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

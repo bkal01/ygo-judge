@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11794
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in that case, the effect can be activated.\n\nIn that case, 1 <<11794>> is chosen to be Special Summoned from the Deck. You cannot Special Summon more copies of <<11794>> that your available Monster Zones.",
+            "id": 15601,
+            "question": "Can the effect of <<11794>> be activated while you only have 1 available Monster Zone?",
+            "thisSrc": {
+                "date": "2015-05-01",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can the effect of <<11794>> be activated while you only have 1 available Monster Zone?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u7a7a\u304d\u304c\uff11\u3064\u3057\u304b\u306a\u3044\u5834\u5408\u3067\u3082\u3001\u300c<<11794>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300c<<11794>>\u300d\u306e\u6570\u306f1\u4f53\u3092\u9078\u3076\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u7a7a\u304d\u306e\u6570\u3088\u308a\u591a\u304f\u3001\u300c<<11794>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 15601,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u7a7a\u304d\u304c\uff11\u3064\u3057\u304b\u306a\u3044\u5834\u5408\u3001\u300c<<11794>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u9650\u308a\uff11\u5ea6\u3060\u3051\u81ea\u5206\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u300c<<11794>>\u300d\u3092\uff12\u4f53\u307e\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u7a7a\u304d\u304c\uff11\u3064\u3057\u304b\u306a\u3044\u5834\u5408\u3001\u300c<<11794>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

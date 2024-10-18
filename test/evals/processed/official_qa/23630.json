@@ -1,0 +1,38 @@
+{
+    "cards": [
+        7346,
+        15332
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, it will.",
+            "id": 23630,
+            "question": "If I Tribute only Egyptian God Slime to Tribute Summon Beast King Barbaros using the listed procedure, will its effect that destroys all cards my opponent controls activate?",
+            "thisSrc": {
+                "date": "2022-04-12",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If I Tribute Summon Beast King Barbaros by Tributing only Egyptian God Slime, will Beast King Barbaros' effect be activated?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3057\u307e\u3059\u3002",
+            "id": 23630,
+            "question": "\u300c<<15332>>\u300d\uff11\u4f53\u306e\u307f\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u300c<<7346>>\u300d\u3092\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300e\u2463\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u3053\u306e\u30ab\u30fc\u30c9\u306e\u2462\u306e\u65b9\u6cd5\u3067\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u5834\u5408\u306b\u767a\u52d5\u3059\u308b\u3002\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\u3092\u5168\u3066\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<15332>>\u300d\uff11\u4f53\u306e\u307f\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u300c<<7346>>\u300d\u3092\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300e\u2463\u300f\u306e\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

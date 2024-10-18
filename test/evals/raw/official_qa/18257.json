@@ -1,0 +1,44 @@
+{
+    "cards": [
+        4733,
+        4734,
+        4735,
+        4773,
+        5450,
+        12308,
+        12431,
+        15470
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can.\n\nHowever, note that that <<4773>> etc. was then not properly Special Summoned, and thus cannot be Special Summoned again if it is sent to the Graveyard or banished.",
+            "id": 18257,
+            "question": "When resolving <<12308>>'s\u300eSpecial Summon 1 Toon monster from your hand, except \"<<12308>>\", ignoring its Summoning conditions\u300feffect, or resolving <<12431>>'s\u300eSpecial Summon 1 Toon monster from your Deck, except \"<<12431>>\", ignoring its Summoning conditions\u300feffect, can I Special Summon monsters such as <<4773>>, <<15470>>, <<4735>>, <<4733>>, <<5450>>, or <<4734>>?",
+            "thisSrc": {
+                "date": "2023-09-30",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If a given effect Special Summons\u300eignoring the Summoning Conditions,\u300fcan it Special Summon a Toon monster?",
+            "tlSrc": {
+                "date": "2023-09-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u3059\u3002\n\n\u306a\u304a\u3001\u53ec\u559a\u6761\u4ef6\u3092\u7121\u8996\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<4773>>\u300d\u7b49\u306e\u7279\u6b8a\u53ec\u559a\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u6b63\u898f\u306e\u624b\u9806\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u306e\u3067\u3001\u305d\u306e\u5f8c\u306b\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u308a\u9664\u5916\u3055\u308c\u305f\u5834\u5408\u3001\u4ed6\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u306a\u304f\u306a\u308a\u307e\u3059\u3002",
+            "id": 18257,
+            "question": "\u300c<<12308>>\u300d\u306e\u2462\u306e\u300e\u624b\u672d\u304b\u3089\u300c<<12308>>\u300d\u4ee5\u5916\u306e\u30c8\u30a5\u30fc\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u53ec\u559a\u6761\u4ef6\u3092\u7121\u8996\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3084\u3001\u300c<<5450>>\u300d\u306e\u300e\u25cf\u30c7\u30c3\u30ad\u304b\u3089\u300c<<12431>>\u300d\u4ee5\u5916\u306e\u30c8\u30a5\u30fc\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u53ec\u559a\u6761\u4ef6\u3092\u7121\u8996\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u7279\u6b8a\u53ec\u559a\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u308b\u300c<<4773>>\u300d\u300c<<15470>>\u300d\u300c<<4735>>\u300d\u300c<<4733>>\u300d\u300c<<5450>>\u300d\u300c<<4734>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-09-30",
+                "type": 0
+            },
+            "title": "\u300e\u53ec\u559a\u6761\u4ef6\u3092\u7121\u8996\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30c8\u30a5\u30fc\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

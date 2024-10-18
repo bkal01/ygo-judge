@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5432,
+        12863
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When resolving the effect of Superheavy Samurai Wagon, if it has been changed to face-down Defense Position, it is not possible to change it from face-up Defense Position to Attack Position, so no effect is applied.",
+            "id": 20288,
+            "question": "I activate the effect of Superheavy Samurai Wagon that changes it to Attack Position and adds a \"Superheavy Samurai\" monster from my Deck to my hand. If Book of Moon is chained to this effect, and Superheavy Samurai Wagon is changed to face-down Defense Position, how does its effect resolve?",
+            "thisSrc": {
+                "date": "2016-12-01",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I activate the effect of Superheavy Samurai Wagon that changes it to Attack Position and adds a \"Superheavy Samurai\" monster from my Deck to my hand. If Book of Moon is chained to this effect, and Superheavy Samurai Wagon is changed to face-down Defense Position, how does its effect resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u81ea\u8eab\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u300c<<12863>>\u300d\u304c\u52b9\u679c\u51e6\u7406\u6642\u306b\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u306b\u306f\u3001\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u5b88\u5099\u8868\u793a\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u653b\u6483\u8868\u793a\u306b\u3057\u300f\u306e\u51e6\u7406\u3092\u9069\u7528\u3059\u308b\u4e8b\u304c\u3067\u304d\u305a\u3001\u300e\u30c7\u30c3\u30ad\u304b\u3089\u300c\u8d85\u91cd\u6b66\u8005\u88c5\u7559\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u51e6\u7406\u3082\u9069\u7528\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 20288,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u5b88\u5099\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<12863>>\u300d\u304c\u3001\u300e\u2462\uff1a\u81ea\u5206\u306e\u5893\u5730\u306b\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u5b88\u5099\u8868\u793a\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u653b\u6483\u8868\u793a\u306b\u3057\u3001\u30c7\u30c3\u30ad\u304b\u3089\u300c\u8d85\u91cd\u6b66\u8005\u88c5\u7559\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5432>>\u300d\u304c\u767a\u52d5\u3057\u3001\u300c<<12863>>\u300d\u81ea\u8eab\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12863>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u81ea\u8eab\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

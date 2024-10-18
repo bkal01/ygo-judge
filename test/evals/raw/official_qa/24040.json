@@ -1,0 +1,37 @@
+{
+    "cards": [
+        19507
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot.\n\nYou can only activate the effect of your <<19507>> if it was already in the Graveyard at the time that a monster is Special Summoned to your opponent's field. When the effect of your opponent's <<19507>> resolves, destroying your <<19507>> and Special Summoning their <<19507>> are treated as having happened simultaneously. Therefore, your <<19507>> is not treated as having been in your Graveyard at the time that your opponent's <<19507>> was Special Summoned to their field.",
+            "id": 24040,
+            "question": "The effect of my opponent's <<19507>> resolves, destroying my <<19507>> and Special Summoning my opponent's <<19507>> to their field. Afterwards, can I activate the effect of my destroyed <<19507>>?",
+            "thisSrc": {
+                "date": "2024-01-11",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If my <<19507>> is destroyed and sent to the Graveyard by the effect of my opponent's <<19507>>, can I afterwards activate my <<19507>>' effect?",
+            "tlSrc": {
+                "date": "2024-01-11",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u300c<<19507>>\u300d\u306e\u2462\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u305f\u3081\u306b\u306f\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u6642\u70b9\u3067\u3001\u65e2\u306b\u305d\u306e\u300c<<19507>>\u300d\u304c\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002\u300c<<19507>>\u300d\u306e\u2462\u306e\u52b9\u679c\u306b\u3088\u308b\u7834\u58ca\u3068\u7279\u6b8a\u53ec\u559a\u306f\u540c\u6642\u306b\u884c\u308f\u308c\u308b\u6271\u3044\u3067\u3059\u306e\u3067\u3001\u76f8\u624b\u306e\u300c<<19507>>\u300d\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u6642\u70b9\u3067\u306f\u3001\u81ea\u5206\u306e\u300c<<19507>>\u300d\u306f\u5893\u5730\u306b\u5b58\u5728\u305b\u305a\u3001\u767a\u52d5\u306e\u6761\u4ef6\u3092\u6e80\u305f\u3057\u3066\u3044\u307e\u305b\u3093\u3002",
+            "id": 24040,
+            "question": "\u76f8\u624b\u306e\u300c<<19507>>\u300d\u306e\u2462\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c<<19507>>\u300d\u304c\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c<<19507>>\u300d\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u307e\u3057\u305f\u3002\u3053\u306e\u4e00\u9023\u306e\u30c1\u30a7\u30fc\u30f3\u51e6\u7406\u5f8c\u306b\u3001\u81ea\u5206\u306f\u305d\u306e\u7834\u58ca\u3055\u308c\u305f\u300c<<19507>>\u300d\u306e\u2462\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-01-11",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u306e\u300c<<19507>>\u300d\u306e\u2462\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u81ea\u5206\u306e\u300c<<19507>>\u300d\u306f\u3001\u305d\u306e\u51e6\u7406\u5f8c\u306b\u2462\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

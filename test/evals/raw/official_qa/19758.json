@@ -1,0 +1,38 @@
+{
+    "cards": [
+        12373,
+        12715
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "You can activate the effect of <<12715>> even if you take battle damage from a direct attack. In this scenario, since you take 300 damage from the direct attack of your opponent's <<12373>>, the targeted monster will lose 300 ATK.",
+            "id": 19758,
+            "question": "When my opponent's <<12373>> attacks me directly with its effect, I take battle damage. In that case, can I still activate the monster effect of <<12715>> that makes an opponent's monster lose ATK equal to the battle damage I took?",
+            "thisSrc": {
+                "date": "2016-08-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When my opponent's <<12373>> attacks me directly with its effect, I take battle damage. In that case, can I still activate the monster effect of <<12715>> that makes an opponent's monster lose ATK equal to the battle damage I took?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12715>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3001\u76f4\u63a5\u653b\u6483\u306b\u3088\u3063\u3066\u81ea\u5206\u307e\u305f\u306f\u76f8\u624b\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u305f\u5834\u5408\u306b\u3082\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u76f8\u624b\u306e\u300c<<12373>>\u300d\u306e\u76f4\u63a5\u653b\u6483\u306b\u3088\u3063\u3066\u3001\u81ea\u5206\u306f300\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u300c<<12715>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u5bfe\u8c61\u3068\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u3092300\u30c0\u30a6\u30f3\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 19758,
+            "question": "\u76f8\u624b\u306e\u300c<<12373>>\u300d\u304c\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306f\u76f4\u63a5\u653b\u6483\u3067\u304d\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u76f4\u63a5\u653b\u6483\u3092\u884c\u3044\u3001\u81ea\u5206\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u81ea\u5206\u306f\u300c<<12715>>\u300d\u306e\u300e\u2460\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u307e\u305f\u306f\u76f8\u624b\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u305f\u6642\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u3001\u305d\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306e\u6570\u5024\u5206\u30c0\u30a6\u30f3\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12715>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3001\u76f4\u63a5\u653b\u6483\u306b\u3088\u3063\u3066\u81ea\u5206\u307e\u305f\u306f\u76f8\u624b\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u305f\u5834\u5408\u306b\u3082\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

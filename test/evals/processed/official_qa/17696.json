@@ -1,0 +1,38 @@
+{
+    "cards": [
+        12216,
+        12218
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in that case, the effect can be activated.\n\n(If Super Quantum Green Layer is targeted to activate the effect, the Level of Super Quantal Fairy Alphan becomes 4. Also, if Super Quantal Fairy Alphan is targeted to activate the effect, the Level of Super Quantum Green Layer becomes 1)",
+            "id": 17696,
+            "question": "Can the effect of Super Quantal Fairy Alphan be activated while the face-up monsters you control are Super Quantal Fairy Alphan and 2 copies of Super Quantum Green Layer?",
+            "thisSrc": {
+                "date": "2015-11-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can the effect of Super Quantal Fairy Alphan be activated while the face-up monsters you control are Super Quantal Fairy Alphan and 2 copies of Super Quantum Green Layer?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3067\u3082\u3001\u300c<<12218>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\uff08\u300c<<12216>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3057\u305f\u5834\u5408\u306b\u306f\u300c<<12218>>\u300d\u306e\u30ec\u30d9\u30eb\u304c4\u306b\u306a\u308a\u307e\u3059\u3002\u307e\u305f\u3001\u300c<<12218>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3057\u305f\u5834\u5408\u306b\u306f\u300c<<12216>>\u300d\u306e\u30ec\u30d9\u30eb\u304c1\u306b\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 17696,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c\u8d85\u91cf\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u300c<<12218>>\u300d1\u4f53\u3068\u3001\u300c<<12216>>\u300d2\u4f53\u3068\u3044\u3046\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<12218>>\u300d\u306e\u300e\u2460\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c\u8d85\u91cf\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u5168\u3066\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ec\u30d9\u30eb\u306f\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u540c\u3058\u30ec\u30d9\u30eb\u306b\u306a\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u540c\u3058\u30ec\u30d9\u30eb\u306e\u300c\u8d85\u91cf\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u300c<<12218>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

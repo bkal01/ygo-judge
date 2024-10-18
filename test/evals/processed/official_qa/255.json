@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5432,
+        10437
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In that case, the effect of Breakthrough Skill is not applied.\n\n(This is no different whether Breakthrough Skill is activated on the field or if its effect is activated by banishing it from the Graveyard)",
+            "id": 255,
+            "question": "If Book of Moon is activated in a chain to the activation of Breakthrough Skill, so that the targeted monster is flipped to face-down Defense Position when the effect of Breakthrough Skill resolves, is the effect applied?",
+            "thisSrc": {
+                "date": "2014-10-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Book of Moon is activated in a chain to the activation of Breakthrough Skill, so that the targeted monster is flipped to face-down Defense Position when the effect of Breakthrough Skill resolves, is the effect applied?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<10437>>\u300d\u306e\u5bfe\u8c61\u306b\u9078\u629e\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u52b9\u679c\u51e6\u7406\u6642\u306b\u88cf\u5074\u8868\u793a\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u300c<<10437>>\u300d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\n\uff08\u300c<<10437>>\u300d\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u3066\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u5893\u5730\u306e\u81ea\u8eab\u3092\u9664\u5916\u3057\u3066\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u3069\u3061\u3089\u306e\u5834\u5408\u3082\u540c\u69d8\u306e\u51e6\u7406\u3068\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 255,
+            "question": "\u300c<<10437>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5432>>\u300d\u304c\u767a\u52d5\u3057\u3001\u300c<<10437>>\u300d\u306e\u5bfe\u8c61\u306b\u9078\u629e\u3055\u308c\u305f\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u52b9\u679c\u51e6\u7406\u6642\u306b\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10437>>\u300d\u306e\u5bfe\u8c61\u306b\u9078\u629e\u3055\u308c\u305f\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u52b9\u679c\u51e6\u7406\u6642\u306b\u88cf\u5074\u8868\u793a\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

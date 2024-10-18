@@ -1,0 +1,38 @@
+{
+    "cards": [
+        11723,
+        11732
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot. If you wish to activate Rank-Up-Magic Revolution Force, there must be an appropriate \"Raidraptor\" Xyz Monster in your Extra Deck to Special Summon. (You cannot target an opponent's Xyz Monster if there is no corresponding Xyz Monster in your Extra Deck.) For example, in order to target a Rank 4 monster your opponent controls, you need to have a Rank 5 Raidraptor Blaze Falcon in your Extra Deck.",
+            "id": 15204,
+            "question": "Can I activate Rank-Up-Magic Revolution Force even if I don't have any appropriate \"Raidraptor\" Xyz Monsters in my Extra Deck?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can I activate Rank-Up-Magic Revolution Force even if I don't have any appropriate \"Raidraptor\" Xyz Monsters in my Extra Deck?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u300c<<11732>>\u300d\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u306b\u306f\u5bfe\u8c61\u3068\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3088\u308a\u30e9\u30f3\u30af\u306e\uff11\u3064\u9ad8\u3044\u300cRR\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u81ea\u5206\u306e\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u5b58\u5728\u3057\u3066\u3044\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002\uff08\u81ea\u5206\u306e\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u5bfe\u5fdc\u3059\u308b\u30e9\u30f3\u30af\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u306a\u3044\u306e\u3067\u3042\u308c\u3070\u3001\u305d\u306e\u76f8\u624b\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\uff09\n\n\u4f8b\u3048\u3070\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e9\u30f3\u30af\uff14\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<11732>>\u300d\u3092\u767a\u52d5\u3059\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u81ea\u5206\u306e\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u306f\u30e9\u30f3\u30af\uff15\u306e\u300c<<11723>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002",
+            "id": 15204,
+            "question": "\u76f8\u624b\u306e\u30bf\u30fc\u30f3\u306b\u300c<<11732>>\u300d\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u3001\u81ea\u5206\u306e\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u30e9\u30f3\u30af\u304c\uff11\u3064\u9ad8\u3044\u300cRR\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u306a\u304f\u3066\u3082\u3001\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u306e\u30bf\u30fc\u30f3\u306b\u300c<<11732>>\u300d\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u3001\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u30e9\u30f3\u30af\u304c\uff11\u3064\u9ad8\u3044\u300cRR\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u306a\u304f\u3066\u3082\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

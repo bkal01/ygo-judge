@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6960,
+        9783,
+        12022
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, since the effect of <<9783>> was applied, the damage you take from the effect of <<12022>> is the 1000 damage half of the Original ATK of 2000 of <<6960>> further halved by the effect of <<9783>>.\n\nIn other words, since you take 500 damage, the opponent also takes 500 damage.",
+            "id": 16629,
+            "question": "You have activated the effect of <<9783>> this turn.\n\nIf you activate <<12022>> when the opponent declares a direct attack with <<6960>>, and the opponent's monster is destroyed, how much damage does each player take?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "You have activated the effect of <<9783>> this turn. If you activate <<12022>> when the opponent declares a direct attack with <<6960>>, and the opponent's monster is destroyed, how much damage does each player take?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<9783>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u81ea\u5206\u304c\u300c<<12022>>\u300d\u306e\u300e\u81ea\u5206\u306f\u3053\u306e\u52b9\u679c\u3067\u7834\u58ca\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u3092\u5408\u8a08\u3057\u305f\u6570\u5024\u306e\u534a\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\u300f\u51e6\u7406\u306b\u3088\u3063\u3066\u53d7\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u306f\u300c<<6960>>\u300d\u306e\u5143\u3005\u306e\u653b\u6483\u529b2000\u306e\u534a\u5206\u3067\u3042\u308b1000\u304c\u3001\u3055\u3089\u306b\u300c<<9783>>\u300d\u306e\u52b9\u679c\u3067\u534a\u5206\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u3064\u307e\u308a\u3001\u81ea\u5206\u304c\u53d7\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u306f500\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300e\u305d\u306e\u5f8c\u3001\u81ea\u5206\u304c\u53d7\u3051\u305f\u30c0\u30e1\u30fc\u30b8\u3068\u540c\u3058\u6570\u5024\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u76f8\u624b\u306b\u4e0e\u3048\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u76f8\u624b\u304c\u53d7\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u3082500\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 16629,
+            "question": "\u81ea\u5206\u306e\u767a\u52d5\u3057\u305f\u300c<<9783>>\u300d\u306e\u300e\u3053\u306e\u30bf\u30fc\u30f3\u81ea\u5206\u304c\u53d7\u3051\u308b\u5168\u3066\u306e\u30c0\u30e1\u30fc\u30b8\u306f\u534a\u5206\u306b\u306a\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30bf\u30fc\u30f3\u3067\u3059\u3002\n\n\u76f8\u624b\u306e\u300c<<6960>>\u300d\u306e\u653b\u6483\u5ba3\u8a00\u6642\u306b\u81ea\u5206\u304c\u300c<<12022>>\u300d\u3092\u767a\u52d5\u3057\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u81ea\u5206\u3068\u76f8\u624b\u304c\u53d7\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u306f\u3044\u304f\u3064\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9783>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<12022>>\u300d\u306e\u52b9\u679c\u3067\u53d7\u3051\u308b\u81ea\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u304c\u534a\u5206\u306b\u306a\u308b\u5834\u5408\u3001\u76f8\u624b\u304c\u53d7\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u306f\u3044\u304f\u3064\u3067\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

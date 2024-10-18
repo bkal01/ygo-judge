@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5028,
+        6801
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, if Alien Mars is Normal Summoned, its effect that negates the effects of monsters with A-Counters on them begins applying immediately, so the effect of Thunder Nyan Nyan is negated, and it is not destroyed by its own effect.",
+            "id": 12643,
+            "question": "I have Thunder Nyan Nyan face-up on my side of the field with an A-Counter on it. In this situation, if I Normal Summon Alien Mars, will Thunder Nyan Nyan be destroyed by its own effect?",
+            "thisSrc": {
+                "date": "2015-10-01",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I have Thunder Nyan Nyan face-up on my side of the field with an A-Counter on it. In this situation, if I Normal Summon Alien Mars, will Thunder Nyan Nyan be destroyed by its own effect?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u53ec\u559a\u3055\u308c\u305f\u300c<<6801>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u300c<<6801>>\u300d\u4ee5\u5916\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306eA\u30ab\u30a6\u30f3\u30bf\u30fc\u304c\u4e57\u3063\u305f\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u52b9\u679c\u3082\u305f\u3060\u3061\u306b\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300c<<5028>>\u300d\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u3001\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5149\u5c5e\u6027\u4ee5\u5916\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u8868\u5074\u8868\u793a\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+            "id": 12643,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306bA\u30ab\u30a6\u30f3\u30bf\u30fc\u304c1\u3064\u7f6e\u304b\u308c\u3066\u3044\u308b\u300c<<5028>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u304c\u300c<<6801>>\u300d\u3092\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300c<<5028>>\u300d\u306f\u81ea\u8eab\u306e\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5149\u5c5e\u6027\u4ee5\u5916\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u8868\u5074\u8868\u793a\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c\u30a8\u30fc\u30ea\u30a2\u30f3\u30de\u30fc\u30ba\u300d\u304c\u53ec\u559a\u3055\u308c\u305f\u5834\u5408\u3001A\u30ab\u30a6\u30f3\u30bf\u30fc\u304c\u7f6e\u304b\u308c\u3066\u3044\u308b\u300c<<5028>>\u300d\u306f\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

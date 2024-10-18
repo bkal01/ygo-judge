@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12706
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of <<12706>> that makes each player place 1 Normal Spell Card from their Deck on top of the Deck can be activated even if your opponent does not have any Normal Spell Cards in their Deck.\n\nIn that case, only you will place a Normal Spell Card from your Deck on top of the Deck, and the effect's resolution will have thus concluded.",
+            "id": 19760,
+            "question": "During my Standby Phase, can I activate the third effect of a <<12706>> in my Graveyard if my opponent does not have any Normal Spell Cards in their Deck?",
+            "thisSrc": {
+                "date": "2016-08-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "During my Standby Phase, can I activate the third effect of a <<12706>> in my Graveyard if my opponent does not have any Normal Spell Cards in their Deck?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<12706>>\u300d\u306e\u300e\u304a\u4e92\u3044\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u3001\u305d\u308c\u305e\u308c\u30c7\u30c3\u30ad\u304b\u3089\u901a\u5e38\u9b54\u6cd5\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u30c7\u30c3\u30ad\u306e\u4e00\u756a\u4e0a\u306b\u7f6e\u304f\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3001\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u306b\u901a\u5e38\u9b54\u6cd5\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3059\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u76f8\u624b\u306e\u30c7\u30c3\u30ad\u306b\u901a\u5e38\u9b54\u6cd5\u30ab\u30fc\u30c9\u304c\u306a\u3044\u5834\u5408\u3067\u3082\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u81ea\u5206\u306e\u307f\u30c7\u30c3\u30ad\u304b\u3089\u901a\u5e38\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u9078\u3073\u30c7\u30c3\u30ad\u306e\u4e00\u756a\u4e0a\u306b\u7f6e\u3044\u3066\u3001\u51e6\u7406\u3092\u5b8c\u4e86\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 19760,
+            "question": "\u300c<<12706>>\u300d\u306e\u300e\u2462\uff1a\u81ea\u5206\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u306b\u81ea\u5206\u306e\u5893\u5730\u304b\u3089\u3053\u306e\u30ab\u30fc\u30c9\u3068\u300cD-HERO\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9664\u5916\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u304a\u4e92\u3044\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u3001\u305d\u308c\u305e\u308c\u30c7\u30c3\u30ad\u304b\u3089\u901a\u5e38\u9b54\u6cd5\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u30c7\u30c3\u30ad\u306e\u4e00\u756a\u4e0a\u306b\u7f6e\u304f\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3001\u76f8\u624b\u306e\u30c7\u30c3\u30ad\u306b\u901a\u5e38\u9b54\u6cd5\u30ab\u30fc\u30c9\u304c\u306a\u3044\u5834\u5408\u3067\u3082\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u306e\u30c7\u30c3\u30ad\u306b\u901a\u5e38\u9b54\u6cd5\u30ab\u30fc\u30c9\u304c\u306a\u3044\u5834\u5408\u3001\u300c<<12706>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

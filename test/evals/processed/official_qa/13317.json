@@ -1,0 +1,38 @@
+{
+    "cards": [
+        11314
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Providing that Elemental HERO Core is no longer in the Monster Card Zone, the activation cannot be performed.\n\nTherefore, if Elemental HERO Core battles, and as a result, that Elemental HERO Core itself is destroyed by battle and sent to the Graveyard, the effect of that Elemental HERO Core cannot be activated at the End of the Battle Phase.",
+            "id": 13317,
+            "question": "If Elemental HERO Core performs an attack and as a result of that battle that Elemental HERO Core itself is destroyed and sent to the Graveyard, can the effect of that Elemental HERO Core to destroy 1 monster on the field at the End of the Battle Phase be activated?",
+            "thisSrc": {
+                "date": "2014-06-26",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Elemental HERO Core performs an attack and as a result of that battle that Elemental HERO Core itself is destroyed and sent to the Graveyard, can the effect of that Elemental HERO Core to destroy 1 monster on the field at the End of the Battle Phase be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11314>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3092\u884c\u3063\u305f\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u7d42\u4e86\u6642\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u306f\u3001\u305d\u306e\u300c<<11314>>\u300d\u81ea\u8eab\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3057\u3066\u3044\u306a\u3051\u308c\u3070\u3001\u52b9\u679c\u306e\u767a\u52d5\u3092\u884c\u3046\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<11314>>\u300d\u304c\u6226\u95d8\u3092\u884c\u3044\u3001\u305d\u306e\u7d50\u679c\u3001\u300c<<11314>>\u300d\u81ea\u8eab\u304c\u6226\u95d8\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u308b\u5834\u5408\u306b\u306f\u3001\u305d\u306e\u300c<<11314>>\u300d\u306e\u52b9\u679c\u3092\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u7d42\u4e86\u6642\u306b\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 13317,
+            "question": "\u300c<<11314>>\u300d\u304c\u653b\u6483\u3092\u884c\u3044\u3001\u305d\u306e\u6226\u95d8\u306e\u7d50\u679c\u3001\u300c<<11314>>\u300d\u81ea\u8eab\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u305d\u306e\u300c<<11314>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3092\u884c\u3063\u305f\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u7d42\u4e86\u6642\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11314>>\u300d\u306e\u653b\u6483\u3092\u884c\u3044\u3001\u305d\u306e\u6226\u95d8\u306b\u3088\u3063\u3066\u3001\u300c<<11314>>\u300d\u81ea\u8eab\u304c\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u7d42\u4e86\u6642\u306b\u300c<<11314>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Damage Step",
+        "k:Fusion"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "cards": [
+        9524
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "Activation legality of halving zero ATK/DEF",
+                "date": "2021-11-03",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            },
+            {
+                "body": "Conjunction success of halving zero ATK/DEF",
+                "date": "2021-11-03",
+                "idx": 1,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "You can activate TGX1-HL by targeting a \"T.G.\" monster whose current ATK and DEF are both zero. If you do, the effect that destroys a Spell/Trap on the field is applied as usual.",
+            "id": 10961,
+            "question": "Can TGX1-HL be activated by targeting a \"T.G.\" monster whose ATK and DEF are zero?",
+            "thisSrc": {
+                "date": "2021-11-03",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can TGX1-HL be activated by targeting a \"T.G.\" monster whose ATK and DEF are zero?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u304c0\u306b\u306a\u3063\u3066\u3044\u308b\u300cTG\u300d\u3068\u540d\u306e\u3064\u304f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u629e\u3057\u3066\u3001\u300c<<9524>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\u307e\u305f\u3001\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c91\u679a\u3092\u7834\u58ca\u3059\u308b\u52b9\u679c\u3082\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 10961,
+            "question": "\u300c<<9524>>\u300d\u306f\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u304c0\u306b\u306a\u3063\u3066\u3044\u308b\u300cTG\u300d\u3068\u540d\u306e\u3064\u304f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u9078\u629e\u3057\u3066\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300cTGX1-HL\u300d\u306f\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u304c0\u306b\u306a\u3063\u3066\u3044\u308b\u300cTG\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell",
+        "o:Activation Legality",
+        "o:Conjunction Success",
+        "o:Important Precedent",
+        "o:Lingering current ATK/DEF setting-to-value"
+    ]
+}

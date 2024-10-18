@@ -1,0 +1,40 @@
+{
+    "cards": [
+        10787,
+        11296,
+        11312
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of <<11312>> which prevents the opponent from attacking with more than 1 monster during each Battle Phase is not an effect that affects the opponent's monsters. Therefore, it will not be possible for the opponent to attack with a second monster while this effect is applying (even a monster unaffected by card effects).",
+            "id": 13307,
+            "question": "If a player successfully attacks with a monster while their opponent controls <<11312>>, can that player proceed to attack with a second monster that is unaffected by card effects, such as by the effect of <<10787>>, a <<11296>> with 3 or more materials, etc.?",
+            "thisSrc": {
+                "date": "2014-06-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a player successfully attacks with a monster while their opponent controls <<11312>>, can that player proceed to attack with a second monster that is unaffected by card effects, such as by the effect of <<10787>>, a <<11296>> with 3 or more materials, etc.?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11312>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u76f8\u624b\u306f\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3067\u3057\u304b\u653b\u6483\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u53d7\u3051\u308b\u52b9\u679c\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u76f8\u624b\u306e\u300c<<11312>>\u300d\u306e\u52b9\u679c\u9069\u7528\u4e2d\u306b\u81ea\u5206\u304c1\u4f53\u76ee\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u653b\u6483\u3092\u884c\u3063\u3066\u3044\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u305d\u306e\u5f8c\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u653b\u6483\u3092\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\uff08\u300c<<10787>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3084\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u30923\u3064\u4ee5\u4e0a\u6301\u3063\u305f\u300c<<11296>>\u300d\u306a\u3069\u3001\u300e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u3063\u3066\u3082\u653b\u6483\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\uff09",
+            "id": 13307,
+            "question": "\u76f8\u624b\u306e\u300c<<11312>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u76f8\u624b\u306f\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3067\u3057\u304b\u653b\u6483\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u6642\u3001\u81ea\u5206\u304c1\u4f53\u76ee\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u653b\u6483\u3092\u884c\u3044\u307e\u3057\u305f\u3002\n\n\u7d9a\u3051\u3066\u300c<<10787>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3084\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u30923\u3064\u4ee5\u4e0a\u6301\u3063\u305f\u300c<<11296>>\u300d\u306a\u3069\u3001\u300e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u653b\u6483\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11312>>\u300d\u304c\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u3066\u3044\u308b\u5834\u5408\u3001\u300c<<10787>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u653b\u6483\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion",
+        "k:Xyz"
+    ]
+}

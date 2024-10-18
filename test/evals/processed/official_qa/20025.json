@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5145,
+        12815
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, if the effect of Massivemorph is applied to Goblin Attack Force during the Damage Step, the attack continues normally, but no further direct attacks can be made by that monster. (Therefore, in this case, damage calculation is performed while Goblin Attack Force has 4600 ATK, and you take the damage.)",
+            "id": 20025,
+            "question": "My opponent declares a direct attack with Goblin Attack Force. During the Damage Step, if I activate Massivemorph by targeting that Goblin Attack Force, what happens to the attack?",
+            "thisSrc": {
+                "date": "2016-10-13",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "My opponent declares a direct attack with Goblin Attack Force. During the Damage Step, if I activate Massivemorph by targeting that Goblin Attack Force, what happens to the attack?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u306b\u300c<<12815>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u4e8b\u3067\u3001\u76f8\u624b\u306e\u653b\u6483\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f4\u63a5\u653b\u6483\u3092\u884c\u3048\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u3067\u3082\u3001\u305d\u306e\u76f4\u63a5\u653b\u6483\u306f\u305d\u306e\u307e\u307e\u884c\u308f\u308c\u30012\u56de\u76ee\u4ee5\u964d\u306e\u653b\u6483\u304c\u884c\u3048\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u308c\u3070\u30012\u56de\u76ee\u4ee5\u964d\u306e\u653b\u6483\u3067\u306f\u76f4\u63a5\u653b\u6483\u304c\u884c\u3048\u306a\u304f\u306a\u308a\u307e\u3059\u3002\n\n\uff08\u3057\u305f\u304c\u3063\u3066\u3001\u3053\u306e\u5834\u5408\u3001\u300c<<5145>>\u300d\u306e\u653b\u6483\u529b\u304c2300\u306e\u500d\u306e4600\u3068\u306a\u3063\u305f\u72b6\u614b\u3067\u3001\u81ea\u5206\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 20025,
+            "question": "\u76f8\u624b\u306e\u300c<<5145>>\u300d\u304c\u76f4\u63a5\u653b\u6483\u3092\u5ba3\u8a00\u3057\u307e\u3057\u305f\u3002\n\n\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u306b\u3001\u305d\u306e\u300c<<5145>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u81ea\u5206\u304c\u300c<<12815>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300e\u2460\uff1a\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\u500d\u306b\u306a\u308a\u3001\u76f4\u63a5\u653b\u6483\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u300c<<5145>>\u300d\u306e\u653b\u6483\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f4\u63a5\u653b\u6483\u3092\u5ba3\u8a00\u3057\u305f\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u306b\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u81ea\u5206\u306f\u300c<<12815>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Damage Step"
+    ]
+}

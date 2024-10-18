@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11740
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "As long as you control no monsters, you can activate Unexpected Dai, including during the first turn of a Duel.",
+            "id": 15258,
+            "question": "Can Unexpected Dai be activated during the first turn of a Duel?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can Unexpected Dai be activated during the first turn of a Duel?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u3044\u72b6\u614b\u3067\u3042\u308c\u3070\u3001\u5148\u653b\uff11\u30bf\u30fc\u30f3\u76ee\u3067\u3082\u300c<<11740>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 15258,
+            "question": "\u5148\u653b\uff11\u30bf\u30fc\u30f3\u76ee\u306b\u300c<<11740>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u5148\u653b\uff11\u30bf\u30fc\u30f3\u76ee\u306b\u300c<<11740>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

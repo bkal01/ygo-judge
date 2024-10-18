@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6805,
+        6808,
+        7190
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "<<6808>> must Special Summon a monster whose Level is equal to the combined Levels of the monster sent to the Graveyard to activate <<6808>>. Since you cannot send monsters with a higher Level total than the monster you want to Special Summon, in this scenario, <<6808>> cannot be activated.",
+            "id": 9315,
+            "question": "In order to Special Summon a Level 4 monster such as <<7190>> from my Deck, can I activate <<6808>> by sending a Level 6 monster such as <<6805>> to the Graveyard?",
+            "thisSrc": {
+                "date": "2015-08-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "In order to Special Summon a Level 4 monster such as <<7190>> from my Deck, can I activate <<6808>> by sending a Level 6 monster such as <<6805>> to the Graveyard?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<6808>>\u300d\u306e\u52b9\u679c\u306f\u3001\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300c\u30a8\u30fc\u30ea\u30a2\u30f3\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ec\u30d9\u30eb\u3068\u540c\u3058\u306b\u306a\u308b\u3088\u3046\u306b\u3001\u767a\u52d5\u3059\u308b\u969b\u306b\u5893\u5730\u3078\u9001\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u3073\u307e\u3059\u3002\n\n\u7279\u6b8a\u53ec\u559a\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ec\u30d9\u30eb\u3088\u308a\u591a\u304f\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5893\u5730\u3078\u9001\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u306e\u3067\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<6808>>\u300d\u306e\u767a\u52d5\u3092\u884c\u3046\u4e8b\u81ea\u4f53\u304c\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 9315,
+            "question": "\u300c<<6808>>\u300d\u306e\u52b9\u679c\u3067\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u304b\u3089\u30ec\u30d9\u30eb4\u306e\u300c<<7190>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u3044\u5834\u5408\u3001\u300c<<6808>>\u300d\u3092\u767a\u52d5\u3059\u308b\u969b\u306e\u30b3\u30b9\u30c8\u3068\u3057\u3066\u3001\u30ec\u30d9\u30eb6\u306e\u300c<<6805>>\u300d\u3092\u5893\u5730\u3078\u9001\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<6808>>\u300d\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u3001\u7279\u6b8a\u53ec\u559a\u3055\u308c\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ec\u30d9\u30eb\u4ee5\u4e0a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5893\u5730\u3078\u9001\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

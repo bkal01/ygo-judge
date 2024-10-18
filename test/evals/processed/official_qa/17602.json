@@ -1,0 +1,43 @@
+{
+    "cards": [
+        4861,
+        10947,
+        12219,
+        12220,
+        12221,
+        12222,
+        12223
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "A Super Quantal Mech Ship Magnacarrier, Super Quantal Mech Beast Aeroboros and Super Quantal Mech Beast Grampulse can be targeted for the effect of Super Quantal Mech Ship Magnacarrier that Special Summons Super Quantal Mech King Great Magnus, providing they are in your Graveyard or face-up in your Monster Zones.\n\nTherefore, a monster that has been Special Summoned without an Xyz Summon, such as with Xyz Shift, or in the proposed scenario, a monster that had its Xyz Summon negated and was sent to the Graveyard can be targeted.",
+            "id": 17602,
+            "question": "You control a face-up Super Quantal Mech Beast Grampulse and Super Quantal Mech Beast Aeroboros, and you have a Super Quantal Mech Beast Magnaliger that has had its Xyz Summon negated by Solemn Judgment.\n\nIn this case, can that Super Quantal Mech Beast Magnaliger be targeted to activate the effect of Super Quantal Mech Ship Magnacarrier?",
+            "thisSrc": {
+                "date": "2015-11-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "You control a face-up Super Quantal Mech Beast Grampulse and Super Quantal Mech Beast Aeroboros, and you have a Super Quantal Mech Beast Magnaliger that has had its Xyz Summon negated by Solemn Judgment.  In this case, can that Super Quantal Mech Beast Magnaliger be targeted to activate the effect of Super Quantal Mech Ship Magnacarrier?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12223>>\u300d\u306e\u300c<<12222>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u969b\u306e\u5bfe\u8c61\u3068\u306a\u308b\u300c<<12219>>\u300d\u3001\u300c<<12220>>\u300d\u3001\u300c<<12221>>\u300d\u306f\u3001\u81ea\u5206\u306e\u5893\u5730\u307e\u305f\u306f\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u5bfe\u8c61\u3068\u3057\u3066\u9078\u629e\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<10947>>\u300d\u7b49\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u4ee5\u5916\u306e\u65b9\u6cd5\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3084\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u304c\u7121\u52b9\u306b\u306a\u308a\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u9078\u629e\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 17602,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<12219>>\u300d\u3068\u300c<<12220>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u81ea\u5206\u306e\u5893\u5730\u306b\u306f\u300c<<4861>>\u300d\u3067\u305d\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u304c\u7121\u52b9\u306b\u306a\u308a\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u300c<<12221>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u300c<<12223>>\u300d\u306e\u300e\u2461\uff1a\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u5893\u5730\u3078\u9001\u308a\u3001\u81ea\u5206\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u5893\u5730\u306e\u300c\u8d85\u91cf\u6a5f\u7363\u300dX\u30e2\u30f3\u30b9\u30bf\u30fc\uff13\u7a2e\u985e\u3092\uff11\u4f53\u305a\u3064\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u300c<<12222>>\u300d\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3057\u3001\u305d\u306e\u4e0b\u306b\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u305d\u306eX\u7d20\u6750\u3092\u5168\u3066\u91cd\u306d\u3066X\u7d20\u6750\u3068\u3059\u308b\u300f\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u305d\u306e\u300c<<12221>>\u300d\u3092\u9078\u629e\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12223>>\u300d\u306e\u300c<<12222>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u305d\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u304c\u7121\u52b9\u306b\u306a\u308a\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u308b\u300c<<12221>>\u300d\u3092\u9078\u629e\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11323
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If there are 2 copies of <<11323>> on your side of the field, you can activate their effects once each during your opponent's turn.",
+            "id": 17192,
+            "question": "If there are 2 copies of <<11323>> on my side of the field, can I activate the effect of each copy during my opponent's turn?",
+            "thisSrc": {
+                "date": "2015-10-06",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If there are 2 copies of <<11323>> on my side of the field, can I activate the effect of each copy during my opponent's turn?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11323>>\u300d\u304c2\u4f53\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u300c<<11323>>\u300d\u306e\u300e\u305d\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u3092\u76f8\u624b\u30bf\u30fc\u30f3\u306b1\u5ea6\u305a\u3064\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 17192,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<11323>>\u300d\u304c2\u4f53\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u300c<<11323>>\u300d\u306e\u300e\u2461\uff1a\u76f8\u624b\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u9b54\u6cd5\u30fb\u7f60\u30fb\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u304c\u767a\u52d5\u3057\u305f\u6642\u3001\u624b\u672d\u3092\uff11\u679a\u6368\u3066\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u3092\u305d\u308c\u305e\u308c\u76f8\u624b\u30bf\u30fc\u30f3\u306b1\u5ea6\u305a\u3064\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11323>>\u300d\u304c2\u4f53\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u3092\u76f8\u624b\u30bf\u30fc\u30f3\u306b1\u5ea6\u305a\u3064\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

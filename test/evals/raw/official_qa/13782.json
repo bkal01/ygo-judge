@@ -1,0 +1,50 @@
+{
+    "cards": [
+        5114,
+        9621,
+        9723
+    ],
+    "notes": {
+        "invalid_tcg": [
+            {
+                "body": "The TCG's handling of simultaneous Trigger effects historically tends to differ from the OCG's.",
+                "date": "2021-08-11",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, first of all, it is decided whether the effect of the Normal Summoned <<9621>> is activated or not.\n\nIn this case, the effect of <<9621>> is activated. Since both players want to activate other card effects, according to the chaining rules, the next player who can activate cards is the opponent, who activates <<5114>> first.\n\nFinally, the effect of the <<9723>> in the hand can be activated.\n\nTherefore, in this case, the following chain is formed.\n\nChain link 1: The activation of the effect of your <<9621>>.\n\nChain link 2: The activation of the opponent's <<5114>>\n\nChain link 3: The activation of the effect of your <<9723>>.",
+            "id": 13782,
+            "question": "You Normal Summoned <<9621>> in your turn.\n\nAt this time, the effects of the Normal Summoned <<9621>> and a <<9723>> in the hand were activated and the opponent activates <<5114>>.\n\nIn this case, how does each effect resolve?",
+            "thisSrc": {
+                "date": "2014-09-27",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "You Normal Summoned <<9621>> in your turn.  At this time, the effects of the Normal Summoned <<9621>> and a <<9723>> in the hand were activated and the opponent activates <<5114>>.  In this case, how does each effect resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u307e\u305a\u3001\u53ec\u559a\u3055\u308c\u305f\u300c<<9621>>\u300d\u306e\u52b9\u679c\u3092\u81ea\u5206\u304c\u767a\u52d5\u3059\u308b\u304b\u3069\u3046\u304b\u3092\u6c7a\u3081\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u300c<<9621>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u304a\u4e92\u3044\u306b\u4ed6\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u3044\u3001\u3068\u3044\u3046\u72b6\u6cc1\u3067\u3059\u306e\u3067\u3001\u30c1\u30a7\u30fc\u30f3\u306e\u30eb\u30fc\u30eb\u306b\u5247\u3063\u3066\u3001\u6b21\u306b\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u308b\u306e\u306f\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u306a\u308a\u3001\u300c<<5114>>\u300d\u3092\u5148\u306b\u767a\u52d5\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\u6700\u5f8c\u306b\u3001\u624b\u672d\u306e\u300c<<9723>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u3053\u306e\u5834\u5408\u3001\u4ee5\u4e0b\u306e\u3088\u3046\u306b\u30c1\u30a7\u30fc\u30f3\u304c\u7d44\u307e\u308c\u307e\u3059\u3002\n\u30c1\u30a7\u30fc\u30f3\uff11\uff1a\u81ea\u5206\u306e\u300c<<9621>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\n\u30c1\u30a7\u30fc\u30f3\uff12\uff1a\u76f8\u624b\u306e\u300c<<5114>>\u300d\u306e\u767a\u52d5\n\u30c1\u30a7\u30fc\u30f3\uff13\uff1a\u81ea\u5206\u306e\u300c<<9723>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5",
+            "id": 13782,
+            "question": "\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306b\u3066\u3001\u300c<<9621>>\u300d\u3092\u53ec\u559a\u3057\u307e\u3057\u305f\u3002\n\u3053\u306e\u6642\u3001\u81ea\u5206\u306f\u53ec\u559a\u3057\u305f\u300c<<9621>>\u300d\u306e\u52b9\u679c\u3068\u3001\u624b\u672d\u306e\u300c<<9723>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u307e\u305f\u3001\u76f8\u624b\u306f\u300c<<5114>>\u300d\u3092\u767a\u52d5\u3057\u3088\u3046\u3068\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u306f\u3069\u306e\u3088\u3046\u306b\u51e6\u7406\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9621>>\u300d\u3092\u81ea\u5206\u304c\u53ec\u559a\u3057\u305f\u6642\u3001\u76f8\u624b\u306e\u300c<<5114>>\u300d\u3068\u81ea\u5206\u306e\u300c<<9723>>\u300d\u3092\u767a\u52d5\u3057\u305f\u3044\u5834\u5408\u3001\u3069\u306e\u3088\u3046\u306b\u51e6\u7406\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain",
+        "o:Reader beware"
+    ]
+}

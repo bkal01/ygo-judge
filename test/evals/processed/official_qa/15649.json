@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5575,
+        6292,
+        11844
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this situation, since the effect of Cost Down has decreased the Level of Red-Eyes Darkness Dragon by 2, it becomes Level 7. Therefore, you can activate Cards of the Red Stone by sending that Red-Eyes Darkness Dragon to the Graveyard.",
+            "id": 15649,
+            "question": "Can Cards of the Red Stone be activated by sending a Red-Eyes Darkness Dragon to the Graveyard whose Level is reduced by 2 by the effect of Cost Down?",
+            "thisSrc": {
+                "date": "2015-05-05",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can Cards of the Red Stone be activated by sending a Red-Eyes Darkness Dragon to the Graveyard whose Level is reduced by 2 by the effect of Cost Down?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<5575>>\u300d\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u300c<<6292>>\u300d\u306f\u30ec\u30d9\u30eb\u304c\uff12\u3064\u4e0b\u304c\u308a\u3001\u30ec\u30d9\u30eb\uff17\u3068\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u305d\u306e\u300c<<6292>>\u300d\u3092\u5893\u5730\u3078\u9001\u3063\u3066\u3001\u300c<<11844>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 15649,
+            "question": "\u300c<<5575>>\u300d\u304c\u9069\u7528\u3055\u308c\u3001\u30ec\u30d9\u30eb\u304c\uff12\u3064\u4e0b\u304c\u3063\u3066\u3044\u308b\u300c<<6292>>\u300d\u3092\u5893\u5730\u3078\u9001\u308a\u3001\u300c<<11844>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5575>>\u300d\u304c\u9069\u7528\u3055\u308c\u305f\u300c<<6292>>\u300d\u3092\u5893\u5730\u3078\u9001\u308a\u3001\u300c<<11844>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

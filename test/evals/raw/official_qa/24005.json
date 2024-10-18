@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4370,
+        4968,
+        6147,
+        19092
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you do not. If you declare \"<<4370>>\", this will apply to both the Normal Monster <<19092>> and the Ritual Monster <<4370>>.",
+            "id": 24005,
+            "question": "Using <<4968>> or <<6147>>, I declare the card name \"<<4370>>\". Do I need to distinguish between the Ritual Monster <<4370>>, and the Normal Monster <<19092>>?",
+            "thisSrc": {
+                "date": "2023-09-02",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If I declare the card name \"<<4370>>\", do I need to distinguish between <<4370>> (the Ritual Monster) and <<19092>> (the Normal Monster)?",
+            "tlSrc": {
+                "date": "2023-09-01",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u533a\u5225\u3059\u308b\u5fc5\u8981\u306f\u3042\u308a\u307e\u305b\u3093\u3002\u300c<<19092>>\u300d\u3068\u5ba3\u8a00\u3057\u305f\u306e\u3067\u3042\u308c\u3070\u3001\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u300c<<19092>>\u300d\u306b\u3064\u3044\u3066\u3082\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u300c<<4370>>\u300d\u306b\u3064\u3044\u3066\u3082\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 24005,
+            "question": "\u300c<<4968>>\u300d\u3084\u300c<<6147>>\u300d\u306b\u3088\u3063\u3066\u300c<<19092>>\u300d\u306e\u30ab\u30fc\u30c9\u540d\u3092\u5ba3\u8a00\u3059\u308b\u969b\u306b\u3001\u5ba3\u8a00\u3057\u3066\u3044\u308b\u306e\u304c\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u306a\u306e\u304b\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\u306a\u306e\u304b\u3092\u533a\u5225\u3059\u308b\u5fc5\u8981\u306f\u3042\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-09-01",
+                "type": 0
+            },
+            "title": "\u300c<<19092>>\u300d\u306e\u30ab\u30fc\u30c9\u540d\u3092\u5ba3\u8a00\u3059\u308b\u969b\u306b\u3001\u5ba3\u8a00\u3057\u3066\u3044\u308b\u306e\u304c\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u306a\u306e\u304b\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\u306a\u306e\u304b\u3092\u533a\u5225\u3059\u308b\u5fc5\u8981\u306f\u3042\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

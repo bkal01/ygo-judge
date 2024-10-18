@@ -1,0 +1,49 @@
+{
+    "cards": [
+        12407,
+        12597
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "Activation legality for gaining 0 LP",
+                "date": "2020-12-14",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "If Predaplant Moray Nepenthes is equipped with a monster by its own effect, even if that monster has 0 ATK such as Performapal Life Swordsman, you can also activate the effect that destroys an equipped monster and increases your Life Points by its ATK. In this case, the equipped monster is destroyed normally, but you gain no Life Points.",
+            "id": 19667,
+            "question": "Predaplant Moray Nepenthes is equipped with a Performapal Life Swordsman by its second effect. In this situation, can the third effect of Predaplant Moray Nepenthes be activated by targeting the equipped Performapal Life Swordsman?",
+            "thisSrc": {
+                "date": "2016-07-15",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Predaplant Moray Nepenthes is equipped with a Performapal Life Swordsman by its second effect. In this situation, can the third effect of Predaplant Moray Nepenthes be activated by targeting the equipped Performapal Life Swordsman?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<12597>>\u300d\u304c\u81ea\u8eab\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u88c5\u5099\u30ab\u30fc\u30c9\u3068\u3057\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u308c\u3070\u3001\u8cea\u554f\u306e\u300c<<12407>>\u300d\u306e\u3088\u3046\u306a\u653b\u6483\u529b\u304c0\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u3063\u3066\u3082\u3001\u300e\u305d\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3057\u3001\u305d\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u5206\u3060\u3051\u81ea\u5206\u306eLP\u3092\u56de\u5fa9\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u300e\u305d\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3057\u300f\u306e\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u307e\u3059\u304c\u3001\u7834\u58ca\u3055\u308c\u305f\u305d\u306e\u30ab\u30fc\u30c9\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u306f0\u3067\u3059\u306e\u3067\u3001\u300e\u305d\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u5206\u3060\u3051\u81ea\u5206\u306eLP\u3092\u56de\u5fa9\u3059\u308b\u300f\u51e6\u7406\u306b\u3088\u3063\u3066\u56de\u5fa9\u3059\u308b\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3082\u7d50\u679c\u7684\u306b0\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 19667,
+            "question": "\u81ea\u5206\u306e\u300c<<12597>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3067\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u7834\u58ca\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u3053\u306e\u30ab\u30fc\u30c9\u306b\u88c5\u5099\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u76f8\u624b\u306e\u300c<<12407>>\u300d\u304c\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u300c<<12597>>\u300d\u306e\u300e\u2462\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u88c5\u5099\u3057\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\uff11\u679a\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3057\u3001\u305d\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u5206\u3060\u3051\u81ea\u5206\u306eLP\u3092\u56de\u5fa9\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u3001\u5bfe\u8c61\u3068\u3057\u3066\u305d\u306e\u300c<<12407>>\u300d\u3092\u9078\u629e\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12597>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3059\u308b\u88c5\u5099\u30ab\u30fc\u30c9\u3068\u3057\u3066\u3001\u653b\u6483\u529b\u304c0\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "o:Important Precedent"
+    ]
+}

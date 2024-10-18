@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5355,
+        10179
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If <<5355>> resolves targeting a monster whose ATK/DEF are reduced, that monster's ATK/DEF will be recalculated.\n\nFor example, assume that <<10179>>'s effect is applied to a monster with 2100 original ATK. (As a result, that monster's current ATK is 1600.) If <<5355>> is now applied to that monster, its original ATK becomes 1050. (Half of its original ATK of 2100.) Then, due to <<10179>>'s effect, its ATK is reduced by 500.\n\nAs a result, that monster's ATK will be 550. Also, once <<5355>>'s effect stops applying, the monster's ATK will be recalculated. (It will be 1600 as a result.)",
+            "id": 12411,
+            "question": "<<10179>>'s\u300eall non-EARTH monsters currently on the field lose 500 ATK and DEF\u300feffect has been applied to a monster. Now, <<5355>>'s\u300eits original ATK becomes halved until the end of this turn\u300feffect is also applied to that same monster. What happens to its ATK?",
+            "thisSrc": {
+                "date": "2024-05-12",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If you first apply <<10179>>'s effect to a monster, and then also apply <<5355>>'s effect to that same monster, what happens?",
+            "tlSrc": {
+                "date": "2024-05-10",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<10179>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u304c\u30c0\u30a6\u30f3\u3057\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u300c<<5355>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u518d\u8a08\u7b97\u3055\u308c\u307e\u3059\u3002\n\n\u4f8b\u3048\u3070\u3001\u5143\u3005\u306e\u653b\u6483\u529b\u304c\uff12\uff11\uff10\uff10\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u300c<<10179>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\uff11\uff16\uff10\uff10\u306b\u306a\u308a\u307e\u3059\u304c\u3001\u305d\u306e\u5f8c\u300c<<5355>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u306f\u518d\u8a08\u7b97\u3092\u884c\u3046\u70ba\u3001\u5143\u3005\u306e\u653b\u6483\u529b\u3067\u3042\u308b\uff12\uff11\uff10\uff10\u306e\u534a\u5206\u306e\uff11\uff10\uff15\uff10\u304b\u3089\u3001\u300c<<10179>>\u300d\u306e\u52b9\u679c\u306b\u3088\u308a\uff15\uff10\uff10\u30dd\u30a4\u30f3\u30c8\u30c0\u30a6\u30f3\u3057\u3001\u7d50\u679c\u7684\u306b\u653b\u6483\u529b\u306f\uff15\uff15\uff10\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u307e\u305f\u3001\u300c<<5355>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u306a\u304f\u306a\u3063\u305f\u969b\u306b\u3082\u653b\u6483\u529b\u3092\u518d\u8a08\u7b97\u3055\u308c\u308b\u70ba\u3001\u653b\u6483\u529b\u306f\uff11\uff16\uff10\uff10\u3068\u306a\u308a\u307e\u3059\u3002",
+            "id": 12411,
+            "question": "\u300c<<10179>>\u300d\u306e\u300e\u5730\u5c5e\u6027\u4ee5\u5916\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u5168\u3066\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\uff15\uff10\uff10\u30dd\u30a4\u30f3\u30c8\u30c0\u30a6\u30f3\u3059\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u5bfe\u3057\u3066\u300c<<5355>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u3069\u306e\u3088\u3046\u306b\u5909\u5316\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-05-10",
+                "type": 0
+            },
+            "title": "\u300c<<10179>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u300c<<5355>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u306f\u3069\u306e\u3088\u3046\u306b\u5909\u5316\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

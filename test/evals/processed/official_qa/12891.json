@@ -1,0 +1,38 @@
+{
+    "cards": [
+        10623,
+        10701
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of Number 54: Lion Heart that causes the opponent to take any battle damage you would have taken, instead, can be activated During Damage Calculation as long as Number 54: Lion Heart battles an opponent's monster.\n\nYou can activate this effect even if your opponent's monster's ATK is lower than that of Number 54: Lion Heart. Furthermore, if your opponent activates the effect of a Bujingi Crane in their hand, you can then activate the effect of Number 54: Lion Heart in response.",
+            "id": 12891,
+            "question": "In what kind of situation can the effect of Number 54: Lion Heart, which causes the opponent to take any battle damage you would have taken from that battle, be activated?\n\nFor example, can that effect be activated if my opponent's monster's ATK is lower than that of Number 54: Lion Heart, or if my opponent activates an effect such as that of a Bujingi Crane in their hand?",
+            "thisSrc": {
+                "date": "2022-06-29",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "In what kind of situation can the effect of Number 54: Lion Heart be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<10701>>\u300d\u306e\u300e\u81ea\u5206\u3078\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u4ee3\u308f\u308a\u306b\u76f8\u624b\u304c\u53d7\u3051\u308b\u300f\u52b9\u679c\u306f\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3046\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u3067\u3042\u308c\u3070\u3001\u57fa\u672c\u7684\u306b\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<10701>>\u300d\u3068\u6226\u95d8\u3092\u884c\u3046\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306e\u65b9\u304c\u4f4e\u3044\u5834\u5408\u3067\u3082\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3057\u3001\u76f8\u624b\u304c\u624b\u672d\u304b\u3089\u300c<<10623>>\u300d\u7b49\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u306b\u3001\u305d\u308c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<10701>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u3082\u3067\u304d\u307e\u3059\u3002",
+            "id": 12891,
+            "question": "\u300c<<10701>>\u300d\u306e\u300e\u305d\u306e\u6226\u95d8\u306b\u3088\u3063\u3066\u767a\u751f\u3059\u308b\u81ea\u5206\u3078\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u4ee3\u308f\u308a\u306b\u76f8\u624b\u304c\u53d7\u3051\u308b\u300f\u52b9\u679c\u306f\u3001\u3069\u3046\u3044\u3046\u72b6\u6cc1\u3067\u3042\u308c\u3070\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u4f8b\u3048\u3070\u3001\u300c<<10701>>\u300d\u306e\u653b\u6483\u529b\u3088\u308a\u3082\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306e\u65b9\u304c\u4f4e\u3044\u5834\u5408\u3084\u3001\u76f8\u624b\u304c\u624b\u672d\u304b\u3089\u300c<<10623>>\u300d\u7b49\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u306b\u3001\u300c<<10701>>\u300d\u306e\u300e\u81ea\u5206\u3078\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u4ee3\u308f\u308a\u306b\u76f8\u624b\u304c\u53d7\u3051\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10701>>\u300d\u306e\u300e\u81ea\u5206\u3078\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u4ee3\u308f\u308a\u306b\u76f8\u624b\u304c\u53d7\u3051\u308b\u300f\u52b9\u679c\u306f\u3069\u3046\u3044\u3046\u72b6\u6cc1\u3067\u3042\u308c\u3070\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

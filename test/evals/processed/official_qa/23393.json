@@ -1,0 +1,39 @@
+{
+    "cards": [
+        12026,
+        16843,
+        16875
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can.\n\nWhen resolving the effect of Dinomorphia Kentregina, the effect of the Trap Card banished as a cost is applied as a monster effect. Therefore, it can be applied to monsters like Traptrix Rafflesia that cannot be affected by Trap Effects.",
+            "id": 23393,
+            "question": "I activated the effect of Dinomorphia Kentregina, banishing a Dinomorphia Brute as a cost.\n\nWhen the effect resolves and applies the effect of Dinomorphia Brute to destroy 1 \"Dinoruffia\" card I control and 1 card my opponent controls, can I destroy a Traptrix Rafflesia that cannot be affected by Trap effects?",
+            "thisSrc": {
+                "date": "2021-10-16",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "If the effect of Dinomorphia Kentregina applies the effect of a Trap Card, can it be applied to a Traptrix Rafflesia that is unaffected by Trap effects?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u7834\u58ca\u3067\u304d\u307e\u3059\u3002\n\n\u300c<<16843>>\u300d\u306e\u300e\u2461\u300f\u306e\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u306f\u3001\u30b3\u30b9\u30c8\u3068\u3057\u3066\u9664\u5916\u3057\u305f\u7f60\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u6642\u306e\u52b9\u679c\u51e6\u7406\u3092\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3068\u3057\u3066\u9069\u7528\u3057\u307e\u3059\u3002\u3057\u305f\u304c\u3063\u3066\u3001\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300c<<12026>>\u300d\u306e\u3088\u3046\u306a\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u3082\u305d\u306e\u51e6\u7406\u3092\u9069\u7528\u3057\u3001\u7834\u58ca\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 23393,
+            "question": "\u300c<<16843>>\u300d\u306e\u300e\u2461\u300f\u306e\u300e\u81ea\u5206\u30fb\u76f8\u624b\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u3001LP\u3092\u534a\u5206\u6255\u3044\u3001\u81ea\u5206\u306e\u5893\u5730\u304b\u3089\u300c\u30c0\u30a4\u30ce\u30eb\u30d5\u30a3\u30a2\u300d\u901a\u5e38\u7f60\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9664\u5916\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u52b9\u679c\u306f\u3001\u305d\u306e\u7f60\u30ab\u30fc\u30c9\u767a\u52d5\u6642\u306e\u52b9\u679c\u3068\u540c\u3058\u306b\u306a\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u30b3\u30b9\u30c8\u3068\u3057\u3066\u300c<<16875>>\u300d\u3092\u9664\u5916\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u305d\u306e\u51e6\u7406\u6642\u306b\u306f\u300c<<16875>>\u300d\u306e\u300e\u2460\u300f\u306e\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c\u30c0\u30a4\u30ce\u30eb\u30d5\u30a3\u30a2\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3068\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u7834\u58ca\u3059\u308b\u300f\u51e6\u7406\u3092\u9069\u7528\u3057\u307e\u3059\u304c\u3001\u3053\u306e\u51e6\u7406\u306b\u3088\u3063\u3066\u300e\u2460\uff1aX\u7d20\u6750\u3092\u6301\u3063\u305f\u3053\u306e\u30ab\u30fc\u30c9\u306f\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300f\u52b9\u679c\u306e\u9069\u7528\u3055\u308c\u305f\u300c<<12026>>\u300d\u3092\u7834\u58ca\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<16843>>\u300d\u306e\u52b9\u679c\u3067\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u5834\u5408\u3001\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300c<<12026>>\u300d\u306b\u305d\u306e\u51e6\u7406\u3092\u9069\u7528\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

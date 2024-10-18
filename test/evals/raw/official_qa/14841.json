@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4951,
+        11657
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if at the time of the resolution of the effect of Harpie Haripst the Winged-Beast-Type monster you control that was targeted has its Type treated as Warrior-Type, the effect resolves normally.\n\n(The 2 targeted monsters return to the owner's hand)",
+            "id": 14841,
+            "question": "If <<4951>> is activated in a chain to the effect of <<11657>> that returns monsters to the hand, so that the Type of all monsters on the field is treated as Warrior-Type, how does this resolve?",
+            "thisSrc": {
+                "date": "2015-01-22",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<4951>> is activated in a chain to the effect of <<11657>> that returns monsters to the hand, so that the Type of all monsters on the field is treated as Warrior-Type, how does this resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11657>>\u300d\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u9078\u629e\u3057\u305f\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u9ce5\u7363\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u300c<<4951>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u6226\u58eb\u65cf\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u3088\u3046\u306a\u5834\u5408\u3067\u3082\u3001\u52b9\u679c\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\uff08\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\uff12\u4f53\u3068\u3082\u6301\u3061\u4e3b\u306e\u624b\u672d\u306b\u623b\u308a\u307e\u3059\u3002\uff09",
+            "id": 14841,
+            "question": "\u300c<<11657>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u3001\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u9ce5\u7363\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3068\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u6301\u3061\u4e3b\u306e\u624b\u672d\u306b\u623b\u3059\u300f\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<4951>>\u300d\u304c\u767a\u52d5\u3057\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5168\u3066\u6226\u58eb\u65cf\u3068\u3057\u3066\u6271\u308f\u308c\u308b\u3088\u3046\u306a\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u53ec\u559a\u3057\u305f\u300c<<11657>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u300c<<4951>>\u300d\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

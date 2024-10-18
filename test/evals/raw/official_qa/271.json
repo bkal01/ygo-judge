@@ -1,0 +1,35 @@
+{
+    "cards": [],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "A player cannot enter their Battle Phase during the first turn of the Duel, but during a later turn, even if the turn player has no face-up Attack Position monsters on their side of the field, they can still conduct their Battle Phase.",
+            "id": 271,
+            "question": "If I have no face-up Attack Position monsters on my side of the field, can I conduct my Battle Phase?",
+            "thisSrc": {
+                "date": "2015-06-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If I have no face-up Attack Position monsters on my side of the field, can I conduct my Battle Phase?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u5148\u653b\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u7b2c1\u30bf\u30fc\u30f3\u3067\u306f\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u3092\u884c\u3046\u4e8b\u81ea\u4f53\u304c\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u305d\u308c\u4ee5\u964d\u306e\u30bf\u30fc\u30f3\u3067\u3042\u308c\u3070\u3001\u30bf\u30fc\u30f3\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u653b\u6483\u8868\u793a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3067\u3082\u3001\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u3092\u884c\u3046\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 271,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u653b\u6483\u8868\u793a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u3092\u884c\u3046\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u653b\u6483\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u3092\u884c\u3048\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Basic Rules"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "cards": [
+        10787,
+        11113
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In that case, since the targeted \"Galaxy-Eyes\" Xyz Monster is unaffected by card effects, it becomes unaffected by the effect to attach this card as an Xyz Material.\n\nIn that case, the Galaxy-Eyes Cloudragon that activated the effect remains in the Graveyard.\n\n(The effect is not applied. Even in that case, you still cannot activate the effect of Galaxy-Eyes Cloudragon to attach itself as an Xyz Material again in that Duel)",
+            "id": 13120,
+            "question": "If at the time of the resolution of the effect of Galaxy-Eyes Cloudragon to attach itself to the targeted monster as an Xyz Material the targeted monster has become unaffected by effects by the effect of Divine Dragon Knight Felgrand, how does the effect resolve?",
+            "thisSrc": {
+                "date": "2014-03-13",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If at the time of the resolution of the effect of Galaxy-Eyes Cloudragon to attach itself to the targeted monster as an Xyz Material the targeted monster has become unaffected by effects by the effect of Divine Dragon Knight Felgrand, how does the effect resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u305d\u306e\u5834\u5408\u3001\u9078\u629e\u3057\u305f\u300c\u30ae\u30e3\u30e9\u30af\u30b7\u30fc\u30a2\u30a4\u30ba\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u300e\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300f\u72b6\u614b\u3068\u306a\u3063\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u300e\u5893\u5730\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u9078\u629e\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u4e0b\u306b\u91cd\u306d\u3066\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3068\u3059\u308b\u300f\u52b9\u679c\u306e\u9069\u7528\u3082\u53d7\u3051\u306a\u304f\u306a\u308a\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u300c<<11113>>\u300d\u81ea\u8eab\u306f\u305d\u306e\u307e\u307e\u5893\u5730\u306b\u6b8b\u308a\u307e\u3059\u3002\n\uff08\u52b9\u679c\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\u305d\u306e\u5834\u5408\u3067\u3082\u3001\u305d\u306e\u30c7\u30e5\u30a8\u30eb\u4e2d\u306f\u518d\u3073\u300c<<11113>>\u300d\u306e\u300e\u5893\u5730\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u9078\u629e\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u4e0b\u306b\u91cd\u306d\u3066\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3068\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\uff09",
+            "id": 13120,
+            "question": "\u300c<<11113>>\u300d\u306e\u300e\u5893\u5730\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u9078\u629e\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u4e0b\u306b\u91cd\u306d\u3066\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3068\u3059\u308b\u300f\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u305f\u300c<<10787>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u9078\u629e\u3057\u305f\u300c\u30ae\u30e3\u30e9\u30af\u30b7\u30fc\u30a2\u30a4\u30ba\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u51e6\u7406\u6642\u306b\u300e\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300f\u72b6\u614b\u3068\u306a\u3063\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11113>>\u300d\u306e\u81ea\u8eab\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3068\u3057\u3066\u91cd\u306d\u308b\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u9078\u629e\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u300c<<10787>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain",
+        "k:Xyz"
+    ]
+}

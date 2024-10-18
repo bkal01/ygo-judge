@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11745
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this situation, if a face-down \"Yosenju\" monster would be returned to the hand by a card effect, the effect of <<11745>> is applied and the monster is shuffled into the Deck.",
+            "id": 15283,
+            "question": "While the effect of <<11745>> is applying, if a face-down Defense Position \"Yosenju\" monster would be returned to the hand by a card effect, is it shuffled into the Deck instead?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "While the effect of <<11745>> is applying, if a face-down Defense Position \"Yosenju\" monster would be returned to the hand by a card effect, is it shuffled into the Deck instead?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6301\u3061\u4e3b\u306e\u624b\u672d\u306b\u623b\u308b\u5834\u5408\u3067\u3082\u3001\u300c<<11745>>\u300d\u306e\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30bb\u30c3\u30c8\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u53ca\u3073\u300c\u5996\u4ed9\u7363\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u52b9\u679c\u3067\u624b\u672d\u306b\u623b\u308b\u5834\u5408\u3001\u624b\u672d\u306b\u623b\u3089\u305a\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306b\u623b\u308b\u300f\u52b9\u679c\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\n\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u300c\u5996\u4ed9\u7363\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3060\u3063\u305f\u3068\u3057\u3066\u3082\u3001\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u72b6\u614b\u3067\u624b\u672d\u306b\u623b\u308b\u5834\u5408\u306b\u306f\u3001\u300c<<11745>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306b\u623b\u308a\u307e\u3059\u3002",
+            "id": 15283,
+            "question": "\u300c<<11745>>\u300d\u306e\u9069\u7528\u4e2d\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c\u5996\u4ed9\u7363\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u52b9\u679c\u3067\u624b\u672d\u306b\u623b\u308b\u5834\u5408\u3001\u300c<<11745>>\u300d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11745>>\u300d\u306e\u9069\u7528\u4e2d\u3001\u88cf\u5074\u8868\u793a\u306e\u300c\u5996\u4ed9\u7363\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u624b\u672d\u306b\u623b\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

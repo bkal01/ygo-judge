@@ -1,0 +1,39 @@
+{
+    "cards": [
+        11241,
+        12667,
+        13763
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can.",
+            "id": 23937,
+            "question": "I control a face-up Defense Position <<11241>>.\n\nMy opponent now attacks this <<11241>> with their <<13763>>. After Damage Calculation, the \u2461nd effect of <<13763>> activates.\n\nIn response, I activate <<12667>>, negating the activation of <<13763>>'s effect, and returning it to the Extra Deck. Can I now choose my <<11241>>, which has been determined to be destroyed by the ongoing battle, as the \"Yang Zing\" card to destroy using <<12667>>?",
+            "thisSrc": {
+                "date": "2023-01-06",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "After Damage Calculation, can I choose a monster that will be destroyed by that battle to be destroyed with <<12667>>?",
+            "tlSrc": {
+                "date": "2023-01-06",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u3059\u3002",
+            "id": 23937,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u8868\u5074\u5b88\u5099\u8868\u793a\u3067\u300c<<11241>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u76f8\u624b\u306e\u300c<<13763>>\u300d\u304c\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u8868\u5074\u5b88\u5099\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<11241>>\u300d\u3068\u6226\u95d8\u3092\u884c\u3044\u3001\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u5f8c\u306b\u300c<<13763>>\u300d\u304c\u2461\u306e\u8a98\u767a\u52b9\u679c\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u308c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u81ea\u5206\u306f\u300c<<12667>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300e\u305d\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u3001\u305d\u306e\u30ab\u30fc\u30c9\u3092\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306b\u623b\u3059\u300f\u51e6\u7406\u306b\u3088\u3063\u3066\u300c<<13763>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u3001\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u623b\u3057\u307e\u3057\u305f\u304c\u3001\u300e\u305d\u306e\u5f8c\u3001\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c\u7adc\u661f\u300d\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u7834\u58ca\u3059\u308b\u300f\u51e6\u7406\u306b\u3088\u3063\u3066\u3001\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u308b\u3053\u3068\u304c\u6c7a\u307e\u3063\u305f\u300c<<11241>>\u300d\u3092\u9078\u3093\u3067\u7834\u58ca\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-01-06",
+                "type": 0
+            },
+            "title": "\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u5f8c\u306b\u3001\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u308b\u3053\u3068\u304c\u6c7a\u307e\u3063\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u300c<<12667>>\u300d\u306e\u52b9\u679c\u3067\u9078\u3093\u3067\u7834\u58ca\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

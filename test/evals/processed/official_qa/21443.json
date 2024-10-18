@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6044,
+        6343,
+        13454
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "King of the Swamp is a WATER Aqua-Type monster, while Elemental Mistress Doriado is a LIGHT Spellcaster-Type monster whose effect also treats it as a WIND, WATER, FIRE, and EARTH monster while face-up on the field. Therefore, since they are both monsters with the same Attribute but different Types, they can be used as materials for the Fusion Summon of Mudragon of the Swamp.",
+            "id": 21443,
+            "question": "Mudragon of the Swamp requires 2 monsters with the same Attribute but different Types as Fusion Materials, but can it be Fusion Summoned using a face-up Elemental Mistress Doriado and King of the Swamp as Fusion Materials?",
+            "thisSrc": {
+                "date": "2017-10-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Mudragon of the Swamp requires 2 monsters with the same Attribute but different Types as Fusion Materials, but can it be Fusion Summoned using a face-up Elemental Mistress Doriado and King of the Swamp as Fusion Materials?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<6044>>\u300d\u306f\u6c34\u5c5e\u6027\u30fb\u6c34\u65cf\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3001\u300c<<6343>>\u300d\u306f\u5149\u5c5e\u6027\u30fb\u9b54\u6cd5\u4f7f\u3044\u65cf\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u306a\u308a\u307e\u3059\u304c\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<6343>>\u300d\u306f\u3001\u81ea\u8eab\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306e\u5c5e\u6027\u306f\u300c\u98a8\u300d\u300c\u6c34\u300d\u300c\u708e\u300d\u300c\u5730\u300d\u3068\u3057\u3066\u3082\u6271\u3046\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u6c34\u5c5e\u6027\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u3082\u6271\u308f\u308c\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300e\u540c\u3058\u5c5e\u6027\u3067\u7a2e\u65cf\u304c\u7570\u306a\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u00d7\uff12\u300f\u306e\u7d44\u307f\u5408\u308f\u305b\u3068\u3057\u3066\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<6343>>\u300d\u3068\u300c<<6044>>\u300d\u3092\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u3001\u300c<<13454>>\u300d\u3092\u878d\u5408\u53ec\u559a\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 21443,
+            "question": "\u300c<<13454>>\u300d\u306f\u3001\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u300e\u540c\u3058\u5c5e\u6027\u3067\u7a2e\u65cf\u304c\u7570\u306a\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u00d7\uff12\u300f\u304c\u5fc5\u8981\u3068\u306a\u308a\u307e\u3059\u304c\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<6343>>\u300d\u3068\u300c<<6044>>\u300d\u3092\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u3001\u878d\u5408\u53ec\u559a\u3092\u884c\u3046\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<6343>>\u300d\u3068\u300c<<6044>>\u300d\u3092\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u3001\u300c<<13454>>\u300d\u3092\u878d\u5408\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

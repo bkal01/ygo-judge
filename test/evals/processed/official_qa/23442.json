@@ -1,0 +1,37 @@
+{
+    "cards": [
+        16524
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this case, you cannot choose both a card you control and another card on the field to destroy. Therefore, the effect of Destiny HERO - Destroyer Phoenix Enforcer is not applied. (No cards will be destroyed.)",
+            "id": 23442,
+            "question": "I have activated the effect of Destiny HERO - Destroyer Phoenix Enforcer that destroys cards. When it resolves, I control no cards. What happens?",
+            "thisSrc": {
+                "date": "2021-11-21",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "What happens if I control no cards when resolving the effect of Destiny HERO - Destroyer Phoenix Enforcer?",
+            "tlSrc": {
+                "date": "2021-11-20",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u305d\u306e\u5834\u5408\u3001\u7834\u58ca\u3059\u308b\u30ab\u30fc\u30c9\uff12\u679a\u306e\u30ab\u30fc\u30c9\u306e\u7d44\u307f\u5408\u308f\u305b\u3092\u9078\u3076\u3053\u3068\u304c\u3067\u304d\u307e\u305b\u3093\u306e\u3067\u3001\u51e6\u7406\u306f\u884c\u308f\u308c\u307e\u305b\u3093\u3002\uff08\u30ab\u30fc\u30c9\u306f\uff11\u679a\u3082\u7834\u58ca\u3067\u304d\u307e\u305b\u3093\u3002\uff09",
+            "id": 23442,
+            "question": "\u81ea\u5206\u304c\u300c<<16524>>\u300d\u306e\u300e\u2461\u300f\u306e\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3068\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u51e6\u7406\u6642\u306b\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30ab\u30fc\u30c9\u304c\uff11\u679a\u3082\u5b58\u5728\u3057\u306a\u3044\u72b6\u6cc1\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2021-11-20",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u304c\u767a\u52d5\u3057\u305f\u300c<<16524>>\u300d\u306e\u300e\u2461\u300f\u306e\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30ab\u30fc\u30c9\u304c\uff11\u679a\u3082\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

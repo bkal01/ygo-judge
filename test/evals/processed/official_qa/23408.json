@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4962,
+        9008
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, it can.\n(Magical Hats' card activation includes an effect to Special Summon a monster.)",
+            "id": 23408,
+            "question": "Can Solemn Warning be chained to the activation of Magical Hats?",
+            "thisSrc": {
+                "date": "2021-11-06",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can Solemn Warning be chained to the activation of Magical Hats?",
+            "tlSrc": {
+                "date": "2021-11-06",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u3059\u3002\n\uff08\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u3092\u542b\u3080\u7f60\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u306b\u3042\u305f\u308a\u307e\u3059\u3002\uff09",
+            "id": 23408,
+            "question": "\u300c<<4962>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<9008>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2021-11-06",
+                "type": 0
+            },
+            "title": "\u300c<<4962>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<9008>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

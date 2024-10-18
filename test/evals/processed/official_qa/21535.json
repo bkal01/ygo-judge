@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6448,
+        13472,
+        13474
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, when you attack with BM-4 Blast Spider, you will take 1400 battle damage due to the effect of Dimension Wall. However, this battle damage is not the result of BM-4 Blast Spider being destroyed by battle, so the effect of Heavy Metal Raiders that increases its ATK is not applied.",
+            "id": 21535,
+            "question": "Heavy Metal Raiders is face-up in my Field Zone, and I declare a direct attack with my BM-4 Blast Spider. If my opponent activates Dimension Wall so that I take the battle damage from this attack instead, will the effect of Heavy Metal Raiders apply?",
+            "thisSrc": {
+                "date": "2017-11-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Heavy Metal Raiders is face-up in my Field Zone, and I declare a direct attack with my BM-4 Blast Spider. If my opponent activates Dimension Wall so that I take the battle damage from this attack instead, will the effect of Heavy Metal Raiders apply?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<13472>>\u300d\u306e\u76f4\u63a5\u653b\u6483\u5ba3\u8a00\u6642\u306b\u300c<<6448>>\u300d\u304c\u767a\u52d5\u3057\u305f\u4e8b\u3067\u3001\u305d\u306e\u653b\u6483\u529b\u52061400\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u81ea\u5206\u304c\u53d7\u3051\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u304c\u3001\u3053\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u300c<<13472>>\u300d\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u308b\u969b\u306b\u53d7\u3051\u305f\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u306e\u3067\u3001\u300c<<13474>>\u300d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u305a\u3001\u653b\u6483\u529b\u306f\u30a2\u30c3\u30d7\u3057\u307e\u305b\u3093\u3002",
+            "id": 21535,
+            "question": "\u81ea\u5206\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u300c<<13474>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u81ea\u5206\u304c\u300c<<13472>>\u300d\u3067\u76f8\u624b\u306b\u76f4\u63a5\u653b\u6483\u3092\u5ba3\u8a00\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u6642\u3001\u76f8\u624b\u304c\u300c<<6448>>\u300d\u306e\u300e\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u5ba3\u8a00\u6642\u306b\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u3002\u3053\u306e\u6226\u95d8\u306b\u3088\u3063\u3066\u81ea\u5206\u304c\u53d7\u3051\u308b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u3001\u304b\u308f\u308a\u306b\u76f8\u624b\u304c\u53d7\u3051\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c<<13474>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u81ea\u5206\u306e\u6a5f\u68b0\u65cf\u30fb\u95c7\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u305d\u308c\u305e\u308c\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3060\u3051\u6226\u95d8\u3067\u306f\u7834\u58ca\u3055\u308c\u305a\u3001\u305d\u306e\u6226\u95d8\u3067\u81ea\u5206\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u305f\u5834\u5408\u3001\u305d\u306e\u6570\u5024\u5206\u3060\u3051\u653b\u6483\u529b\u304c\u30a2\u30c3\u30d7\u3059\u308b\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u95c7\u5c5e\u6027\u30fb\u6a5f\u68b0\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u76f4\u63a5\u653b\u6483\u5ba3\u8a00\u6642\u306b\u3001\u76f8\u624b\u304c\u300c<<6448>>\u300d\u3092\u767a\u52d5\u3057\u3001\u81ea\u5206\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u305f\u5834\u5408\u3001\u300c<<13474>>\u300d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

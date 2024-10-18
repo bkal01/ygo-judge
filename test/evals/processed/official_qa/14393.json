@@ -1,0 +1,40 @@
+{
+    "cards": [
+        6821,
+        7171,
+        7406,
+        11603
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Rainbow Refraction can be activated in the same chain that the effect of of your \"Rainbow Dragon\" or \"Rainbow Dark Dragon\" was activated.\n\nFor example, even if the effect of Light and Darkness Dragon is activated in response to your Rainbow Dragon's effect, you can then further activate Rainbow Refraction in response.",
+            "id": 14393,
+            "question": "If the effect of Rainbow Dragon is activated, can Rainbow Refraction be activated in response?",
+            "thisSrc": {
+                "date": "2021-02-01",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If the effect of Rainbow Dragon is activated, can Rainbow Refraction be activated in response?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u3001\u5143\u3005\u306e\u30ab\u30fc\u30c9\u540d\u304c\u300c<<7171>>\u300d\u307e\u305f\u306f\u300c<<7406>>\u300d\u306e\u52b9\u679c\u304c\u767a\u52d5\u3057\u305f\u969b\u306b\u3001\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<11603>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u3082\u3067\u304d\u307e\u3059\u3002\n\n\u4f8b\u3048\u3070\u3001\u300c<<7171>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<6821>>\u300d\u306e\u52b9\u679c\u304c\u767a\u52d5\u3059\u308b\u3088\u3046\u306a\u5834\u5408\u3001\u3055\u3089\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<11603>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u3082\u3067\u304d\u307e\u3059\u3002",
+            "id": 14393,
+            "question": "\u300c<<7171>>\u300d\u304c\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<11603>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<7171>>\u300d\u304c\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<11603>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "cards": [
+        6709,
+        11809,
+        12137,
+        12304,
+        12425,
+        12990
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even during a turn in which you already Pendulum Summoned monsters other than \"Dinomist\" monsters, as long as both of your Pendulum Zones are available, you can activate Dinomists Howling. (After placing 2 \"Dinomist\" Pendulum Monsters from your Deck to your Pendulum Zones with the effect, you cannot Pendulum Summon monsters except \"Dinomist\" monsters until the end of the next turn as usual.)",
+            "id": 20519,
+            "question": "While Dinomist Spinos and Dinomist Ankylos are in my Pendulum Zones, I Pendulum Summon a Dinomist Rex and Luster Pendulum, the Dracoslayer. Afterward, my opponent activates Icarus Attack and destroys the Dinomist Spinos and Dinomist Ankylos in my Pendulum Zones. During this turn, can I still activate Dinomists Howling?",
+            "thisSrc": {
+                "date": "2017-01-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "While Dinomist Spinos and Dinomist Ankylos are in my Pendulum Zones, I Pendulum Summon a Dinomist Rex and Luster Pendulum, the Dracoslayer. Afterward, my opponent activates Icarus Attack and destroys the Dinomist Spinos and Dinomist Ankylos in my Pendulum Zones. During this turn, can I still activate Dinomists Howling?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u81ea\u5206\u304c\u65e2\u306b\u300c\u30c0\u30a4\u30ca\u30df\u30b9\u30c8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u542b\u3080\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3092\u884c\u3063\u3066\u3044\u308b\u30bf\u30fc\u30f3\u3067\u3042\u3063\u3066\u3082\u3001\u305d\u306e\u5f8c\u306b\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u304c\u7a7a\u3044\u3066\u3044\u308b\u72b6\u614b\u3068\u306a\u3063\u3066\u3044\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u300c<<12990>>\u300d\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u52b9\u679c\u51e6\u7406\u306b\u3088\u3063\u3066\u3001\u300c\u30c0\u30a4\u30ca\u30df\u30b9\u30c8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30c7\u30c3\u30ad\u304b\u3089\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u7f6e\u304f\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\uff08\u300e\u7f6e\u3044\u305f\u5834\u5408\u3001\u6b21\u306e\u30bf\u30fc\u30f3\u306e\u7d42\u4e86\u6642\u307e\u3067\u3001\u81ea\u5206\u306f\u300c\u30c0\u30a4\u30ca\u30df\u30b9\u30c8\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304bP\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u51e6\u7406\u3082\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u307e\u3059\u3002\uff09",
+            "id": 20519,
+            "question": "\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u300c<<12304>>\u300d\u3068\u300c<<12425>>\u300d\u304c\u5b58\u5728\u3059\u308b\u72b6\u614b\u3067\u3001\u300c<<11809>>\u300d\u3068\u300c<<12137>>\u300d\u3092\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u5f8c\u3001\u76f8\u624b\u304c\u300c<<6709>>\u300d\u3092\u767a\u52d5\u3057\u3001\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306e\u300c<<12304>>\u300d\u3068\u300c<<12425>>\u300d\u304c\u7834\u58ca\u3055\u308c\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u30bf\u30fc\u30f3\u3001\u81ea\u5206\u306f\u300c<<12990>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u6642\u306e\u52b9\u679c\u51e6\u7406\u3068\u3057\u3066\u3001\u30c7\u30c3\u30ad\u304b\u3089\u300c\u30c0\u30a4\u30ca\u30df\u30b9\u30c8\u300dP\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\uff12\u4f53\u307e\u3067\u9078\u3093\u3067\u81ea\u5206\u306eP\u30be\u30fc\u30f3\u306b\u7f6e\u304f\u4e8b\u304c\u3067\u304d\u308b\u3002\u7f6e\u3044\u305f\u5834\u5408\u3001\u6b21\u306e\u30bf\u30fc\u30f3\u306e\u7d42\u4e86\u6642\u307e\u3067\u3001\u81ea\u5206\u306f\u300c\u30c0\u30a4\u30ca\u30df\u30b9\u30c8\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304bP\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u51e6\u7406\u3092\u884c\u3046\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c\u30c0\u30a4\u30ca\u30df\u30b9\u30c8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u3092\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3057\u3066\u3044\u308b\u30bf\u30fc\u30f3\u306b\u3001\u300c<<12990>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

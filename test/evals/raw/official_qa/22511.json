@@ -1,0 +1,37 @@
+{
+    "cards": [
+        14443
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if you do not have any cards on your field that you can place Spell Counters on, you can still activate <<14443>>. In that case, you only apply the effect that adds an \"Endymion\" card from your Deck to your hand.",
+            "id": 22511,
+            "question": "Can I activate <<14443>> if there are no cards on my field that I can place Spell Counters on?",
+            "thisSrc": {
+                "date": "2019-03-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can I activate <<14443>> if there are no cards on my field that I can place Spell Counters on?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\u7f6e\u304f\u4e8b\u304c\u3067\u304d\u308b\u30ab\u30fc\u30c9\u304c1\u679a\u3082\u306a\u3044\u5834\u5408\u3067\u3082\u3001\u81ea\u5206\u306f\u300c<<14443>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u300e\u2460\uff1a\u30c7\u30c3\u30ad\u304b\u3089\u300c\u30a8\u30f3\u30c7\u30a3\u30df\u30aa\u30f3\u300d\u30ab\u30fc\u30c9\uff11\u679a\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u51e6\u7406\u306e\u307f\u3092\u884c\u3044\u3001\u52b9\u679c\u51e6\u7406\u3092\u5b8c\u4e86\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 22511,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30ab\u30fc\u30c9\u304c1\u679a\u3082\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u306a\u3069\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\u7f6e\u304f\u4e8b\u304c\u3067\u304d\u308b\u30ab\u30fc\u30c9\u304c\u306a\u3044\u5834\u5408\u3001\u300c<<14443>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\u7f6e\u304f\u4e8b\u304c\u3067\u304d\u308b\u30ab\u30fc\u30c9\u304c\u306a\u3044\u5834\u5408\u3001\u300c<<14443>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

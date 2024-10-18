@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5234,
+        7465
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, if <<7465>> is activated, the opponent's <<5234>> and your Fiend-Type monster that was targeted for an attack are destroyed normally.\n\nFurthermore, the part of the effect that inflicts damage equal to the ATK of the opponent's monster inflicts damage equal to the Original ATK of the opponent's <<5234>> treated as a Monster Card, ultimately inflicting 1600 damage to the opponent.",
+            "id": 93,
+            "question": "An <<5234>> Special Summoned and treated as a Monster Card by its own effect the opponent controls targeted a Fiend-Type monster you control for an attack and <<7465>> was activated.\n\nIn this case, what happens with the part of the effect that inflicts damage?",
+            "thisSrc": {
+                "date": "2015-01-08",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "An <<5234>> Special Summoned and treated as a Monster Card by its own effect the opponent controls targeted a Fiend-Type monster you control for an attack and <<7465>> was activated.  In this case, what happens with the part of the effect that inflicts damage?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u3067\u300c<<7465>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u76f8\u624b\u306e\u300c<<5234>>\u300d\u3068\u3001\u653b\u6483\u5bfe\u8c61\u3068\u306a\u3063\u305f\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u60aa\u9b54\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u901a\u5e38\u901a\u308a\u7834\u58ca\u3055\u308c\u307e\u3059\u3002\n\n\u306a\u304a\u3001\u300e\u7834\u58ca\u3057\u305f\u653b\u6483\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u76f8\u624b\u306b\u4e0e\u3048\u308b\u300f\u51e6\u7406\u306f\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u308b\u76f8\u624b\u306e\u300c<<5234>>\u300d\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u5206\u3001\u3064\u307e\u308a1600\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u76f8\u624b\u306b\u4e0e\u3048\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 93,
+            "question": "\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u308b\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c<<5234>>\u300d\u304c\u81ea\u5206\u306e\u60aa\u9b54\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u653b\u6483\u5bfe\u8c61\u3068\u3057\u305f\u969b\u306b\u3001\u300c<<7465>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u300e\u7834\u58ca\u3057\u305f\u653b\u6483\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u76f8\u624b\u306b\u4e0e\u3048\u308b\u300f\u51e6\u7406\u306b\u3088\u308b\u30c0\u30e1\u30fc\u30b8\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u306e\u300c<<5234>>\u300d\u304c\u653b\u6483\u3092\u5ba3\u8a00\u3057\u305f\u969b\u306b\u3001\u300c<<7465>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u76f8\u624b\u306b\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u3089\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

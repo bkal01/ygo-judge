@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4909,
+        7734,
+        13001
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "After <<7734>> declares an additional attack gained from the effect of <<13001>>, if <<13001>> is destroyed by <<4909>>, <<7734>> will no longer gain ATK equal to the total ATK of all Dragon-Type Synchro Monsters in your Graveyard, but the attack continues normally.",
+            "id": 54,
+            "question": "When a <<7734>> equipped with <<13001>> destroys an opponent's monster by battle, I activate the effect of <<13001>> by banishing a Dragon-Type Synchro Monster from my Graveyard, allowing <<7734>> to attack once again. During the Battle Step of the additional attack on an opponent's monster, if my opponent activates <<4909>> and destroys <<13001>>, what happens?",
+            "thisSrc": {
+                "date": "2017-02-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When a <<7734>> equipped with <<13001>> destroys an opponent's monster by battle, I activate the effect of <<13001>> by banishing a Dragon-Type Synchro Monster from my Graveyard, allowing <<7734>> to attack once again. During the Battle Step of the additional attack on an opponent's monster, if my opponent activates <<4909>> and destroys <<13001>>, what happens?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<13001>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<7734>>\u300d\u304c\u7d9a\u3051\u3066\u306e\u653b\u6483\u3092\u5ba3\u8a00\u3057\u305f\u5f8c\u306b\u3001\u300c<<4909>>\u300d\u304c\u767a\u52d5\u3057\u3001\u300c<<13001>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u306b\u306f\u3001\u300e\u2461\uff1a\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u3001\u81ea\u5206\u306e\u5893\u5730\u306e\u30c9\u30e9\u30b4\u30f3\u65cfS\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306e\u5408\u8a08\u5206\u30a2\u30c3\u30d7\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u30a2\u30c3\u30d7\u3057\u3066\u3044\u308b\u653b\u6483\u529b\u306e\u9069\u7528\u306f\u306a\u304f\u306a\u308a\u307e\u3059\u304c\u3001\u305d\u306e\u653b\u6483\u306f\u305d\u306e\u307e\u307e\u884c\u308f\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 54,
+            "question": "\u300c<<13001>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u3066\u3044\u308b\u300c<<7734>>\u300d\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u6226\u95d8\u3067\u7834\u58ca\u3057\u305f\u969b\u306b\u3001\u300e\u2462\uff1a\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u3067\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3059\u308b\u5ea6\u306b\u3001\u81ea\u5206\u306e\u5893\u5730\u306e\u30c9\u30e9\u30b4\u30f3\u65cfS\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9664\u5916\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u7d9a\u3051\u3066\u653b\u6483\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u7d9a\u3051\u3066\u306e\u653b\u6483\u3092\u5ba3\u8a00\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u30d0\u30c8\u30eb\u30b9\u30c6\u30c3\u30d7\u306b\u3001\u76f8\u624b\u304c\u300c<<4909>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300c<<13001>>\u300d\u3092\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u653b\u6483\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<13001>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<7734>>\u300d\u304c\u7d9a\u3051\u3066\u306e\u653b\u6483\u3092\u5ba3\u8a00\u3057\u305f\u969b\u306b\u3001\u300c<<4909>>\u300d\u304c\u767a\u52d5\u3057\u300c<<13001>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u653b\u6483\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

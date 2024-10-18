@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12010
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, it cannot.",
+            "id": 16581,
+            "question": "Can Super Rush Headlong be activated during Main Phase 2?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can Super Rush Headlong be activated during Main Phase 2?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 16581,
+            "question": "\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba2\u3084\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u3001\u300c<<12010>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba2\u3084\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u3001\u300c<<12010>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

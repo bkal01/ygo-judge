@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4909,
+        9153,
+        11453
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if Vanity's Emptiness is on the field, Absorb Fusion can be activated. In that case, only the effect to add a \"Gem-Knight\" monster from your Deck to your hand is applied. But if Mystical Space Typhoon is chained and destroys Vanity's Emptiness before Absorb Fusion resolves, you can apply the effect of Absorb Fusion to Fusion Summon a \"Gem-Knight\" Fusion Monster.",
+            "id": 13420,
+            "question": "Can I activate Absorb Fusion while Vanity's Emptiness is on the field? If I can, if I activate Absorb Fusion and chain Mystical Space Typhoon, targeting Vanity's Emptiness, can I apply the effect of Absorb Fusion to Fusion Summon a \"Gem-Knight\" Fusion Monster?",
+            "thisSrc": {
+                "date": "2014-08-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can I activate Absorb Fusion while Vanity's Emptiness is on the field? If I can, if I activate Absorb Fusion and chain Mystical Space Typhoon, targeting Vanity's Emptiness, can I apply the effect of Absorb Fusion to Fusion Summon a \"Gem-Knight\" Fusion Monster?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<9153>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u300c<<11453>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\u305d\u306e\u5834\u5408\u3001\u300e\u30c7\u30c3\u30ad\u304b\u3089\u300c\u30b8\u30a7\u30e0\u30ca\u30a4\u30c8\u300d\u30ab\u30fc\u30c9\uff11\u679a\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u51e6\u7406\u306e\u307f\u3092\u884c\u3046\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u306a\u304a\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u3055\u3089\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<4909>>\u300d\u306b\u3088\u3063\u3066\u300c<<9153>>\u300d\u304c\u7834\u58ca\u3055\u308c\u3001\u7279\u6b8a\u53ec\u559a\u304c\u884c\u3048\u308b\u72b6\u614b\u306b\u306a\u3063\u3066\u3044\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u300e\u25cf\u81ea\u5206\u306e\u624b\u672d\u30fb\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u3001\u300c\u30b8\u30a7\u30e0\u30ca\u30a4\u30c8\u300d\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u306b\u3088\u3063\u3066\u6c7a\u3081\u3089\u308c\u305f\u878d\u5408\u7d20\u6750\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9664\u5916\u3057\u3001\u305d\u306e\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u878d\u5408\u53ec\u559a\u3059\u308b\u300f\u51e6\u7406\u3092\u9069\u7528\u3059\u308b\u4e8b\u3082\u3067\u304d\u307e\u3059\u3002",
+            "id": 13420,
+            "question": "\u300c<<9153>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<11453>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<9153>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<11453>>\u300d\u3092\u767a\u52d5\u3057\u3001\u3055\u3089\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<4909>>\u300d\u306b\u3088\u3063\u3066\u300c<<9153>>\u300d\u3092\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u300e\u25cf\u81ea\u5206\u306e\u624b\u672d\u30fb\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u3001\u300c\u30b8\u30a7\u30e0\u30ca\u30a4\u30c8\u300d\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u306b\u3088\u3063\u3066\u6c7a\u3081\u3089\u308c\u305f\u878d\u5408\u7d20\u6750\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9664\u5916\u3057\u3001\u305d\u306e\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u878d\u5408\u53ec\u559a\u3059\u308b\u300f\u51e6\u7406\u3092\u9069\u7528\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9153>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<11453>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "cards": [
+        4013,
+        4033,
+        4384,
+        4839,
+        5152
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, if <<5152>> was chained to <<4839>> so that one of the targeted monsters is no longer on the field, the effect of <<4839>> is not applied. (The remaining 2 monsters are not destroyed.)",
+            "id": 6133,
+            "question": "I activate <<4839>> by targeting <<4033>> and <<4013>> on my field and a <<4384>> on my opponent's field. If either player chains <<5152>> so that any of the monsters targeted by <<4839>> are no longer on the field, how does its effect resolve?",
+            "thisSrc": {
+                "date": "2016-06-02",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I activate <<4839>> by targeting <<4033>> and <<4013>> on my field and a <<4384>> on my opponent's field. If either player chains <<5152>> so that any of the monsters targeted by <<4839>> are no longer on the field, how does its effect resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<5152>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<4839>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u5bfe\u8c61\u3068\u3057\u3066\u9078\u629e\u3057\u305f3\u4f53\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5185\u30011\u4f53\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u306b\u306f\u3001\u300c<<4839>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\n\uff08\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u6b8b\u308a2\u4f53\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3082\u7834\u58ca\u3055\u308c\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002\uff09",
+            "id": 6133,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u300c<<4013>>\u300d\u3068\u300c<<4033>>\u300d\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u300c<<4384>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<4839>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u81ea\u5206\u307e\u305f\u306f\u76f8\u624b\u304c\u300c<<5152>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300c<<4839>>\u300d\u306e\u5bfe\u8c61\u3068\u306a\u3063\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc3\u4f53\u306e\u3046\u3061\u30011\u4f53\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<4839>>\u300d\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u3001\u5bfe\u8c61\u3068\u3057\u3066\u9078\u629e\u3057\u305f3\u4f53\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5185\u30011\u4f53\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

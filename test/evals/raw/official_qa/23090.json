@@ -1,0 +1,37 @@
+{
+    "cards": [
+        15478
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Ritual Monsters are monsters that cannot be Normal Summoned/Set, so you can add them to your hand with the first effect of <<15478>>.",
+            "id": 23090,
+            "question": "Can I add a Ritual Monster to my hand with the first effect of <<15478>>?",
+            "thisSrc": {
+                "date": "2020-10-05",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "Can I add a Ritual Monster to my hand with the first effect of <<15478>>?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u901a\u5e38\u53ec\u559a\u3067\u304d\u306a\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u306e\u3067\u3001\u300e\u2460\u300f\u306e\u52b9\u679c\u3067\u624b\u672d\u306b\u52a0\u3048\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 23090,
+            "question": "\u300c<<15478>>\u300d\u306e\u300e\u2460\uff1a\u624b\u672d\u304b\u3089\u5149\u5c5e\u6027\u307e\u305f\u306f\u95c7\u5c5e\u6027\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5893\u5730\u3078\u9001\u3063\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u306f\u5c5e\u6027\u304c\u7570\u306a\u308a\u3001\u30ec\u30d9\u30eb\uff14\uff5e\uff18\u306e\u901a\u5e38\u53ec\u559a\u3067\u304d\u306a\u3044\u5149\u30fb\u95c7\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u30c7\u30c3\u30ad\u304b\u3089\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u52b9\u679c\u3067\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<15478>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u3067\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u624b\u672d\u306b\u52a0\u3048\u3089\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

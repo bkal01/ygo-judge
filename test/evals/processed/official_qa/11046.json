@@ -1,0 +1,105 @@
+{
+    "cards": [
+        5137,
+        5381,
+        5923,
+        5967,
+        6396,
+        6488,
+        6724,
+        6777,
+        6835,
+        7199,
+        7253,
+        7760,
+        7826,
+        8098,
+        8866,
+        8913,
+        9196,
+        9430,
+        9709,
+        10660,
+        11077,
+        11379,
+        11570,
+        11883,
+        12055,
+        12257,
+        12306,
+        12317,
+        12320,
+        12517,
+        12518,
+        12676,
+        12677,
+        12783,
+        12842,
+        12868,
+        12957,
+        13010,
+        13481,
+        13546,
+        13745,
+        14282,
+        14421,
+        14570,
+        14574,
+        14960,
+        14963,
+        15016,
+        15299,
+        15640,
+        16300,
+        16842,
+        17157,
+        17450,
+        17614,
+        18506,
+        19360,
+        20228
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "Multiple attacks, and the monster's effects being negated while attacking ",
+                "date": "2023-04-01",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "If you declare a second etc. attack due to the effect of Mementoal Tecuhtlica - Combined Creation, and its effects are negated during the Battle Step, it will no longer be possible to continue that attack, or to make additional attacks.\n\nFurthermore, if the effects of Mementoal Tecuhtlica - Combined Creation which is attacking for the second (or more) time are negated during the Damage Step by Forbidden Droplet, damage calculation will be conducted for that attack normally.\n\n~~~\n\nThis also applies to the following monsters, whose Continuous Effects allow them to attack multiple times.\n\nMonsters that\u300ecan attack all monsters your opponent controls, once each:\u300f\n\u25cf Asura Priest\n\u25cf Ultimate Conductor Tyranno\n\u25cf Ultimate Tyranno\n\u25cf Ancient Gear Hydra\n\u25cf Ally of Justice Thousand Arms\n\u25cf Grasschopper\n\u25cf Machine Lord \u00dcr\n\u25cf King Beast Barbaros\n\u25cf Jurrac Monoloph\n\u25cf Drytron Meteonis Draconids\n\u25cf Elemental HERO Wildedge\n\u25cf Super Vehicroid - Stealth Union\n\u25cf World Chalice Guardragon Almarduke\n\u25cf Tyrant Burst Dragon\n\u25cf Blue-Eyes Tyrant Dragon\n\u25cf Stardust Charge Warrior\n\u25cf Number 5: Doom Chimera Dragon\n\u25cf Borrelend Dragon\n\u25cf Bujintei Susanowo\n\u25cf Raidraptor - Rise Falcon\n\u25cf An Xyz Monster Xyz Summoned using Digital Bug Centibit\n\nMonsters that\u300ecan make a second attack during each Battle Phase:\u300f\n\u25cf Amazoness Augusta\n\u25cf Ancient Gear Reactor Dragon\n\u25cf Exosisters Magnifica\n\u25cf Elemental HERO Neos Knight\n\u25cf Number C43: High Manipulator of Chaos\n\u25cf Bloom Prima the Melodious Choir\n\u25cf Gilti-Gearfried the Magical Steel Knight\n\u25cf Fossil Warrior Skull King\n\u25cf Cyber Twin Dragon\n\u25cf The Tripper Mercury\n\u25cf Gem-Knight Topaz\n\u25cf Zerrziel, Ruler of the Evil Eyed\n\u25cf Twinheaded Beast\n\u25cf Frightfur Kraken\n\u25cf Hi-Speedroid Chanbara\n\u25cf Odd-Eyes Raging Dragon\n\u25cf Ruin, Supreme Queen of Oblivion\n\u25cf Hayabusa Knight\n\u25cf Battlewasp - Hama the Conquering Bow\n\u25cf Battlewasp - Twinbow the Attacker\n\u25cf Blade Garoodia the Cubic Beast\n\u25cf Mermaid Knight\n\u25cf Lunalight Leo Dancer\n\nMonsters that\u300ecan make up to 3 attacks during each Battle Phase:\u300f\n\u25cf Buster Gundil the Cubic Behemoth\n\u25cf Vision HERO Trinity\n\u25cf Odd-Eyes Rebellion Dragon Overlord\n\nOther monsters that can attack multiple time due to their Continuous Effects:\n\u25cf Frightfur Wolf\n\u25cf Ancient Gear Megaton Golem\n\u25cf Cyberdark End Dragon\n\u25cf Shooting Quasar Dragon\n\u25cf Mannadium Prime-Heart\n\u25cf Raidraptor - Arsenal Falcon\n\u25cf Lyrilusc - Assembled Nightingale\n\u25cf Ashura King\n\u25cf Varar, Vaalmonican Concord",
+            "id": 11046,
+            "question": "I control Mementoal Tecuhtlica - Combined Creation, whose\u300ethis card can attack all monsters your opponent controls, once each\u300feffect is applying. I now declare its second (or more) attack during the current Battle Phase. In response to the attack declaration, or otherwise during the Battle Step, Mementoal Tecuhtlica - Combined Creation's effects become negated. What happens to the ongoing attack??\n\nFurthermore, what happens if, instead, Mementoal Tecuhtlica - Combined Creation's effects become negated during the Damage Step, such as due to a card like Forbidden Droplet?",
+            "thisSrc": {
+                "date": "2024-05-17",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "What happens if a monster can attack multiple times due to a Continuous Effect, and, during such an attack, its effects become negated?",
+            "tlSrc": {
+                "date": "2024-05-17",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<19360>>\u300d\u304c\u3001\uff12\u56de\u76ee\u4ee5\u964d\u306e\u653b\u6483\u5ba3\u8a00\u3092\u884c\u3063\u305f\u969b\u306b\u6c38\u7d9a\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u3001\uff12\u56de\u76ee\u4ee5\u964d\u306e\u653b\u6483\u306f\u3067\u304d\u306a\u304f\u306a\u308a\u307e\u3059\u3002\n\n\u307e\u305f\u3001\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u4e2d\u306b\u767a\u52d5\u3057\u305f\u300c<<15299>>\u300d\u7b49\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u6c38\u7d9a\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u6226\u95d8\u306f\u7d9a\u884c\u3055\u308c\u307e\u3059\u306e\u3067\u3001\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u3092\u884c\u3044\u307e\u3059\u3002\n\n\u8907\u6570\u56de\u653b\u6483\u3067\u304d\u308b\u6c38\u7d9a\u52b9\u679c\u3092\u6301\u3064\u4ee5\u4e0b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5834\u5408\u3082\u540c\u69d8\u3067\u3059\u3002\n\n\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u300e\uff11\u56de\u305a\u3064\u653b\u6483\u3067\u304d\u308b\u300f\u6c38\u7d9a\u52b9\u679c\u3092\u6301\u3064\u30e2\u30f3\u30b9\u30bf\u30fc\n\u300c<<5381>>\u300d\n\u300c<<13010>>\u300d\n\u300c<<6777>>\u300d\n\u300c<<12677>>\u300d\n\u300c<<7826>>\u300d\n\u300c<<7199>>\u300d\n\u300c<<7760>>\u300d\n\u300c<<15016>>\u300d\n\u300c<<8098>>\u300d\n\u300c<<15640>>\u300d\n\u300c<<6488>>\u300d\n\u300c<<6835>>\u300d\n\u300c<<14282>>\u300d\n\u300c<<11883>>\u300d\n\u300c<<16842>>\u300d\n\u300c<<12257>>\u300d\n\u300c<<13546>>\u300d\n\u300c<<14963>>\u300d\n\u300c<<10660>>\u300d\n\u300c<<11570>>\u300d\n\u300c<<12306>>\u300d\u3092\u7d20\u6750\u3068\u3057\u3066\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\n\n\u300e\uff12\u56de\u653b\u6483\u3067\u304d\u308b\u300f\u6c38\u7d9a\u52b9\u679c\u3092\u6301\u3064\u30e2\u30f3\u30b9\u30bf\u30fc\n\u300c<<17614>>\u300d\n\u300c<<12676>>\u300d\n\u300c<<17157>>\u300d\n\u300c<<8866>>\u300d\n\u300c<<11077>>\u300d\n\u300c<<12317>>\u300d\n\u300c<<6724>>\u300d\n\u300c<<7253>>\u300d\n\u300c<<6396>>\u300d\n\u300c<<9430>>\u300d\n\u300c<<8913>>\u300d\n\u300c<<14421>>\u300d\n\u300c<<5923>>\u300d\n\u300c<<12842>>\u300d\n\u300c<<12055>>\u300d\n\u300c<<12783>>\u300d\n\u300c<<13745>>\u300d\n\u300c<<5137>>\u300d\n\u300c<<14574>>\u300d\n\u300c<<14570>>\u300d\n\u300c<<12517>>\u300d\n\u300c<<5967>>\u300d\n\u300c<<12320>>\u300d\n\n\u300e\uff13\u56de\u653b\u6483\u3067\u304d\u308b\u300f\u6c38\u7d9a\u52b9\u679c\u3092\u6301\u3064\u30e2\u30f3\u30b9\u30bf\u30fc\n\u300c<<12518>>\u300d\n\u300c<<9196>>\u300d\n\u300c<<14960>>\u300d\n\n\u305d\u306e\u4ed6\u3001\u8907\u6570\u56de\u653b\u6483\u3067\u304d\u308b\u6c38\u7d9a\u52b9\u679c\u3092\u6301\u3064\u30e2\u30f3\u30b9\u30bf\u30fc\n\u300c<<11379>>\u300d\n\u300c<<13481>>\u300d\n\u300c<<16300>>\u300d\n\u300c<<9709>>\u300d\n\u300c<<18506>>\u300d\n\u300c<<12868>>\u300d\n\u300c<<12957>>\u300d\n\u300c<<17450>>\u300d\n\u300c<<20228>>\u300d",
+            "id": 11046,
+            "question": "\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u4ed6\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306f\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u5168\u3066\u306b\uff11\u56de\u305a\u3064\u653b\u6483\u3067\u304d\u308b\u300f\u6c38\u7d9a\u52b9\u679c\u3092\u9069\u7528\u3057\u3066\u3044\u308b\u300c<<19360>>\u300d\u306e\uff12\u56de\u76ee\u4ee5\u964d\u306e\u653b\u6483\u5ba3\u8a00\u6642\uff08\u3082\u3057\u304f\u306f\u305d\u306e\u30d0\u30c8\u30eb\u30b9\u30c6\u30c3\u30d7\u4e2d\uff09\u306b\u3001\u4ed6\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u6c38\u7d9a\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u653b\u6483\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<19360>>\u300d\u306e\uff12\u56de\u76ee\u4ee5\u964d\u306e\u653b\u6483\u306e\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u4e2d\u306b\u300c<<15299>>\u300d\u7b49\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u6c38\u7d9a\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u653b\u6483\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-05-17",
+                "type": 0
+            },
+            "title": "\u6c38\u7d9a\u52b9\u679c\u306b\u3088\u3063\u3066\u8907\u6570\u56de\u653b\u6483\u3067\u304d\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\uff12\u56de\u76ee\u4ee5\u964d\u306e\u653b\u6483\u6642\u306b\u3001\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u653b\u6483\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "o:Important Precedent"
+    ]
+}

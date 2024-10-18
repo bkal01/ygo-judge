@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11661
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this case, the effects of each Gift Exchange will resolve separately during the End Phase. (You do not add all of the cards banished by both copies to the hand all at once.)",
+            "id": 14631,
+            "question": "If I activate 2 copies of Gift Exchange during the same turn, what happens during the End Phase?",
+            "thisSrc": {
+                "date": "2014-12-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If I activate 2 copies of Gift Exchange during the same turn, what happens during the End Phase?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u300c<<11661>>\u300d\u306e\u300e\u3053\u306e\u30bf\u30fc\u30f3\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u3001\u304a\u4e92\u3044\u306f\u305d\u308c\u305e\u308c\u76f8\u624b\u3068\u306a\u308b\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u9664\u5916\u3057\u305f\u305d\u306e\u30ab\u30fc\u30c9\u3092\u81ea\u5206\u306e\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u51e6\u7406\u306f\uff11\u679a\u305a\u3064\u51e6\u7406\u3092\u884c\u3046\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\uff082\u679a\u306e\u300c<<11661>>\u300d\u306e\u51e6\u7406\u3067\u9664\u5916\u3057\u305f\u30ab\u30fc\u30c9\u3092\u5168\u3066\u540c\u6642\u306b\u624b\u672d\u306b\u52a0\u3048\u308b\u4e8b\u306b\u306f\u306a\u308a\u307e\u305b\u3093\u3002\uff09",
+            "id": 14631,
+            "question": "\u540c\u4e00\u30bf\u30fc\u30f3\u306b\u300c<<11661>>\u300d\u3092\uff12\u679a\u767a\u52d5\u3057\u3001\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u51e6\u7406\u3067\u304a\u4e92\u3044\u306b\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u3066\u3044\u308b\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u300e\u3053\u306e\u30bf\u30fc\u30f3\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u3001\u304a\u4e92\u3044\u306f\u305d\u308c\u305e\u308c\u76f8\u624b\u3068\u306a\u308b\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u9664\u5916\u3057\u305f\u305d\u306e\u30ab\u30fc\u30c9\u3092\u81ea\u5206\u306e\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u540c\u4e00\u30bf\u30fc\u30f3\u306b\u300c<<11661>>\u300d\u3092\uff12\u679a\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306e\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

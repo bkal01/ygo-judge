@@ -1,0 +1,38 @@
+{
+    "cards": [
+        7397,
+        9849
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Since the effect of Thunder King Rai-Oh is an effect that negates the Normal or Special Summon of a monster, Smashing Horn can be activated in a chain to its effect.",
+            "id": 14039,
+            "question": "Can Smashing Horn be activated in a chain to the effect of Thunder King Rai-Oh?",
+            "thisSrc": {
+                "date": "2014-10-17",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can Smashing Horn be activated in a chain to the effect of Thunder King Rai-Oh?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<7397>>\u300d\u306e\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u3053\u306e\u30ab\u30fc\u30c9\u3092\u5893\u5730\u3078\u9001\u308b\u4e8b\u3067\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u306e\u7279\u6b8a\u53ec\u559a\u3092\u7121\u52b9\u306b\u3057\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u306f\u3001\u300e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3092\u7121\u52b9\u306b\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u300f\u306b\u3042\u305f\u308a\u307e\u3059\u306e\u3067\u3001\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<9849>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 14039,
+            "question": "\u300c<<7397>>\u300d\u306e\u52b9\u679c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<9849>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<7397>>\u300d\u306e\u52b9\u679c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<9849>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

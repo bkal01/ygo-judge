@@ -1,0 +1,73 @@
+{
+    "cards": [
+        6468,
+        6563,
+        6564,
+        6565,
+        6907,
+        7638,
+        8048,
+        9218,
+        11314,
+        11576,
+        11624,
+        11880,
+        12798,
+        13109,
+        13573,
+        13822,
+        14217,
+        14262,
+        14371,
+        14733,
+        14914,
+        15142,
+        15343,
+        15743,
+        16297,
+        17261
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "    Proper Summoning and ignoring Summoning Conditions",
+                "date": "2022-07-07",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "No, they cannot be Special Summoned. (They can, however, be added to your hand.)\n\nIn order to Special Summon a Special Summon Monster from the Graveyard, even ignoring its Summoning Conditions, that monster must first have been Special Summoned properly, then sent to the Graveyard. The same applies to Special Summon Monsters that are in your Extra Deck face-up, or that are banished face-up.\n\n~~~\n\nThis also applies to the following cards' effects that perform a Special Summon ignoring the Summoning Conditions: <<6468>>, <<6907>>, <<7638>>, <<8048>>, <<9218>>, <<11314>>, <<11576>>, <<11624>>, <<11880>>, <<12798>>, <<13109>>, <<13573>>, <<13822>>, <<14217>>, <<14262>>, <<14371>>, <<14733>>, <<14914>>, <<15343>>, <<15743>>, <<16297>>, and <<17261>>.",
+            "id": 23799,
+            "question": "If <<6563>>, <<6564>>, or <<6565>> are sent to the Graveyard without being properly Special Summoned first, can they be Special Summoned by an effect such as that of <<15142>>, which ignores their Summoning Conditions?",
+            "thisSrc": {
+                "date": "2022-07-07",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If a Special Summon Monster has never been Special Summoned properly, can it be Special Summoned by ignoring its Summoning Conditions?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u7279\u6b8a\u53ec\u559a\u306f\u3067\u304d\u307e\u305b\u3093\u3002\uff08\u624b\u672d\u306b\u52a0\u3048\u308b\u51e6\u7406\u306f\u884c\u3048\u307e\u3059\u3002\uff09\n\n\u53ec\u559a\u6761\u4ef6\u3092\u7121\u8996\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u51e6\u7406\u306b\u3088\u3063\u3066\u5893\u5730\u306e\u7279\u6b8a\u53ec\u559a\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u969b\u306b\u306f\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6b63\u898f\u306e\u65b9\u6cd5\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u306e\u3061\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u7279\u6b8a\u53ec\u559a\u30e2\u30f3\u30b9\u30bf\u30fc\u3084\u3001\u8868\u5074\u8868\u793a\u3067\u9664\u5916\u3055\u308c\u3066\u3044\u308b\u7279\u6b8a\u53ec\u559a\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u53ec\u559a\u6761\u4ef6\u3092\u7121\u8996\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u5834\u5408\u306b\u3064\u3044\u3066\u3082\u540c\u69d8\u3067\u3059\u3002\n\n\u4ee5\u4e0b\u306e\u30ab\u30fc\u30c9\u304c\u6301\u3064\u3001\u53ec\u559a\u6761\u4ef6\u3092\u7121\u8996\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u306b\u3064\u3044\u3066\u3082\u540c\u69d8\u3067\u3059\u3002\n\u300c<<6468>>\u300d\u300c<<6907>>\u300d\u300c<<7638>>\u300d\n\u300c<<8048>>\u300d\u300c<<9218>>\u300d\u300c<<11314>>\u300d\n\u300c<<11576>>\u300d\u300c<<11624>>\u300d\u300c<<11880>>\u300d\n\u300c<<12798>>\u300d\u300c<<13109>>\u300d\u300c<<13573>>\u300d\n\u300c<<13822>>\u300d\u300c<<14217>>\u300d\u300c<<14262>>\u300d\n\u300c<<14371>>\u300d\u300c<<14733>>\u300d\u300c<<14914>>\u300d\n\u300c<<15343>>\u300d\u300c<<15743>>\u300d\u300c<<16297>>\u300d\u300c<<17261>>\u300d",
+            "id": 23799,
+            "question": "\u6b63\u898f\u306e\u65b9\u6cd5\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305a\u306b\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u308b\u300c<<6563>>\u300d\u300c<<6564>>\u300d\u300c<<6565>>\u300d\u3092\u3001\u300c<<15142>>\u300d\u306e\u2462\u306e\u300e\u624b\u672d\u306b\u52a0\u3048\u308b\u304b\u53ec\u559a\u6761\u4ef6\u3092\u7121\u8996\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u4e00\u5ea6\u3082\u6b63\u898f\u306e\u65b9\u6cd5\u3067\u7279\u6b8a\u53ec\u559a\u3057\u3066\u3044\u306a\u3044\u7279\u6b8a\u53ec\u559a\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u3001\u300e\u53ec\u559a\u6761\u4ef6\u3092\u7121\u8996\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "o:Important Precedent"
+    ]
+}

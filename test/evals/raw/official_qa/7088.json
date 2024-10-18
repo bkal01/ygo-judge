@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4989,
+        7697,
+        12059
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If the effect of <<12059>> performs damage calculation using <<7697>>, it is not treated declaring an attack. Furthermore, in this scenario, <<7697>> was not Special Summoned this turn. Therefore, even if damage calculation was performed using that <<7697>>, its battle position can still be changed during Main Phase 2.",
+            "id": 7088,
+            "question": "A <<7697>> that was Special Summoned during a previous turn by <<4989>> is in face-up Attack Position on my opponent's side of the field. During my opponent's next turn, if a monster other than that <<7697>> declares an attack, and I activate the second effect of <<12059>> from my Graveyard, can my opponent change <<7697>> to Defense Position during Main Phase 2?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "A <<7697>> that was Special Summoned during a previous turn by <<4989>> is in face-up Attack Position on my opponent's side of the field. During my opponent's next turn, if a monster other than that <<7697>> declares an attack, and I activate the second effect of <<12059>> from my Graveyard, can my opponent change <<7697>> to Defense Position during Main Phase 2?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12059>>\u300d\u306e\u52b9\u679c\u3067\u653b\u6483\u3057\u3001\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u3092\u884c\u3063\u305f\u76f8\u624b\u306e\u300c<<7697>>\u300d\u306f\u653b\u6483\u5ba3\u8a00\u3092\u884c\u3063\u305f\u6271\u3044\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u307e\u305f\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<7697>>\u300d\u306f\u305d\u306e\u30bf\u30fc\u30f3\u306b\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u305d\u306e\u300c<<12059>>\u300d\u306e\u5bfe\u8c61\u3068\u306a\u3063\u305f\u76f8\u624b\u306e\u300c<<7697>>\u300d\u304c\u901a\u5e38\u306e\u653b\u6483\u5ba3\u8a00\u3092\u884c\u3063\u3066\u3044\u306a\u3044\u306e\u3067\u3042\u308c\u3070\u3001\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba2\u306b\u8868\u793a\u5f62\u5f0f\u306e\u5909\u66f4\u3092\u884c\u3046\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 7088,
+            "question": "\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u524d\u306e\u30bf\u30fc\u30f3\u306b\u300c<<4989>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u3066\u3044\u308b\u300c<<7697>>\u300d\u304c\u8868\u5074\u653b\u6483\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u6b21\u306e\u76f8\u624b\u306e\u30bf\u30fc\u30f3\u306b\u3066\u3001\u305d\u306e\u8868\u5074\u653b\u6483\u8868\u793a\u306e\u300c<<7697>>\u300d\u304c\u653b\u6483\u5ba3\u8a00\u3092\u3057\u3066\u304a\u3089\u305a\u3001\u300c<<12059>>\u300d\u306e\u300e\u2461\uff1a\u76f8\u624b\u30d0\u30c8\u30eb\u30b9\u30c6\u30c3\u30d7\u306b\u5893\u5730\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u3001\u81ea\u5206\u53ca\u3073\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u653b\u6483\u8868\u793a\u306eS\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\uff11\u4f53\u305a\u3064\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u76f8\u624b\u306e\u8868\u5074\u653b\u6483\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u305d\u306e\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3078\u653b\u6483\u3057\u3001\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u3092\u884c\u3046\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u3092\u884c\u3063\u305f\u5834\u5408\u3001\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba2\u306b\u305d\u306e\u300c<<7697>>\u300d\u306f\u8868\u793a\u5f62\u5f0f\u3092\u5909\u66f4\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12059>>\u300d\u306e\u52b9\u679c\u3067\u306e\u307f\u653b\u6483\u3092\u884c\u3063\u305f\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba2\u306b\u8868\u793a\u5f62\u5f0f\u3092\u5909\u66f4\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

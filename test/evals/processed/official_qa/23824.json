@@ -1,0 +1,38 @@
+{
+    "cards": [
+        11799,
+        14877
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Battle damage is determined by considering different types of effects in the following order.\n\n01: Inflicts double battle damage.\n02: Battle damage is taken by both players.\n03: Battle damage you take is also inflicted to your opponent / your opponent takes any battle damage you would take instead.\n04: Battle damage is treated as effect damage.\n05: The player gains Life Points instead of taking battle damage.\n06: Battle damage becomes 0.\n07: Battle damage is halved.\n08: Battle damage is doubled.\n09: Battle damage becomes X (X being a predetermined value).\n10: You do not take battle damage if it is more or less than X.\n(However, note that if the Battle Damage has become 0 when applying \"06\" effects, the remaining effects are not applied.)\n\nFurthermore, Double-Edged Sword is a \"02\" effect, the monster with the \"your opponent takes any battle damage you would have taken from battles involving this card instead\" effect is a \"03\" effect, and Performage Damage Juggler is a \"06\" effect.\n\nIn this scenario, first consider the effect of Double-Edged Sword, then consider the effect of your monster with the \"your opponent takes any battle damage you would have taken from battles involving this card instead\" effect for the damage you would take. As a result, your opponent would take battle damage twice during 1 damage calculation (the overlap of a \"02\" effect and \"03\" effect can cause a player to take battle damage twice). However, since the two instances of battle damage occur at the same time, the final outcome is that your opponent takes 0 damage due to the effect of Performage Damage Juggler.",
+            "id": 23824,
+            "question": "There is a monster in my Monster Zone with the effect \"your opponent takes any battle damage you would have taken from battles involving this card instead\", and it is equipped with Double-Edged Sword.\n\nWhen that monster battles, if the effect of my opponent's Performage Damage Juggler is applied that reduces the next battle damage they take to 0, what happens?",
+            "thisSrc": {
+                "date": "2024-05-02",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If one player would take battle damage twice and an effect that reduces the next battle damage to 0 is applied to the same player, what happens?",
+            "tlSrc": {
+                "date": "2024-05-02",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u4ee5\u4e0b\u306e\u9806\u756a\u3067\u52b9\u679c\u3092\u8003\u616e\u3057\u3066\u30c0\u30e1\u30fc\u30b8\u3092\u6c7a\u5b9a\u3057\u307e\u3059\u3002\u306a\u304a\u3001\u300c<<14877>>\u300d\u306e\u52b9\u679c\u306f02\u3001\u300e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u4ee3\u308f\u308a\u306b\u76f8\u624b\u304c\u53d7\u3051\u308b\u300f\u52b9\u679c\u306f03\u3001\u300c<<11799>>\u300d\u306e\u52b9\u679c\u306f06\u306b\u8a72\u5f53\u3057\u307e\u3059\u3002\n\n01\uff1a\u500d\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\n02\uff1a\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u304a\u4e92\u3044\u306b\u53d7\u3051\u308b\n03\uff1a\u81ea\u5206\u3078\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u76f8\u624b\u3082\u53d7\u3051\u308b\u3001\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u4ee3\u308f\u308a\u306b\u81ea\u5206\uff0f\u76f8\u624b\u304c\u53d7\u3051\u308b\n04\uff1a\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u52b9\u679c\u30c0\u30e1\u30fc\u30b8\u3068\u3057\u3066\u6271\u3046\n05\uff1a\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306e\u6570\u5024\u5206\u3060\u3051LP\u3092\u56de\u5fa9\u3059\u308b\n06\uff1a\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\uff10\u306b\u306a\u308b\n07\uff1a\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u534a\u5206\u306b\u306a\u308b\n08\uff1a\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u500d\u306b\u306a\u308b\n09\uff1a\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u25cb\u25cb\u25cb\uff08\u4e00\u5b9a\u306e\u5024\uff09\u306b\u306a\u308b\n10\uff1a\u25cb\u25cb\u25cb\u4ee5\u4e0a\uff0f\u4ee5\u4e0b\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u306a\u3044\n\uff08\u305f\u3060\u3057\u300106\u306b\u3066\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u304c\uff10\u3068\u306a\u3063\u305f\u5834\u5408\u3001\u305d\u308c\u4ee5\u964d\u306e\u52b9\u679c\u306f\u9069\u7528\u3057\u307e\u305b\u3093\u3002\uff09\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u3067\u306f\u3001\u307e\u305a\u300c<<14877>>\u300d\u306e\u52b9\u679c\u3092\u8003\u616e\u3057\u3001\u6b21\u3044\u3067\u81ea\u5206\u5074\u306b\u767a\u751f\u3059\u308b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306b\u3064\u3044\u3066\u300e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u4ee3\u308f\u308a\u306b\u76f8\u624b\u304c\u53d7\u3051\u308b\u300f\u52b9\u679c\u3092\u8003\u616e\u3057\u307e\u3059\u3002\u3053\u308c\u306b\u3088\u308a\u76f8\u624b\u306f\uff11\u5ea6\u306e\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u3067\uff12\u56de\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\u72b6\u6cc1\u306b\u306a\u308a\u307e\u3059\uff0802\u306803\u306e\u91cd\u8907\u306b\u3088\u3063\u3066\u540c\u4e00\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\uff12\u56de\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u304c\u767a\u751f\u3059\u308b\u3053\u3068\u304c\u3042\u308a\u307e\u3059\uff09\u3002\u305f\u3060\u3057\u3001\u3053\u306e\uff12\u56de\u306e\u30c0\u30e1\u30fc\u30b8\u306f\uff11\u5ea6\u306b\u767a\u751f\u3057\u307e\u3059\u306e\u3067\u3001\u300c<<11799>>\u300d\u306e\u300e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\uff11\u5ea6\u3060\u3051\uff10\u306b\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u6700\u7d42\u7684\u306a\u30c0\u30e1\u30fc\u30b8\u306f\uff10\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 23824,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u306f\u300e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u4ee3\u308f\u308a\u306b\u76f8\u624b\u304c\u53d7\u3051\u308b\u300f\u52b9\u679c\u3092\u6301\u3064\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u3001\u3055\u3089\u306b\u300c<<14877>>\u300d\u3092\u88c5\u5099\u3057\u305f\u3053\u3068\u3067\u305d\u306e\u2461\u306e\u300e\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6226\u95d8\u3067\u767a\u751f\u3059\u308b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u304a\u4e92\u3044\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u53d7\u3051\u308b\u300f\u52b9\u679c\u3082\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u3092\u884c\u3046\u969b\u306b\u3001\u76f8\u624b\u306e\u300c<<11799>>\u300d\u306e\u2461\u306e\u300e\u3053\u306e\u30bf\u30fc\u30f3\u81ea\u5206\u304c\u53d7\u3051\u308b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\uff11\u5ea6\u3060\u3051\uff10\u306b\u3059\u308b\u300f\u52b9\u679c\u3082\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u305d\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-05-02",
+                "type": 0
+            },
+            "title": "\u540c\u4e00\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u304c\uff12\u56de\u767a\u751f\u3059\u308b\u72b6\u6cc1\u3067\u300e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\uff11\u5ea6\u3060\u3051\uff10\u306b\u3059\u308b\u300f\u52b9\u679c\u3082\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u30c0\u30e1\u30fc\u30b8\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "cards": [
+        9139
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Since Gemini monsters are considered Effect Monsters while in the hand, you cannot Normal Summon them while the effect of <<9139>> is applying. Also, if a Gemini monster on the field is being treated as a Normal Monster, it can be Normal Summoned again and treated as an Effect Monster. While the effect of <<9139>> is applying, you can Normal Summon a Gemini monster treated as a Normal Monster. (The Gemini monster will become an Effect Monster.)",
+            "id": 10210,
+            "question": "While the effect of <<9139>> is applying, can I Normal Summon a Gemini monster from my hand? Also, while the effect of <<9139>> is applying, can I Normal Summon a Gemini monster on the field treated as a Normal Monster so that it becomes an Effect Monster?",
+            "thisSrc": {
+                "date": "2015-05-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "While the effect of <<9139>> is applying, can I Normal Summon a Gemini monster from my hand? Also, while the effect of <<9139>> is applying, can I Normal Summon a Gemini monster on the field treated as a Normal Monster so that it becomes an Effect Monster?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u624b\u672d\u306e\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6271\u3044\u3067\u3059\u306e\u3067\u3001\u300c<<9139>>\u300d\u306e\u52b9\u679c\u9069\u7528\u4e2d\u306b\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u307e\u305f\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u72b6\u614b\u306e\u6642\u3001\u3082\u30461\u5ea6\u53ec\u559a\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u3002\n\u300c<<9139>>\u300d\u306e\u52b9\u679c\u9069\u7528\u4e2d\u306b\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u6271\u3044\u3067\u5b58\u5728\u3059\u308b\u8868\u5074\u8868\u793a\u306e\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u3082\u30461\u5ea6\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\uff08\u3082\u30461\u5ea6\u53ec\u559a\u3055\u308c\u305f\u305d\u306e\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6271\u3044\u3068\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 10210,
+            "question": "\u300c<<9139>>\u300d\u306e\u300e\u6b21\u306e\u81ea\u5206\u306e\u30c9\u30ed\u30fc\u30d5\u30a7\u30a4\u30ba\u6642\u307e\u3067\u3001\u304a\u4e92\u3044\u306b\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306e\u9069\u7528\u4e2d\u306b\u3001\u624b\u672d\u306e\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<9139>>\u300d\u306e\u300e\u6b21\u306e\u81ea\u5206\u306e\u30c9\u30ed\u30fc\u30d5\u30a7\u30a4\u30ba\u6642\u307e\u3067\u3001\u304a\u4e92\u3044\u306b\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306e\u9069\u7528\u4e2d\u306b\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u6271\u3044\u3067\u5b58\u5728\u3059\u308b\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u3082\u30461\u5ea6\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9139>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Gemini"
+    ]
+}

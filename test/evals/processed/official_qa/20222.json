@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4862,
+        11501,
+        12851
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of Ritual Beast's Bond Special Summons a \"Ritual Beast\" monster from your Extra Deck, ignoring its Summoning conditions, but is not an effect that performs a Fusion Summon, so the effect of Magical Meltdown will not apply. Therefore, in this scenario, the activation of Ritual Beast's Bond is negated by the effect of Magic Jammer.",
+            "id": 20222,
+            "question": "Magical Meltdown is face-up in my Field Zone, and its effect prevents the activations of cards and effects that perform Fusion Summons from being negated. In this case, if I activate Ritual Beast's Bond, but my opponent chains Magic Jammer, will the activation of Ritual Beast's Bond be negated?",
+            "thisSrc": {
+                "date": "2016-11-14",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Magical Meltdown is face-up in my Field Zone, and its effect prevents the activations of cards and effects that perform Fusion Summons from being negated. In this case, if I activate Ritual Beast's Bond, but my opponent chains Magic Jammer, will the activation of Ritual Beast's Bond be negated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<11501>>\u300d\u306f\u3001\u300e\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u300c\u970a\u7363\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u53ec\u559a\u6761\u4ef6\u3092\u7121\u8996\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3068\u306a\u308a\u3001\u300e\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u878d\u5408\u53ec\u559a\u3059\u308b\u52b9\u679c\u3092\u542b\u3080\u52b9\u679c\u300f\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u306e\u3067\u3001\u305d\u306e\u52b9\u679c\u51e6\u7406\u306e\u969b\u306b\u306f\u300c<<12851>>\u300d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<11501>>\u300d\u306e\u767a\u52d5\u306f\u3001\u76f8\u624b\u306e\u300c<<4862>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u5316\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 20222,
+            "question": "\u81ea\u5206\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u300c<<12851>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u878d\u5408\u53ec\u559a\u3059\u308b\u52b9\u679c\u3092\u542b\u3080\u52b9\u679c\u3092\u81ea\u5206\u304c\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u767a\u52d5\u306f\u7121\u52b9\u5316\u3055\u308c\u305a\u3001\u305d\u306e\u878d\u5408\u53ec\u559a\u6210\u529f\u6642\u306b\u76f8\u624b\u306f\u9b54\u6cd5\u30fb\u7f60\u30fb\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u304c\u300c<<11501>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u76f8\u624b\u306f\u300c<<4862>>\u300d\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u52b9\u679c\u3067\u300c<<11501>>\u300d\u306e\u767a\u52d5\u3092\u7121\u52b9\u5316\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12851>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u300c<<11501>>\u300d\u306e\u767a\u52d5\u306f\u7121\u52b9\u5316\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

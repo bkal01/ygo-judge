@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4343,
+        16471,
+        16472
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In a situation where the ZS - Utopic Sage you control would be destroyed at the same time as an appropriate Xyz monster, the effect of ZS - Utopic Sage cannot be applied.",
+            "id": 23288,
+            "question": "I control Number 99: Utopia Dragonar and ZS - Utopic Sage. If both of these monsters would be destroyed at the same time by an effect, such as by Raigeki, can I apply the effect of ZS - Utopic Sage and banish it instead?",
+            "thisSrc": {
+                "date": "2021-06-26",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If ZS - Utopic Sage and Number 99: Utopia Dragonar I control would be destroyed at the same time, can I apply the effect of ZS - Utopic Sage?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c\u30db\u30fc\u30d7\u300d\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u540c\u6642\u306b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c<<16472>>\u300d\u304c\u7834\u58ca\u3055\u308c\u308b\u72b6\u6cc1\u3067\u306f\u3001\u305d\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c<<16472>>\u300d\u306e\u300e\u2461\u300f\u306e\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 23288,
+            "question": "\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c<<16472>>\u300d\u3068\u300c<<16471>>\u300d\u304c\u300c<<4343>>\u300d\u306a\u3069\u306e\u52b9\u679c\u3067\u540c\u6642\u306b\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3001\u300c<<16472>>\u300d\u306e\u300e\u2461\u300f\u306e\u300e\u300c<<16472>>\u300d\u3092\u9664\u304f\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u5143\u3005\u306e\u5c5e\u6027\u304c\u5149\u5c5e\u6027\u306e\u300c\u30db\u30fc\u30d7\u300dX\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u30fb\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3001\u4ee3\u308f\u308a\u306b\u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u5893\u5730\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u9069\u7528\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c<<16472>>\u300d\u3068\u300c<<16471>>\u300d\u304c\u540c\u6642\u306b\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3001\u300c<<16472>>\u300d\u306e\u52b9\u679c\u3092\u9069\u7528\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

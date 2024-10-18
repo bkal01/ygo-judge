@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6709,
+        7117,
+        11105
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, if Icarus Attack is activated by Tributing Raiza the Storm Monarch, so that you no longer have a Tribute Summoned monster on your side of the field, The Monarchs Erupt will be sent to the Graveyard before Icarus Attack resolves.",
+            "id": 11281,
+            "question": "A face-up Tribute Summoned Raiza the Storm Monarch is in my Monster Zone, whereas The Monarchs Erupt is in my Spell & Trap Zone. In this situation, I Tribute Raiza the Storm Monarch during my End Phase to activate Icarus Attack, so that I no longer have a Tribute Summoned monster on my side of the field.\n\nAt what point The Monarchs Erupt send itself to the Graveyard with its effect?",
+            "thisSrc": {
+                "date": "2015-10-15",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "At what point will The Monarchs Erupt be sent to the Graveyard if I Tribute my Raiza the Storm Monarch to activate Icarus Attack?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<6709>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300c<<7117>>\u300d\u304c\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u305f\u6642\u70b9\u306b\u3066\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u300c<<6709>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u304c\u884c\u308f\u308c\u308b\u524d\u306b\u300c<<11105>>\u300d\u306f\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 11281,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3055\u308c\u3066\u3044\u308b\u300c<<7117>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u300c<<11105>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u81ea\u5206\u304c\u300c<<7117>>\u300d\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u300c<<6709>>\u300d\u3092\u767a\u52d5\u3057\u305f\u3053\u3068\u3067\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u3001\u300e\u2461\uff1a\u81ea\u5206\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u3001\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u306b\u3053\u306e\u30ab\u30fc\u30c9\u306f\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u300f\u52b9\u679c\u306f\u3044\u3064\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u767a\u52d5\u3057\u305f\u300c<<6709>>\u300d\u306b\u3088\u3063\u3066\u3001\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3055\u308c\u305f\u300c<<7117>>\u300d\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u305f\u5834\u5408\u3001\u300c<<11105>>\u300d\u306f\u3044\u3064\u5893\u5730\u3078\u9001\u3089\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

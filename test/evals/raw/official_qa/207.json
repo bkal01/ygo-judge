@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4955,
+        5145,
+        5162,
+        5914
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "You can only activate <<4955>> when a monster you own is returned from your side of the field to your hand by a card effect of the opponent.\n\nTherefore, in the proposed scenario, <<4955>> cannot be activated.",
+            "id": 207,
+            "question": "A <<5145>> you own has changed control to the opponent by the effect of <<5162>>.\n\nIn this case, if that <<5145>> is returned to your hand by the effect of a <<5914>> activated by either player, can you activate <<4955>>?",
+            "thisSrc": {
+                "date": "2015-08-13",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "A <<5145>> you own has changed control to the opponent by the effect of <<5162>>.  In this case, if that <<5145>> is returned to your hand by the effect of a <<5914>> activated by either player, can you activate <<4955>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<4955>>\u300d\u306f\u3001\u5143\u3005\u306e\u6301\u3061\u4e3b\u304c\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u81ea\u5206\u306e\u624b\u672d\u306b\u623b\u3063\u305f\u5834\u5408\u306b\u306e\u307f\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u306b\u306f\u3001\u300c<<4955>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u81ea\u4f53\u304c\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 207,
+            "question": "\u5143\u3005\u306e\u6301\u3061\u4e3b\u304c\u81ea\u5206\u306e\u300c<<5145>>\u300d\u304c\u300c<<5162>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u76f8\u624b\u306b\u79fb\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u307e\u305f\u306f\u76f8\u624b\u304c\u767a\u52d5\u3057\u305f\u300c<<5914>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u305d\u306e\u300c<<5145>>\u300d\u304c\u81ea\u5206\u306e\u624b\u672d\u306b\u623b\u3063\u305f\u5834\u5408\u3001\u81ea\u5206\u306f\u300c<<4955>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u5143\u3005\u306e\u6301\u3061\u4e3b\u304c\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u304b\u3089\u300c<<5914>>\u300d\u306e\u52b9\u679c\u3067\u81ea\u5206\u306e\u624b\u672d\u306b\u623b\u3063\u305f\u5834\u5408\u3001\u81ea\u5206\u306f\u300c<<4955>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

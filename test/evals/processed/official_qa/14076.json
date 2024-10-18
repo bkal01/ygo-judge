@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4342,
+        4837,
+        5432,
+        6513
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in that case, the effect of Branch! can be activated.",
+            "id": 14076,
+            "question": "After a Fusion Monster is Fusion Summoned with Polymerization, the effect of Book of Moon is used to change it to face-down Defense Position. If that Fusion Monster is then destroyed and sent to the Graveyard by Dark Hole, can the effect of Branch! be activated?",
+            "thisSrc": {
+                "date": "2014-11-14",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "After a Fusion Monster is Fusion Summoned with Polymerization, the effect of Book of Moon is used to change it to face-down Defense Position. If that Fusion Monster is then destroyed and sent to the Graveyard by Dark Hole, can the effect of Branch! be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3067\u3082\u3001\u300c<<6513>>\u300d\u306e\u300e\u81ea\u5206\u306e\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u305d\u306e\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u878d\u5408\u306b\u4f7f\u7528\u3057\u305f\u878d\u5408\u7d20\u6750\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 14076,
+            "question": "\u300c<<4837>>\u300d\u306b\u3088\u3063\u3066\u878d\u5408\u53ec\u559a\u3055\u308c\u305f\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u3001\u300c<<5432>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u305d\u306e\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u300c<<4342>>\u300d\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u6642\u306b\u300c<<6513>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u878d\u5408\u53ec\u559a\u3055\u308c\u305f\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u88cf\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5f8c\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u6642\u306b\u300c<<6513>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

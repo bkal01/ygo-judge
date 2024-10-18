@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5162,
+        11722
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The first effect of Chaofeng, Phantom of the Yang Zing applies to the opponent from the perspective of its current controller. In this case, since control of Chaofeng, Phantom of the Yang Zing has switched because of Creature Swap, the opponent will become the controller. In other words, you will now be unable to activate monster effects.",
+            "id": 15151,
+            "question": "After Chaofeng, Phantom of the Yang Zing is Synchro Summoned, if it switches control to my opponent because of Creature Swap, which player will be unable to activate monster effects?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "After Chaofeng, Phantom of the Yang Zing is Synchro Summoned, if it switches control to my opponent because of Creature Swap, which player will be unable to activate monster effects?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11722>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306eS\u7d20\u6750\u3068\u3057\u305f\u300c\u7adc\u661f\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u5143\u3005\u306e\u5c5e\u6027\u304c\u540c\u3058\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u72b6\u614b\u306b\u306a\u308b\u306e\u306f\u3001\u300c<<11722>>\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30e9\u30fc\u304b\u3089\u898b\u3066\u76f8\u624b\u3068\u306a\u308b\u30d7\u30ec\u30a4\u30e4\u30fc\u3067\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<5162>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<11722>>\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u76f8\u624b\u306b\u79fb\u3063\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u300c<<11722>>\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30e9\u30fc\u304b\u3089\u307f\u3066\u76f8\u624b\u3001\u3064\u307e\u308a\u3001\u81ea\u5206\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u304f\u306a\u308a\u307e\u3059\u3002",
+            "id": 15151,
+            "question": "\u300c<<11722>>\u300d\u306e\u300e\u2460\uff1aS\u53ec\u559a\u3057\u305f\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u76f8\u624b\u306f\u3053\u306e\u30ab\u30fc\u30c9\u306eS\u7d20\u6750\u3068\u3057\u305f\u300c\u7adc\u661f\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u5143\u3005\u306e\u5c5e\u6027\u304c\u540c\u3058\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u9069\u7528\u4e2d\u306b\u300c<<5162>>\u300d\u304c\u767a\u52d5\u3057\u3001\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u76f8\u624b\u306b\u79fb\u3063\u305f\u5834\u5408\u3001\u3069\u3061\u3089\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u304f\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11722>>\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u76f8\u624b\u306b\u79fb\u3063\u305f\u5834\u5408\u3001\u3069\u3061\u3089\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u304f\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

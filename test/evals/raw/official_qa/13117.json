@@ -1,0 +1,38 @@
+{
+    "cards": [
+        10437,
+        11116
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If <<11116>> is activated, and the Chain contains monster effects that activated outside of the field (such as effects activated from the hand or Graveyard), those activations are also negated. However, those monsters do not return to the Deck. (Only cards on the field that had their activation negated will be shuffled into the Deck.) In addition, if the Chain that <<11116>> was activated in also contains the activated effect of a Spell/Trap Card, such as the effect of <<10437>> activated from the Graveyard, those activations are not negated. (The activations of Spell Cards, Trap Cards, and monster effects on the Chain are still negated normally.) <<11116>> can negate the activations of Spell/Trap Cards, but not the activations of Spell/Trap effects.",
+            "id": 13117,
+            "question": "If <<11116>> is activated in a Chain that contains monster effects activated outside of the field, or the activated effects of Spell/Trap Cards, what happens?",
+            "thisSrc": {
+                "date": "2015-11-05",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<11116>> is activated in a Chain that contains monster effects activated outside of the field, or the activated effects of Spell/Trap Cards, what happens?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11116>>\u300d\u304c\u767a\u52d5\u3057\u305f\u30c1\u30a7\u30fc\u30f3\u4e0a\u306b\u3066\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u3067\u767a\u52d5\u3057\u305f\u52b9\u679c\u4ee5\u5916\u306e\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\uff08\u624b\u672d\u3084\u5893\u5730\u3067\u767a\u52d5\u3057\u305f\u52b9\u679c\u306a\u3069\uff09\u304c\u3042\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306e\u767a\u52d5\u3082\u7121\u52b9\u306b\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\u3057\u304b\u3057\u3001\u305d\u306e\u30ab\u30fc\u30c9\u306f\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306b\u306f\u623b\u308a\u307e\u305b\u3093\u3002\uff08\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u305f\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\u306e\u307f\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306b\u623b\u308a\u307e\u3059\u3002\uff09\n\n\u307e\u305f\u3001\u300c<<11116>>\u300d\u304c\u767a\u52d5\u3057\u305f\u30c1\u30a7\u30fc\u30f3\u4e0a\u306b\u3066\u3001\u5893\u5730\u306b\u3066\u767a\u52d5\u3057\u305f\u300c<<10437>>\u300d\u306e\u52b9\u679c\u306a\u3069\u3001\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306e\u767a\u52d5\u304c\u542b\u307e\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u305d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306f\u7121\u52b9\u306b\u306a\u308a\u307e\u305b\u3093\u3002\n\uff08\u305d\u306e\u4ed6\u306e\u3001\u30c1\u30a7\u30fc\u30f3\u4e0a\u306e\u76f8\u624b\u306e\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u30fb\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3059\u308b\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u307e\u3059\u3002\uff09\n\n\u300c<<11116>>\u300d\u3067\u306f\u3001\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304c\u3001\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 13117,
+            "question": "\u300c<<11116>>\u300d\u306e\u767a\u52d5\u6642\u306b\u7a4d\u307e\u308c\u3066\u3044\u308b\u30c1\u30a7\u30fc\u30f3\u4e0a\u306b\u3066\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u4ee5\u5916\u3067\u767a\u52d5\u3057\u305f\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3084\u3001\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306e\u767a\u52d5\u304c\u542b\u307e\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11116>>\u300d\u306e\u767a\u52d5\u6642\u306b\u7a4d\u307e\u308c\u3066\u3044\u308b\u30c1\u30a7\u30fc\u30f3\u4e0a\u306b\u3066\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u4ee5\u5916\u3067\u767a\u52d5\u3057\u305f\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306e\u767a\u52d5\u304c\u542b\u307e\u308c\u308b\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

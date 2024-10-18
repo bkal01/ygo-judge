@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4909,
+        5231,
+        5544
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this case, since <<5544>> was already activated successfully using the effect of <<5231>>, it will resolve normally.",
+            "id": 14562,
+            "question": "<<5231>> is face-up in my Spell & Trap Zone. If I activate a <<5544>> that was Set this turn, but my opponent chains <<4909>>, targeting and destroying <<5231>>, how does <<5544>> resolve?",
+            "thisSrc": {
+                "date": "2014-12-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<5231>> is face-up in my Spell & Trap Zone. If I activate a <<5544>> that was Set this turn, but my opponent chains <<4909>>, targeting and destroying <<5231>>, how does <<5544>> resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\uff1c\u4ee5\u4e0b\u306e\u30eb\u30fc\u30eb\u306f\u30012015\u5e741\u67081\u65e5\u3088\u308a\u9069\u7528\u3055\u308c\u307e\u3059\uff1e\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u65e2\u306b\u300c<<5231>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306b\u30bb\u30c3\u30c8\u3055\u308c\u305f\u300c<<5544>>\u300d\u3092\u767a\u52d5\u3057\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u30c1\u30a7\u30fc\u30f3\u306b\u3066\u767a\u52d5\u3057\u305f\u300c<<4909>>\u300d\u306b\u3088\u3063\u3066\u300c<<5231>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u3068\u3057\u3066\u3082\u3001\u305d\u306e\u300c<<5544>>\u300d\u306e\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 14562,
+            "question": "\u300c<<5231>>\u300d\u304c\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u72b6\u6cc1\u306b\u3066\u3001\u81ea\u5206\u304c\u3053\u306e\u30bf\u30fc\u30f3\u306b\u30bb\u30c3\u30c8\u3057\u305f\u300c<<5544>>\u300d\u3092\u767a\u52d5\u3057\u305f\u969b\u306b\u3001\u76f8\u624b\u304c\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<4909>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300c<<5231>>\u300d\u3092\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u300c<<5544>>\u300d\u306e\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5231>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<4909>>\u300d\u304c\u767a\u52d5\u3057\u3001\u300c<<5231>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u767a\u52d5\u3057\u305f\u7f60\u30ab\u30fc\u30c9\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

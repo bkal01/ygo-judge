@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4837,
+        5544,
+        12835
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, Predaplant Chimerafflesia is sent to the Graveyard during your Draw Phase. The next Standby Phase will be the Standby Phase of the same turn, so you can activate the effect of Predaplant Chimerafflesia at that time.",
+            "id": 20251,
+            "question": "My Predaplant Chimerafflesia is destroyed by a Raigeki Break activated during the Draw Phase. In this case, during the Standby Phase of the same turn, can I activate the effect of Predaplant Chimerafflesia that adds a \"Fusion\" or \"Polymerization\" Spell Card from my Deck to my hand?",
+            "thisSrc": {
+                "date": "2016-11-14",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "My Predaplant Chimerafflesia is destroyed by a Raigeki Break activated during the Draw Phase. In this case, during the Standby Phase of the same turn, can I activate the effect of Predaplant Chimerafflesia that adds a \"Fusion\" or \"Polymerization\" Spell Card from my Deck to my hand?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<12835>>\u300d\u304c\u30c9\u30ed\u30fc\u30d5\u30a7\u30a4\u30ba\u306b\u3066\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306e\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u304c\u300e\u6b21\u306e\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u300f\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u3053\u306e\u30bf\u30fc\u30f3\u306b\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u300c<<12835>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 20251,
+            "question": "\u30c9\u30ed\u30fc\u30d5\u30a7\u30a4\u30ba\u306b\u767a\u52d5\u3057\u305f\u300c<<5544>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<12835>>\u300d\u304c\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u3053\u306e\u30bf\u30fc\u30f3\u306e\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u306b\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u300c<<12835>>\u300d\u306e\u300e\u2462\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u6b21\u306e\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u300c<<4837>>\u300d\u9b54\u6cd5\u30ab\u30fc\u30c9\u307e\u305f\u306f\u300c\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u9b54\u6cd5\u30ab\u30fc\u30c9\uff11\u679a\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12835>>\u300d\u304c\u30c9\u30ed\u30fc\u30d5\u30a7\u30a4\u30ba\u306b\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306e\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

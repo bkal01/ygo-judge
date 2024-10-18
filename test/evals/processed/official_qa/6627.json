@@ -1,0 +1,37 @@
+{
+    "cards": [
+        7123
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if there are no cards on your opponent's field, Crystal Abundance can still be activated.\nFurthermore, if none of your opponent's cards are sent to the Graveyard by Crystal Abundance's effect when it resolves, you cannot Special Summon any \"Crystal Beast\" monsters from your Graveyard.",
+            "id": 6627,
+            "question": "Can I activate Crystal Abundance if there are no cards on my opponent's field?",
+            "thisSrc": {
+                "date": "2021-06-28",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can Crystal Abundance be activated if there are no cards on the opponent's field?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3067\u3082\u3001\u81ea\u5206\u306f\u300c<<7123>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\u307e\u305f\u3001\u76f8\u624b\u306e\u30ab\u30fc\u30c9\u304c\u3001\u300c<<7123>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306b\u3088\u3063\u3066\u5893\u5730\u306b\u9001\u3089\u308c\u3066\u3044\u306a\u3044\u70ba\u3001\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u5b9d\u7389\u7363\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 6627,
+            "question": "\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3057\u306a\u3044\u6642\u306b\u3001\u81ea\u5206\u306f\u300c<<7123>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<7123>>\u300d\u306f\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30ab\u30fc\u30c9\u304c\u7121\u3044\u6642\u306b\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

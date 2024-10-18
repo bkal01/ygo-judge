@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4886,
+        5513
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When Gravekeeper's Vassal battles, any battle damage it inflicts to your opponent is considered effect damage, and is not treated as battle damage. Therefore, even if the effect of your opponent's Waboku is applying, if Gravekeeper's Vassal attacks directly, your opponent will take damage equal to its ATK. If Gravekeeper's Vassal attacks an opponent's monster, that monster is not destroyed due to the effect of Waboku, but your opponent will take damage if the ATK of Gravekeeper's Vassal is higher than the opponent's monster's ATK, equal to the difference.",
+            "id": 50,
+            "question": "During my turn, my opponent activates Waboku, so that all battle damage my opponent takes from my monsters this turn becomes 0. In this situation, if I attack directly with Gravekeeper's Vassal, or if I attack an opponent's monster with it, what happens?",
+            "thisSrc": {
+                "date": "2016-03-31",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "During my turn, my opponent activates Waboku, so that all battle damage my opponent takes from my monsters this turn becomes 0. In this situation, if I attack directly with Gravekeeper's Vassal, or if I attack an opponent's monster with it, what happens?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<5513>>\u300d\u304c\u6226\u95d8\u3092\u884c\u3046\u5834\u5408\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u4e0e\u3048\u308b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u52b9\u679c\u306b\u3088\u308b\u30c0\u30e1\u30fc\u30b8\u3068\u3057\u3066\u6271\u3046\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u305d\u306e\u30c0\u30e1\u30fc\u30b8\u306f\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u6271\u3044\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u76f8\u624b\u306e\u300c<<4886>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u81ea\u5206\u306e\u300c<<5513>>\u300d\u304c\u76f4\u63a5\u653b\u6483\u3092\u884c\u3063\u305f\u5834\u5408\u306b\u306f\u3001\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u901a\u5e38\u901a\u308a\u3001\u300c<<5513>>\u300d\u306e\u653b\u6483\u529b\u5206\u306e\u3001\u52b9\u679c\u306b\u3088\u308b\u30c0\u30e1\u30fc\u30b8\u53d7\u3051\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u306a\u304a\u3001\u300c<<5513>>\u300d\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u300c<<4886>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u6226\u95d8\u3067\u306f\u7834\u58ca\u3055\u308c\u307e\u305b\u3093\u304c\u3001\u300c<<5513>>\u300d\u306e\u653b\u6483\u529b\u3068\u6226\u95d8\u3092\u884c\u3063\u305f\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6570\u5024\u3068\u306e\u5dee\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u306f\u3001\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u52b9\u679c\u306b\u3088\u308b\u30c0\u30e1\u30fc\u30b8\u3068\u3057\u3066\u901a\u5e38\u901a\u308a\u53d7\u3051\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 50,
+            "question": "\u76f8\u624b\u306e\u767a\u52d5\u3057\u305f\u300c<<4886>>\u300d\u306e\u300e\u3053\u306e\u30bf\u30fc\u30f3\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u304b\u3089\u53d7\u3051\u308b\u5168\u3066\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\uff10\u306b\u306a\u308a\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u6226\u95d8\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u3067\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306e\u300c<<5513>>\u300d\u304c\u76f4\u63a5\u653b\u6483\u3092\u884c\u3063\u305f\u5834\u5408\u3084\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u6226\u95d8\u306f\u3069\u306e\u3088\u3046\u306b\u884c\u3044\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u306e\u300c<<4886>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u81ea\u5206\u306e\u300c<<5513>>\u300d\u306e\u6226\u95d8\u306f\u3069\u306e\u3088\u3046\u306b\u51e6\u7406\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Trap"
+    ]
+}

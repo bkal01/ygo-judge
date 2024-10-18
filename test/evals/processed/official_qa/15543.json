@@ -1,0 +1,39 @@
+{
+    "cards": [
+        7351,
+        11821,
+        11846
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this case, the effect of Aroma Garden does not activate.",
+            "id": 15543,
+            "question": "If Phantom of Chaos has gained the name and effects of Aromage Bergamot, and it is destroyed by battle or card effect, will the second effect of Aroma Garden activate?",
+            "thisSrc": {
+                "date": "2015-05-05",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Phantom of Chaos has gained the name and effects of Aromage Bergamot, and it is destroyed by battle or card effect, will the second effect of Aroma Garden activate?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<11846>>\u300d\u306e\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u305b\u3093\u3002",
+            "id": 15543,
+            "question": "\u300c<<7351>>\u300d\u304c\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<11821>>\u300d\u306e\u30ab\u30fc\u30c9\u540d\u3068\u52b9\u679c\u3092\u5f97\u3066\u3044\u308b\u72b6\u614b\u3067\u3001\u6226\u95d8\u3084\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u969b\u306b\u3001\u300c<<11846>>\u300d\u306e\u300e\u2461\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c\u30a2\u30ed\u30de\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u30fb\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u306b\u3053\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u3002\u81ea\u5206\u306f\uff11\uff10\uff10\uff10LP\u56de\u5fa9\u3059\u308b\u300f\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11821>>\u300d\u306e\u30ab\u30fc\u30c9\u540d\u3068\u52b9\u679c\u3092\u5f97\u305f\u300c<<7351>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u969b\u306b\u3001\u300c<<11846>>\u300d\u306e\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

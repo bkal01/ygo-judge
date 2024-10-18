@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4861,
+        11890,
+        12005
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of <<12005>> that prevents you from drawing cards by card effects is appiled when the effect of <<12005>> resolves.\n\nTherefore, if the activation or effect of <<12005>> are negated, that effect is not applied. (You can draw cards by card effects)",
+            "id": 16669,
+            "question": "If the activation of <<12005>> is negated by <<4861>>, what happens with the effect that prevents you from drawing cards by card effects?\n\nAlso, if the effect of <<12005>> is negated by the effect of a <<11890>> treated as an Equip Card, what happens with the effect that prevents you from drawing cards by card effects?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the activation of <<12005>> is negated by <<4861>>, what happens with the effect that prevents you from drawing cards by card effects?  Also, if the effect of <<12005>> is negated by the effect of a <<11890>> treated as an Equip Card, what happens with the effect that prevents you from drawing cards by card effects?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12005>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u5f8c\u3001\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u81ea\u5206\u306f\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u30c9\u30ed\u30fc\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306f\u3001\u300c<<12005>>\u300d\u51e6\u7406\u306e\u969b\u306b\u9069\u7528\u3055\u308c\u308b\u52b9\u679c\u3067\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<12005>>\u300d\u306e\u767a\u52d5\u3084\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u308b\u5834\u5408\u306b\u306f\u3001\u305d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\uff08\u81ea\u5206\u306f\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u30c9\u30ed\u30fc\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\uff09",
+            "id": 16669,
+            "question": "\u300c<<12005>>\u300d\u306e\u767a\u52d5\u304c\u300c<<4861>>\u300d\u3067\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u5f8c\u3001\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u81ea\u5206\u306f\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u30c9\u30ed\u30fc\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<12005>>\u300d\u306e\u52b9\u679c\u304c\u3001\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u306e\u300c<<11890>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u5f8c\u3001\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u81ea\u5206\u306f\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u30c9\u30ed\u30fc\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c\u30a4\u30b0\u30ca\u30a4\u30c8\uff65\u30ea\u30ed\u30fc\u30c9\u300d\u306e\u767a\u52d5\u3084\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u81ea\u5206\u306f\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u30c9\u30ed\u30fc\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        6682,
+        12479
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, it can. The part of the effect to look at your opponent's hand and negate the attack if there is a Monster Card in it will be applied normally. If the attack is negated and a monster is discarded from their hand, then it will be banished instead of sent to the Graveyard.",
+            "id": 132,
+            "question": "Can <<12479>> be activated while <<6682>>'s effect is applying?",
+            "thisSrc": {
+                "date": "2020-10-31",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "Can <<12479>> be activated while <<6682>>'s effect is applying?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<6682>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u300c<<12479>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u300e\u76f8\u624b\u306e\u624b\u672d\u3092\u5168\u3066\u78ba\u8a8d\u3057\u3001\u305d\u306e\u4e2d\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u304c\u3042\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u653b\u6483\u3092\u7121\u52b9\u306b\u3059\u308b\u300f\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u306a\u304a\u3001\u653b\u6483\u3092\u7121\u52b9\u306b\u3059\u308b\u51e6\u7406\u304c\u884c\u308f\u308c\u3001\u300e\u305d\u306e\u5f8c\u3001\u81ea\u5206\u306f\u76f8\u624b\u306e\u624b\u672d\u304b\u3089\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u3093\u3067\u6368\u3066\u308b\u300f\u51e6\u7406\u304c\u9069\u7528\u3055\u308c\u308b\u5834\u5408\u306b\u306f\u3001\u305d\u306e\u969b\u306b\u6368\u3066\u308b\u624b\u672d\u306f\u5893\u5730\u3078\u306f\u9001\u3089\u308c\u305a\u3001\u9664\u5916\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 132,
+            "question": "\u300c<<6682>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u30ab\u30fc\u30c9\u306f\u5893\u5730\u3078\u306f\u884c\u304b\u305a\u30b2\u30fc\u30e0\u304b\u3089\u9664\u5916\u3055\u308c\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u5ba3\u8a00\u6642\u306b\u300c<<12479>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<12479>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

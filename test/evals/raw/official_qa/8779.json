@@ -1,0 +1,42 @@
+{
+    "cards": [
+        4557,
+        4751,
+        5666,
+        5740,
+        8109
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effects of <<4557>>, <<4751>> and <<8109>> are continuous effects.\nTherefore, if their effects are negated, such as by <<5740>>'s effect, <<4557>> can declare an attack without paying Life Points, <<4751>> can declare an attack without a monster being tributed, and <<8109>> can declare an attack without a card on the field being returned to the hand.\n\nFurthermore, the effect of <<5666>> that prevents it from attacking unless there are no other cards on your field or in your hand will also be negated by the effect of <<5740>>, so <<5666>> can declare an attack even if there are other cards in your hand or on your field.",
+            "id": 8779,
+            "question": "If the effects of <<4557>> or <<4751>> are negated, such as by <<5740>>'s effect, can an attack be declared without paying Life Points or tributing a monster respectively?\nFurthermore, could a <<8109>> declare an attack without a card being returned to the hand?\nFurthermore, could an <<5666>> declare an attack if you have other cards in your hand or on your field?",
+            "thisSrc": {
+                "date": "2021-02-14",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If <<5740>> is applying its effect, can <<4557>> declare an attack without Life Points being paid?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<4557>>\u300d\u3084\u300c<<4751>>\u300d\u3001\u300c<<8109>>\u300d\u306e\u52b9\u679c\u306e\u7a2e\u5225\u306f\u3001\u6c38\u7d9a\u52b9\u679c\u3068\u306a\u308a\u307e\u3059\u3002\n\u3088\u3063\u3066\u3001\u300c<<5740>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u308b\u5834\u5408\u3001\u300c<<4557>>\u300d\u306f\u3001\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u652f\u6255\u308f\u305a\u306b\u653b\u6483\u5ba3\u8a00\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\u300c<<4751>>\u300d\u306f\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30ea\u30ea\u30fc\u30b9\u305b\u305a\u306b\u653b\u6483\u5ba3\u8a00\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\u300c<<8109>>\u300d\u306f\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u623b\u3055\u305a\u306b\u653b\u6483\u5ba3\u8a00\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\u307e\u305f\u3001\u300c<<5666>>\u300d\u306e\u300e\u81ea\u5206\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u3053\u306e\u30ab\u30fc\u30c9\u3060\u3051\u3057\u304b\u306a\u304f\u3001\u624b\u672d\u304c\uff10\u679a\u3067\u306a\u3051\u308c\u3070\u3053\u306e\u30ab\u30fc\u30c9\u306f\u653b\u6483\u3067\u304d\u306a\u3044\u3002\u300f\u3068\u3044\u3046\u52b9\u679c\u3082\u3001\u300c<<5740>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u306b\u306a\u308b\u305f\u3081\u3001\u624b\u672d\u304c1\u679a\u4ee5\u4e0a\u5b58\u5728\u3059\u308b\u5834\u5408\u3067\u3082\u653b\u6483\u5ba3\u8a00\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 8779,
+            "question": "\u300c<<5740>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u3066\u3044\u308b\u6642\u306b\u3001\u300c<<4557>>\u300d\u3084\u300c<<4751>>\u300d\u7b49\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u30e9\u30a4\u30d5\u3092\u652f\u6255\u3063\u305f\u308a\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30ea\u30ea\u30fc\u30b9\u305b\u305a\u306b\u653b\u6483\u5ba3\u8a00\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f\n\u307e\u305f\u3001\u300c<<8109>>\u300d\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u623b\u3055\u305a\u306b\u653b\u6483\u5ba3\u8a00\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f\n\u306a\u304a\u3001\u300c<<5666>>\u300d\u306f\u3001\u624b\u672d\u304c1\u679a\u4ee5\u4e0a\u5b58\u5728\u3059\u308b\u5834\u5408\u3067\u3082\u3001\u653b\u6483\u5ba3\u8a00\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5740>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u300c<<4557>>\u300d\u7b49\u306f\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u652f\u6255\u308f\u305a\u306b\u653b\u6483\u5ba3\u8a00\u3092\u884c\u3048\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Trap"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "cards": [
+        13572
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The Main Monster Zones that each World Legacy Token is Special Summoned to are both chosen by the player who activated the effect of <<13572>>.",
+            "id": 21696,
+            "question": "When Special Summoning World Legacy Tokens with the effect of <<13572>>, which player chooses the Monster Zones for each Token?",
+            "thisSrc": {
+                "date": "2018-01-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When Special Summoning World Legacy Tokens with the effect of <<13572>>, which player chooses the Monster Zones for each Token?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c\u661f\u907a\u7269\u30c8\u30fc\u30af\u30f3\u300d\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306f\u3001\u300c<<13572>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u3069\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u7279\u6b8a\u53ec\u559a\u3059\u308b\u304b\u3092\u9078\u3076\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 21696,
+            "question": "\u81ea\u5206\u306e\u300c<<13572>>\u300d\u306e\u300e\u2462\uff1aEX\u30c7\u30c3\u30ad\u304b\u3089\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3059\u308b\u3002\u304a\u4e92\u3044\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c\u661f\u907a\u7269\u30c8\u30fc\u30af\u30f3\u300d\uff08\u6a5f\u68b0\u65cf\u30fb\u95c7\u30fb\u661f\uff11\u30fb\u653b\uff0f\u5b88\uff10\uff09\u3092\uff11\u4f53\u305a\u3064\u5b88\u5099\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u767a\u52d5\u3057\u3001\u51e6\u7406\u304c\u884c\u308f\u308c\u308b\u5834\u5408\u3001\u304a\u4e92\u3044\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u7279\u6b8a\u53ec\u559a\u3055\u308c\u308b\u300c\u661f\u907a\u7269\u30c8\u30fc\u30af\u30f3\u300d\u306f\u3001\u3069\u3061\u3089\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u308b\u30be\u30fc\u30f3\u3092\u9078\u3073\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<13572>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u308b\u300c\u661f\u907a\u7269\u30c8\u30fc\u30af\u30f3\u300d\u306f\u3069\u3061\u3089\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u7279\u6b8a\u53ec\u559a\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u3092\u9078\u3073\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

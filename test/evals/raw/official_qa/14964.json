@@ -1,0 +1,38 @@
+{
+    "cards": [
+        10772,
+        11761
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this case, the Level of <<10772>> will still be decreased by 2. Incidentally, if <<10772>> is then flipped face-up, its Level will still be decreased by 2 until the end of this turn.",
+            "id": 14964,
+            "question": "The last effect of <<11761>> is applied, lowering the Level of a <<10772>> in my hand by 2. This turn, if I Tribute Set that <<10772>> face-down, what happens to its Level?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "The last effect of <<11761>> is applied, lowering the Level of a <<10772>> in my hand by 2. This turn, if I Tribute Set that <<10772>> face-down, what happens to its Level?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3067\u3082\u3001\u305d\u306e\u300c<<10772>>\u300d\u306f\u300c<<11761>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u30ec\u30d9\u30eb\u304c\uff12\u3064\u4e0b\u304c\u3063\u305f\u72b6\u614b\u306e\u307e\u307e\u3067\u3059\u3002\n\n\u306a\u304a\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306b\u300c<<10772>>\u300d\u304c\u30ea\u30d0\u30fc\u30b9\u3057\u3001\u8868\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u3068\u3057\u3066\u3082\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306e\u7d42\u4e86\u6642\u307e\u3067\u30ec\u30d9\u30eb\u306f\uff12\u3064\u4e0b\u304c\u3063\u305f\u307e\u307e\u3068\u306a\u308a\u307e\u3059\u3002",
+            "id": 14964,
+            "question": "\u300c<<11761>>\u300d\u306e\u300e\u2462\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u3053\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u306e\u624b\u672d\u306e\u653b\u6483\u529b\uff12\uff18\uff10\uff10\uff0f\u5b88\u5099\u529b\uff11\uff10\uff10\uff10\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u3073\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ec\u30d9\u30eb\u3092\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\uff12\u3064\u4e0b\u3052\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u624b\u672d\u306e\u300c<<10772>>\u300d\u306e\u30ec\u30d9\u30eb\u3092\uff12\u3064\u4e0b\u3052\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u30bf\u30fc\u30f3\u306b\u3001\u305d\u306e\u300c<<10772>>\u300d\u3092\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3059\u308b\u969b\u306b\u3001\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u30bb\u30c3\u30c8\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u30ec\u30d9\u30eb\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11761>>\u300d\u306e\u30ec\u30d9\u30eb\u3092\uff12\u3064\u4e0b\u3052\u308b\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30bb\u30c3\u30c8\u3057\u305f\u5834\u5408\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ec\u30d9\u30eb\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

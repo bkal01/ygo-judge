@@ -1,0 +1,38 @@
+{
+    "cards": [
+        12560,
+        12561
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, even though <<12560>> is a \"Flower Cardian\" monster, it is also a Special Summon-only monster, so it cannot be Special Summoned by the effect of <<12561>> and remains in your hand.",
+            "id": 19333,
+            "question": "If I activate the first effect of <<12561>>, and the card I draw and reveal is <<12560>>, can I Special Summon it?",
+            "thisSrc": {
+                "date": "2016-05-16",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If I activate the first effect of <<12561>>, and the card I draw and reveal is <<12560>>, can I Special Summon it?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u30c9\u30ed\u30fc\u3057\u305f\u300c<<12560>>\u300d\u306f\u3001\u300c\u82b1\u672d\u885b\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u304c\u3001\u7279\u6b8a\u53ec\u559a\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u306e\u3067\u3001\u300c<<12561>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u305a\u3001\u624b\u672d\u306b\u52a0\u3048\u305f\u307e\u307e\u3068\u306a\u308a\u307e\u3059\u3002",
+            "id": 19333,
+            "question": "\u300c<<12561>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u5834\u5408\u306b\u767a\u52d5\u3059\u308b\u3002\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff11\u679a\u30c9\u30ed\u30fc\u3057\u3001\u304a\u4e92\u3044\u306b\u78ba\u8a8d\u3059\u308b\u3002\u305d\u308c\u304c\u300c\u82b1\u672d\u885b\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3060\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u308b\u3002\u9055\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u30ab\u30fc\u30c9\u3092\u5893\u5730\u3078\u9001\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<12560>>\u300d\u3092\u30c9\u30ed\u30fc\u3057\u305f\u5834\u5408\u3001\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u300c<<12561>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<12560>>\u300d\u3092\u30c9\u30ed\u30fc\u3057\u305f\u5834\u5408\u3001\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

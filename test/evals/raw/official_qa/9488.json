@@ -1,0 +1,39 @@
+{
+    "cards": [
+        8661
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "A monster that was Special Summoned from the Graveyard face-up, is then flipped face-down and afterwards flipped face-up again will not be affected by the effect of\u00a0<<8661>>.",
+            "id": 9488,
+            "question": "While\u00a0<<8661>> applies, all monsters you control that were Special Summoned from the Graveyard gain 300 ATK. Does a monster that was Special Summoned from the Graveyard face-up that is flipped face-down afterwards and later face-up again still gain 300 ATK by the effect of\u00a0<<8661>>?",
+            "thisSrc": {
+                "date": "2020-03-16",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "Does\u00a0<<8661>> increase the ATK of face-up monsters that were flipped face-down after being Special Summoned from the Graveyard?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u8868\u5074\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u4e00\u5ea6\u88cf\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5f8c\u306b\u8868\u5074\u8868\u793a\u306b\u306a\u308b\u5834\u5408\u3001\u300c<<8661>>\u300d\u306e\u52b9\u679c\u3092\u53d7\u3051\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+            "id": 9488,
+            "question": "\u300c<<8661>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u6642\u306b\u3001\u5893\u5730\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f300\u30dd\u30a4\u30f3\u30c8\u30a2\u30c3\u30d7\u3057\u307e\u3059\u304c\u3001\u5893\u5730\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u4e00\u5ea6\u88cf\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5f8c\u306b\u30ea\u30d0\u30fc\u30b9\u3057\u305f\u5834\u5408\u3067\u3082\u3001\u300c<<8661>>\u300d\u306e\u52b9\u679c\u3092\u53d7\u3051\u3066\u653b\u6483\u529b\u304c300\u30dd\u30a4\u30f3\u30c8\u30a2\u30c3\u30d7\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8661>>\u300d\u306f\u3001\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5f8c\u306b\u88cf\u5074\u8868\u793a\u3068\u306a\u3063\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u3082\u30a2\u30c3\u30d7\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell",
+        "o:Forgetting",
+        "o:Special Summoning"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "cards": [
+        11134,
+        11135,
+        14225
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of Soul Pendulum that places a counter on it is applied each time your Pendulum Monsters are Pendulum Summoned. Even if you Special Summon 2 Pendulum Monsters at the same time with a single Pendulum Summon, only 1 counter is placed on Soul Pendulum.",
+            "id": 22331,
+            "question": "While Soul Pendulum is face-up in my Spell & Trap Zone, I Pendulum Summon Timegazer Magician and Stargazer Magician at the same time. In this case, do I place 2 counters on Soul Pendulum with its effect?",
+            "thisSrc": {
+                "date": "2018-12-26",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "While Soul Pendulum is face-up in my Spell & Trap Zone, I Pendulum Summon Timegazer Magician and Stargazer Magician at the same time. In this case, do I place 2 counters on Soul Pendulum with its effect?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<14225>>\u300d\u306e\u300e\u2461\uff1a\u81ea\u5206\u306eP\u30e2\u30f3\u30b9\u30bf\u30fc\u304cP\u53ec\u559a\u3055\u308c\u308b\u5ea6\u306b\u3053\u306e\u30ab\u30fc\u30c9\u306b\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\uff11\u3064\u7f6e\u304f\u300f\u52b9\u679c\u306f\u3001\u81ea\u5206\u304c\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u306b\u6210\u529f\u3059\u308b\u5ea6\u306b\u9069\u7528\u3055\u308c\u308b\u52b9\u679c\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u30011\u5ea6\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3067\u30012\u4f53\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3055\u308c\u305f\u5834\u5408\u3067\u3082\u3001\u300c<<14225>>\u300d\u306b\u7f6e\u304b\u308c\u308b\u30ab\u30a6\u30f3\u30bf\u30fc\u306f1\u3064\u306e\u307f\u3067\u3059\u3002",
+            "id": 22331,
+            "question": "\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u300c<<14225>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u304c\u300c<<11135>>\u300d\u3068\u300c<<11134>>\u300d\u3092\u540c\u6642\u306b\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u300c<<14225>>\u300d\u306e\u300e\u2461\uff1a\u81ea\u5206\u306eP\u30e2\u30f3\u30b9\u30bf\u30fc\u304cP\u53ec\u559a\u3055\u308c\u308b\u5ea6\u306b\u3053\u306e\u30ab\u30fc\u30c9\u306b\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\uff11\u3064\u7f6e\u304f\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30ab\u30a6\u30f3\u30bf\u30fc\u306f2\u3064\u7f6e\u304b\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u30922\u4f53\u540c\u6642\u306b\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300c<<14225>>\u300d\u306b\u30ab\u30a6\u30f3\u30bf\u30fc\u306f2\u3064\u7f6e\u304b\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

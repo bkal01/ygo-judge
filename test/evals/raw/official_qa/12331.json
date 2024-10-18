@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5505,
+        9891,
+        9894
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the scenario you describe, the effect of <<5505>> causes control of <<9894>> to have changed to your opponent by the time the chain finishes resolving. Therefore, by the time you would activate <<9894>>'s effect, your opponent already controls it, and the activation condition of\u300eIf an Equip Card(s) is sent to your Graveyard while equipped to this card\u300fis not considered to be met.\n\nTherefore, the effect of <<9894>> cannot be activated.",
+            "id": 12331,
+            "question": "While my <<9894>> is equipped with <<9891>>, I activate the effect of <<9891>> by sending it to the Graveyard. If my opponent responds with <<5505>>, gaining control of <<9894>>, will the effect of <<9894>> still activate after this chain resolves?",
+            "thisSrc": {
+                "date": "2022-08-29",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If control of <<9894>> changes after an equipped Equip Card is sent to the Graveyard, can its effect be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<9891>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u305f\u300c<<5505>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<9894>>\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u76f8\u624b\u3078\u79fb\u3063\u3066\u3044\u308b\u72b6\u6cc1\u3067\u4e00\u9023\u306e\u30c1\u30a7\u30fc\u30f3\u51e6\u7406\u304c\u7d42\u4e86\u3057\u305f\u3068\u3044\u3046\u4e8b\u306b\u306a\u308a\u307e\u3059\u304c\u3001\u3053\u306e\u5834\u5408\u3001\u300c<<9894>>\u300d\u306e\u767a\u52d5\u3092\u884c\u3046\u30bf\u30a4\u30df\u30f3\u30b0\u306b\u3066\u3001\u65e2\u306b\u81ea\u8eab\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u79fb\u3063\u3066\u3044\u308b\u305f\u3081\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306b\u88c5\u5099\u3055\u308c\u305f\u88c5\u5099\u30ab\u30fc\u30c9\u304c\u81ea\u5206\u306e\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u300f\u306b\u306f\u306a\u308a\u307e\u305b\u3093\u3002\n\u3057\u305f\u304c\u3063\u3066\u3001\u3053\u306e\u5834\u5408\u3001\u300c<<9894>>\u300d\u306e\u52b9\u679c\u306f\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 12331,
+            "question": "\u81ea\u5206\u306e\u300c<<9894>>\u300d\u304c\u81ea\u5206\u306e\u300c<<9891>>\u300d\u3092\u88c5\u5099\u3057\u3066\u3044\u308b\u6642\u306b\u300c<<9891>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u52b9\u679c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u76f8\u624b\u304c\u300c<<5505>>\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5f97\u308b\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u30c1\u30a7\u30fc\u30f3\u51e6\u7406\u3092\u7d42\u3048\u305f\u5f8c\u306b\u300c<<9894>>\u300d\u306e\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9894>>\u300d\u306e\u88c5\u5099\u30ab\u30fc\u30c9\u304c\u96e2\u308c\u305f\u969b\u306e\u30c1\u30a7\u30fc\u30f3\u51e6\u7406\u5f8c\u306b\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u5909\u308f\u3063\u3066\u3044\u305f\u5834\u5408\u3001\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

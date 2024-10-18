@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4064,
+        14912,
+        16398
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "It cannot.\n\nThe effect of <<14912>> does not list the card <<4064>> in its text, it only refers to cards with \"<<4064>>\" in their name.",
+            "id": 23283,
+            "question": "Can <<14912>> be added to the hand with the effect of <<16398>>?",
+            "thisSrc": {
+                "date": "2021-06-12",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "Can <<14912>> be added to the hand with the effect of <<16398>>?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u300c<<14912>>\u300d\u306e\u30c6\u30ad\u30b9\u30c8\u306b\u306f\u300e\u304a\u4e92\u3044\u306eLP\u306e\u5dee\u306e\u6570\u5024\u4ee5\u4e0b\u306e\u653b\u6483\u529b\u3092\u6301\u3064\u3001\u300cE\u30fbHERO\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3001\u300c<<4064>>\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3001\u300cN\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5185\u3001\u3044\u305a\u308c\u304b\uff11\u4f53\u3092\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u30fb\u5893\u5730\u304b\u3089\u9078\u3073\u3001\u624b\u672d\u306b\u52a0\u3048\u308b\u304b\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u3068\u8a18\u3055\u308c\u3066\u3044\u307e\u3059\u304c\u3001\u3053\u306e\u300e\u300c<<4064>>\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u300f\u3068\u306f\u300c<<4064>>\u300d\u3068\u540d\u306e\u4ed8\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u3053\u3068\u3067\u3042\u308a\u3001\u300c<<4064>>\u300d\u306e\u30ab\u30fc\u30c9\u540d\u305d\u306e\u3082\u306e\u3068\u306f\u7570\u306a\u308a\u307e\u3059\u3002",
+            "id": 23283,
+            "question": "\u300c<<16398>>\u300d\u306e\u300e\u2460\u300f\u306e\u300e\u30c7\u30c3\u30ad\u304b\u3089\u300c<<4064>>\u300d\u306e\u30ab\u30fc\u30c9\u540d\u304c\u8a18\u3055\u308c\u305f\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\uff11\u679a\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u52b9\u679c\u3067\u3001\u300c<<14912>>\u300d\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<16398>>\u300d\u306e\u52b9\u679c\u3067\u300c<<14912>>\u300d\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

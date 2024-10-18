@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11850
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of <<11850>> does not target. When the \"\u25cf 3 or more:\" effect is applied, a card on the field is selected and banished. A card in the Pendulum Zone that was already destroyed by <<11850>> cannot be selected to be banished. Furthermore, you cannot select the resolving <<11850>> itself. Since you may choose to banish a card on either player's side of the field, if there are no other cards on the field, it will be assumed that the \"\u25cf 3 or more:\" effect is not being applied.",
+            "id": 15556,
+            "question": "The effect of <<11850>> destroys 3 cards in the Pendulum Zones. In this case, when is the card selected to be banished by the \"\u25cf 3 or more:\" effect?",
+            "thisSrc": {
+                "date": "2015-05-05",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "The effect of <<11850>> destroys 3 cards in the Pendulum Zones. In this case, when is the card selected to be banished by the \"\u25cf 3 or more:\" effect?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11850>>\u300d\u306e\u52b9\u679c\u306f\u5bfe\u8c61\u3092\u53d6\u308b\u52b9\u679c\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u300e\u25cf\uff13\u679a\u4ee5\u4e0a\uff1a\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u9664\u5916\u3067\u304d\u308b\u300f\u52b9\u679c\u51e6\u7406\u3092\u884c\u3046\u969b\u306b\u3001\u9664\u5916\u3059\u308b\u30ab\u30fc\u30c9\u3092\u9078\u3073\u307e\u3059\u3002\n\n\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\u306f\u300c<<11850>>\u300d\u306e\u51e6\u7406\u306b\u3088\u3063\u3066\u65e2\u306b\u7834\u58ca\u3055\u308c\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u3066\u3044\u307e\u305b\u3093\u306e\u3067\u9664\u5916\u3059\u308b\u30ab\u30fc\u30c9\u306b\u306f\u9078\u3079\u307e\u305b\u3093\u3002\n\u307e\u305f\u3001\u767a\u52d5\u3057\u305f\u300c<<11850>>\u300d\u81ea\u8eab\u3092\u9078\u3076\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u305d\u306e\u4ed6\u3067\u81ea\u5206\u307e\u305f\u306f\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u3066\u3044\u308b\u30ab\u30fc\u30c9\u306e\u4e2d\u304b\u3089\u9664\u5916\u3059\u308b\u30ab\u30fc\u30c9\u3092\u9078\u3076\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u4ed6\u306b\u9664\u5916\u3067\u304d\u308b\u30ab\u30fc\u30c9\u304c\u306a\u3044\u5834\u5408\u306b\u306f\u3001\u300e\u25cf\uff13\u679a\u4ee5\u4e0a\uff1a\u300f\u306e\u51e6\u7406\u3092\u884c\u3046\u3068\u3059\u308b\u4e8b\u81ea\u4f53\u304c\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 15556,
+            "question": "\u300c<<11850>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306b\u3088\u3063\u3066\u3001\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\u30923\u679a\u7834\u58ca\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u300e\u25cf\uff13\u679a\u4ee5\u4e0a\uff1a\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u9664\u5916\u3067\u304d\u308b\u300f\u51e6\u7406\u306f\u3069\u306e\u3088\u3046\u306b\u884c\u3044\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11850>>\u300d\u306e\u300e\u25cf\uff13\u679a\u4ee5\u4e0a\uff1a\u300f\u306e\u52b9\u679c\u3067\u3001\u9664\u5916\u3059\u308b\u30ab\u30fc\u30c9\u306f\u3069\u306e\u3088\u3046\u306b\u9078\u3073\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

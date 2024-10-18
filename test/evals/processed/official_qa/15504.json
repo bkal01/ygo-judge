@@ -1,0 +1,39 @@
+{
+    "cards": [
+        9352,
+        11538,
+        11847
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "While the first effect of Void Imagination is applying, if an Infernoid Attondel on your side of the field becomes affected by Forbidden Lance, its Level will return to 8. Also, battle damage it inflicts is not halved, and the full amount is inflicted normally.",
+            "id": 15504,
+            "question": "While the first effect of Void Imagination is applying, if an Infernoid Attondel on my side of the field becomes affected by Forbidden Lance, what happens?",
+            "thisSrc": {
+                "date": "2015-05-05",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "While the first effect of Void Imagination is applying, if an Infernoid Attondel on my side of the field becomes affected by Forbidden Lance, what happens?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11847>>\u300d\u306e\u9069\u7528\u4e2d\u3001\u300c<<9352>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u300c<<11538>>\u300d\u306e\u30ec\u30d9\u30eb\u306f\u5143\u306e\u30ec\u30d9\u30eb\u306e\uff18\u306b\u623b\u308a\u307e\u3059\u3002\n\n\u307e\u305f\u3001\u300e\u76f8\u624b\u306b\u4e0e\u3048\u308b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u534a\u5206\u306b\u306a\u308b\u300f\u306e\u52b9\u679c\u3082\u53d7\u3051\u306a\u304f\u306a\u308b\u305f\u3081\u3001\u76f8\u624b\u3078\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u901a\u5e38\u901a\u308a\u4e0e\u3048\u3089\u308c\u307e\u3059\u3002",
+            "id": 15504,
+            "question": "\u300c<<11847>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u5143\u3005\u306e\u30ec\u30d9\u30eb\u304c\uff12\u4ee5\u4e0a\u306e\u300c\u30a4\u30f3\u30d5\u30a7\u30eb\u30ce\u30a4\u30c9\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u30ec\u30d9\u30eb\u304c\uff11\u306b\u306a\u308a\u3001\u76f8\u624b\u306b\u4e0e\u3048\u308b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u534a\u5206\u306b\u306a\u308b\u300f\u52b9\u679c\u306e\u9069\u7528\u4e2d\u3001\u300c<<11538>>\u300d\u306b\u300c<<9352>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11847>>\u300d\u306e\u9069\u7528\u4e2d\u3001\u300c<<9352>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u300c\u30a4\u30f3\u30d5\u30a7\u30eb\u30ce\u30a4\u30c9\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ec\u30d9\u30eb\u306f\u3069\u3046\u306a\u308a\u307e\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

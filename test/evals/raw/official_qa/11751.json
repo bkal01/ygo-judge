@@ -1,0 +1,40 @@
+{
+    "cards": [
+        5008,
+        11476,
+        11477,
+        12864
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Placing <<11476>> and <<11477>> in your Pendulum Zones with the effect of <<12864>> is not considered activating a Spell Card. Therefore, even if the effect of <<5008>> is applying when <<12864>> resolves, <<11476>> and <<11477>> are placed in your Pendulum Zones normally.",
+            "id": 11751,
+            "question": "I activate the effect of <<12864>> that places <<11476>> and <<11477>> in my Pendulum Zones. If my opponent chains <<5008>>, what happens?",
+            "thisSrc": {
+                "date": "2016-12-12",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I activate the effect of <<12864>> that places <<11476>> and <<11477>> in my Pendulum Zones. If my opponent chains <<5008>>, what happens?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12864>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u300c<<11476>>\u300d\u3068\u300c<<11477>>\u300d\u3092\u7f6e\u304f\u51e6\u7406\u306f\u3001\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u304c\u884c\u308f\u308c\u308b\u6271\u3044\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u300c<<12864>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u300c<<5008>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u52b9\u679c\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 11751,
+            "question": "\u300e\u25cf\u30c7\u30c3\u30ad\u304b\u3089\u300c<<11476>>\u300d\u300c<<11477>>\u300d\u3092\uff11\u679a\u305a\u3064\u9078\u3073\u3001\u81ea\u5206\u306eP\u30be\u30fc\u30f3\u306b\u7f6e\u304f\u3002\u3053\u306e\u52b9\u679c\u3067P\u30be\u30fc\u30f3\u306b\u7f6e\u304b\u308c\u305f\u30ab\u30fc\u30c9\u306f\u6b21\u306e\u76f8\u624b\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u7834\u58ca\u3055\u308c\u308b\u300f\u52b9\u679c\u3068\u3057\u3066\u3001\u81ea\u5206\u304c\u300c<<12864>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u76f8\u624b\u304c\u300c<<5008>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u304a\u4e92\u3044\u306b\u9b54\u6cd5\u30ab\u30fc\u30c9\u306f\u30bb\u30c3\u30c8\u3057\u306a\u3051\u308c\u3070\u767a\u52d5\u3067\u304d\u305a\u3001\u30bb\u30c3\u30c8\u3057\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u304b\u3089\u898b\u3066\u6b21\u306e\u81ea\u5206\u30bf\u30fc\u30f3\u304c\u6765\u308b\u307e\u3067\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11476>>\u300d\u3068\u300c<<11477>>\u300d\u3092\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u7f6e\u304f\u52b9\u679c\u3068\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<12864>>\u300d\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u300c<<5008>>\u300d\u304c\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

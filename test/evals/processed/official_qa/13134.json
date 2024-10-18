@@ -1,0 +1,35 @@
+{
+    "cards": [],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When a Pendulum Monster is activated from your hand as a Spell Card, you must place it in Spell & Trap Zone furthest to the right or furthest to the left on the playing field. (That Zone is treated as both a Spell & Trap Zone and a Pendulum Zone.) You cannot activate a Pendulum Monster as a Spell Card to any of the middle 3 Spell & Trap Zones or your Field Zone.",
+            "id": 13134,
+            "question": "When I activate a Pendulum Monster from my hand as a Spell Card, can I place it in either a Spell & Trap Zone or Field Zone?",
+            "thisSrc": {
+                "date": "2020-10-31",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "When I activate a Pendulum Monster from my hand as a Spell Card, can I place it in either a Spell & Trap Zone or Field Zone?",
+            "tlSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u9b54\u6cd5\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u624b\u672d\u304b\u3089\u51fa\u3059\u5834\u5408\u3001\u53f3\u7aef\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u304b\u3001\u5de6\u7aef\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u51fa\u3057\u3066\u767a\u52d5\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\uff08\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u9b54\u6cd5\u30ab\u30fc\u30c9\u3068\u3057\u3066\u767a\u52d5\u3055\u308c\u305f\u305d\u306e\u30be\u30fc\u30f3\u306f\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u3068\u3057\u3066\u3082\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u3068\u3057\u3066\u3082\u6271\u308f\u308c\u308b\u30be\u30fc\u30f3\u3068\u306a\u308a\u307e\u3059\u3002\uff09\n\n\u624b\u672d\u304b\u3089\u9b54\u6cd5\u30ab\u30fc\u30c9\u3068\u3057\u3066\u3001\u4e2d\u592e3\u30f5\u6240\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u3084\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 13134,
+            "question": "\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u624b\u672d\u304b\u3089\u9b54\u6cd5\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u767a\u52d5\u3059\u308b\u6642\u306b\u3001\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u3084\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u7f6e\u3044\u3066\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "title": "\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u624b\u672d\u304b\u3089\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u3084\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

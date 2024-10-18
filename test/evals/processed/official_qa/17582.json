@@ -1,0 +1,41 @@
+{
+    "cards": [
+        4909,
+        8353,
+        11341,
+        12191
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, when resolving the effect of Superheavy Samurai Swordmaster Musashi, since Skill Successor is in your Graveyard, the part of the effect that prevents you from Normal or Special Summoning monsters with the same name as the targeted monster is applied. (For the rest of this turn, you cannot Normal/Special Summon Superheavy Samurai Scales.)",
+            "id": 17582,
+            "question": "Skill Successor is Set in my Spell & Trap Zone, while the only card in my Graveyard is Superheavy Samurai Scales. If I Synchro Summon Superheavy Samurai Swordmaster Musashi and activate its effect by targeting Superheavy Samurai Scales, but my opponent chains Mystical Space Typhoon and destroys my Set Skill Successor, will the effect of Superheavy Samurai Swordmaster Musashi prevent me from Normal or Special Summoning Superheavy Samurai Scales this turn?",
+            "thisSrc": {
+                "date": "2015-10-22",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Skill Successor is Set in my Spell & Trap Zone, while the only card in my Graveyard is Superheavy Samurai Scales. If I Synchro Summon Superheavy Samurai Swordmaster Musashi and activate its effect by targeting Superheavy Samurai Scales, but my opponent chains Mystical Space Typhoon and destroys my Set Skill Successor, will the effect of Superheavy Samurai Swordmaster Musashi prevent me from Normal or Special Summoning Superheavy Samurai Scales this turn?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<12191>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u81ea\u5206\u306e\u5893\u5730\u306b\u306f\u300c<<8353>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u300e\u81ea\u5206\u306e\u5893\u5730\u306b\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u3053\u306e\u30bf\u30fc\u30f3\u81ea\u5206\u306f\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u53ca\u3073\u305d\u306e\u540c\u540d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\uff08\u3053\u306e\u5834\u5408\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306b\u300c<<11341>>\u300d\u3092\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\uff09",
+            "id": 17582,
+            "question": "\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u30bb\u30c3\u30c8\u3055\u308c\u3066\u3044\u308b\u300c<<8353>>\u300d\u304c\u5b58\u5728\u3057\u3001\u81ea\u5206\u306e\u5893\u5730\u306b\u300c<<11341>>\u300d1\u4f53\u306e\u307f\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u300c<<12191>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304cS\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u3001\u81ea\u5206\u306e\u5893\u5730\u306e\u6a5f\u68b0\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u3002\u81ea\u5206\u306e\u5893\u5730\u306b\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u3053\u306e\u30bf\u30fc\u30f3\u81ea\u5206\u306f\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u53ca\u3073\u305d\u306e\u540c\u540d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u300c<<11341>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u76f8\u624b\u304c\u300c<<4909>>\u300d\u3092\u767a\u52d5\u3057\u3001\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u30bb\u30c3\u30c8\u3055\u308c\u305f\u300c<<8353>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u300e\u3053\u306e\u30bf\u30fc\u30f3\u81ea\u5206\u306f\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u53ca\u3073\u305d\u306e\u540c\u540d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12191>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u81ea\u5206\u306e\u5893\u5730\u306b\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u540c\u540d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u304f\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain",
+        "k:Synchro"
+    ]
+}

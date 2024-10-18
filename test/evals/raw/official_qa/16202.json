@@ -1,0 +1,38 @@
+{
+    "cards": [
+        11134,
+        11940
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of <<11940>> prevents \"Magician\" cards in your Pendulum Zone from being destroyed until the end of your opponent's turn. In this scenario, even though <<11134>> is placed in the Pendulum Zone after <<11940>> was activated, it will not be destroyed by card effects, until the end of your opponent's next turn.",
+            "id": 16202,
+            "question": "If <<11940>> was activated, and afterward <<11134>> is activated in my Pendulum Zone, will the effect of <<11940>> that prevents \"Magician\" cards from being destroyed apply to <<11134>>?",
+            "thisSrc": {
+                "date": "2015-06-22",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<11940>> was activated, and afterward <<11134>> is activated in my Pendulum Zone, will the effect of <<11940>> that prevents \"Magician\" cards from being destroyed apply to <<11134>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11940>>\u300d\u306f\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u6b21\u306e\u76f8\u624b\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u300e\u81ea\u5206\u306eP\u30be\u30fc\u30f3\u306e\u300c\u9b54\u8853\u5e2b\u300d\u30ab\u30fc\u30c9\u306f\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u5f8c\u304b\u3089\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u7f6e\u304b\u308c\u305f\u300c<<11134>>\u300d\u3082\u3001\u6b21\u306e\u76f8\u624b\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u304f\u306a\u308a\u307e\u3059\u3002",
+            "id": 16202,
+            "question": "\u81ea\u5206\u304c\u300c<<11940>>\u300d\u3092\u767a\u52d5\u3057\u3066\u3044\u308b\u30bf\u30fc\u30f3\u306b\u3001\u5f8c\u304b\u3089\u300c<<11134>>\u300d\u3092\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u300c<<11134>>\u300d\u306b\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u5f8c\u3001\u6b21\u306e\u76f8\u624b\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u81ea\u5206\u306eP\u30be\u30fc\u30f3\u306e\u300c\u9b54\u8853\u5e2b\u300d\u30ab\u30fc\u30c9\u306f\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11940>>\u300d\u306e\u52b9\u679c\u306f\u3001\u5f8c\u304b\u3089\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u7f6e\u304b\u308c\u305f\u300c\u9b54\u8853\u5e2b\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\u306b\u3082\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

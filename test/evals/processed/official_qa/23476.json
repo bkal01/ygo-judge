@@ -1,0 +1,40 @@
+{
+    "cards": [
+        12374,
+        12642,
+        14925,
+        15266
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot activate Gizmek Okami, the Dreaded Deluge Dragon's effect.\n\nIn the given situation, Performapal Momoncarpet is no longer treated as a monster that was Special Summoned from the Extra Deck from the moment it is flipped face-down. (Furthermore, even if Performapal Momoncarpet is later flipped face-up again, it will not be treated as a monster that was Special Summoned from the Extra Deck.)\n\nOn the other hand, Performapal Celestial Magician, which was Special Summoned from the Extra Deck face-down, is treated as a monster that was Special Summoned from the Extra Deck. (Even if Performapal Celestial Magician is later flipped face-up, it will still be treated as a monster that was Special Summoned from the Extra Deck. However, if it is then later flipped face-down again, it will no longer be treated as a monster that was Special Summoned from the Extra Deck.)",
+            "id": 23476,
+            "question": "I only control a Performapal Celestial Magician, which was Special Summoned from my opponent's Extra Deck by Toadally Awesome's effect. Meanwhile, my opponent only controls a Performapal Momoncarpet, which was Pendulum Summoned from the Extra Deck, then flipped face-down by its own effect.\n\nIn this situation, can I activate the effect of Gizmek Okami, the Dreaded Deluge Dragon, which can only be activated if there are two or more monsters on the field which were Special Summoned from the Extra Deck.",
+            "thisSrc": {
+                "date": "2021-12-25",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If a monster is Special Summoned from the Extra Deck in face-down Defense Position, is it treated as a monster that was Special Summoned from the Extra Deck? What about a monster that is Special Summoned from the Extra Deck, and then flipped face-down?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u305d\u306e\u72b6\u6cc1\u3067\u306f\u3001\u300c<<12374>>\u300d\u306f\u8868\u5074\u8868\u793a\u306e\u72b6\u614b\u304b\u3089\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u969b\u306b\u3001EX\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u306a\u304f\u306a\u3063\u3066\u3044\u307e\u3059\u3002\uff08\u306a\u304a\u3001\u305d\u306e\u5f8c\u300c<<12374>>\u300d\u304c\u8868\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3067\u3082EX\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u308b\u3053\u3068\u306f\u3042\u308a\u307e\u305b\u3093\u3002\uff09\n\n\u4e00\u65b9\u3067\u3001EX\u30c7\u30c3\u30ad\u304b\u3089\u30bb\u30c3\u30c8\u3055\u308c\u305f\u300c<<14925>>\u300d\u306fEX\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u3059\u3002\uff08\u305d\u306e\u5f8c\u300c<<14925>>\u300d\u304c\u8868\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3067\u3082\u3001EX\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u3059\u3002\u305f\u3060\u3057\u3001\u52a0\u3048\u3066\u3082\u3046\uff11\u5ea6\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u306b\u306fEX\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u306a\u304f\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 23476,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u306f\u3001\u300c<<12642>>\u300d\u306e\u300e\u2461\u300f\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u76f8\u624b\u306eEX\u30c7\u30c3\u30ad\u304b\u3089\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<14925>>\u300d\u306e\u307f\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\u307e\u305f\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u306fEX\u30c7\u30c3\u30ad\u304b\u3089P\u53ec\u559a\u3055\u308c\u305f\u306e\u3061\u3001\u81ea\u8eab\u306e\u52b9\u679c\u3067\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u300c<<12374>>\u300d\u306e\u307f\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306f\u300c<<15266>>\u300d\u306e\u300e\u2460\u300f\u306e\u300eEX\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\uff12\u4f53\u4ee5\u4e0a\u5b58\u5728\u3059\u308b\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "EX\u30c7\u30c3\u30ad\u304b\u3089\u30bb\u30c3\u30c8\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3084\u3001EX\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u306e\u3061\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001EX\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

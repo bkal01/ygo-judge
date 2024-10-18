@@ -1,0 +1,41 @@
+{
+    "cards": [
+        5355,
+        9575,
+        9656,
+        9963,
+        12265
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When you reach damage calculation, if the ATK of your attacking monster is lower than the opponent's battling monster, you can activate <<12265>>. Therefore, in the first scenario, if the ATK of <<9963>> is halved by <<5355>> before damage calculation, you cannot activate <<12265>>. But if <<5355>> was activated before damage calculation and the ATK of <<9575>> is halved, then <<12265>> can be activated during damage calculation.",
+            "id": 17944,
+            "question": "My <<9575>> with 2500 ATK attacks my opponent's <<9963>> with 3000 ATK. If my opponent activates <<5355>> before damage calculation, and the ATK of <<9963>> is halved to 1500, can I activate <<12265>> during damage calculation? Also, suppose my <<9575>> with 2500 ATK attacks my opponent's <<9656>> with 2000 ATK. If my opponent activates <<5355>> before damage calculation, and the ATK of <<9575>> is halved to 1250, can I activate <<12265>> during damage calculation?",
+            "thisSrc": {
+                "date": "2015-12-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "My <<9575>> with 2500 ATK attacks my opponent's <<9963>> with 3000 ATK. If my opponent activates <<5355>> before damage calculation, and the ATK of <<9963>> is halved to 1500, can I activate <<12265>> during damage calculation? Also, suppose my <<9575>> with 2500 ATK attacks my opponent's <<9656>> with 2000 ATK. If my opponent activates <<5355>> before damage calculation, and the ATK of <<9575>> is halved to 1250, can I activate <<12265>> during damage calculation?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12265>>\u300d\u306f\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306e\u6642\u70b9\u3067\u3001\u653b\u6483\u3092\u884c\u3063\u3066\u3044\u308b\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3088\u308a\u3082\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306e\u65b9\u304c\u9ad8\u3044\u72b6\u614b\u3067\u3042\u308c\u3070\u3001\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u524d\u306b\u767a\u52d5\u3057\u305f\u300c<<5355>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u76f8\u624b\u306e\u300c<<9963>>\u300d\u306e\u653b\u6483\u529b\u304c\u534a\u5206\u306b\u306a\u3063\u305f\u72b6\u6cc1\u3067\u306f\u300c<<12265>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u304c\u3001\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u524d\u306b\u767a\u52d5\u3057\u305f\u300c<<5355>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u81ea\u5206\u306e\u300c<<9575>>\u300d\u306e\u653b\u6483\u529b\u304c\u534a\u5206\u306b\u306a\u3063\u305f\u72b6\u6cc1\u3067\u306f\u300c<<12265>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 17944,
+            "question": "\u81ea\u5206\u306f\u653b\u6483\u529b2500\u306e\u300c<<9575>>\u300d\u3067\u3001\u76f8\u624b\u306e\u653b\u6483\u529b3000\u306e\u300c<<9963>>\u300d\u3092\u653b\u6483\u3057\u307e\u3057\u305f\u3002\n\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u524d\u306b\u76f8\u624b\u304c\u767a\u52d5\u3057\u305f\u300c<<5355>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<9963>>\u300d\u306e\u653b\u6483\u529b\u304c\u534a\u5206\u306e1500\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u81ea\u5206\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306b\u300c<<12265>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u81ea\u5206\u306f\u653b\u6483\u529b2500\u306e\u300c<<9575>>\u300d\u3067\u3001\u76f8\u624b\u306e\u653b\u6483\u529b2000\u306e\u300c<<9656>>\u300d\u3092\u653b\u6483\u3057\u307e\u3057\u305f\u3002\n\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u524d\u306b\u76f8\u624b\u304c\u767a\u52d5\u3057\u305f\u300c<<5355>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<9575>>\u300d\u306e\u653b\u6483\u529b\u304c\u534a\u5206\u306e1250\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u81ea\u5206\u306f\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306b\u300c<<12265>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u524d\u306b\u767a\u52d5\u3057\u305f\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3084\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u304c\u5909\u5316\u3057\u305f\u5834\u5408\u3001\u300c<<12265>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Damage Step"
+    ]
+}

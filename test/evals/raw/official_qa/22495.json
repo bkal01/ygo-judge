@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4342,
+        5740,
+        14398,
+        14400
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "While <<14398>> has <<14400>> as an Xyz Material, it also has the effect that prevents it from being destroyed by card effects. If the effect of <<5740>> is applied and the effects of <<14398>> are negated, the \"\u25cf\" effect is also negated, so <<14398>> can be destroyed by the effects of cards such as <<4342>> as usual.",
+            "id": 22495,
+            "question": "An <<14398>> with <<14400>> as an Xyz Material is face-up in my Monster Zone. In this situation, if <<5740>> is activated and the effects of <<14398>> are negated, can it be destroyed by card effects?",
+            "thisSrc": {
+                "date": "2019-02-28",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "An <<14398>> with <<14400>> as an Xyz Material is face-up in my Monster Zone. In this situation, if <<5740>> is activated and the effects of <<14398>> are negated, can it be destroyed by card effects?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<14400>>\u300d\u3092X\u7d20\u6750\u3068\u3057\u3066\u6301\u3063\u3066\u3044\u308b\u300c<<14398>>\u300d\u306f\u3001\u300e\u25cf\u3053\u306e\u30ab\u30fc\u30c9\u306f\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3082\u4f75\u305b\u6301\u3064\u72b6\u614b\u3068\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u300c<<5740>>\u300d\u304c\u9069\u7528\u3055\u308c\u3001\u300c<<14398>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u306b\u306f\u3001\u305d\u306e\u300e\u25cf\u3053\u306e\u30ab\u30fc\u30c9\u306f\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3082\u542b\u3081\u3066\u7121\u52b9\u5316\u3055\u308c\u307e\u3059\u306e\u3067\u3001\u300c<<4342>>\u300d\u306a\u3069\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3059\u308b\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u306b\u306f\u3001\u305d\u306e\u300c<<14398>>\u300d\u306f\u901a\u5e38\u901a\u308a\u7834\u58ca\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 22495,
+            "question": "\u300c<<14400>>\u300d\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3068\u3057\u3066\u6301\u3063\u3066\u3044\u308b\u300c<<14398>>\u300d\u304c\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u300c<<5740>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u5168\u3066\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u300c<<14398>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u3001\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u308b\u72b6\u614b\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<14400>>\u300d\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3068\u3057\u3066\u3044\u308b\u300c<<14398>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Link"
+    ]
+}

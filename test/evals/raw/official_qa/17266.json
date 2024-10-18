@@ -1,0 +1,38 @@
+{
+    "cards": [
+        12117,
+        12118
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The Level of a \"Superheavy Samurai\" Monster increased by the effect of <<12118>> remains increased as long as that \"Superheavy Samurai\" Monster remains face-up on the field.",
+            "id": 17266,
+            "question": "The Pendulum Effect of <<12118>> was activated targeting a <<12117>>.\n\nHow long does the Level of <<12117>> remain increased?",
+            "thisSrc": {
+                "date": "2015-10-27",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "The Pendulum Effect of <<12118>> was activated targeting a <<12117>>.  How long does the Level of <<12117>> remain increased?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12118>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u4e0a\u304c\u3063\u305f\u300c\u8d85\u91cd\u6b66\u8005\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ec\u30d9\u30eb\u306f\u3001\u305d\u306e\u300c\u8d85\u91cd\u6b66\u8005\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u9650\u308a\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 17266,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u300c<<12117>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<12118>>\u300d\u306e\u300e\u2461\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c\u8d85\u91cd\u6b66\u8005\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ec\u30d9\u30eb\u3092\uff11\u3064\u4e0a\u3052\u308b\u300f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u4e0a\u304c\u3063\u305f\u300c<<12117>>\u300d\u306e\u30ec\u30d9\u30eb\u306f\u3044\u3064\u307e\u3067\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12118>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u4e0a\u304c\u3063\u305f\u300c\u8d85\u91cd\u6b66\u8005\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ec\u30d9\u30eb\u306f\u3044\u3064\u307e\u3067\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Pendulum"
+    ]
+}

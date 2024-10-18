@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4842,
+        7341,
+        7427,
+        10206
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When a Gemini monster with 2000 or more ATK such as <<7427>> is Special Summoned, even if it is treated as an Effect Monster after being Special Summoned by <<7341>>, or treated as a Normal Monster after being Special Summoned by <<4842>>, <<10206>> can be activated. (In both cases, the Gemini monster's effects are negated, and it is destroyed.)",
+            "id": 6903,
+            "question": "If a Gemini monster with 2000 or more ATK such as <<7427>> is Special Summoned by the effect of <<4842>>, can <<10206>> be activated? Also, if a Gemini monster with 2000 or more ATK such as <<7427>> is Special Summoned by the effect of <<7341>>, can <<10206>> be activated?",
+            "thisSrc": {
+                "date": "2015-08-28",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a Gemini monster with 2000 or more ATK such as <<7427>> is Special Summoned by the effect of <<4842>>, can <<10206>> be activated? Also, if a Gemini monster with 2000 or more ATK such as <<7427>> is Special Summoned by the effect of <<7341>>, can <<10206>> be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<7427>>\u300d\u7b49\u306e\u653b\u6483\u529b2000\u4ee5\u4e0a\u306e\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u3067\u3042\u308c\u3070\u3001\u300c<<7341>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u6271\u3044\u3068\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u5834\u5408\u3060\u3051\u3067\u306a\u304f\u3001\u300c<<4842>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u6271\u3044\u3068\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u5834\u5408\u3067\u3082\u3001\u300c<<10206>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\uff08\u3069\u3061\u3089\u306e\u5834\u5408\u3082\u3001\u305d\u306e\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u308a\u7834\u58ca\u3055\u308c\u307e\u3059\u3002\uff09",
+            "id": 6903,
+            "question": "\u300c<<7427>>\u300d\u7b49\u306e\u653b\u6483\u529b2000\u4ee5\u4e0a\u306e\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u300c<<4842>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u6642\u3001\u300c<<10206>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<7341>>\u300d\u306e\u300e\u25cf\u3053\u306e\u30ab\u30fc\u30c9\u3092\u30ea\u30ea\u30fc\u30b9\u3059\u308b\u4e8b\u3067\u3001\u81ea\u5206\u306e\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u300c<<7341>>\u300d\u4ee5\u5916\u306e\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u3002\u3053\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u518d\u5ea6\u53ec\u559a\u3055\u308c\u305f\u72b6\u614b\u306b\u306a\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<7427>>\u300d\u7b49\u306e\u653b\u6483\u529b2000\u4ee5\u4e0a\u306e\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u6642\u3001\u300c<<10206>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u653b\u6483\u529b2000\u4ee5\u4e0a\u306e\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u6642\u3001\u300c<<10206>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Gemini"
+    ]
+}

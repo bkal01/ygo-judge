@@ -1,0 +1,84 @@
+{
+    "cards": [
+        6380,
+        10522,
+        11702,
+        11808,
+        11976,
+        12064,
+        12109,
+        13044,
+        13173,
+        13254,
+        13350,
+        13465,
+        13520,
+        13587,
+        13683,
+        13737,
+        13918,
+        14253,
+        14266,
+        14270,
+        14368,
+        14466,
+        14472,
+        14480,
+        14629,
+        14643,
+        14744,
+        14977,
+        15265,
+        15635,
+        15636,
+        15638,
+        15639,
+        15949,
+        15965,
+        16192,
+        16809,
+        16830,
+        16834,
+        17387,
+        18029,
+        18150,
+        18164,
+        18485,
+        18803,
+        19162,
+        19374,
+        19397
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When the effect of Drytron Alpha Thuban is activated in the hand, it is an effect that Special Summons a monster from your hand, and not an effect that Special Summons a monster from the Graveyard. Therefore, you cannot activate the effect of Ghost Belle & Haunted Mansion in response to the effect of Drytron Alpha Thuban activated in your hand.\n\nWhen the effect of Drytron Alpha Thuban is activated in the Graveyard, it is an effect that Special Summons a monster from the Graveyard, and not an effect that Special Summons a monster from your hand. Therefore, you can activate the effect of Ghost Belle & Haunted Mansion in response to the effect of Drytron Alpha Thuban activated in the Graveyard.\n\n~~~\n\nThis also applies to the other cards, among others: Drytron Zeta Aldhibah, Drytron Beta Rastaban, Drytron Delta Altais, Sacred Fire King Garunix, Centur-Ion Emeth VI, Dark Hole Dragon, Nemleria Dream Devourer - Reveil, Infinitrack Road Roller, The Abyss Dragon Swordsoul, Basiltrice, Familiar of the Evil Eye, Diabolica the Draconique General, Stardust Wurm, Chaos Nephthys, Leafplace Plaice, Blue-Eyes Jet Dragon, War Rock Bashileos, Stardust Trail, Supreme Sovereign Serpent of Golgonda, Thunder Hand, Left-Hand Shark, Mathmech Sigma, Marincess Mandarin, Galactic Spiral Dragon, Simorgh of Darkness, Vic Viper T301, Gizmek Orochi, the Serpentron Sky Slasher, Palladium Oracle Mana, Salamangreat Fennec, Yuki-Musume, the Ice Mayakashi, Omni Dragon Brotaur, Token Collector, Mana Dragon Zirnitron, Darkest Diabolos, Lord of the Lair, Sea Archiver, Illusionist Faceless Magician, Sacred Arch-Airknight Parshath, Destrudo the Lost Dragon's Frisson, Amazoness Baby Tiger, Salvagent Driver, Tuning Magician, Graydle Slime, Mirror Resonator, Keeper of the Shrine, Zefraxa, Flame Beast of the Nekroz, Tempest, Dragon Ruler of Storms, and Green Baboon, Defender of the Forest.",
+            "id": 23218,
+            "question": "Can I activate the effect of Ghost Belle & Haunted Mansion in response to the \u2460st effect of Drytron Alpha Thuban?",
+            "thisSrc": {
+                "date": "2022-11-19",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can the effect of Ghost Belle & Haunted Mansion be activated in response to the effect of Drytron Alpha Thuban?",
+            "tlSrc": {
+                "date": "2023-10-07",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<15635>>\u300d\u306e\u52b9\u679c\u304c\u624b\u672d\u3067\u767a\u52d5\u3057\u305f\u6642\u306b\u306f\u3001\u305d\u306e\u52b9\u679c\u306f\u624b\u672d\u304b\u3089\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u3068\u3057\u3066\u6271\u3044\u3001\u5893\u5730\u304b\u3089\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u3068\u3057\u3066\u306f\u6271\u3044\u307e\u305b\u3093\u3002\u3057\u305f\u304c\u3063\u3066\u3001\u624b\u672d\u3067\u767a\u52d5\u3057\u305f\u300c<<15635>>\u300d\u306e\u52b9\u679c\u306b\u5bfe\u3057\u3066\u300c<<13587>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u300c<<15635>>\u300d\u306e\u52b9\u679c\u304c\u5893\u5730\u3067\u767a\u52d5\u3057\u305f\u6642\u306b\u306f\u3001\u305d\u306e\u52b9\u679c\u306f\u3001\u5893\u5730\u304b\u3089\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u3068\u3057\u3066\u6271\u3044\u3001\u624b\u672d\u304b\u3089\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u3068\u3057\u3066\u306f\u6271\u3044\u307e\u305b\u3093\u3002\u3057\u305f\u304c\u3063\u3066\u3001\u5893\u5730\u3078\u767a\u52d5\u3057\u305f\u300c<<15635>>\u300d\u306e\u52b9\u679c\u306b\u5bfe\u3057\u3066\u306f\u300c<<13587>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\n\n\u4f8b\u3068\u3057\u3066\u3001\u4ee5\u4e0b\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3064\u3044\u3066\u3082\u540c\u69d8\u3067\u3059\u3002\n\u300c<<15638>>\u300d\n\u300c<<15636>>\u300d\n\u300c<<15639>>\u300d\n\u300c<<19397>>\u300d\n\u300c<<19374>>\u300d\n\u300c<<19162>>\u300d\n\u300c<<18803>>\u300d\n\u300c<<18485>>\u300d\n\u300c<<18150>>\u300d\n\u300c<<18164>>\u300d\n\u300c<<18029>>\u300d\n\u300c<<17387>>\u300d\n\u300c<<16830>>\u300d\n\u300c<<16834>>\u300d\n\u300c<<16809>>\u300d\n\u300c<<15949>>\u300d\n\u300c<<16192>>\u300d\n\u300c<<15965>>\u300d\n\u300c<<15265>>\u300d\n\u300c<<14977>>\u300d\n\u300c<<14744>>\u300d\n\u300c<<14629>>\u300d\n\u300c<<14643>>\u300d\n\u300c<<14466>>\u300d\n\u300c<<14472>>\u300d\n\u300c<<14480>>\u300d\n\u300c<<14368>>\u300d\n\u300c<<14253>>\u300d\n\u300c<<14266>>\u300d\n\u300c<<14270>>\u300d\n\u300c<<13918>>\u300d\n\u300c<<13737>>\u300d\n\u300c<<13683>>\u300d\n\u300c<<13520>>\u300d\n\u300c<<13465>>\u300d\n\u300c<<13350>>\u300d\n\u300c<<13254>>\u300d\n\u300c<<13173>>\u300d\n\u300c<<13044>>\u300d\n\u300c<<12109>>\u300d\n\u300c<<11976>>\u300d\n\u300c<<12064>>\u300d\n\u300c<<11808>>\u300d\n\u300c<<11702>>\u300d\n\u300c<<10522>>\u300d\n\u300c<<6380>>\u300d",
+            "id": 23218,
+            "question": "\u300c<<15635>>\u300d\u306e\u300e\u2460\u300f\u306e\u300e\u81ea\u5206\u306e\u624b\u672d\u30fb\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u3001\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u300c\u30c9\u30e9\u30a4\u30c8\u30ed\u30f3\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u307e\u305f\u306f\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u30ab\u30fc\u30c9\u3092\u624b\u672d\u30fb\u5893\u5730\u304b\u3089\u5b88\u5099\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\u3002\u305d\u306e\u5f8c\u3001\u30c7\u30c3\u30ad\u304b\u3089\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u4e8b\u304c\u3067\u304d\u308b\u300f\u52b9\u679c\u306b\u5bfe\u3057\u3066\u3001\u300c<<13587>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-10-07",
+                "type": 0
+            },
+            "title": "\u300c<<15635>>\u300d\u306e\u52b9\u679c\u306b\u5bfe\u3057\u3066\u300c<<13587>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

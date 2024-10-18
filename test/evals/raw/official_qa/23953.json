@@ -1,0 +1,38 @@
+{
+    "cards": [
+        12599,
+        13616
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot.\n\nWhen you resolved <<13616>>, the\u300efor the rest of this Duel after you activate this card, you cannot activate Spell/Trap Cards or effects, except \"<<13616>>\"\u300feffect was also applied. Since the \u2462rd effect of <<12599>> is treated as an Equip Spell's effect, it cannot be activated for the rest of this Duel.",
+            "id": 23953,
+            "question": "I have previously activated and resolved <<13616>>'s \u2460st effect. Can I activate the \u2462rd effect of a <<12599>>, which is in my Spell & Trap Zone?",
+            "thisSrc": {
+                "date": "2023-03-05",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If <<13616>> was activated this Duel, can the effects of monster cards placed in the Spell & Trap Zone be activated?",
+            "tlSrc": {
+                "date": "2023-03-05",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u81ea\u5206\u304c\u300c<<13616>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u5f8c\u3001\u3053\u306e\u30c7\u30e5\u30a8\u30eb\u4e2d\u306b\u81ea\u5206\u306f\u300c<<13616>>\u300d\u4ee5\u5916\u306e\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u3082\u76f4\u3061\u306b\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\n\u300c<<12599>>\u300d\u306e\u2462\u306e\u52b9\u679c\u306f\u3001\u88c5\u5099\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3068\u3057\u3066\u6271\u3044\u307e\u3059\u306e\u3067\u3001\u300c<<13616>>\u300d\u3092\u767a\u52d5\u3057\u305f\u30c7\u30e5\u30a8\u30eb\u4e2d\u306b\u306f\u767a\u52d5\u3067\u304d\u306a\u304f\u306a\u308a\u307e\u3059\u3002",
+            "id": 23953,
+            "question": "\u81ea\u5206\u304c\u300c<<13616>>\u300d\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u2460\u306e\u52b9\u679c\u3092\u9069\u7528\u3057\u305f\u30c7\u30e5\u30a8\u30eb\u4e2d\u306b\u3001\u81ea\u5206\u306f\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u300c<<12599>>\u300d\u306e\u300e\u2462\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u3053\u306e\u30ab\u30fc\u30c9\u3092\u88c5\u5099\u3057\u305f\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u300c\u8d85\u91cd\u6b66\u8005\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-03-05",
+                "type": 0
+            },
+            "title": "\u300c<<13616>>\u300d\u3092\u767a\u52d5\u3057\u305f\u30c7\u30e5\u30a8\u30eb\u4e2d\u306b\u3001\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u3067\u767a\u52d5\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        11318,
+        11319
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if you discard <<11318>> for your hand size limit during the End Phase, you can still activate its effect.\nAs an example, if you were to Special Summon <<11319>> by that effect while you have a monster other than a \"Burning Abyss\" monster on your field, <<11319>> will be destroyed immediately by its own effect, but you would not be able to activate its effect that Special Summons a \"Burning Abyss\" monster from your Graveyard.",
+            "id": 22996,
+            "question": "When discarding for my hand size limit during the End Phase, <<11318>> is sent from my hand to the Graveyard. In this situation, can I activate the effect of that <<11318>>?",
+            "thisSrc": {
+                "date": "2020-04-03",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "When\u00a0<<11318>> is discarded from the hand during the End Phase for the hand size limit, can its effect to Special Summon\u00a01 \"Burning Abyss\" monster from your Deck be activated?",
+            "tlSrc": {
+                "date": "2020-04-01",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306e\u624b\u672d\u679a\u6570\u306e\u8abf\u6574\u306e\u969b\u306b\u624b\u672d\u304b\u3089\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3067\u3082\u3001\u305d\u306e\u300c<<11318>>\u300d\u306e\u300e\u2462\u300f\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\u4f8b\u3048\u3070\u3001\u305d\u306e\u51e6\u7406\u306b\u3088\u3063\u3066\u300c<<11319>>\u300d\u304c\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u969b\u306b\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c\u5f7c\u5cb8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u306b\u306f\u3001\u300e\u2461\u300f\u306e\u52b9\u679c\u304c\u305f\u3060\u3061\u306b\u9069\u7528\u3055\u308c\u3001\u300c<<11319>>\u300d\u306f\u7834\u58ca\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u304c\u3001\u305d\u306e\u7834\u58ca\u3055\u308c\u305f\u300c<<11319>>\u300d\u306e\u300e\u2462\u300f\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 22996,
+            "question": "\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306e\u624b\u672d\u679a\u6570\u306e\u8abf\u6574\u306e\u969b\u306b\u3001\u300c<<11318>>\u300d\u304c\u624b\u672d\u304b\u3089\u5893\u5730\u3078\u9001\u3089\u308c\u307e\u3057\u305f\u3002\n\u3053\u306e\u5834\u5408\u3001\u305d\u306e\u300c<<11318>>\u300d\u306e\u300e\u2462\u300f\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2020-04-01",
+                "type": 0
+            },
+            "title": "\u624b\u672d\u679a\u6570\u306e\u8abf\u6574\u306e\u969b\u306b\u3001\u300c<<11318>>\u300d\u304c\u624b\u672d\u304b\u3089\u6368\u3066\u3089\u308c\u305f\u5834\u5408\u3001\u300e\u2462\u300f\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

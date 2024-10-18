@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5908,
+        8492,
+        10956
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If your opponent's Salvage resolves, you will draw 1 card due to Shared Ride.\n(Both cards are added to the hand simultaneously, therefore\u300ea card(s) is added from the Main Deck or Graveyard to your opponent's hand\u300fis only met once.)\n\nIf your opponent's Preparation of Rites resolves in the fashion described, you will draw 2 cards due to Shared Ride.\n(The requirement to draw a card was met once when\u300eadd 1 Level 7 or lower Ritual Monster from your Deck to your hand\u300fwas applied, and then once again when\u300eadd 1 Ritual Spell from your Graveyard to your hand\u300fwas applied.)",
+            "id": 14072,
+            "question": "If my opponent activates Salvage, adding 2 WATER-Attribute monsters from their Graveyard to their hand while the effect of my Shared Ride is applying, how many cards will I draw using Shared Ride?\n\nAdditionally, if my opponent activates Preparation of Rites, adding 1 Ritual Monster from their Deck and 1 Ritual Spell from their Graveyard to their hand while the effect of my Shared Ride is applying, how many cards will I draw using Shared Ride?",
+            "thisSrc": {
+                "date": "2023-10-23",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If your opponent activates Salvage, or Preparation of Rites, while Shared Ride is applying, how many cards do I draw?",
+            "tlSrc": {
+                "date": "2023-10-23",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u76f8\u624b\u306e\u300c<<5908>>\u300d\u306e\u51e6\u7406\u304c\u884c\u308f\u308c\u305f\u5834\u5408\u306b\u306f\u3001\u81ea\u5206\u306f\uff11\u679a\u30c9\u30ed\u30fc\u3057\u307e\u3059\u3002\n\uff08\uff12\u4f53\u306f\u540c\u6642\u306b\u624b\u672d\u306b\u52a0\u308f\u3063\u3066\u304a\u308a\u3001\u300c<<10956>>\u300d\u306b\u3088\u308b\u30c9\u30ed\u30fc\u306e\u6761\u4ef6\u306f\uff11\u5ea6\u3060\u3051\u6e80\u305f\u3055\u308c\u307e\u3059\u3002\uff09\n\n\u76f8\u624b\u306e\u300c<<8492>>\u300d\u306e\u51e6\u7406\u304c\u884c\u308f\u308c\u305f\u5834\u5408\u306b\u306f\u3001\u81ea\u5206\u306f\uff12\u679a\u30c9\u30ed\u30fc\u3057\u307e\u3059\u3002\n\uff08\u300e\u30ec\u30d9\u30eb\uff17\u4ee5\u4e0b\u306e\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u51e6\u7406\u3067\uff11\u56de\u3001\u305d\u306e\u5f8c\u300e\u5100\u5f0f\u9b54\u6cd5\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u51e6\u7406\u3067\uff11\u56de\u3001\u300c<<10956>>\u300d\u306b\u3088\u308b\u30c9\u30ed\u30fc\u306e\u6761\u4ef6\u304c\u6e80\u305f\u3055\u308c\u307e\u3059\u3002\uff09",
+            "id": 14072,
+            "question": "\u81ea\u5206\u306e\u300c<<10956>>\u300d\u306e\u52b9\u679c\u9069\u7528\u4e2d\u306b\u3001\u76f8\u624b\u304c\u300c<<5908>>\u300d\u3092\u767a\u52d5\u3057\u3001\u5893\u5730\u306e\u6c34\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\uff12\u4f53\u3092\u624b\u672d\u306b\u52a0\u3048\u305f\u5834\u5408\u3001\u81ea\u5206\u306f\u300c<<10956>>\u300d\u306e\u52b9\u679c\u3067\u4f55\u679a\u30c9\u30ed\u30fc\u3057\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u81ea\u5206\u306e\u300c<<10956>>\u300d\u306e\u52b9\u679c\u9069\u7528\u4e2d\u306b\u3001\u76f8\u624b\u304c\u300c<<8492>>\u300d\u3092\u767a\u52d5\u3057\u3001\u30c7\u30c3\u30ad\u306e\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3068\u5893\u5730\u306e\u5100\u5f0f\u9b54\u6cd5\u30ab\u30fc\u30c9\uff11\u679a\u3092\u624b\u672d\u306b\u52a0\u3048\u305f\u5834\u5408\u3001\u81ea\u5206\u306f\u300c<<10956>>\u300d\u306e\u52b9\u679c\u3067\u4f55\u679a\u30c9\u30ed\u30fc\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-10-23",
+                "type": 0
+            },
+            "title": "\u300c<<10956>>\u300d\u306e\u9069\u7528\u4e2d\u3001\u76f8\u624b\u304c\u300c<<5908>>\u300d\u3084\u300c<<8492>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u4f55\u679a\u30c9\u30ed\u30fc\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

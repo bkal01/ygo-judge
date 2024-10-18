@@ -1,0 +1,48 @@
+{
+    "cards": [
+        11735
+    ],
+    "notes": {
+        "invalid_tcg": [
+            {
+                "body": "In the TCG, Oracle of Zefra specifically requires its controller to perform the Summon",
+                "date": "2020-12-28",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can.",
+            "id": 15231,
+            "question": "While Oracle of Zefra is applying, the opponent performs a Summon using a Zefra monster.\nCan I activate the effect of Oracle of Zefra that can be activated when a Zefra monster is used for a Ritual Summon or as a material?",
+            "thisSrc": {
+                "date": "2020-03-08",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If my opponent Summons using a Zefra monster, can I activate the effect of Oracle of Zefra?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u3059\u3002",
+            "id": 15231,
+            "question": "\u300c<<11735>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u76f8\u624b\u304c\u300c\u30bb\u30d5\u30a3\u30e9\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u4f7f\u7528\u3057\u3066\u5100\u5f0f\u53ec\u559a\u3092\u884c\u3063\u305f\u5834\u5408\u3084\u3001\u76f8\u624b\u304c\u300c\u30bb\u30d5\u30a3\u30e9\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7d20\u6750\u3068\u3057\u3066\u878d\u5408\u53ec\u559a\u7b49\u3092\u884c\u3063\u305f\u5834\u5408\u306b\u3001\u81ea\u5206\u306f\u300c<<11735>>\u300d\u306e\u300e\u2461\uff1a\u4ee5\u4e0b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u3001\u300c\u30bb\u30d5\u30a3\u30e9\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u4f7f\u7528\u3057\u3066\u5100\u5f0f\u53ec\u559a\u3001\u307e\u305f\u306f\u300c\u30bb\u30d5\u30a3\u30e9\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7d20\u6750\u3068\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3057\u305f\u6642\u3001\u81ea\u5206\u306f\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u3092\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u305a\u3064\u767a\u52d5\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11735>>\u300d\u306e\u9069\u7528\u4e2d\u3001\u76f8\u624b\u304c\u300c\u30bb\u30d5\u30a3\u30e9\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u4f7f\u7528\u3057\u3066\u5100\u5f0f\u53ec\u559a\u7b49\u3092\u884c\u3063\u305f\u5834\u5408\u3001\u81ea\u5206\u306f\u300c<<11735>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell",
+        "o:Reader beware"
+    ]
+}

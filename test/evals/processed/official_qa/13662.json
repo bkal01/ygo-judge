@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4817,
+        11197
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect is applied. In this case, \"your opponent\" is the opponent of the player who used Noble Knight Eachtar for the Synchro or Xyz Summon, not the opponent of its original owner.",
+            "id": 13662,
+            "question": "When my opponent uses Mind Control to take control of my Noble Knight Eachtar, and then uses it for a Synchro or Xyz Summon, will the effect of Noble Knight Eachtar that prevents the Summon from being negated or the opponent from activating cards/effects in response to it still apply?",
+            "thisSrc": {
+                "date": "2014-09-17",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When my opponent uses Mind Control to take control of my Noble Knight Eachtar, and then uses it for a Synchro or Xyz Summon, will the effect of Noble Knight Eachtar that prevents the Summon from being negated or the opponent from activating cards/effects in response to it still apply?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3067\u3082\u3001\u300c<<11197>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u3092\u7d20\u6750\u3068\u3057\u305f\u300c\u8056\u9a0e\u58eb\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u306eS\u53ec\u559a\u30fbX\u53ec\u559a\u306f\u7121\u52b9\u5316\u3055\u308c\u305a\u3001\u305d\u306e\u7279\u6b8a\u53ec\u559a\u6210\u529f\u6642\u306b\u76f8\u624b\u306f\u9b54\u6cd5\u30fb\u7f60\u30fb\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\n\u306a\u304a\u3001\u3053\u306e\u5834\u5408\u306e\u300e\u305d\u306e\u7279\u6b8a\u53ec\u559a\u6210\u529f\u6642\u306b\u76f8\u624b\u306f\u9b54\u6cd5\u30fb\u7f60\u30fb\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u304c\u6307\u3059\u3001\u201d\u76f8\u624b\u201d\u3068\u306f\u3001\u300c<<11197>>\u300d\u306e\u5143\u3005\u306e\u6301\u3061\u4e3b\u304b\u3089\u898b\u3066\u76f8\u624b\u3067\u306f\u306a\u304f\u3001\u300c<<11197>>\u300d\u3092\u7d20\u6750\u3068\u3057\u3066\u4f7f\u7528\u3057\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u304b\u3089\u898b\u3066\u76f8\u624b\u3001\u3068\u3044\u3046\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 13662,
+            "question": "\u300c<<4817>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u5143\u3005\u306e\u6301\u3061\u4e3b\u304c\u76f8\u624b\u306e\u300c<<11197>>\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5f97\u3066\u3044\u308b\u72b6\u614b\u3067\u30b7\u30f3\u30af\u30ed\u7d20\u6750\u307e\u305f\u306f\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3068\u3057\u305f\u5834\u5408\u3001\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u3092\u7d20\u6750\u3068\u3057\u305f\u300c\u8056\u9a0e\u58eb\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u306eS\u53ec\u559a\u30fbX\u53ec\u559a\u306f\u7121\u52b9\u5316\u3055\u308c\u305a\u3001\u305d\u306e\u7279\u6b8a\u53ec\u559a\u6210\u529f\u6642\u306b\u76f8\u624b\u306f\u9b54\u6cd5\u30fb\u7f60\u30fb\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u306e\u300c<<11197>>\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5f97\u3066\u3001\u7d20\u6750\u3068\u3057\u3066\u4f7f\u7528\u3057\u305f\u5834\u5408\u3001\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro",
+        "k:Xyz"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5355,
+        11129
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in that case, that monster remains unable to be destroyed by battle, having its effects negated and being unaffected by the opponent's card effects until the end of the turn.",
+            "id": 13520,
+            "question": "If a Spellcaster-Type monster affected by <<11129>> has its ATK reduced to less than 2000 by the effect of <<5355>>, what happens with the applied effect of <<11129>>?",
+            "thisSrc": {
+                "date": "2014-08-29",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a Spellcaster-Type monster affected by <<11129>> has its ATK reduced to less than 2000 by the effect of <<5355>>, what happens with the applied effect of <<11129>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11129>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u305d\u306e\u5f8c\u306b\u81ea\u5206\u306e\u767a\u52d5\u3057\u305f\u300c<<5355>>\u300d\u7b49\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u653b\u6483\u529b\u304c2000\u672a\u6e80\u306b\u306a\u3063\u305f\u5834\u5408\u3067\u3082\u3001\u300e\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u3001\u6226\u95d8\u3067\u306f\u7834\u58ca\u3055\u308c\u305a\u3001\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u3001\u76f8\u624b\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u305f\u307e\u307e\u3067\u3059\u3002",
+            "id": 13520,
+            "question": "\u300c<<11129>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u9b54\u6cd5\u4f7f\u3044\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u305d\u306e\u5f8c\u306b\u81ea\u5206\u306e\u767a\u52d5\u3057\u305f\u300c<<5355>>\u300d\u7b49\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u653b\u6483\u529b\u304c2000\u672a\u6e80\u306b\u306a\u308b\u5834\u5408\u3001\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u300c<<11129>>\u300d\u306e\u52b9\u679c\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11129>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u305d\u306e\u5f8c\u306b\u3001\u653b\u6483\u529b2000\u672a\u6e80\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u52b9\u679c\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

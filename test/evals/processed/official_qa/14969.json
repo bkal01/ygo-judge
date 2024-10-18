@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5505,
+        7516,
+        11761
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this case, even if you take control of your opponent's Tribute Summoned monster, if you attack an opponent's monster with it, Domain of the True Monarchs will increase its ATK by 800 during damage calculation.",
+            "id": 14969,
+            "question": "While I have Domain of the True Monarchs in my Field Zone, if I use Enemy Controller to take control of a <<11555>> that my opponent Tribute Summoned, and attack their monster with it, will the second effect of Domain of the True Monarchs be applied?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "While I have Domain of the True Monarchs in my Field Zone, if I use Enemy Controller to take control of a <<11555>> that my opponent Tribute Summoned, and attack their monster with it, will the second effect of Domain of the True Monarchs be applied?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u76f8\u624b\u304c\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5f97\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5f97\u3066\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u653b\u6483\u3092\u884c\u3063\u305f\u306e\u3067\u3042\u308c\u3070\u3001\u300c<<11761>>\u300d\u306e\u300e\u2461\uff1a\u81ea\u5206\u306e\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u653b\u6483\u3059\u308b\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306e\u307f\uff18\uff10\uff10\u30a2\u30c3\u30d7\u3059\u308b\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u3001\u653b\u6483\u529b\u306f\u30a2\u30c3\u30d7\u3057\u307e\u3059\u3002",
+            "id": 14969,
+            "question": "\u300c<<11761>>\u300d\u304c\u81ea\u5206\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u76f8\u624b\u304c\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u300c<<7516>>\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u300c<<5505>>\u300d\u306e\u52b9\u679c\u3067\u5f97\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u300c<<7516>>\u300d\u3067\u653b\u6483\u3092\u884c\u3046\u5834\u5408\u3001\u300c<<11761>>\u300d\u306e\u300e\u2461\uff1a\u81ea\u5206\u306e\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u653b\u6483\u3059\u308b\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306e\u307f\uff18\uff10\uff10\u30a2\u30c3\u30d7\u3059\u308b\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u304c\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5f97\u3066\u653b\u6483\u3059\u308b\u5834\u5408\u3001\u300c<<11761>>\u300d\u306e\u653b\u6483\u529b\u304c\u30a2\u30c3\u30d7\u3059\u308b\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11803
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in that case, since there is an \"Performage\" monster except the Performage Stilts Launcher that is activating the effect, the effect that inflicts damage can be activated.",
+            "id": 15376,
+            "question": "If you only have 2 copies of Performage Stilts Launcher in your Graveyard, can the effect of Performage Stilts Launcher that inflicts damage be activated?",
+            "thisSrc": {
+                "date": "2015-05-01",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If you only have 2 copies of Performage Stilts Launcher in your Graveyard, can the effect of Performage Stilts Launcher that inflicts damage be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u306e\u5893\u5730\u306b\u300c<<11803>>\u300d2\u4f53\u306e\u307f\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3067\u3082\u3001\u300e\u81ea\u5206\u306e\u5893\u5730\u306b\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u300cEm\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u300f\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300e\u76f8\u624b\u306b\uff12\uff10\uff10\uff10\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 15376,
+            "question": "\u81ea\u5206\u306e\u5893\u5730\u306b\u300c<<11803>>\u300d2\u4f53\u306e\u307f\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u300e\u2461\uff1a\u81ea\u5206\u306e\u5893\u5730\u306b\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u300cEm\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u3001\u76f8\u624b\u306b\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u9b54\u6cd5\u30fb\u7f60\u30fb\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u304c\u767a\u52d5\u3057\u305f\u6642\u3001\u5893\u5730\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u76f8\u624b\u306b\uff12\uff10\uff10\uff10\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u5893\u5730\u306b\u300c<<11803>>\u300d2\u4f53\u306e\u307f\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u300e\u76f8\u624b\u306b\uff12\uff10\uff10\uff10\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

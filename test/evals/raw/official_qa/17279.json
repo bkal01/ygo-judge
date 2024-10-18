@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12161
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can. In that case, the targeted monster is returned to the Extra Deck instead of your Main Deck.\n\nEven in that case, the part where all monsters your opponent controls with ATK less than or equal to that returned monster's are changed to Defense Position is applied normally.",
+            "id": 17279,
+            "question": "Can you target a banished Fusion, Synchros, Xyz or Link Monster with the first effect of <<12161>>?",
+            "thisSrc": {
+                "date": "2021-11-30",
+                "misc": "Catmaster0",
+                "type": 4
+            },
+            "title": "Can you target a banished Fusion (etc.) Monster with the first effect of <<12161>>?",
+            "tlSrc": {
+                "date": "2020-03-09",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<12161>>\u300d\u306e\u300e\u2460\u300f\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u3001\u9664\u5916\u3055\u308c\u3066\u3044\u308b\u81ea\u5206\u306e\u30a2\u30f3\u30c7\u30c3\u30c8\u65cf\u306e\u878d\u5408\u30fb\u30b7\u30f3\u30af\u30ed\u30fb\u30a8\u30af\u30b7\u30fc\u30ba\u30fb\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u9078\u629e\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u300e\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30c7\u30c3\u30ad\u306b\u623b\u3057\u300f\u306e\u51e6\u7406\u306b\u3088\u3063\u3066\u3001\u5bfe\u8c61\u306e\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u7b49\u306f\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u623b\u3057\u307e\u3059\u304c\u3001\u300e\u305d\u306e\u653b\u6483\u529b\u4ee5\u4e0b\u306e\u653b\u6483\u529b\u3092\u6301\u3064\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5168\u3066\u5b88\u5099\u8868\u793a\u306b\u3059\u308b\u300f\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 17279,
+            "question": "\u300c<<12161>>\u300d\u306e\u300e\u2460\u300f\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u9664\u5916\u3055\u308c\u3066\u3044\u308b\u81ea\u5206\u306e\u30a2\u30f3\u30c7\u30c3\u30c8\u65cf\u306e\u878d\u5408\u30fb\u30b7\u30f3\u30af\u30ed\u30fb\u30a8\u30af\u30b7\u30fc\u30ba\u30fb\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u629e\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2020-03-09",
+                "type": 0
+            },
+            "title": "\u300c<<12161>>\u300d\u306e\u300e\u2460\u300f\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u9664\u5916\u3055\u308c\u3066\u3044\u308b\u30a2\u30f3\u30c7\u30c3\u30c8\u65cf\u306e\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u7b49\u3092\u9078\u629e\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

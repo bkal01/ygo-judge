@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4353,
+        8216
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If you activate Crimson Fire, you take no damage.\n\nWhile performing the resolution of the Tremendous Fire activated by the opponent, the opponent takes 500 damage and 2000 damage as a result of Crimson Fire doubling the 1000 damage you would take.\n\nThe end result is that the opponent takes 2500 damage.",
+            "id": 8434,
+            "question": "If Crimson Fire is activated in a chain to a Tremendous Fire activated by the opponent, how much damage is inflicted by that effect?",
+            "thisSrc": {
+                "date": "2014-07-31",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Crimson Fire is activated in a chain to a Tremendous Fire activated by the opponent, how much damage is inflicted by that effect?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u304c\u300c<<8216>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u81ea\u5206\u304c\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u767a\u52d5\u3057\u305f\u300c<<4353>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u3092\u884c\u3046\u6642\u306b\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u53d7\u3051\u308b500\u30dd\u30a4\u30f3\u30c8\u30c0\u30e1\u30fc\u30b8\u3068\u3001\u81ea\u5206\u304c\u53d7\u3051\u308b1000\u30dd\u30a4\u30f3\u30c8\u30c0\u30e1\u30fc\u30b8\u3092\u300c<<8216>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u500d\u306b\u3057\u305f2000\u30dd\u30a4\u30f3\u30c8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u307e\u3059\u3002\n\u7d50\u679c\u7684\u306b\u3001\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306f2500\u30dd\u30a4\u30f3\u30c8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u307e\u3059\u3002",
+            "id": 8434,
+            "question": "\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u300c<<4353>>\u300d\u3092\u767a\u52d5\u3057\u305f\u6642\u306b\u3001\u30c1\u30a7\u30fc\u30f3\u3092\u3057\u3066\u300c<<8216>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u53d7\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u306f\u3044\u304f\u3064\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<4353>>\u300d\u306b\u30c1\u30a7\u30fc\u30f3\u3092\u3057\u3066\u300c<<8216>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u53d7\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u306f\u3044\u3064\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

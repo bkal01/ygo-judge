@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4798,
+        4909,
+        11901,
+        11904
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If Toon Kingdom, which is treated as Toon World as long as it is in the Field Zone, is destroyed by Mystical Space Typhoon (and the Continuous Spell Card Toon World is not face-up on the field), Comic Hand is immediately destroyed by its own effect.",
+            "id": 15875,
+            "question": "Comic Hand is face-up on my side of the field, equipped to a monster. If a Toon Kingdom in my Field Zone is destroyed by my opponent's Mystical Space Typhoon, will Comic Hand be destroyed?",
+            "thisSrc": {
+                "date": "2015-05-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Comic Hand is face-up on my side of the field, equipped to a monster. If a Toon Kingdom in my Field Zone is destroyed by my opponent's Mystical Space Typhoon, will Comic Hand be destroyed?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11901>>\u300d\u306f\u3001\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306e\u30ab\u30fc\u30c9\u540d\u306f\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u300c<<4798>>\u300d\u3068\u3057\u3066\u6271\u3046\u300f\u30ab\u30fc\u30c9\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300c<<4909>>\u300d\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\uff08\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u6c38\u7d9a\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u300c<<4798>>\u300d\u304c\u4ed6\u306b\u5b58\u5728\u3057\u3066\u3044\u308b\u7b49\u3067\u306a\u3044\u306e\u3067\u3042\u308c\u3070\uff09\u3001\u300c<<11904>>\u300d\u3082\u300e\u2462\uff1a\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c<<4798>>\u300d\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u306b\u3053\u306e\u30ab\u30fc\u30c9\u306f\u7834\u58ca\u3055\u308c\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u305f\u3060\u3061\u306b\u7834\u58ca\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 15875,
+            "question": "\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u88c5\u5099\u3055\u308c\u3066\u3044\u308b\u300c<<11904>>\u300d\u304c\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u81ea\u5206\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<11901>>\u300d\u304c\u76f8\u624b\u306e\u300c<<4909>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<11904>>\u300d\u306f\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11901>>\u300d\u304c\u300c<<4909>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<11904>>\u300d\u306f\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5533,
+        8835
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of Silent Graveyard is not treated as an effect that is applied to a card(s) in the Graveyard, so it will be applied normally even while the effect of Necrovalley is also applying. (Any effects that activate in the Graveyard this turn are negated.)",
+            "id": 13514,
+            "question": "While the effect of Necrovalley is applying, can I activate Silent Graveyard?",
+            "thisSrc": {
+                "date": "2016-12-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "While the effect of Necrovalley is applying, can I activate Silent Graveyard?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<8835>>\u300d\u306e\u52b9\u679c\u306f\u3001\u300e\u5893\u5730\u306e\u30ab\u30fc\u30c9\u3078\u53ca\u3076\u52b9\u679c\u300f\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u305b\u3093\u306e\u3067\u3001\u300c<<5533>>\u300d\u306e\u9069\u7528\u4e2d\u3067\u3082\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u3001\u305d\u306e\u52b9\u679c\u51e6\u7406\u3082\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\uff08\u300c<<5533>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u5316\u3055\u308c\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002\uff09",
+            "id": 13514,
+            "question": "\u76f8\u624b\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u300c<<5533>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u304a\u4e92\u3044\u306b\u5893\u5730\u306e\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3067\u304d\u305a\u3001\u5893\u5730\u306e\u30ab\u30fc\u30c9\u3078\u53ca\u3076\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u3001\u9069\u7528\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306f\u300c<<8835>>\u300d\u306e\u300e\u2460\uff1a\u624b\u672d\u3092\uff11\u679a\u6368\u3066\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u30bf\u30fc\u30f3\u3001\u5893\u5730\u3067\u767a\u52d5\u3059\u308b\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5533>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<8835>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

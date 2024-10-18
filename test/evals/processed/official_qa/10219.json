@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5685,
+        11818
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When the effect of The Spell Absorbing Life resolves, flipping all face-down Defense Position monsters on the field face-up, the effect that makes you gain Life Points is applied at the same time, so after The Spell Absorbing Life resolves, the effect of the flipped Aromage Jasmine can be activated.",
+            "id": 10219,
+            "question": "If the effect of The Spell Absorbing Life is applied, and a face-down Defense Position Aromage Jasmine is flipped face-up, and Life Points are gained, will the effect of Aromage Jasmine that allows me to draw 1 card activate?",
+            "thisSrc": {
+                "date": "2015-06-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the effect of The Spell Absorbing Life is applied, and a face-down Defense Position Aromage Jasmine is flipped face-up, and Life Points are gained, will the effect of Aromage Jasmine that allows me to draw 1 card activate?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<5685>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306b\u3088\u3063\u3066\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u8868\u5074\u8868\u793a\u306b\u3059\u308b\u51e6\u7406\u3068\u3001\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u56de\u5fa9\u3059\u308b\u51e6\u7406\u306f\u540c\u6642\u306b\u884c\u308f\u308c\u308b\u6271\u3044\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300c<<5685>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u304c\u5b8c\u4e86\u3057\u305f\u5f8c\u306b\u3001\u300c<<5685>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u8868\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u300c<<11818>>\u300d\u306e\u3001\u300e\u2461\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u306eLP\u304c\u56de\u5fa9\u3057\u305f\u5834\u5408\u306b\u767a\u52d5\u3059\u308b\u3002\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff11\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u52b9\u679c\u304c\u767a\u52d5\u3057\u3001\u51e6\u7406\u304c\u884c\u308f\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 10219,
+            "question": "\u300c<<5685>>\u300d\u306e\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u5168\u3066\u306e\u88cf\u5074\u5b88\u5099\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u8868\u5074\u8868\u793a\u306b\u3059\u308b\u300f\u52b9\u679c\u51e6\u7406\u306b\u3088\u3063\u3066\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u300c<<11818>>\u300d\u304c\u8868\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u300c<<5685>>\u300d\u306e\u300e\u81ea\u5206\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u306b\u3064\u304d\uff14\uff10\uff10\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u56de\u5fa9\u3059\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u304c\u3001\u300c<<11818>>\u300d\u306e\u300e\u2461\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u306eLP\u304c\u56de\u5fa9\u3057\u305f\u5834\u5408\u306b\u767a\u52d5\u3059\u308b\u3002\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff11\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5685>>\u300d\u306e\u52b9\u679c\u3067\u300c<<11818>>\u300d\u304c\u8868\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Trap"
+    ]
+}

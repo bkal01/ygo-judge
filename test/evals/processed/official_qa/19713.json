@@ -1,0 +1,38 @@
+{
+    "cards": [
+        12515,
+        12692
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, during the Battle Step in which Krystal Dragon declared an attack, Krystal Dragon is not considered to have battled yet, and its effect cannot be activated during this Battle Step. (In this case, once the Damage Step is entered and damage calculation has been conducted with the opponent's monster, you can activate the effect of Krystal Dragon when you return to the Battle Step afterward.)",
+            "id": 19713,
+            "question": "My Krystal Dragon declares an attack, targeting an opponent's monster. During the Battle Step of that same attack, can I activate the effect of Krystal Dragon?",
+            "thisSrc": {
+                "date": "2016-07-31",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "My Krystal Dragon declares an attack, targeting an opponent's monster. During the Battle Step of that same attack, can I activate the effect of Krystal Dragon?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<12692>>\u300d\u306f\u653b\u6483\u5ba3\u8a00\u306f\u884c\u3063\u3066\u3044\u307e\u3059\u304c\u3001\u653b\u6483\u5ba3\u8a00\u3092\u884c\u3063\u305f\u6642\u70b9\u3067\u306f\u3001\u305d\u306e\u300c<<12692>>\u300d\u306f\u6226\u95d8\u3092\u884c\u3063\u305f\u6271\u3044\u306b\u306f\u306a\u3089\u305a\u3001\u305d\u306e\u30d0\u30c8\u30eb\u30b9\u30c6\u30c3\u30d7\u306b\u300c<<12692>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\uff08\u3053\u306e\u5834\u5408\u3001\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u306b\u5165\u308a\u3001\u300c<<12515>>\u300d\u3068\u306e\u6226\u95d8\u304c\u884c\u308f\u308c\u305f\u5f8c\u3001\u30d0\u30c8\u30eb\u30b9\u30c6\u30c3\u30d7\u306b\u623b\u3063\u305f\u4ee5\u964d\u306b\u300c<<12692>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u767a\u52d5\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 19713,
+            "question": "\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u300c<<12515>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u81ea\u5206\u304c\u300c<<12692>>\u300d\u3067\u653b\u6483\u3092\u5ba3\u8a00\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u653b\u6483\u5ba3\u8a00\u304c\u884c\u308f\u308c\u305f\u30d0\u30c8\u30eb\u30b9\u30c6\u30c3\u30d7\u4e2d\u306b\u3001\u300c<<12692>>\u300d\u306e\u300e\u2460\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3092\u884c\u3063\u305f\u81ea\u5206\u30bf\u30fc\u30f3\u306e\u30d0\u30c8\u30eb\u30b9\u30c6\u30c3\u30d7\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u30c9\u30e9\u30b4\u30f3\u65cf\u30fb\u30ec\u30d9\u30eb\uff18\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c\u30af\u30ea\u30b9\u30bf\u30eb\uff65\u30c9\u30e9\u30b4\u30f3\u300d\u3067\u653b\u6483\u3092\u5ba3\u8a00\u3057\u305f\u305d\u306e\u30d0\u30c8\u30eb\u30b9\u30c6\u30c3\u30d7\u4e2d\u306b\u3001\u300c\u30af\u30ea\u30b9\u30bf\u30eb\uff65\u30c9\u30e9\u30b4\u30f3\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Damage Step"
+    ]
+}

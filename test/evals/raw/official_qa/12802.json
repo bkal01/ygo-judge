@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5740,
+        10598
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When <<10598>> is Special Summoned using its own effect, it is Summoned with the \"this card is unaffected by other cards' effects, and it loses 500 DEF during each player's Standby Phase\" effect already applied.\n\nTherefore, even if it is Special Summoned while <<5740>> is applying, <<10598>> will be unaffected by <<5740>>, so its effects will not be negated, and its effect will apply as usual.",
+            "id": 12802,
+            "question": "If I Special Summon <<10598>> using its own effect, while <<5740>> is applying, will the effect of <<10598>> be negated?",
+            "thisSrc": {
+                "date": "2021-07-05",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If <<5740>> is applying, and <<10598>> is Special Summoned using its own effect, will its effects be negated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u624b\u672d\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<10598>>\u300d\u306f\u300e\u3053\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u3053\u306e\u30ab\u30fc\u30c9\u306f\u3001\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u305a\u3001\u304a\u4e92\u3044\u306e\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u6bce\u306b\u5b88\u5099\u529b\u304c500\u30dd\u30a4\u30f3\u30c8\u30c0\u30a6\u30f3\u3059\u308b\u300f\u52b9\u679c\u304c\u65e2\u306b\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u72b6\u614b\u3067\u3059\u3002\n\n\u300c<<5740>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u5834\u5408\u3067\u3082\u3001\u305d\u306e\u300c<<10598>>\u300d\u306f\u300c<<5740>>\u300d\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u305f\u3081\u3001\u52b9\u679c\u306f\u7121\u52b9\u306b\u306f\u306a\u3089\u305a\u3001\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 12802,
+            "question": "\u300c<<10598>>\u300d\u3092\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u300c<<5740>>\u300d\u9069\u7528\u4e2d\u306b\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300c<<10598>>\u300d\u306e\u52b9\u679c\u306f\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c\u6a5f\u52d5\u8981\u7280\u3000\u30c8\u30ea\u30b1\u30e9\u30a4\u30ca\u30fc\u300d\u3092\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u300c<<5740>>\u300d\u9069\u7528\u4e2d\u306b\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u52b9\u679c\u306f\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Trap"
+    ]
+}

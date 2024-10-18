@@ -1,0 +1,38 @@
+{
+    "cards": [
+        10193
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When resolving <<10193>>, if you no longer control an Xyz Monster, it still resolves normally.",
+            "id": 13189,
+            "question": "If <<10193>> is activated, but an effect is chained so that you no longer control an Xyz Monster when <<10193>> resolves, does its effect still apply?",
+            "thisSrc": {
+                "date": "2014-04-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<10193>> is activated, but an effect is chained so that you no longer control an Xyz Monster when <<10193>> resolves, does its effect still apply?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<10193>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u3044\u72b6\u614b\u3068\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u300e\u30c7\u30c3\u30ad\u304b\u3089\u300c\u30a8\u30af\u30b7\u30fc\u30ba\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\uff11\u679a\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 13189,
+            "question": "\u300c<<10193>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u305f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<10193>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u52b9\u679c\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c\u30b8\u30a7\u30cd\u30ec\u30fc\u30b7\u30e7\u30f3\uff65\u30d5\u30a9\u30fc\u30b9\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain",
+        "k:Xyz"
+    ]
+}

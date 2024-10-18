@@ -1,0 +1,42 @@
+{
+    "cards": [
+        5740,
+        11991,
+        12323,
+        12446,
+        12447,
+        12448
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if <<5740>> is applying when <<11991>> is Synchro Summoned, its\u300eIf this card is Synchro Summoned using a \"Blackwing\" monster as Material, it is treated as a Tuner monster while face-up on the field.\u300feffect will apply, and it will be treated as a Tuner.\n\nFurthermore, if <<5740>> begins applying after <<11991>> has been Synchro Summoned this way, <<11991>> will continue to be treated as a Tuner.\n\n~~~\n\nThis also applies to the following monsters:\n\u25cf <<12446>>\n\u25cf <<12448>>\n\u25cf <<12447>>\n\u25cf <<12323>>",
+            "id": 16495,
+            "question": "While <<5740>> is applying its effect, I Synchro Summon <<11991>> using at least one \"Blackwing\" monster as material. Will <<11991>> now be treated as a Tuner?\n\nAdditionally, if <<5740>> instead resolves after <<11991>> has been Synchro Summoned this way, negating its effects, will <<11991>> still be treated as a Tuner?",
+            "thisSrc": {
+                "date": "2022-12-12",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If <<11991>> is Synchro Summoned while <<5740>> is applying, will it be treated as a Tuner?",
+            "tlSrc": {
+                "date": "2024-07-20",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<5740>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<11991>>\u300d\u304c\u30b7\u30f3\u30af\u30ed\u53ec\u559a\u3055\u308c\u305f\u5834\u5408\u3067\u3082\u3001\u300e\u2460\uff1a\u300cBF\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7d20\u6750\u3068\u3057\u3066S\u53ec\u559a\u3057\u305f\u3053\u306e\u30ab\u30fc\u30c9\u306f\u30c1\u30e5\u30fc\u30ca\u30fc\u3068\u3057\u3066\u6271\u3046\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u3001\u30c1\u30e5\u30fc\u30ca\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u3059\u3002\n\n\u307e\u305f\u3001\u300c<<11991>>\u300d\u304c\u30b7\u30f3\u30af\u30ed\u53ec\u559a\u3055\u308c\u305f\u5f8c\u306b\u300c<<5740>>\u300d\u304c\u767a\u52d5\u3057\u305f\u5834\u5408\u3067\u3082\u3001\u2460\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u30c1\u30e5\u30fc\u30ca\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u305f\u307e\u307e\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u4ee5\u4e0b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5834\u5408\u3082\u540c\u69d8\u3067\u3059\u3002\n\u300c<<12446>>\u300d\n\u300c<<12448>>\u300d\n\u300c<<12447>>\u300d\n\u300c<<12323>>\u300d",
+            "id": 16495,
+            "question": "\u300c<<5740>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300cBF\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc1\u4f53\u4ee5\u4e0a\u3092\u30b7\u30f3\u30af\u30ed\u7d20\u6750\u3068\u3057\u3066\u300c<<11991>>\u300d\u3092\u30b7\u30f3\u30af\u30ed\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u30c1\u30e5\u30fc\u30ca\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<11991>>\u300d\u304c\u30b7\u30f3\u30af\u30ed\u53ec\u559a\u3055\u308c\u305f\u5f8c\u306b\u300c<<5740>>\u300d\u304c\u767a\u52d5\u3057\u3001\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u30c1\u30e5\u30fc\u30ca\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u306a\u304f\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-07-20",
+                "type": 0
+            },
+            "title": "\u300c<<5740>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<11991>>\u300d\u3092\u30b7\u30f3\u30af\u30ed\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u30c1\u30e5\u30fc\u30ca\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

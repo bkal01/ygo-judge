@@ -1,0 +1,40 @@
+{
+    "cards": [
+        5162,
+        5544,
+        12554
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if control of <<12554>> has switched to your opponent by the effect of <<5162>>, if it is destroyed by battle and sent to your Graveyard, you can activate its effect. Also, if control of <<12554>> has switched to your opponent, and it is destroyed by a card effect and sent to the Graveyard, you cannot activate its effect.",
+            "id": 19342,
+            "question": "If my opponent controls my <<12554>> due to the effect of <<5162>>, and it is destroyed by battle and sent to my Graveyard, can I activate its effect that allows me to draw 1 card? Also, if my opponent controls my <<12554>> due to the effect of <<5162>>, and it is destroyed by the effect of <<5544>> and sent to my Graveyard, can I activate its effect that allows me to draw 1 card?",
+            "thisSrc": {
+                "date": "2016-05-16",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If my opponent controls my <<12554>> due to the effect of <<5162>>, and it is destroyed by battle and sent to my Graveyard, can I activate its effect that allows me to draw 1 card? Also, if my opponent controls my <<12554>> due to the effect of <<5162>>, and it is destroyed by the effect of <<5544>> and sent to my Graveyard, can I activate its effect that allows me to draw 1 card?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12554>>\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u300c<<5162>>\u300d\u306e\u52b9\u679c\u3067\u76f8\u624b\u306b\u79fb\u3063\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u6226\u95d8\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u81ea\u5206\u306e\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u306e\u3067\u3042\u308c\u3070\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u307e\u305f\u3001\u300c<<12554>>\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u300c<<5162>>\u300d\u306e\u52b9\u679c\u3067\u76f8\u624b\u306b\u79fb\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u81ea\u5206\u306e\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u969b\u306b\u306f\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 19342,
+            "question": "\u300c<<5162>>\u300d\u306e\u52b9\u679c\u3067\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u76f8\u624b\u306b\u79fb\u3063\u3066\u3044\u308b\u3001\u5143\u3005\u306e\u6301\u3061\u4e3b\u304c\u81ea\u5206\u306e\u300c<<12554>>\u300d\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u81ea\u5206\u306e\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u307e\u305f\u306f\u76f8\u624b\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff11\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<5162>>\u300d\u306e\u52b9\u679c\u3067\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u76f8\u624b\u306b\u79fb\u3063\u3066\u3044\u308b\u3001\u5143\u3005\u306e\u6301\u3061\u4e3b\u304c\u81ea\u5206\u306e\u300c<<12554>>\u300d\u304c\u300c<<5544>>\u300d\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u81ea\u5206\u306e\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u307e\u305f\u306f\u76f8\u624b\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff11\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5162>>\u300d\u306e\u52b9\u679c\u3067\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u76f8\u624b\u306b\u79fb\u3063\u3066\u3044\u308b\u300c<<12554>>\u300d\u304c\u6226\u95d8\u3084\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Spell"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "cards": [
+        9352
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, it can be equipped, but the effects of that Equip Spell Card will not affect it.",
+            "id": 13596,
+            "question": "Can a monster affected by <<9352>> still be equipped with Equip Spell Cards?",
+            "thisSrc": {
+                "date": "2014-09-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can a monster affected by <<9352>> still be equipped with Equip Spell Cards?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<9352>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u72b6\u614b\u3068\u306a\u3063\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u3001\u88c5\u5099\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u767a\u52d5\u3057\u3001\u88c5\u5099\u3055\u305b\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u88c5\u5099\u3055\u308c\u305f\u88c5\u5099\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u304c\u3001\u300c<<9352>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u53d7\u3051\u306a\u3044\u3001\u3068\u3044\u3046\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 13596,
+            "question": "\u300c<<9352>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u72b6\u614b\u3068\u306a\u3063\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u3001\u88c5\u5099\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u88c5\u5099\u3055\u305b\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9352>>\u300d\u3067\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u88c5\u5099\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u88c5\u5099\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

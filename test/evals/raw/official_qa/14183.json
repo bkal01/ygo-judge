@@ -1,0 +1,38 @@
+{
+    "cards": [
+        7478,
+        11583
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if <<7478>> is applying its effect, you can still activate <<11583>>.\n\nIf you shuffle 3 face-up Pendulum Monsters from your Extra Deck into the Deck, <<11583>> will resolve normally, and you will draw cards.\n\nIf you select a Pendulum Monster(s) in your Graveyard when resolving <<11583>>, that card(s) will not be returned to the Deck, and will be banished instead. (Any cards chosen from the Extra Deck will be returned to the Deck, as usual.)\nAdditionally, since you did not return 3 cards to the Deck, you do not draw cards.",
+            "id": 14183,
+            "question": "<<7478>> is applying its effect, causing any card returned from the Deck to the Graveyard to be banished instead. In this situation, can I activate <<11583>>?",
+            "thisSrc": {
+                "date": "2022-06-29",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can I activate <<11583>> while <<7478>> is applying?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<7478>>\u300d\u306e\u9069\u7528\u4e2d\u3067\u3042\u3063\u3066\u3082\u3001\u300c<<11583>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306e\u8868\u5074\u8868\u793a\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\uff13\u4f53\u3092\u30c7\u30c3\u30ad\u306b\u623b\u3057\u3066\u52b9\u679c\u51e6\u7406\u3092\u884c\u3046\u5834\u5408\u3067\u3042\u308c\u3070\u3001\u305d\u306e\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u3001\u30c9\u30ed\u30fc\u3059\u308b\u51e6\u7406\u3082\u884c\u3044\u307e\u3059\u3002\n\n\u306a\u304a\u3001\u300c<<11583>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306b\u3066\u81ea\u5206\u306e\u5893\u5730\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u3093\u3060\u5834\u5408\u306b\u306f\u3001\u305d\u306e\u5893\u5730\u304b\u3089\u9078\u3093\u3060\u30ab\u30fc\u30c9\u306f\u30c7\u30c3\u30ad\u306b\u623b\u3089\u305a\u9664\u5916\u3055\u308c\u307e\u3059\u3002\uff08\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u9078\u3093\u3060\u30ab\u30fc\u30c9\u306f\u901a\u5e38\u901a\u308a\u30c7\u30c3\u30ad\u306b\u623b\u3057\u307e\u3059\u3002\uff09\n\u3053\u306e\u5834\u5408\u3001\u5408\u8a08\uff13\u4f53\u3092\u30c7\u30c3\u30ad\u306b\u52a0\u3048\u308b\u4e8b\u304c\u3067\u304d\u3066\u3044\u307e\u305b\u3093\u306e\u3067\u3001\u30c9\u30ed\u30fc\u3059\u308b\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 14183,
+            "question": "\u300c<<7478>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u5893\u5730\u304b\u3089\u30c7\u30c3\u30ad\u306b\u623b\u308b\u30ab\u30fc\u30c9\u306f\u30c7\u30c3\u30ad\u306b\u623b\u3089\u305a\u30b2\u30fc\u30e0\u304b\u3089\u9664\u5916\u3055\u308c\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u300c<<11583>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<7478>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<11583>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

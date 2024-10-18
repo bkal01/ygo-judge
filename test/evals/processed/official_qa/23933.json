@@ -1,0 +1,70 @@
+{
+    "cards": [
+        7920,
+        9008,
+        9118,
+        11629,
+        12348,
+        12634,
+        13081,
+        13135,
+        13625,
+        13714,
+        14637,
+        14670,
+        14671,
+        14676,
+        15997,
+        17068,
+        17478,
+        17794,
+        19189,
+        19857,
+        19858,
+        19859,
+        20555
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "Special Summons caused by a card effect, and whether the effect includes Special Summoning.",
+                "date": "2022-12-12",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can.\n(The activation of I:P Masquerena's effect is considered to\u300einclude an effect that Special Summons a monster(s).\u300f)\n\n~~~\n\nFor example, the following cards/effects' activations are also treated as such, just like Urgent Tuning's:\n\u25cf Wonder Xyz\n\u25cf World Legacy Awakens\n\u25cf Exosister Returnia\n\u25cf Urgent Tuning\n\u25cf Formula Synchron's \u2461nd effect\n\u25cf Accel Synchron's \u2461nd effect\n\u25cf Shooting Riser Dragon's \u2461nd effect\n\u25cf Garden Rose Flora's \u2461nd effect\n\u25cf Crystron Quandax' \u2460st effect\n\u25cf Unchained Soul of Rage's \u2460st effect\n\u25cf Unchained Soul of Anguish's \u2460st effect\n\u25cf Unchained Soul of Disaster's \u2461nd effect\n\u25cf Superheavy Samurai Fist's \u2460st effect\n\u25cf Pendulum Evolution's \u2461nd effect\n\u25cf Tenpai Dragon Chundra's \u2462rd effect\n\u25cf Tenpai Dragon Paidra's \u2462rd effect\n\n\u25cf Tenpai Dragon Fadra's \u2462rd effect\n\n~~~\n\nSimilarly, the following cards/effects can also be activated in response to the activation of I:P Masquerena's effect:\n\u25cf D/D/D Wave High King Caesar's \u2460st effect\n\u25cf Dominus Impulse\n\u25cf Branded Retribution\n\u25cf Solemn Warning",
+            "id": 23933,
+            "question": "Can I chain the \u2461nd effect of Tearlaments Rulkallos, which can respond to any effect's activation if it\u300eincludes an effect that Special Summons a monster(s),\u300fto the activation of I:P Masquerena's\u300eLink Summon 1 Link Monster\u300feffect?",
+            "thisSrc": {
+                "date": "2022-12-10",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Does I:P Masquerena's effect include an effect to Special Summon a monster?",
+            "tlSrc": {
+                "date": "2024-09-08",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\n\uff08\u300c<<14676>>\u300d\u306e\u2460\u306e\u52b9\u679c\u306f\u300e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u300f\u3092\u542b\u3080\u52b9\u679c\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u3059\u3002\uff09\n\n\u4ee5\u4e0b\u306e\u3088\u3046\u306a\u3001\u30b7\u30f3\u30af\u30ed\u53ec\u559a\u30fb\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u30fb\u30ea\u30f3\u30af\u53ec\u559a\u30fb\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3092\u884c\u3046\u52b9\u679c\u3082\u300e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u300f\u3092\u542b\u307f\u307e\u3059\u3002\n\u300c<<12348>>\u300d\n\u300c<<13625>>\u300d\n\u300c<<17478>>\u300d\n\u300c<<7920>>\u300d\n\u300c<<9118>>\u300d\u306e\u2461\n\u300c<<11629>>\u300d\u306e\u2461\n\u300c<<13714>>\u300d\u306e\u2461\n\u300c<<15997>>\u300d\u306e\u2461\n\u300c<<12634>>\u300d\u306e\u2460\n\u300c<<14670>>\u300d\u306e\u2460\n\u300c<<14671>>\u300d\u306e\u2460\n\u300c<<14637>>\u300d\u306e\u2461\n\u300c<<13135>>\u300d\u306e\u2460\n\u300c<<19189>>\u300d\u306e\u2461\n\u300c<<19859>>\u300d\u2462\n\u300c<<19857>>\u300d\u2462\n\u300c<<19858>>\u300d\u2462\n\n\u300c<<14676>>\u300d\u306e\u2460\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u4ee5\u4e0b\u306e\u52b9\u679c\u3082\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\n\u300c<<13081>>\u300d\u2460\n\u300c<<20555>>\u300d\n\u300c<<17068>>\u300d\n\u300c<<9008>>\u300d",
+            "id": 23933,
+            "question": "\u300c<<14676>>\u300d\u306e\u300e\u2460\uff1a\u76f8\u624b\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u30ab\u30fc\u30c9\u3092\u542b\u3080\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7d20\u6750\u3068\u3057\u3066L\u53ec\u559a\u3092\u884c\u3046\u300f\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u300c<<17794>>\u300d\u306e\u300e\u2461\uff1a\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u3092\u542b\u3080\u52b9\u679c\u3092\u76f8\u624b\u304c\u767a\u52d5\u3057\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-09-08",
+                "type": 0
+            },
+            "title": "\u300c<<14676>>\u300d\u306e\u52b9\u679c\u306f\u300e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u300f\u3092\u542b\u307f\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "o:Important Precedent"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "cards": [
+        14465
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if Simorgh, Lord of the Storm was Tribute Set, its effect that prevents your opponent from targeting it will be applied once it is flipped face-up.",
+            "id": 22554,
+            "question": "I Tribute Set a Simorgh, Lord of the Storm in face-down Defense Position. After that, if Simorgh, Lord of the Storm is flipped face-up, will its effect that prevents my opponent from targeting it be applied?",
+            "thisSrc": {
+                "date": "2019-04-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I Tribute Set a Simorgh, Lord of the Storm in face-down Defense Position. After that, if Simorgh, Lord of the Storm is flipped face-up, will its effect that prevents my opponent from targeting it be applied?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3055\u308c\u305f\u300c<<14465>>\u300d\u304c\u305d\u306e\u5f8c\u306b\u8868\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3067\u3082\u3001\u300e\u2460\uff1a\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u3053\u306e\u30ab\u30fc\u30c9\u306f\u76f8\u624b\u306e\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u306b\u306a\u3089\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 22554,
+            "question": "\u81ea\u5206\u304c\u300c<<14465>>\u300d\u3092\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3092\u884c\u3046\u969b\u306b\u3001\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u30bb\u30c3\u30c8\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u5f8c\u3001\u305d\u306e\u300c<<14465>>\u300d\u304c\u8868\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u300e\u2460\uff1a\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u3053\u306e\u30ab\u30fc\u30c9\u306f\u76f8\u624b\u306e\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u306b\u306a\u3089\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3055\u308c\u305f\u300c<<14465>>\u300d\u304c\u305d\u306e\u5f8c\u306b\u8868\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u76f8\u624b\u306e\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u5bfe\u8c61\u306b\u306a\u3089\u306a\u304f\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

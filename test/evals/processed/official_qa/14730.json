@@ -1,0 +1,38 @@
+{
+    "cards": [
+        6448,
+        11648
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In that case, since you are taking the battle damage instead of your opponent, you will take the normal amount of battle damage. (The damage is not halved.)",
+            "id": 14730,
+            "question": "If Masked HERO Anki attacks directly with its effect, and my opponent activates Dimension Wall, will the battle damage I take be halved?",
+            "thisSrc": {
+                "date": "2014-12-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Masked HERO Anki attacks directly with its effect, and my opponent activates Dimension Wall, will the battle damage I take be halved?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<6448>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<11648>>\u300d\u306e\u76f4\u63a5\u653b\u6483\u3067\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\u306e\u306f\u76f8\u624b\u3067\u306f\u306a\u304f\u3001\u81ea\u5206\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u306b\u306f\u3001\u76f8\u624b\u306b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u3066\u3044\u307e\u305b\u3093\u306e\u3067\u3001\u81ea\u5206\u306f\u305d\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u901a\u5e38\u901a\u308a\u53d7\u3051\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\uff08\u534a\u5206\u306b\u306f\u306a\u308a\u307e\u305b\u3093\u3002\uff09",
+            "id": 14730,
+            "question": "\u300c<<11648>>\u300d\u304c\u81ea\u8eab\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306f\u76f4\u63a5\u653b\u6483\u3067\u304d\u308b\u3002\u305d\u306e\u76f4\u63a5\u653b\u6483\u3067\u76f8\u624b\u306b\u4e0e\u3048\u308b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u534a\u5206\u306b\u306a\u308b\u300f\u52b9\u679c\u3067\u76f4\u63a5\u653b\u6483\u3092\u884c\u3046\u969b\u306b\u3001\u76f8\u624b\u304c\u300c<<6448>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u81ea\u5206\u304c\u53d7\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u306f\u534a\u5206\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11648>>\u300d\u306e\u76f4\u63a5\u653b\u6483\u306e\u969b\u306b\u3001\u76f8\u624b\u304c\u767a\u52d5\u3057\u305f\u300c<<6448>>\u300d\u306e\u52b9\u679c\u3067\u81ea\u5206\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\u5834\u5408\u3001\u30c0\u30e1\u30fc\u30b8\u306f\u534a\u5206\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "cards": [
+        5387,
+        9723,
+        10492
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can.",
+            "id": 9545,
+            "question": "While A Legendary Ocean is applying, if I Normal Summon Eagle Shark, can I activate the effect of Kagetokage in my hand?",
+            "thisSrc": {
+                "date": "2015-01-29",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "While A Legendary Ocean is applying, if I Normal Summon Eagle Shark, can I activate the effect of Kagetokage in my hand?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u30ec\u30d9\u30eb\uff14\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6271\u3044\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u624b\u672d\u306e\u300c<<9723>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 9545,
+            "question": "\u300c<<5387>>\u300d\u306e\u300e\u304a\u4e92\u3044\u306e\u624b\u672d\u30fb\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u6c34\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ec\u30d9\u30eb\u306f\uff11\u3064\u4e0b\u304c\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u30ec\u30d9\u30eb\u304c\uff14\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u300c<<10492>>\u300d\u3092\u53ec\u559a\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u624b\u672d\u306e\u300c<<9723>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5387>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<10492>>\u300d\u3092\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300c<<9723>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Spell"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "cards": [
+        6928,
+        7128,
+        7182,
+        7278,
+        8036,
+        8526,
+        10216,
+        12515,
+        12870,
+        13471,
+        14007,
+        14218,
+        14343,
+        16220,
+        17645
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if the effects of Cloudian - Acid Cloud are negated, any Fog Counters placed on Cloudian - Acid Cloud will not be negated. This is the case regardless of whether that Fog Counter was placed by Cloudian - Acid Cloud's own effect, or some other card's effect.\n\nFurthermore, whether a given counter will be removed when a card's effects are negated depends on the type of counter in question. The following counters behave like Fog Counters, i.e., are not removed when a monster's effects are negated. (The card names mentioned are examples of cards that might have this type of counter.)\n\n~~~---\n\u25cf Predator Counter (Predaplant Dragostapelia)\n\u25cf Venemy Counter (Starving Venemy Lethal Dose Dragon)\n\u25cf Signal Counter (Signal Warrior)\n\u25cf Ice Counter (Cold Enchanter)\n\u25cf Wedge Counter (Blackwing Armor Master)\n\u25cf String Counter (Number 40: Gimmick Puppet of Strings)\n\u25cf Scale Counter (Corrosive Scales)\n\u25cf Patrol Counter (Beat Cop from the Underworld)\n\u25cf Cubic Counter (Vijam the Cubic Seed)\n\u25cf Hallucination Counter (Number 2: Ninja Shadow Mosquito)\n\u25cf Burnup Counter (Aeropixthree)\n\u25cf Venom Counter (Venom Serpent)\n\u25cf A-Counter (\"A\" Cell Breeding Device)\n\u25cf Guard Counter (Card Guard)",
+            "id": 23486,
+            "question": "If a Cloudian - Acid Cloud has had Fog Counters placed on it, and the effects of that Cloudian - Acid Cloud are now negated, what happens to those Fog Counters?",
+            "thisSrc": {
+                "date": "2022-12-10",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If a card such as Cloudian - Acid Cloud, whose effect places counters, has its effects negated, what happens to counters placed on the card?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<7278>>\u300d\u306e\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u3067\u3082\u3001\u305d\u306e\u300c<<7278>>\u300d\u306b\u7f6e\u304b\u308c\u3066\u3044\u308b\u30d5\u30a9\u30c3\u30b0\u30ab\u30a6\u30f3\u30bf\u30fc\u306f\u53d6\u308a\u9664\u304b\u308c\u307e\u305b\u3093\u3002\u30d5\u30a9\u30c3\u30b0\u30ab\u30a6\u30f3\u30bf\u30fc\u304c\u81ea\u8eab\u306e\u52b9\u679c\u3067\u7f6e\u304b\u308c\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u4ed6\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7f6e\u304b\u308c\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u540c\u69d8\u3067\u3059\u3002\n\n\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u305f\u3053\u3068\u306b\u3088\u3063\u3066\u7f6e\u304b\u308c\u305f\u30ab\u30a6\u30f3\u30bf\u30fc\u304c\u53d6\u308a\u9664\u304b\u308c\u308b\u304b\u3069\u3046\u304b\u306f\u3001\u30ab\u30a6\u30f3\u30bf\u30fc\u306e\u7a2e\u985e\u306b\u3088\u3063\u3066\u7570\u306a\u308a\u307e\u3059\u3002\u4ee5\u4e0b\u306e\u30ab\u30a6\u30f3\u30bf\u30fc\u306f\u30d5\u30a9\u30c3\u30b0\u30ab\u30a6\u30f3\u30bf\u30fc\u3068\u540c\u69d8\u306b\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u3066\u3082\u53d6\u308a\u9664\u304b\u308c\u306a\u3044\u30ab\u30a6\u30f3\u30bf\u30fc\u3067\u3059\uff08\u30ab\u30fc\u30c9\u540d\u306f\u305d\u306e\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\u7f6e\u304f\u30ab\u30fc\u30c9\u306e\u4e00\u4f8b\u3067\u3059\uff09\u3002\n\n\u25cf\u6355\u98df\u30ab\u30a6\u30f3\u30bf\u30fc(\u300c<<12870>>\u300d)\n\u25cf\u30f4\u30a7\u30cd\u30df\u30fc\u30ab\u30a6\u30f3\u30bf\u30fc(\u300c<<14343>>\u300d)\n\u25cf\u30b7\u30b0\u30ca\u30eb\u30ab\u30a6\u30f3\u30bf\u30fc(\u300c<<14218>>\u300d)\n\u25cf\u30a2\u30a4\u30b9\u30ab\u30a6\u30f3\u30bf\u30fc(\u300c<<6928>>\u300d)\n\u25cf\u6954\u30ab\u30a6\u30f3\u30bf\u30fc(\u300c<<8036>>\u300d)\n\u25cf\u30b9\u30c8\u30ea\u30f3\u30b0\u30ab\u30a6\u30f3\u30bf\u30fc(\u300c<<10216>>\u300d)\n\u25cf\u9c57\u7c89\u30ab\u30a6\u30f3\u30bf\u30fc(\u300c<<13471>>\u300d)\n\u25cf\u8b66\u908f\u30ab\u30a6\u30f3\u30bf\u30fc(\u300c<<14007>>\u300d)\n\u25cf\u65b9\u754c\u30ab\u30a6\u30f3\u30bf\u30fc(\u300c<<12515>>\u300d)\n\u25cf\u5e7b\u899a\u30ab\u30a6\u30f3\u30bf\u30fc(\u300c<<17645>>\u300d)\n\u25cf\u71c3\u713c\u30ab\u30a6\u30f3\u30bf\u30fc(\u300c<<16220>>\u300d)\n\u25cf\u30f4\u30a7\u30ce\u30e0\u30ab\u30a6\u30f3\u30bf\u30fc(\u300c<<7182>>\u300d)\n\u25cfA\u30ab\u30a6\u30f3\u30bf\u30fc(\u300c<<7128>>\u300d)\n\u25cf\u30ac\u30fc\u30c9\u30ab\u30a6\u30f3\u30bf\u30fc(\u300c<<8526>>\u300d)",
+            "id": 23486,
+            "question": "\u30d5\u30a9\u30c3\u30b0\u30ab\u30a6\u30f3\u30bf\u30fc\u304c\u7f6e\u304b\u308c\u3066\u3044\u308b\u300c<<7278>>\u300d\u306e\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<7278>>\u300d\u306b\u7f6e\u304b\u308c\u3066\u3044\u308b\u30d5\u30a9\u30c3\u30b0\u30ab\u30a6\u30f3\u30bf\u30fc\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<7278>>\u300d\u7b49\u306e\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\u7f6e\u304f\u52b9\u679c\u3092\u6301\u3064\u30ab\u30fc\u30c9\u304c\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u30ab\u30fc\u30c9\u306b\u7f6e\u304b\u308c\u3066\u3044\u308b\u30ab\u30a6\u30f3\u30bf\u30fc\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "o:Lists a high number of cards"
+    ]
+}

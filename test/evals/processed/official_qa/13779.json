@@ -1,0 +1,40 @@
+{
+    "cards": [
+        7697,
+        10812,
+        11207
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, since the targeted Galaxy Serpent and Elder Entity Norden are used as materials for a Synchro Summon simultaneously, they are not banished and they are sent to the Graveyard normally.",
+            "id": 13779,
+            "question": "The Tuner monster Galaxy Serpent was Special Summoned from the Graveyard by the effect of Elder Entity Norden.\n\nIf Gaia Knight, the Force of Earth is Synchro Summoned using that Elder Entity Norden and Galaxy Serpent as materials, is Galaxy Serpent banished by the effect that banishes it when Elder Entity Norden leaves the field?",
+            "thisSrc": {
+                "date": "2014-09-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "The Tuner monster Galaxy Serpent was Special Summoned from the Graveyard by the effect of Elder Entity Norden.  If Gaia Knight, the Force of Earth is Synchro Summoned using that Elder Entity Norden and Galaxy Serpent as materials, is Galaxy Serpent banished by the effect that banishes it when Elder Entity Norden leaves the field?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<11207>>\u300d\u3068\u305d\u306e\u5bfe\u8c61\u3068\u306a\u3063\u3066\u3044\u308b\u300c<<10812>>\u300d\u304c\u540c\u6642\u306b\u30b7\u30f3\u30af\u30ed\u53ec\u559a\u306e\u7d20\u6750\u3068\u3057\u3066\u4f7f\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u9664\u5916\u3055\u308c\u308b\u4e8b\u306f\u306a\u304f\u3001\u901a\u5e38\u901a\u308a\u5893\u5730\u3078\u3068\u9001\u3089\u308c\u307e\u3059\u3002",
+            "id": 13779,
+            "question": "\u300c<<11207>>\u300d\u306e\u52b9\u679c\u3067\u3001\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u30c1\u30e5\u30fc\u30ca\u30fc\u306e\u300c<<10812>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u300c<<11207>>\u300d\u3068\u3001\u300c<<10812>>\u300d\u3092\u7d20\u6750\u3068\u3057\u3066\u300c<<7697>>\u300d\u3092\u30b7\u30f3\u30af\u30ed\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300c<<10812>>\u300d\u306f\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u96e2\u308c\u305f\u6642\u306b\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u9664\u5916\u3055\u308c\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11207>>\u300d\u3068\u3001\u300c<<11207>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30c1\u30e5\u30fc\u30ca\u30fc\u3067\u30b7\u30f3\u30af\u30ed\u53ec\u559a\u3059\u308b\u5834\u5408\u3001\u30c1\u30e5\u30fc\u30ca\u30fc\u306f\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion",
+        "k:Synchro"
+    ]
+}

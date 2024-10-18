@@ -1,0 +1,39 @@
+{
+    "cards": [
+        7346,
+        8089,
+        11694
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, the ATK and DEF of Yosenju Oyam become 1900 and 1900 respectively at first.\n\nWhen the opponent's Tragoedia attacks, the effect of Yosenju Oyam activates once again, and since the Original ATK of the opponent's monster is \"?\", it is treated as 0.\n\nTherefore, the ATK and DEF of Yosenju Oyam become 0.",
+            "id": 14848,
+            "question": "The opponent controls a Beast King Barbaros whose Original ATK is treated as 1900 and a Tragoedia whose ATK is treated as 1200.\n\nWhen that Beast King Barbaros battles with a face-up Defense Position Yosenju Oyam you control, the effect of Yosenju Oyam that changes its ATK and DEF was activated, and as a result, neither monster is destroyed in battle.\n\nIf during that turn the opponent's Tragoedia attacks that Yosenju Oyam, and its effect activates, what does the ATK and DEF of Yosenju Oyam become?",
+            "thisSrc": {
+                "date": "2015-02-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "The opponent controls a Beast King Barbaros whose Original ATK is treated as 1900 and a Tragoedia whose ATK is treated as 1200. When that Beast King Barbaros battles with a face-up Defense Position Yosenju Oyam you control, the effect of Yosenju Oyam that changes its ATK and DEF was activated, and as a result, neither monster is destroyed in battle. If during that turn the opponent's Tragoedia attacks that Yosenju Oyam, and its effect activtes, what does the ATK and DEF of Yosenju Oyam become?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<11694>>\u300d\u306f\uff11\u5ea6\u76ee\u306b\u767a\u52d5\u3057\u305f\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u653b\u6483\u529b1900\u30fb\u5b88\u5099\u529b1900\u306e\u72b6\u614b\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u76f8\u624b\u306e\u300c<<8089>>\u300d\u304c\u653b\u6483\u3057\u305f\u969b\u306b\u3001\u518d\u3073\u300c<<11694>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u306f\uff1f\u3067\u3059\u306e\u3067\u3001\uff10\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u3059\u3002\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<11694>>\u300d\u306f\u653b\u6483\u529b\uff10\u30fb\u5b88\u5099\u529b\uff10\u306e\u72b6\u614b\u3068\u306a\u308a\u307e\u3059\u3002",
+            "id": 14848,
+            "question": "\u30ea\u30ea\u30fc\u30b9\u306a\u3057\u3067\u53ec\u559a\u3055\u308c\u5143\u3005\u306e\u653b\u6483\u529b\u304c\uff11\uff19\uff10\uff10\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u300c<<7346>>\u300d\u3068\u3001\u653b\u6483\u529b\u304c\uff11\uff12\uff10\uff10\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u300c<<8089>>\u300d\u304c\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u300c<<7346>>\u300d\u3068\u3001\u81ea\u5206\u306e\u8868\u5074\u5b88\u5099\u8868\u793a\u306e\u300c<<11694>>\u300d\u304c\u6226\u95d8\u3092\u884c\u3046\u5834\u5408\u306b\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3046\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u958b\u59cb\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u30ab\u30fc\u30c9\u306e\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u3001\u6226\u95d8\u3092\u884c\u3046\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u3068\u540c\u3058\u306b\u306a\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u7d50\u679c\u3001\u6226\u95d8\u3067\u304a\u4e92\u3044\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u7834\u58ca\u3055\u308c\u307e\u305b\u3093\u3067\u3057\u305f\u3002\n\n\u305d\u306e\u30bf\u30fc\u30f3\u306b\u3001\u76f8\u624b\u306e\u300c<<8089>>\u300d\u304c\u305d\u306e\u300c<<11694>>\u300d\u3092\u653b\u6483\u3057\u305f\u969b\u306b\u3001\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c<<11694>>\u300d\u306e\u653b\u6483\u529b\u3068\u5b88\u5099\u529b\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u8eab\u306e\u52b9\u679c\u3067\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u304c\u5909\u5316\u3057\u3066\u3044\u308b\u300c<<11694>>\u300d\u304c\u300c<<8089>>\u300d\u3068\u6226\u95d8\u3092\u884c\u3046\u5834\u5408\u3001\u653b\u6483\u529b\u3068\u5b88\u5099\u529b\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

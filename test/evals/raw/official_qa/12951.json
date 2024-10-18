@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4851,
+        4965,
+        7219,
+        10849
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "During the turn that the effect of <<10849>> is used, monsters other than WATER monsters can still be Flip Summoned, and if the effect of <<7219>> or <<4851>> is used, they can be Normal Summoned/Set as well. (However, you cannot use cards like <<4965>> to Special Summon a monster other than a WATER monster face-down.)",
+            "id": 12951,
+            "question": "During the turn that the effect of <<10849>> is used, can monsters other than WATER monsters still be Normal Summoned, Flip Summoned, or Set?",
+            "thisSrc": {
+                "date": "2013-10-31",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "During the turn that the effect of <<10849>> is used, can monsters other than WATER monsters still be Normal Summoned, Flip Summoned, or Set?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<10849>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3066\u3044\u308b\u30bf\u30fc\u30f3\u3067\u3082\u3001\u6c34\u5c5e\u6027\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u53cd\u8ee2\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u307e\u305f\u3001\u300c<<4851>>\u300d\u300c<<7219>>\u300d\u7b49\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u901a\u5e38\u53ec\u559a\u3092\u3055\u3089\u306b\u884c\u3048\u308b\u72b6\u614b\u3067\u3042\u308c\u3070\u3001\u6c34\u5c5e\u6027\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u53ec\u559a\u30fb\u30bb\u30c3\u30c8\u3059\u308b\u4e8b\u3082\u3067\u304d\u307e\u3059\u3002\n\uff08\u306a\u304a\u3001\u300c<<10849>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3066\u3044\u308b\u30bf\u30fc\u30f3\u306b\u306f\u3001\u300c<<4965>>\u300d\u7b49\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u6c34\u5c5e\u6027\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\uff09",
+            "id": 12951,
+            "question": "\u300c<<10849>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3066\u3044\u308b\u30bf\u30fc\u30f3\u3001\u6c34\u5c5e\u6027\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u53ec\u559a\u30fb\u53cd\u8ee2\u53ec\u559a\u30fb\u30bb\u30c3\u30c8\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10849>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3066\u3044\u308b\u30bf\u30fc\u30f3\u3001\u6c34\u5c5e\u6027\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u53ec\u559a\u30fb\u53cd\u8ee2\u53ec\u559a\u30fb\u30bb\u30c3\u30c8\u306f\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        10317,
+        10474
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Each player can only control 1 Noble Arms - Gallatin. Therefore, if a player already controls a Noble Arms - Gallatin, they cannot target another in the Graveyard with the effect of Artorigus, King of the Noble Knights.",
+            "id": 13602,
+            "question": "If a player already controls Noble Arms - Gallatin, is it possible for them to activate the effect of Artorigus, King of the Noble Knights and target another Noble Arms - Gallatin in the Graveyard?",
+            "thisSrc": {
+                "date": "2014-09-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a player already controls Noble Arms - Gallatin, is it possible for them to activate the effect of Artorigus, King of the Noble Knights and target another Noble Arms - Gallatin in the Graveyard?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<10317>>\u300d\u7b49\u306f\u3001\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\uff11\u679a\u3057\u304b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3067\u304d\u306a\u3044\u300f\u3068\u30c6\u30ad\u30b9\u30c8\u306b\u8a18\u3055\u308c\u3066\u3044\u308b\u30ab\u30fc\u30c9\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c<<10317>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u300c<<10474>>\u300d\u306e\u300e\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u8056\u5263\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u88c5\u5099\u9b54\u6cd5\u30ab\u30fc\u30c9\u30923\u7a2e\u985e\u307e\u3067\u9078\u629e\u3057\u3066\u3053\u306e\u30ab\u30fc\u30c9\u306b\u88c5\u5099\u3067\u304d\u308b\u300f\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u5893\u5730\u306e\u300c<<10317>>\u300d\u3092\u5bfe\u8c61\u3068\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 13602,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c<<10317>>\u300d\u304c\u65e2\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u72b6\u6cc1\u306b\u3066\u3001\u300c<<10474>>\u300d\u306e\u300e\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u8056\u5263\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u88c5\u5099\u9b54\u6cd5\u30ab\u30fc\u30c9\u30923\u7a2e\u985e\u307e\u3067\u9078\u629e\u3057\u3066\u3053\u306e\u30ab\u30fc\u30c9\u306b\u88c5\u5099\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u3001\u5bfe\u8c61\u3068\u3057\u3066\u3001\u5893\u5730\u306e\u300c<<10317>>\u300d\u3092\u5bfe\u8c61\u3068\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10474>>\u300d\u306e\u5893\u5730\u306e\u300c\u8056\u5263\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u88c5\u5099\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u88c5\u5099\u3059\u308b\u52b9\u679c\u3067\u3001\u65e2\u306b\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3059\u308b\u30ab\u30fc\u30c9\u3068\u540c\u540d\u306e\u30ab\u30fc\u30c9\u3092\u5bfe\u8c61\u306b\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12242
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When a Pendulum Monster is activated from the hand to the Pendulum Zone, it is treated as the activation of a Spell Card, so <<12242>> can be chained. (In that case, a Spell Card must be discarded to activate it.)",
+            "id": 19945,
+            "question": "When a Pendulum Monster is activated from the hand to the Pendulum Zone, can <<12242>> be activated?",
+            "thisSrc": {
+                "date": "2016-09-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When a Pendulum Monster is activated from the hand to the Pendulum Zone, can <<12242>> be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u624b\u672d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u767a\u52d5\u3055\u308c\u308b\u969b\u306f\u3001\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u304c\u884c\u308f\u308c\u305f\u6271\u3044\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<12242>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\uff08\u305d\u306e\u5834\u5408\u3001\u624b\u672d\u304b\u3089\u9b54\u6cd5\u30ab\u30fc\u30c91\u679a\u3092\u6368\u3066\u3066\u767a\u52d5\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 19945,
+            "question": "\u624b\u672d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u767a\u52d5\u3055\u308c\u305f\u969b\u306b\u3001\u300c<<12242>>\u300d\u306e\u300e\u2460\uff1a\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u30fb\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u304c\u767a\u52d5\u3057\u305f\u6642\u3001\u305d\u306e\u30ab\u30fc\u30c9\u3068\u540c\u3058\u7a2e\u985e\uff08\u30e2\u30f3\u30b9\u30bf\u30fc\u30fb\u9b54\u6cd5\u30fb\u7f60\uff09\u306e\u624b\u672d\u3092\uff11\u679a\u6368\u3066\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u624b\u672d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u767a\u52d5\u3055\u308c\u305f\u6642\u306b\u300c<<12242>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

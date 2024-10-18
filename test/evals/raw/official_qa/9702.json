@@ -1,0 +1,40 @@
+{
+    "cards": [
+        6653,
+        7195,
+        8866
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Since the name of <<7195>> was treated as \"<<6653>>\", you are considered to be using \"<<6653>>\", not \"<<7195>>\", as Fusion Material. Therefore, <<8866>>'s ATK will not increase by half of <<7195>>'.",
+            "id": 9702,
+            "question": "I have used a <<7195>>, whose name was treated as \"<<6653>>\", as Fusion Material to Fusion Summon <<8866>>. Will <<7195>> be treated as a\u300eWarrior Fusion Material, except \"<<6653>>\"\u300fand cause <<8866>> to gain ATK?",
+            "thisSrc": {
+                "date": "2023-06-13",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If <<7195>> is used as a material to Fusion Summon <<8866>>, what happens to <<8866>>'s ATK?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u30ab\u30fc\u30c9\u540d\u304c\u300c<<6653>>\u300d\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u300c<<7195>>\u300d\u3092\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u4f7f\u7528\u3057\u305f\u5834\u5408\u3001\u300c<<7195>>\u300d\u3067\u306f\u306a\u304f\u3001\u300c<<6653>>\u300d\u3092\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u4f7f\u7528\u3057\u305f\u6271\u3044\u306b\u306a\u308a\u307e\u3059\u3002\n\u3088\u3063\u3066\u3001\u300c<<7195>>\u300d\u306e\u653b\u6483\u529b\u306e\u534a\u5206\u306e\u6570\u5024\u5206\u3001\u300c<<8866>>\u300d\u306e\u653b\u6483\u529b\u306f\u30a2\u30c3\u30d7\u3057\u307e\u305b\u3093\u3002",
+            "id": 9702,
+            "question": "\u300c<<8866>>\u300d\u306e\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u3001\u30ab\u30fc\u30c9\u540d\u304c\u300c<<6653>>\u300d\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u300c<<7195>>\u300d\u3092\u4f7f\u7528\u3057\u305f\u5834\u5408\u3001\u300c<<8866>>\u300d\u306e\u653b\u6483\u529b\u306f\u3001\u300c<<6653>>\u300d\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u3001\u300c<<7195>>\u300d\u306e\u653b\u6483\u529b\u306e\u534a\u5206\u306e\u6570\u5024\u5206\u30a2\u30c3\u30d7\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8866>>\u300d\u306e\u878d\u5408\u7d20\u6750\u306b\u300c<<7195>>\u300d\u3092\u4f7f\u7528\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u306f\u30a2\u30c3\u30d7\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion",
+        "k:Gemini"
+    ]
+}

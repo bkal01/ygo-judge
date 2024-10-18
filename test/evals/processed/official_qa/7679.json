@@ -1,0 +1,42 @@
+{
+    "cards": [
+        11632,
+        12582,
+        12583,
+        12584,
+        12585,
+        12590
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of ABC-Dragon Buster that Special Summons 3 of your banished LIGHT Machine-Type Union monsters can also target a LIGHT Machine-Type Union monster that was banished temporarily by the effect of Farfa, Malebranche of the Burning Abyss.",
+            "id": 7679,
+            "question": "I have 4 banished Union monsters; A-Assault Core, B-Buster Drake, C-Crush Wyvern, and Heavy Mech Support Armor. Among them, the Heavy Mech Support Armor was banished by the effect of Farfa, Malebranche of the Burning Abyss. In this situation, if I activate the effect of ABC-Dragon Buster that Special Summons 3 of my banished LIGHT Machine-Type Union monsters, can I target the Heavy Mech Support Armor?",
+            "thisSrc": {
+                "date": "2016-07-07",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I have 4 banished Union monsters; A-Assault Core, B-Buster Drake, C-Crush Wyvern, and Heavy Mech Support Armor. Among them, the Heavy Mech Support Armor was banished by the effect of Farfa, Malebranche of the Burning Abyss. In this situation, if I activate the effect of ABC-Dragon Buster that Special Summons 3 of my banished LIGHT Machine-Type Union monsters, can I target the Heavy Mech Support Armor?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u81ea\u8eab\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u767a\u52d5\u3059\u308b\u300c<<12590>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u306a\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u300e\u9664\u5916\u3055\u308c\u3066\u3044\u308b\u81ea\u5206\u306e\u6a5f\u68b0\u65cf\u30fb\u5149\u5c5e\u6027\u306e\u30e6\u30cb\u30aa\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\uff13\u7a2e\u985e\u300f\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300c<<11632>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3067\u9664\u5916\u3055\u308c\u305f\u6a5f\u68b0\u65cf\u30fb\u5149\u5c5e\u6027\u306e\u30e6\u30cb\u30aa\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u3082\u5bfe\u8c61\u306b\u542b\u3081\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 7679,
+            "question": "\u300c<<12582>>\u300d\u3001\u300c<<12583>>\u300d\u3001\u300c<<12584>>\u300d\u3001\u300c<<12585>>\u300d\u306e4\u4f53\u306e\u81ea\u5206\u306e\u30e6\u30cb\u30aa\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u9664\u5916\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u3046\u3061\u3001\u300c<<12585>>\u300d\u306f\u76f8\u624b\u306e\u300c<<11632>>\u300d\u306e\u300e\u2462\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u307e\u3067\u9664\u5916\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u9664\u5916\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u300c<<12590>>\u300d\u306e\u300e\u2461\uff1a\u76f8\u624b\u30bf\u30fc\u30f3\u306b\u3053\u306e\u30ab\u30fc\u30c9\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3001\u9664\u5916\u3055\u308c\u3066\u3044\u308b\u81ea\u5206\u306e\u6a5f\u68b0\u65cf\u30fb\u5149\u5c5e\u6027\u306e\u30e6\u30cb\u30aa\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\uff13\u7a2e\u985e\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u3001\u300c<<12585>>\u300d\u3092\u5bfe\u8c61\u306b\u9078\u629e\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u8eab\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u767a\u52d5\u3059\u308b\u300c<<12590>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<11632>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3067\u9664\u5916\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u629e\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

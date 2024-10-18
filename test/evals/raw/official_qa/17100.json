@@ -1,0 +1,40 @@
+{
+    "cards": [
+        5432,
+        5561,
+        11433,
+        11630
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, when resolving the Pendulum Effect of <<11433>>, even if the Pendulum Summoned Zombie-Type monster has been changed to face-down Defense Position, the effect is applied normally. (<<5561>> will not be destroyed by battle or card effects this turn.)",
+            "id": 17100,
+            "question": "<<11630>> and <<11433>> are both in my Pendulum Zones. In this scenario, when I Pendulum Summon <<5561>>, I activate the Pendulum Effect of <<11433>>. If <<5432>> is chained to this effect, and <<5561>> is changed to face-down Defense Position, how will the effect of <<11433>> resolve?",
+            "thisSrc": {
+                "date": "2015-10-06",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<11630>> and <<11433>> are both in my Pendulum Zones. In this scenario, when I Pendulum Summon <<5561>>, I activate the Pendulum Effect of <<11433>>. If <<5432>> is chained to this effect, and <<5561>> is changed to face-down Defense Position, how will the effect of <<11433>> resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u300c<<11433>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306e\u51e6\u7406\u306e\u969b\u306b\u3001\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3055\u308c\u305f\u30a2\u30f3\u30c7\u30c3\u30c8\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u3066\u3044\u308b\u3088\u3046\u306a\u5834\u5408\u3067\u3082\u3001\u52b9\u679c\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\n\uff08\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300e\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3053\u306e\u30bf\u30fc\u30f3\u6226\u95d8\u30fb\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306f\u3001\u300c<<5561>>\u300d\u306b\u9069\u7528\u3055\u308c\u307e\u3059\u3002\uff09",
+            "id": 17100,
+            "question": "\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u300c<<11630>>\u300d\u3068\u300c<<11433>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u304c\u300c<<5561>>\u300d\u3092\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3057\u305f\u969b\u306b\u3001\u300c<<11433>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u304c\u30a2\u30f3\u30c7\u30c3\u30c8\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u306eP\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3053\u306e\u30bf\u30fc\u30f3\u6226\u95d8\u30fb\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5432>>\u300d\u304c\u767a\u52d5\u3057\u3001\u305d\u306e\u300c<<5561>>\u300d\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u300c<<11433>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306e\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11433>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5432>>\u300d\u304c\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u52b9\u679c\u306e\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

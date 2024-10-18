@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6682,
+        13307,
+        13687
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if the effect of Macro Cosmos is applying, you can activate Grinning Grave Virus. In that case, the monster Tributed for its cost along with any cards destroyed by its effect are banished instead of sent to the Graveyard. If any of the cards destroyed by the effect of Grinning Grave Virus are banished instead of sent to the Graveyard, they are not affected by the part of its effect that prevents their effects from activating in the Graveyard during the turn they are destroyed. (For example, if Secret Six Samurai - Fuma is destroyed and banished, its effect that Special Summons a \"Six Samurai\" monster from the Deck can be activated.)",
+            "id": 9437,
+            "question": "Macro Cosmos is face-up in my opponent's Spell & Trap Zone, and its effect that banishes any card that would be sent to the Graveyard is applying. In this situation, can I activate Grinning Grave Virus?",
+            "thisSrc": {
+                "date": "2018-03-22",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Macro Cosmos is face-up in my opponent's Spell & Trap Zone, and its effect that banishes any card that would be sent to the Graveyard is applying. In this situation, can I activate Grinning Grave Virus?",
+            "tlSrc": {
+                "date": "2018-03-15",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<6682>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u300c<<13687>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u767a\u52d5\u306e\u969b\u306b\u30b3\u30b9\u30c8\u3068\u3057\u3066\u30ea\u30ea\u30fc\u30b9\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u53ca\u3073\u3001\u300e\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\uff15\uff10\uff10\u306b\u3064\u304d\uff11\u679a\u3001\u76f8\u624b\u306f\u81ea\u8eab\u306e\u624b\u672d\u30fb\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\u9078\u3093\u3067\u7834\u58ca\u3059\u308b\u300f\u51e6\u7406\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u30ab\u30fc\u30c9\u306f\u5893\u5730\u3078\u306f\u9001\u3089\u308c\u305a\u3001\u9664\u5916\u3055\u308c\u307e\u3059\u3002\n\n\u306a\u304a\u3001\u300c<<13687>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u30ab\u30fc\u30c9\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u305a\u306b\u9664\u5916\u3055\u308c\u305f\u5834\u5408\u306b\u306f\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u308b\u30ab\u30fc\u30c9\u306f\u3001\u7834\u58ca\u3055\u308c\u305f\u30bf\u30fc\u30f3\u306b\u306f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306e\u5f71\u97ff\u3092\u53d7\u3051\u307e\u305b\u3093\u3002\n\uff08\u4f8b\u3048\u3070\u3001\u7834\u58ca\u3055\u308c\u9664\u5916\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u300c<<13307>>\u300d\u3060\u3063\u305f\u5834\u5408\u3001\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u30fb\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u300c<<13307>>\u300d\u4ee5\u5916\u306e\u300c\u516d\u6b66\u8846\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u901a\u5e38\u901a\u308a\u3001\u767a\u52d5\u3068\u51e6\u7406\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\uff09",
+            "id": 9437,
+            "question": "\u76f8\u624b\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u300c<<6682>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u30ab\u30fc\u30c9\u306f\u5893\u5730\u3078\u306f\u884c\u304b\u305a\u9664\u5916\u3055\u308c\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306f\u300c<<13687>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2018-03-15",
+                "type": 0
+            },
+            "title": "\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<13687>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

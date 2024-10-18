@@ -1,0 +1,37 @@
+{
+    "cards": [
+        4993
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "A single copy of <<4993>> only halves the ATK of a monster once.\n\nIn the proposed scenario, even if a monster whose ATK was halved by being affected by the effect of a single copy of <<4993>> declares a new attack, the ATK is not halved once again (it is not reduced to 1/4th).\n\nFurthermore, providing there are two copies of <<4993>>, since the effects of each of them halves the ATK of the attacking monster, as an end result the ATK is reduced to 1/4th.",
+            "id": 68,
+            "question": "One <<4993>> is active.\n\nIf a monster that had its ATK halved by the effect of that <<4993>> declares another attack during the next turn, is its ATK halved once again by the effect of <<4993>>?",
+            "thisSrc": {
+                "date": "2014-10-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "One <<4993>> is active.  If a monster that had its ATK halved by the effect of that <<4993>> declares another attack during the next turn, is its ATK halved once again by the effect of <<4993>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\uff11\u679a\u306e\u300c<<4993>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u534a\u5206\u306b\u3057\u304b\u306a\u308a\u307e\u305b\u3093\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\uff11\u679a\u306e\u300c<<4993>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u653b\u6483\u529b\u304c\u65e2\u306b\u534a\u5206\u306b\u306a\u3063\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u518d\u3073\u653b\u6483\u5ba3\u8a00\u3092\u884c\u3063\u305f\u3068\u3057\u3066\u3082\u3001\u653b\u6483\u529b\u304c\u3055\u3089\u306b\u534a\u5206\uff08\uff14\u5206\u306e\uff11\uff09\u306b\u306a\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u306a\u304a\u3001\uff12\u679a\u306e\u300c<<4993>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u72b6\u614b\u3067\u3042\u308c\u3070\u3001\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u653b\u6483\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u534a\u5206\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u7d50\u679c\u7684\u306b\u653b\u6483\u529b\u306f\uff14\u5206\u306e\uff11\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 68,
+            "question": "\u300c<<4993>>\u300d\u304c\uff11\u679a\u306e\u307f\u767a\u52d5\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u300c<<4993>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u653b\u6483\u529b\u304c\u534a\u5206\u306a\u3063\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u6b21\u306e\u30bf\u30fc\u30f3\u306b\u518d\u3073\u653b\u6483\u3092\u5ba3\u8a00\u3057\u305f\u5834\u5408\u3001\u300c<<4993>>\u300d\u306e\u52b9\u679c\u304c\u518d\u3073\u9069\u7528\u3055\u308c\u3066\u3001\u653b\u6483\u529b\u306f\u3055\u3089\u306b\u534a\u5206\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<4993>>\u300d\u306e\u52b9\u679c\u3067\u653b\u6483\u529b\u304c\u534a\u5206\u306b\u306a\u3063\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3082\u3046\uff11\u5ea6\u653b\u6483\u5ba3\u8a00\u3057\u305f\u5834\u5408\u3001\u3055\u3089\u306b\u653b\u6483\u529b\u306f\u534a\u5206\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

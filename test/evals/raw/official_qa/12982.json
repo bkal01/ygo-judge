@@ -1,0 +1,52 @@
+{
+    "cards": [
+        13460,
+        13874
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "    Activation legality for effect negation + setting ATK",
+                "date": "2023-05-05",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "You can target a monster with 0 ATK, as long as the\u300eits effects are negated\u300feffect can be applied to that monster.\n\nThe\u300eits effects are negated\u300feffect can primarily be applied to Effect Monsters whose effects are not yet negated. Additionally, Gemini monsters which are treated as Normal Monsters by their\u300eThis card is treated as a Normal Monster while face-up on the field or in the Graveyard.\u300feffect are also monsters to which the\u300eits effects are negated\u300feffect can be applied.",
+            "id": 12982,
+            "question": "Can I target a monster with 0 ATK with the effect of <<13874>> that was sent from the hand or field to the Graveyard as material for the Link Summon of a \"<<13460>>\" monster?",
+            "thisSrc": {
+                "date": "2022-12-10",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can I target a monster with 0 ATK with the effect of <<13874>>?",
+            "tlSrc": {
+                "date": "2022-12-10",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u3092\u9069\u7528\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u9069\u5207\u306a\u30e2\u30f3\u30b9\u30bf\u30fc\u306a\u306e\u3067\u3042\u308c\u3070\u3001\u653b\u6483\u529b\uff10\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3082\u5bfe\u8c61\u306b\u9078\u629e\u3067\u304d\u307e\u3059\u3002\n\n\u300e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u3092\u9069\u7528\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u9069\u5207\u306a\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u306f\u4e3b\u306b\u3001\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u3066\u3044\u306a\u3044\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u6307\u3057\u307e\u3059\u3002\u52a0\u3048\u3066\u3001\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u3046\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u3001\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u306a\u3069\u306e\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u3082\u3001\u300e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u3092\u9069\u7528\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u9069\u5207\u306a\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u542b\u307e\u308c\u307e\u3059\u3002",
+            "id": 12982,
+            "question": "\u300c<<13874>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u300c<<13460>>\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ea\u30f3\u30af\u7d20\u6750\u3068\u3057\u3066\u624b\u672d\u30fb\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u653b\u6483\u529b\u304c\uff10\u306b\u306a\u308a\u3001\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u3002\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u7d20\u6750\u3068\u3057\u305f\u5834\u5408\u306b\u306f\u3053\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u3092\uff12\u4f53\u306b\u3067\u304d\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u653b\u6483\u529b0\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u629e\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-10",
+                "type": 0
+            },
+            "title": "\u300c<<13874>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u653b\u6483\u529b0\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u629e\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "o:Activation Legality",
+        "o:Important Precedent",
+        "o:Lingering current ATK/DEF setting-to-value",
+        "o:Negating a card's effects"
+    ]
+}

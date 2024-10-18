@@ -5,10 +5,10 @@ from argparse import ArgumentParser, Namespace
 from dotenv import load_dotenv
 from tqdm import tqdm
 
-from completion.completer import Completer
-from completion.base_completer import BaseCompleter
-from completion.in_context_cards_completer import InContextCardsCompleter
-from completion.in_context_rules_and_cards_completer import InContextRulesAndCardsCompleter
+from src.completion.completer import Completer
+from src.completion.base_completer import BaseCompleter
+from src.completion.in_context_cards_completer import InContextCardsCompleter
+from src.completion.in_context_rules_and_cards_completer import InContextRulesAndCardsCompleter
 
 
 def evaluate_with_human_feedback(responses_dir: str) -> float:
@@ -60,8 +60,8 @@ def eval_base() -> None:
     with open(os.environ["BASE_MODEL_PROMPT_PATH"], "r") as f:
         prompt_prefix = str(f.read())
     completer = BaseCompleter(
-        model=os.environ["XAI_API_MODEL_NAME"],
-        endpoint=os.environ["XAI_API_CHAT_COMPLETIONS_ENDPOINT"],
+        model=os.environ["MODEL_NAME"],
+        endpoint=os.environ["CHAT_COMPLETIONS_ENDPOINT"],
         prompt_prefix=prompt_prefix,
     )
 
@@ -79,8 +79,8 @@ def eval_in_context_cards() -> None:
             name_to_id[card_info["name"]] = card_info["id"]
 
     completer = InContextCardsCompleter(
-        model=os.environ["XAI_API_MODEL_NAME"],
-        endpoint=os.environ["XAI_API_CHAT_COMPLETIONS_ENDPOINT"],
+        model=os.environ["MODEL_NAME"],
+        endpoint=os.environ["CHAT_COMPLETIONS_ENDPOINT"],
         prompt_prefix=prompt_prefix,
         context_source=os.environ["YUGIOH_CARD_HISTORY_PATH"],
         name_to_id=name_to_id,
@@ -99,8 +99,8 @@ def eval_in_context_rules_and_cards() -> None:
             name_to_id[card_info["name"]] = card_info["id"]
 
     completer = InContextRulesAndCardsCompleter(
-        model=os.environ["XAI_API_MODEL_NAME"],
-        endpoint=os.environ["XAI_API_CHAT_COMPLETIONS_ENDPOINT"],
+        model=os.environ["MODEL_NAME"],
+        endpoint=os.environ["CHAT_COMPLETIONS_ENDPOINT"],
         prompt_prefix=prompt_prefix,
         context_sources=[
             os.environ["RULES_PERFECT_RULEBOOK_PATH"],

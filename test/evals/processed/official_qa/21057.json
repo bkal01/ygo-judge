@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6481,
+        13188,
+        13191
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If there are 2 copies of Bonding - DHO in your Graveyard, you can activate the effect of each copy during the same turn.",
+            "id": 21057,
+            "question": "If there are 2 copies of Bonding - DHO in my Graveyard, can I activate the effect of each copy that adds a Water Dragon or Water Dragon Cluster from my Deck or Graveyard to my hand?",
+            "thisSrc": {
+                "date": "2017-06-03",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If there are 2 copies of Bonding - DHO in my Graveyard, can I activate the effect of each copy that adds a Water Dragon or Water Dragon Cluster from my Deck or Graveyard to my hand?",
+            "tlSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "translationStatus": "outdated"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u306e\u5893\u5730\u306b2\u679a\u306e\u300c<<13191>>\u300d\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u3092\u540c\u4e00\u30bf\u30fc\u30f3\u306b\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 21057,
+            "question": "\u81ea\u5206\u306e\u5893\u5730\u306b2\u679a\u306e\u300c<<13191>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306f\u305d\u308c\u305e\u308c\u306e\u300c<<13191>>\u300d\u306e\u300e\u2461\uff1a\u5893\u5730\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u30fb\u5893\u5730\u304b\u3089\u300c<<6481>>\u300d\u307e\u305f\u306f\u300c<<13188>>\u300d\uff11\u4f53\u3092\u9078\u3093\u3067\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u52b9\u679c\u3092\u3001\u540c\u4e00\u30bf\u30fc\u30f3\u306b\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u5893\u5730\u306b2\u679a\u306e\u300c<<13191>>\u300d\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u3092\u540c\u4e00\u30bf\u30fc\u30f3\u306b\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

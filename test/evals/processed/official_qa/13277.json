@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5834,
+        15299
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, since the ATK of a monster to which the effect of Forbidden Droplet is applied to becomes half its current ATK, the ATK of Gren Maju Da Eiza becomes half of 4000, which is 2000. Furthermore, since the effects of Gren Maju Da Eiza are negated by Forbidden Droplet, its DEF becomes 0.",
+            "id": 13277,
+            "question": "Gren Maju Da Eiza is face-up in my Monster Zone, and I have 10 cards banished, so its ATK and DEF are each 4000. If the effect of Forbidden Droplet is applied to Gren Maju Da Eiza, what does its ATK and DEF become?",
+            "thisSrc": {
+                "date": "2020-08-02",
+                "misc": "Redshift",
+                "type": 4
+            },
+            "title": "Gren Maju Da Eiza is face-up in my Monster Zone, and I have 10 cards banished, so its ATK and DEF are each 4000. If the effect of Forbidden Droplet is applied to Gren Maju Da Eiza, what does its ATK and DEF become?",
+            "tlSrc": {
+                "date": "2020-07-27",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<15299>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u3067\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u653b\u6483\u529b\u306e\u6570\u5024\u306e\u534a\u5206\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300c<<5834>>\u300d\u306e\u653b\u6483\u529b\u306f\uff14\uff10\uff10\uff10\u306e\u534a\u5206\u306e\uff12\uff10\uff10\uff10\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u307e\u305f\u3001\u300c<<5834>>\u300d\u306e\u300e\u2460\u300f\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3001\u300c<<15299>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u5316\u3055\u308c\u307e\u3059\u306e\u3067\u3001\u300c<<5834>>\u300d\u306e\u5b88\u5099\u529b\u306f\uff10\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 13277,
+            "question": "\uff11\uff10\u679a\u306e\u81ea\u5206\u306e\u30ab\u30fc\u30c9\u304c\u9664\u5916\u3055\u308c\u3066\u304a\u308a\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<5834>>\u300d\u306f\u81ea\u8eab\u306e\u300e\u2460\u300f\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u304c\uff14\uff10\uff10\uff10\u306e\u72b6\u614b\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u305d\u306e\u300c<<5834>>\u300d\u306b\u300c<<15299>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2020-07-27",
+                "type": 0
+            },
+            "title": "\u300c<<5834>>\u300d\u306b\u300c<<15299>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Spell"
+    ]
+}

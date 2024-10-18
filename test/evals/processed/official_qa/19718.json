@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12692
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of Krystal Dragon is a Trigger Effect that you can activate during the Battle Step of your turn. In this scenario, if the effects of each Krystal Dragon are activated, they do not form a Chain together, and are activated and resolved one by one.",
+            "id": 19718,
+            "question": "2 copies of Krystal Dragon that have battled during this Battle Phase are face-up on my field. During a Battle Step in this turn, can I activate and resolve the effects of each Krystal Dragon?",
+            "thisSrc": {
+                "date": "2016-07-31",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "2 copies of Krystal Dragon that have battled during this Battle Phase are face-up on my field. During a Battle Step in this turn, can I activate and resolve the effects of each Krystal Dragon?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12692>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3001\u81ea\u8eab\u304c\u6226\u95d8\u3092\u884c\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u305d\u306e\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306e\u30d0\u30c8\u30eb\u30b9\u30c6\u30c3\u30d7\u306b\u3066\u4efb\u610f\u306b\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u8a98\u767a\u52b9\u679c\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u30012\u4f53\u306e\u300c<<12692>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u306f\u30c1\u30a7\u30fc\u30f3\u3067\u306f\u306a\u304f\u30011\u4f53\u305a\u3064\u767a\u52d5\u3068\u51e6\u7406\u3092\u884c\u3046\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 19718,
+            "question": "\u3053\u306e\u30bf\u30fc\u30f3\u306b\u6226\u95d8\u3092\u884c\u3063\u3066\u3044\u308b2\u4f53\u306e\u300c<<12692>>\u300d\u304c\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u30bf\u30fc\u30f3\u306e\u30d0\u30c8\u30eb\u30b9\u30c6\u30c3\u30d7\u306b\u30012\u4f53\u306e\u300c<<12692>>\u300d\u306e\u300e\u2460\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3092\u884c\u3063\u305f\u81ea\u5206\u30bf\u30fc\u30f3\u306e\u30d0\u30c8\u30eb\u30b9\u30c6\u30c3\u30d7\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u30c9\u30e9\u30b4\u30f3\u65cf\u30fb\u30ec\u30d9\u30eb\uff18\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u3001\u3069\u306e\u3088\u3046\u306b\u767a\u52d5\u3068\u51e6\u7406\u3092\u884c\u3044\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "2\u4f53\u306e\u300c\u30af\u30ea\u30b9\u30bf\u30eb\uff65\u30c9\u30e9\u30b4\u30f3\u300d\u304c\u6226\u95d8\u3092\u884c\u3063\u305f\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3069\u306e\u3088\u3046\u306b\u767a\u52d5\u3068\u51e6\u7406\u3092\u884c\u3044\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

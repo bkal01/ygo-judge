@@ -1,0 +1,38 @@
+{
+    "cards": [
+        11648,
+        11656
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, the <<11648>> that declared a direct attack has 2800 ATK. Since your LP is 1500, this is a case where a Special Summoned monster the opponent controls is performing a direct attack with higher ATK than your LP.\n\nTherefore, you can activate <<11656>>.",
+            "id": 14806,
+            "question": "While you have 1500 LP, the opponent declared a direct attack with <<11648>> using its effect.\n\nAt this time, can you activate <<11656>>?",
+            "thisSrc": {
+                "date": "2015-01-08",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "While you have 1500 LP, the opponent declared a direct attack with <<11648>> using its effect.  At this time, can you activate <<11656>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u76f4\u63a5\u653b\u6483\u3092\u5ba3\u8a00\u3057\u305f\u76f8\u624b\u306e\u300c<<11648>>\u300d\u306e\u653b\u6483\u529b\u306f2800\u3067\u3059\u3002\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u306f\uff11\uff15\uff10\uff10\u3067\u3059\u306e\u3067\u3001\u300e\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u76f4\u63a5\u653b\u6483\u5ba3\u8a00\u6642\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u304c\u81ea\u5206\u306eLP\u4ee5\u4e0a\u306e\u5834\u5408\u300f\u306b\u5f53\u3066\u306f\u307e\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u81ea\u5206\u306f\u300c<<11656>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 14806,
+            "question": "\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u304c\uff11\uff15\uff10\uff10\u306e\u72b6\u614b\u3067\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c<<11648>>\u300d\u304c\u81ea\u8eab\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306f\u76f4\u63a5\u653b\u6483\u3067\u304d\u308b\u3002\u305d\u306e\u76f4\u63a5\u653b\u6483\u3067\u76f8\u624b\u306b\u4e0e\u3048\u308b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u534a\u5206\u306b\u306a\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u76f4\u63a5\u653b\u6483\u3092\u5ba3\u8a00\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u6642\u3001\u81ea\u5206\u306f\u300c<<11656>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c<<11648>>\u300d\u304c\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u76f4\u63a5\u653b\u6483\u3092\u5ba3\u8a00\u3057\u305f\u969b\u306b\u3001\u300c<<11656>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

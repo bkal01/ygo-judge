@@ -1,0 +1,39 @@
+{
+    "cards": [
+        11087,
+        17043,
+        17256
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, it cannot.\n\nThe Xyz Monster was Special Summoned by the effect of <<17043>> that applied the effect of <<11087>>. It is not treated as a monster Special Summoned by the effect of <<11087>>.",
+            "id": 19693,
+            "question": "My <<17043>> sent <<11087>> to the Graveyard as a cost, and when it resolves, the effect of <<11087>> is applied to Special Summon an Xyz Monster.\n\nIn this case, can the effect of <<17256>> when I Special Summon an Xyz Monster by a \"Rank-Up-Magic\" Spell effect be activated?",
+            "thisSrc": {
+                "date": "2022-03-12",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "If <<17043>> applies the effect of <<11087>> to Special Summon an Xyz Monster, can the effect of <<17256>> be activated?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u300c<<17043>>\u300d\u304c\u300c<<11087>>\u300d\u306e\u51e6\u7406\u3092\u9069\u7528\u3057\u305f\u3053\u3068\u3067\u3001\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u300c<<11087>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u306f\u6271\u308f\u308c\u307e\u305b\u3093\u3002",
+            "id": 19693,
+            "question": "\u30b3\u30b9\u30c8\u3068\u3057\u3066\u300c<<11087>>\u300d\u3092\u5893\u5730\u3078\u9001\u3063\u305f\u300c<<17043>>\u300d\u306e\u52b9\u679c\u306b\u3088\u308a\u3001\u300c<<11087>>\u300d\u306e\u767a\u52d5\u6642\u306e\u52b9\u679c\u51e6\u7406\u3092\u9069\u7528\u3057\u3001\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u6271\u3044\u3068\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u81ea\u5206\u306f\u300c<<17256>>\u300d\u306e\u300e\u2461\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u304c\u300cRUM\u300d\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067X\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u5834\u5408\u3001\u305d\u306eX\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3068\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<17043>>\u300d\u3067\u300c<<11087>>\u300d\u306e\u52b9\u679c\u3092\u9069\u7528\u3057\u3001X\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300c<<17256>>\u300d\u306e\u300e\u2461\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

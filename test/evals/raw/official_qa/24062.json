@@ -1,0 +1,44 @@
+{
+    "cards": [
+        7096,
+        11486,
+        12153,
+        12316,
+        13163,
+        16104,
+        17160,
+        17766
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In either situation, the effects of <<13163>> will be negated and <<11486>> remains in Attack Position.\n\nSimilarly, this also applies if <<17160>> or <<12153>> take the place of <<13163>>; these cards' effects will also be negated by the effect of <<11486>>, with <<11486>> remaining in Attack Position.\n\nAdditionally, in place of <<11486>>, the same also applies to the following cards that have a\u300enegate the effects of face-up monsters\u300feffect:\n\u25cf The\u300enegate the effects of all face-up Ritual, Fusion, Synchro, Xyz, and Link Monsters on the field\u300feffect of <<17766>>.\n\u25cf The\u300enegate the effects of Fusion, Synchro, and Xyz Monsters while they are on the field\u300feffect of <<12316>>.\n\u25cf The\u300enegate the effects of face-up monsters without a Level that were Special Summoned from the Extra Deck\u300feffect of <<16104>>.\n\u25cf The\u300enegate the effects of face-up monsters while your opponent controls them\u300feffect of <<7096>>.",
+            "id": 24062,
+            "question": "A face-up Defense Position <<13163>> Special Summoned from the Extra Deck is on the field, and its\u300echange all face-up monsters on the field to Defense Position\u300feffect is applying.\n\nIn this situation, if I Ritual Summon <<11486>> in Attack Position, its\u300enegate the effects of face-up monsters on the field that were Special Summoned from the Extra Deck\u300feffect will apply, but will it be changed to Defense Position?\n\nAdditionally, what happens if I Xyz Summon <<13163>> in Defense Position while the\u300enegate the effects of face-up monsters on the field that were Special Summoned from the Extra Deck\u300feffect of an Attack Position <<11486>> is already applying?",
+            "thisSrc": {
+                "date": "2024-04-17",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "What happens if both <<13163>> and <<11486>> are face-up on the field?",
+            "tlSrc": {
+                "date": "2024-04-17",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3069\u3061\u3089\u306e\u5834\u5408\u3067\u3082\u3001\u300c<<13163>>\u300d\u306e\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u307e\u3059\u306e\u3067\u3001\u300c<<11486>>\u300d\u306f\u653b\u6483\u8868\u793a\u306e\u307e\u307e\u3067\u3059\u3002\n\n\u306a\u304a\u3001\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u300c<<17160>>\u300d\u3084\u300c<<12153>>\u300d\u306e\u5834\u5408\u3082\u540c\u69d8\u306b\u3001\u300c<<11486>>\u300d\u306e\u2461\u306e\u6c38\u7d9a\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u5316\u3055\u308c\u307e\u3059\u3002\n\n\u307e\u305f\u4ee5\u4e0b\u306e\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u52b9\u679c\u3092\u6301\u3064\u30ab\u30fc\u30c9\u306e\u5834\u5408\u3082\u540c\u69d8\u3067\u3059\u3002\n\n\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u306e\u5100\u5f0f\u30fb\u878d\u5408\u30fbS\u30fbX\u30fb\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\n\u300c<<17766>>\u300d\n\n\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u306e\u878d\u5408\u30fbS\u30fbX\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\n\u300c<<12316>>\u300d\n\n\u300eEX\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30ec\u30d9\u30eb\u3092\u6301\u305f\u306a\u3044\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\n\u300c<<16104>>\u300d\n\n\u300e\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\n\u300c<<7096>>\u300d",
+            "id": 24062,
+            "question": "\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3057\u305f\u300c<<13163>>\u300d\u304c\u8868\u5074\u5b88\u5099\u8868\u793a\u3067\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3057\u3001\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b88\u5099\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u5b88\u5099\u8868\u793a\u306b\u306a\u308a\u3001\u5b88\u5099\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u767a\u52d5\u3057\u305f\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u300c<<11486>>\u300d\u3092\u653b\u6483\u8868\u793a\u3067\u5100\u5f0f\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001EX\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u307e\u3059\u304c\u3001\u300c<<11486>>\u300d\u306f\u5b88\u5099\u8868\u793a\u306b\u306a\u308a\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u653b\u6483\u8868\u793a\u306e\u300c<<11486>>\u300d\u306e\u2461\u306e\u6c38\u7d9a\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u72b6\u6cc1\u3067\u300c<<13163>>\u300d\u3092\u5b88\u5099\u8868\u793a\u3067\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3057\u305f\u5834\u5408\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-04-17",
+                "type": 0
+            },
+            "title": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<13163>>\u300d\u3068\u300c<<11486>>\u300d\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

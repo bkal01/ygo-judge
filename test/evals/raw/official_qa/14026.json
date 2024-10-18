@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4007,
+        6709,
+        10588
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in that case, the effect can be activated.",
+            "id": 14026,
+            "question": "If <<10588>> is targeted as 1 of the targets of <<6709>>, can its effect to Special Summon <<4007>> be activated?",
+            "thisSrc": {
+                "date": "2020-09-20",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "If <<10588>> is targeted as 1 of the targets of <<6709>>, can its effect be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<10588>>\u300d\u304c\u3001\u300c<<6709>>\u300d\u7b49\u306e\u8907\u6570\u679a\u306e\u30ab\u30fc\u30c9\u3092\u5bfe\u8c61\u3068\u3059\u308b\u52b9\u679c\u306e\u5bfe\u8c61\u306e\uff11\u679a\u3068\u3057\u3066\u9078\u629e\u3055\u308c\u305f\u5834\u5408\u306b\u3082\u3001\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u306b\u306a\u3063\u305f\u6642\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 14026,
+            "question": "\u300c<<6709>>\u300d\u306e\u5bfe\u8c61\u306e2\u679a\u306e\u3046\u30611\u679a\u3068\u3057\u3066\u3001\u300c<<10588>>\u300d\u304c\u9078\u629e\u3055\u308c\u305f\u5834\u5408\u3001\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u306b\u306a\u3063\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u306e\u624b\u672d\u30fb\u30c7\u30c3\u30ad\u30fb\u5893\u5730\u304b\u3089\u300c<<4007>>\u300d\uff11\u4f53\u3092\u9078\u3093\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10588>>\u300d\u304c\u300c<<6709>>\u300d\u306e\u5bfe\u8c61\u306e1\u679a\u306b\u542b\u307e\u308c\u305f\u5834\u5408\u3001\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Trap"
+    ]
+}

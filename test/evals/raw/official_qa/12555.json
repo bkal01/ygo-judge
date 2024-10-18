@@ -1,0 +1,37 @@
+{
+    "cards": [
+        9361
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If you activate <<9361>> during your End Phase of your own turn, that End Phase will be \"your 1st End Phase after activation\".\nTherefore, the End Phase of your next Turn will be \"your 2nd End Phase after activation\".",
+            "id": 12555,
+            "question": "If I activate <<9361>> during the End Phase of my turn, does it count as my 1st End Phase after activation?",
+            "thisSrc": {
+                "date": "2020-08-03",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "If I activate <<9361>> during the End Phase, does it count as my 1st End Phase?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<9361>>\u300d\u3092\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u6642\u306b\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306f\u201d\u767a\u52d5\u5f8c1\u56de\u76ee\u306e\u81ea\u5206\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u201d\u306b\u306a\u308a\u307e\u3059\u3002\n\u3057\u305f\u304c\u3063\u3066\u3001\u6b21\u306e\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u304c\u201d\u767a\u52d5\u5f8c2\u56de\u76ee\u306e\u81ea\u5206\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u201d\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 12555,
+            "question": "\u300c<<9361>>\u300d\u3092\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u6642\u306b\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306f1\u56de\u76ee\u306e\u81ea\u5206\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u3068\u6570\u3048\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9361>>\u300d\u3092\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u6642\u306b\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u308c\u306f1\u56de\u76ee\u306e\u81ea\u5206\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u3068\u6570\u3048\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

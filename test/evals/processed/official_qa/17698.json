@@ -1,0 +1,43 @@
+{
+    "cards": [
+        12215,
+        12217,
+        12219,
+        12220,
+        12221,
+        12222,
+        12223
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario since Super Quantal Mech King Great Magnus has Super Quantum Red Layer, Super Quantal Mech Beast Magnaliger, Super Quantal Mech Beast Aeroboros, Super Quantal Mech Beast Grampulse, and Super Quantum Blue Layer for a total of 5 different Xyz Materials, it gains the \"\u20222\" and \"\u20224\" effects.",
+            "id": 17698,
+            "question": "Super Quantal Mech King Great Magnus gains effects according to the different Xyz Materials it has, but in the following scenario, which effects does it gain?\n\nExample: Super Quantal Mech King Great Magnus is Xyz Summoned by the effect of Super Quantal Mech Ship Magnacarrier targeting a Super Quantal Mech Beast Magnaliger with 2 Super Quantum Red Layer Xyz Materials, 1 Super Quantal Mech Beast Aeroboros with no Xyz Materials, and 1 Super Quantal Mech Beast Grampulse with 1 Super Quantum Blue Layer as an Xyz Material.",
+            "thisSrc": {
+                "date": "2015-11-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Super Quantal Mech King Great Magnus gains effects according to the different Xyz Materials it has, but in the following scenario, which effects does it gain?  Example: Super Quantal Mech King Great Magnus is Xyz Summoned by the effect of Super Quantal Mech Ship Magnacarrier targeting a Super Quantal Mech Beast Magnaliger with 2 Super Quantum Red Layer Xyz Materials, 1 Super Quantal Mech Beast Aeroboros with no Xyz Materials, and 1 Super Quantal Mech Beast Grampulse with 1 Super Quantum Blue Layer as an Xyz Material.",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u4f8b\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<12222>>\u300d\u306f\u3001\u300c<<12215>>\u300d\u3001\u300c<<12221>>\u300d\u3001\u300c<<12220>>\u300d\u3001\u300c<<12217>>\u300d\u3001\u300c<<12219>>\u300d\u306e5\u7a2e\u985e\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3092\u6301\u3063\u3066\u3044\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300e\u25cf\uff12\u7a2e\u985e\u4ee5\u4e0a\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u30fb\u76f8\u624b\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u3053\u306e\u30ab\u30fc\u30c9\u306eX\u7d20\u6750\u3092\uff11\u3064\u53d6\u308a\u9664\u3044\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u30c7\u30c3\u30ad\u306b\u623b\u3059\u300f\u52b9\u679c\u3068\u3001\u300e\u25cf\uff14\u7a2e\u985e\u4ee5\u4e0a\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306f\u300c\u8d85\u91cf\u300d\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300f\u52b9\u679c\u3092\u5f97\u3066\u3044\u308b\u6271\u3044\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 17698,
+            "question": "\u300c<<12222>>\u300d\u306f\u3001\u81ea\u8eab\u304c\u6301\u3064\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u306e\u7a2e\u985e\u306b\u3088\u3063\u3066\u52b9\u679c\u3092\u5f97\u307e\u3059\u304c\u3001\u4ee5\u4e0b\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u306f\u4f55\u7a2e\u985e\u3068\u3057\u3066\u6570\u3048\u307e\u3059\u304b\uff1f\n\n\u4f8b\uff1a\u300c<<12215>>\u300d2\u3064\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u306b\u6301\u3064\u300c<<12221>>\u300d\u3001\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3092\u6301\u305f\u306a\u3044\u300c<<12220>>\u300d\u3001\u300c<<12217>>\u300d1\u3064\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u306b\u6301\u3064\u300c<<12219>>\u300d\u306e3\u4f53\u3092\u5bfe\u8c61\u306b\u3001\u300c<<12223>>\u300d\u306e\u300e\u2461\uff1a\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u5893\u5730\u3078\u9001\u308a\u3001\u81ea\u5206\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u5893\u5730\u306e\u300c\u8d85\u91cf\u6a5f\u7363\u300dX\u30e2\u30f3\u30b9\u30bf\u30fc\uff13\u7a2e\u985e\u3092\uff11\u4f53\u305a\u3064\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u300c<<12222>>\u300d\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3057\u3001\u305d\u306e\u4e0b\u306b\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u305d\u306eX\u7d20\u6750\u3092\u5168\u3066\u91cd\u306d\u3066X\u7d20\u6750\u3068\u3059\u308b\u300f\u52b9\u679c\u3067\u3001\u300c<<12222>>\u300d\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3057\u305f\u5834\u5408",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12222>>\u300d\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u306e\u7a2e\u985e\u306f\u3069\u306e\u3088\u3046\u306b\u6570\u3048\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

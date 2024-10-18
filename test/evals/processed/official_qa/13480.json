@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5432,
+        9874
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In that case, it is not destroyed during the End Phase.\n\nFurthermore, even if that monster becomes face-up again, it is not destroyed during the End Phase.",
+            "id": 13480,
+            "question": "If a monster Special Summoned by the effect of M-X-Saber Invoker is flipped to face-down Defense Position by the effect of Book of Moon, is that Special Summoned monster destroyed during the End Phase?",
+            "thisSrc": {
+                "date": "2014-08-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a monster Special Summoned by the effect of M-X-Saber Invoker is flipped to face-down Defense Position by the effect of Book of Moon, is that Special Summoned monster destroyed during the End Phase?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<9874>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u300c<<5432>>\u300d\u7b49\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u306b\u306f\u3001\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u7834\u58ca\u3055\u308c\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u306a\u304a\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u305d\u306e\u5f8c\u306b\u518d\u3073\u8868\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3067\u3082\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u7834\u58ca\u3055\u308c\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+            "id": 13480,
+            "question": "\u300c<<9874>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u300c<<5432>>\u300d\u7b49\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9874>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u88cf\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

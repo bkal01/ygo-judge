@@ -1,0 +1,39 @@
+{
+    "cards": [
+        11078,
+        11087,
+        17043
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can. In this case, the effect of Rank-Up-Magic - The Seventh One is not considered to have been applied.",
+            "id": 14818,
+            "question": "I sent Rank-Up-Magic - The Seventh One to my Graveyard to activate Barian's Chaos Draw. In a Chain to that activation, my opponent activated the effect of Artifact Durendal. As a result, when resolving the effect of Barian's Chaos Draw, the effect to destroy 1 Spell/Trap on my opponent's field was applied.\n\nThe text of Rank-Up-Magic - The Seventh One states its effect can only be applied once per Duel, but can I activate a second Rank-Up-Magic - The Seventh One?",
+            "thisSrc": {
+                "date": "2022-03-05",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "What happens if the effect of Barian's Chaos Draw activated by sending Rank-Up-Magic - The Seventh One is not applied?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u300c<<11087>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u3053\u3068\u306b\u306f\u306a\u308a\u307e\u305b\u3093\u3002",
+            "id": 14818,
+            "question": "\u81ea\u5206\u304c\u300c<<11087>>\u300d\u3092\u5893\u5730\u3078\u9001\u3063\u3066\u300c<<17043>>\u300d\u306e\u300e\u3053\u306e\u52b9\u679c\u306f\u3001\u305d\u306e\u9b54\u6cd5\u30ab\u30fc\u30c9\u767a\u52d5\u6642\u306e\u52b9\u679c\u3068\u540c\u3058\u306b\u306a\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u76f8\u624b\u304c\u300c<<11078>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\u305d\u306e\u52b9\u679c\u306b\u3088\u308a\u3001\u300c<<17043>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u306f\u300e\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u7834\u58ca\u3059\u308b\u300f\u51e6\u7406\u3092\u884c\u3044\u307e\u3057\u305f\u3002\n\n\u300c<<11087>>\u300d\u306f\u30ab\u30fc\u30c9\u30c6\u30ad\u30b9\u30c8\u306b\u3088\u308a\u3001\u52b9\u679c\u3092\u30c7\u30e5\u30a8\u30eb\u4e2d\u306b\uff11\u5ea6\u3057\u304b\u9069\u7528\u3067\u304d\u307e\u305b\u3093\u304c\u3001\u305d\u308c\u4ee5\u964d\u306e\u30c7\u30e5\u30a8\u30eb\u4e2d\u3001\u81ea\u5206\u306f\u5225\u306e\u300c<<11087>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<11087>>\u300d\u3092\u5893\u5730\u3078\u9001\u3063\u3066\u767a\u52d5\u3057\u305f\u300c<<17043>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u306a\u304b\u3063\u305f\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        12701
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The Pendulum Effect of <<12701>> will always activate if a \"Performapal\" monster on your field destroys an opponent's monster by battle. In this scenario, since there are 2 copies of <<12701>> in your Pendulum Zones, the Pendulum Effects of both copies will activate on the same Chain. (As a result, your opponent takes a total of 2000 damage.)",
+            "id": 19753,
+            "question": "There are 2 copies of <<12701>> in my Pendulum Zones. In this situation, a \"Performapal\" monster on my field destroys an opponent's monster by battle. Will the Pendulum Effects of each <<12701>> activate?",
+            "thisSrc": {
+                "date": "2016-09-03",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "There are 2 copies of <<12701>> in my Pendulum Zones. In this situation, a \"Performapal\" monster on my field destroys an opponent's monster by battle. Will the Pendulum Effects of each <<12701>> activate?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12701>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306f\u3001\u81ea\u5206\u306e\u300cEM\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u3067\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u305f\u5834\u5408\u306b\u5fc5\u305a\u767a\u52d5\u3059\u308b\u52b9\u679c\u3067\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b2\u679a\u306e\u300c<<12701>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u305d\u308c\u305e\u308c\u306e\u300c<<12701>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u304c\u30c1\u30a7\u30fc\u30f3\u306b\u3066\u767a\u52d5\u3057\u307e\u3059\u3002\n\uff08\u7d50\u679c\u7684\u306b\u3001\u76f8\u624b\u306b2000\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 19753,
+            "question": "\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u300c<<12701>>\u300d\u304c2\u679a\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306e\u300cEM\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u3067\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u6642\u3001\u305d\u308c\u305e\u308c\u306e\u300c<<12701>>\u300d\u306e\u300e\u2460\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u306e\u300cEM\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u3067\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u305f\u5834\u5408\u306b\u767a\u52d5\u3059\u308b\u3002\u76f8\u624b\u306b\uff11\uff10\uff10\uff10\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u300f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u300c<<12701>>\u300d\u304c2\u679a\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain",
+        "k:Pendulum"
+    ]
+}

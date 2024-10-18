@@ -1,0 +1,38 @@
+{
+    "cards": [
+        9402
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If Barbaroid, the Ultimate Battle Machine is destroyed by battle along with a monster with the same ATK, the effect to inflict 1000 damage does not activate.",
+            "id": 10433,
+            "question": "If Barbaroid, the Ultimate Battle Machine is destroyed by battle along with a monster with the same ATK, does it still inflict 1000 damage to the opponent?",
+            "thisSrc": {
+                "date": "2014-04-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Barbaroid, the Ultimate Battle Machine is destroyed by battle along with a monster with the same ATK, does it still inflict 1000 damage to the opponent?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<9402>>\u300d\u304c\u3001\u540c\u3058\u653b\u6483\u529b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3044\u304a\u4e92\u3044\u306b\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3001\u76f8\u624b\u30e9\u30a4\u30d5\u306b1000\u30dd\u30a4\u30f3\u30c8\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u305b\u3093\u3002",
+            "id": 10433,
+            "question": "\u300c<<9402>>\u300d\u304c\u3001\u540c\u3058\u653b\u6483\u529b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3063\u3066\u304a\u4e92\u3044\u306b\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u76f8\u624b\u30e9\u30a4\u30d5\u306b1000\u30dd\u30a4\u30f3\u30c8\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9402>>\u300d\u3068\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u304a\u4e92\u3044\u306b\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3067\u3082\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u3089\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Damage Step",
+        "k:Fusion"
+    ]
+}

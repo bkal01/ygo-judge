@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6219,
+        12006
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this situation, the effect of that Chain Link formed by the activation of Graydle Impact's effect is negated, and neither of the two targeted cards is destroyed. Additionally, only this one Chain Link's effect is negated, not the effect of Graydle Impact itself. Thus, at a later point, you will be able to activate and resolve the effects of that Graydle Impact as usual.",
+            "id": 23202,
+            "question": "I have activated the effect of Graydle Impact that destroys two cards on the field by targeting a Machine-type monster my opponent controls. My opponent activates Rare Metalmorph in response, targeting that same monster. What happens to Graydle Impact's effect, and how long will it be negated for?",
+            "thisSrc": {
+                "date": "2021-03-05",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If Rare Metalmorph is applying when resolving the effect of Graydle Impact, what happens to its effect?",
+            "tlSrc": {
+                "date": "2021-03-05",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u305d\u306e\u5834\u5408\u3001\u300c<<12006>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u51e6\u7406\u306e\u307f\u304c\u7121\u52b9\u306b\u306a\u308a\u3001\u5bfe\u8c61\u306e\uff12\u4f53\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3069\u3061\u3089\u3082\u7834\u58ca\u3055\u308c\u307e\u305b\u3093\u3002\u307e\u305f\u3001\u7121\u52b9\u306b\u306a\u308b\u306e\u306f\u3053\u306e\u51e6\u7406\u306e\u307f\u3067\u3001\u300c<<12006>>\u300d\u306e\u30ab\u30fc\u30c9\u305d\u306e\u3082\u306e\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u306e\u3067\u3001\u6b21\u306e\u30bf\u30fc\u30f3\u4ee5\u964d\u306f\u518d\u3073\u305d\u306e\u300c<<12006>>\u300d\u306e\u300e\u2460\u300f\u300e\u2461\u300f\u306e\u52b9\u679c\u306e\u767a\u52d5\u30fb\u51e6\u7406\u3092\u884c\u3046\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 23202,
+            "question": "\u300c<<12006>>\u300d\u306e\u300e\u2460\u300f\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c\u30b0\u30ec\u30a4\u30c9\u30eb\u300d\u30ab\u30fc\u30c9\uff11\u679a\u3068\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3053\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u3092\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u6a5f\u68b0\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u308c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u76f8\u624b\u304c\u81ea\u8eab\u306e\u6a5f\u68b0\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u300c<<6219>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c<<12006>>\u300d\u306e\u3069\u306e\u52b9\u679c\u304c\u3044\u3064\u307e\u3067\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2021-03-05",
+                "type": 0
+            },
+            "title": "\u300c<<12006>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u300c<<6219>>\u300d\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u3069\u306e\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain",
+        "k:Trap"
+    ]
+}

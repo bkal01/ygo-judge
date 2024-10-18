@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4909,
+        5740,
+        12353
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, once the effect of Skill Drain stops applying, the first effect of Celtic Guard of Noble Arms starts applying, making it impossible for it to attack. No replay occurs, and the attack ends.",
+            "id": 19058,
+            "question": "While Skill Drain is face-up on my field, so that the effects of monsters on the field are negated, I declare an attack with Celtic Guard of Noble Arms. When the attack is declared, if Mystical Space Typhoon is activated during the Battle Step and Skill Drain is destroyed, and if my hand has 1 or more cards in it, what happens to the attack?",
+            "thisSrc": {
+                "date": "2016-04-22",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "While Skill Drain is face-up on my field, so that the effects of monsters on the field are negated, I declare an attack with Celtic Guard of Noble Arms. When the attack is declared, if Mystical Space Typhoon is activated during the Battle Step and Skill Drain is destroyed, and if my hand has 1 or more cards in it, what happens to the attack?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<5740>>\u300d\u306e\u9069\u7528\u304c\u306a\u304f\u306a\u3063\u305f\u4e8b\u306b\u3088\u3063\u3066\u3001\u300c<<12353>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u306e\u624b\u672d\u304c\uff11\u679a\u4ee5\u4e0a\u306e\u5834\u5408\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306f\u653b\u6483\u3067\u304d\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u518d\u3073\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u6226\u95d8\u306e\u5dfb\u304d\u623b\u3057\u306f\u767a\u751f\u305b\u305a\u3001\u305d\u306e\u653b\u6483\u306f\u7d42\u4e86\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 19058,
+            "question": "\u300c<<5740>>\u300d\u304c\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u3063\u3066\u3044\u308b\u72b6\u6cc1\u3067\u3001\u300c<<12353>>\u300d\u304c\u653b\u6483\u5ba3\u8a00\u3092\u884c\u3044\u307e\u3057\u305f\u3002\n\n\u653b\u6483\u5ba3\u8a00\u304c\u884c\u308f\u308c\u305f\u30d0\u30c8\u30eb\u30b9\u30c6\u30c3\u30d7\u306b\u300c<<4909>>\u300d\u304c\u767a\u52d5\u3057\u3001\u300c<<5740>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u969b\u306b\u3001\u81ea\u5206\u306e\u624b\u672d\u304c1\u679a\u4ee5\u4e0a\u3060\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u300c<<12353>>\u300d\u306e\u653b\u6483\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5740>>\u300d\u306e\u52b9\u679c\u3067\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u3063\u3066\u3044\u308b\u300c<<12353>>\u300d\u304c\u653b\u6483\u3092\u884c\u3063\u305f\u5f8c\u3001\u300c<<5740>>\u300d\u306e\u9069\u7528\u304c\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u3001\u300c<<12353>>\u300d\u306e\u653b\u6483\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

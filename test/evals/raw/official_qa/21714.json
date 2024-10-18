@@ -1,0 +1,37 @@
+{
+    "cards": [
+        13595
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "While there are any face-up monsters on your opponent's field, <<13595>> can only target the monster with the highest ATK for its attacks, but it can attack directly normally if there are no monsters on your opponent's field.",
+            "id": 21714,
+            "question": "Can <<13595>> attack my opponent directly normally (while my opponent controls no monsters)?",
+            "thisSrc": {
+                "date": "2018-01-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can <<13595>> attack my opponent directly normally (while my opponent controls no monsters)?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<13595>>\u300d\u306f\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u306b\u306f\u3001\u305d\u306e\u5185\u306e\u653b\u6483\u529b\u304c\u4e00\u756a\u9ad8\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304b\u653b\u6483\u5bfe\u8c61\u306b\u9078\u629e\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u304c\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3067\u3042\u308c\u3070\u3001\u76f4\u63a5\u653b\u6483\u3092\u884c\u3046\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 21714,
+            "question": "\u300c<<13595>>\u300d\u306f\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306f\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u5168\u3066\u306b\uff11\u56de\u305a\u3064\u653b\u6483\u3067\u304d\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u305d\u306e\u5185\u306e\u653b\u6483\u529b\u304c\u4e00\u756a\u9ad8\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304b\u653b\u6483\u5bfe\u8c61\u306b\u9078\u629e\u3067\u304d\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u6301\u3061\u307e\u3059\u304c\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u76f4\u63a5\u653b\u6483\u3092\u884c\u3048\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<13595>>\u300d\u306f\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u76f4\u63a5\u653b\u6483\u3092\u884c\u3048\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Link"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        8063,
+        11957
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In that case, the effect does not resolve.\n\n(Not even 1 monster is Special Summoned)",
+            "id": 16366,
+            "question": "If <<8063>> is activated in a chain to the activation of the effect of <<11957>>, so that you only have 1 available Monster Card Zone, how does this resolve?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<8063>> is activated in a chain to the activation of the effect of <<11957>>, so that you only have 1 available Monster Card Zone, how does this resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11957>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3057\u305f\u76f8\u624b\u306e\u300c<<8063>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u7a7a\u304d\u304c1\u304b\u6240\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u52b9\u679c\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\n\uff08\u30e2\u30f3\u30b9\u30bf\u30fc\u306f1\u4f53\u3082\u7279\u6b8a\u53ec\u559a\u3055\u308c\u307e\u305b\u3093\u3002\uff09",
+            "id": 16366,
+            "question": "\u300c<<11957>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u30bf\u30fc\u30f3\u306e\u81ea\u5206\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u3053\u306e\u30ab\u30fc\u30c9\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u30ec\u30d9\u30eb\u306e\u5408\u8a08\u304c\uff16\u306b\u306a\u308b\u3088\u3046\u306b\u3001\u81ea\u5206\u306e\u624b\u672d\u30fb\u5893\u5730\u304b\u3089\u300cRR\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff12\u4f53\u3092\u9078\u3093\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u305f\u76f8\u624b\u306e\u300c<<8063>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u7a7a\u304d\u304c1\u304b\u6240\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11957>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3057\u305f\u76f8\u624b\u306e\u300c<<8063>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u7a7a\u304d\u304c1\u304b\u6240\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

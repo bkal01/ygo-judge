@@ -1,0 +1,39 @@
+{
+    "cards": [
+        7346,
+        12750,
+        12793
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of Zodiac Sign prevents your opponent from targeting Beast-Warrior-Type monsters on your field for attacks, except for the one(s) with the highest ATK that are on your field (you being the player controlling Zodiac Sign). As in this scenario, Beast-Warrior-Type monsters on your opponent's field do not affect which monsters your opponent can target for attacks. Therefore, since Zoodiac Bunnyblast is the Beast-Warrior-Type monster on your field with the highest ATK, your opponent can target it for an attack.",
+            "id": 20159,
+            "question": "Zodiac Sign is face-up in my Field Zone, and its effect prevents my opponent from targeting Beast-Warrior-Type monsters on my field for attacks except for the one(s) with the highest ATK. If my opponent has a face-up Attack Position Beast King Barbaros on their field, while I only have a face-up Zoodiac Bunnyblast on my field, can my opponent attack?",
+            "thisSrc": {
+                "date": "2016-10-13",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Zodiac Sign is face-up in my Field Zone, and its effect prevents my opponent from targeting Beast-Warrior-Type monsters on my field for attacks except for the one(s) with the highest ATK. If my opponent has a face-up Attack Position Beast King Barbaros on their field, while I only have a face-up Zoodiac Bunnyblast on my field, can my opponent attack?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12793>>\u300d\u306e\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u653b\u6483\u529b\u304c\u4e00\u756a\u9ad8\u3044\u7363\u6226\u58eb\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u306e\u81ea\u5206\u306e\u7363\u6226\u58eb\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u76f8\u624b\u306f\u653b\u6483\u5bfe\u8c61\u306b\u9078\u629e\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306f\u3001\u300c<<12793>>\u300d\u3092\u767a\u52d5\u3057\u3066\u3044\u308b\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u7363\u6226\u58eb\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u4e2d\u3067\u6700\u3082\u653b\u6483\u529b\u304c\u9ad8\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u3092\u653b\u6483\u5bfe\u8c61\u306b\u9078\u629e\u3067\u304d\u306a\u304f\u306a\u308b\u52b9\u679c\u3067\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u3088\u308a\u653b\u6483\u529b\u304c\u9ad8\u3044\u7363\u6226\u58eb\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3059\u308b\u304b\u3069\u3046\u304b\u306b\u3088\u3063\u3066\u3001\u300c<<12793>>\u300d\u306e\u52b9\u679c\u306e\u9069\u7528\u306b\u306f\u5f71\u97ff\u3057\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<12750>>\u300d\u306f\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u653b\u6483\u529b\u304c\u4e00\u756a\u9ad8\u3044\u7363\u6226\u58eb\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u300f\u306b\u3042\u305f\u308b\u72b6\u614b\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u76f8\u624b\u306f\u653b\u6483\u5bfe\u8c61\u306b\u9078\u629e\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 20159,
+            "question": "\u300c<<12793>>\u300d\u304c\u81ea\u5206\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3057\u3001\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u653b\u6483\u529b\u304c\u4e00\u756a\u9ad8\u3044\u7363\u6226\u58eb\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u306e\u81ea\u5206\u306e\u7363\u6226\u58eb\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u76f8\u624b\u306f\u653b\u6483\u5bfe\u8c61\u306b\u9078\u629e\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<7346>>\u300d\u306e\u307f\u304c\u8868\u5074\u653b\u6483\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<12750>>\u300d\u306e\u307f\u304c\u8868\u5074\u653b\u6483\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u76f8\u624b\u306f\u653b\u6483\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12793>>\u300d\u306e\u9069\u7528\u4e2d\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u3001\u3088\u308a\u653b\u6483\u529b\u306e\u9ad8\u3044\u7363\u6226\u58eb\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u76f8\u624b\u306f\u653b\u6483\u3092\u884c\u3048\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

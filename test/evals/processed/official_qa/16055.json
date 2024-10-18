@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5114,
+        5740,
+        11932
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Since the effects of Number S0: Utopic ZEXAL will be negated if it is Xyz Summoned while Skill Drain is face-up on the field, your opponent can activate cards such as Torrential Tribute once Number S0: Utopic ZEXAL is Xyz Summoned.",
+            "id": 16055,
+            "question": "If Number S0: Utopic ZEXAL is Xyz Summoned while the effect of Skill Drain is applying, will its effect that prevents the opponent from activating cards or effects in response to the Xyz Summon be applied?",
+            "thisSrc": {
+                "date": "2015-05-26",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Number S0: Utopic ZEXAL is Xyz Summoned while the effect of Skill Drain is applying, will its effect that prevents the opponent from activating cards or effects in response to the Xyz Summon be applied?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11932>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306eX\u53ec\u559a\u6210\u529f\u6642\u306b\u306f\u3001\u76f8\u624b\u306f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306f\u6c38\u7d9a\u52b9\u679c\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u300c<<5740>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<11932>>\u300d\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3057\u305f\u5834\u5408\u306b\u306f\u3001\u305d\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u300c<<11932>>\u300d\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u6210\u529f\u6642\u306b\u3001\u76f8\u624b\u306f\u300c<<5114>>\u300d\u306a\u3069\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 16055,
+            "question": "\u300c<<5740>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<11932>>\u300d\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306eX\u53ec\u559a\u6210\u529f\u6642\u306b\u306f\u3001\u76f8\u624b\u306f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5740>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<11932>>\u300d\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306eX\u53ec\u559a\u6210\u529f\u6642\u306b\u306f\u3001\u76f8\u624b\u306f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4795,
+        7346
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this case, since the original ATK of <<7346>> has become 1900, the ATK and DEF of <<4795>> will become 1900 and 1200, respectively.",
+            "id": 60,
+            "question": "If <<7346>> has been Normal Summoned without Tributes through its own effect, and is then targeted by the effect of <<4795>>, what does the ATK and DEF of <<4795>> become?",
+            "thisSrc": {
+                "date": "2014-11-29",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<7346>> has been Normal Summoned without Tributes through its own effect, and is then targeted by the effect of <<4795>>, what does the ATK and DEF of <<4795>> become?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u30ea\u30ea\u30fc\u30b9\u306a\u3057\u3067\u53ec\u559a\u3055\u308c\u3001\u81ea\u8eab\u306e\u300e\u3053\u306e\u65b9\u6cd5\u3067\u901a\u5e38\u53ec\u559a\u3057\u305f\u3053\u306e\u30ab\u30fc\u30c9\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u306f\uff11\uff19\uff10\uff10\u306b\u306a\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u300c<<7346>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<4795>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c<<4795>>\u300d\u306e\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f1900\u30fb1200\u3068\u306a\u308a\u307e\u3059\u3002",
+            "id": 60,
+            "question": "\u30ea\u30ea\u30fc\u30b9\u306a\u3057\u3067\u53ec\u559a\u3055\u308c\u3001\u81ea\u8eab\u306e\u300e\u3053\u306e\u65b9\u6cd5\u3067\u901a\u5e38\u53ec\u559a\u3057\u305f\u3053\u306e\u30ab\u30fc\u30c9\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u306f\uff11\uff19\uff10\uff10\u306b\u306a\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u300c<<7346>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<4795>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u30ea\u30ea\u30fc\u30b9\u306a\u3057\u3067\u53ec\u559a\u3055\u308c\u3066\u3044\u308b\u300c<<7346>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<4795>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

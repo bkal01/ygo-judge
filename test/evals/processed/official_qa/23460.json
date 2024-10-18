@@ -1,0 +1,38 @@
+{
+    "cards": [
+        12193,
+        15741
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot. (The effect is not considered to be an effect that Special Summons a monster from the Graveyard.)",
+            "id": 23460,
+            "question": "When my opponent activates the effect of their Paleozoic Dinomischus in the Graveyard, can I activate the effect of my Underworld Goddess of the Closed World to negate that activation?",
+            "thisSrc": {
+                "date": "2021-12-04",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can the effect of Underworld Goddess of the Closed World be activated in response to the effect of a \"Paleozoic\" Trap in the Graveyard?",
+            "tlSrc": {
+                "date": "2021-12-03",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\uff08\u5893\u5730\u304b\u3089\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u305b\u3093\u3002\uff09",
+            "id": 23460,
+            "question": "\u76f8\u624b\u304c\u767a\u52d5\u3057\u305f\u300c<<12193>>\u300d\u306e\u300e\u2461\u300f\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306f\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\uff08\u6c34\u65cf\u30fb\u6c34\u30fb\u661f\uff12\u30fb\u653b\uff11\uff12\uff10\uff10\uff0f\u5b88\uff10\uff09\u3068\u306a\u308a\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u7279\u6b8a\u53ec\u559a\u3059\u308b\uff08\u7f60\u30ab\u30fc\u30c9\u3068\u3057\u3066\u306f\u6271\u308f\u306a\u3044\uff09\u300f\u52b9\u679c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u81ea\u5206\u306f\u300c<<15741>>\u300d\u306e\u300e\u2462\u300f\u306e\u300e\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u5893\u5730\u304b\u3089\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u3092\u542b\u3080\u3001\u9b54\u6cd5\u30fb\u7f60\u30fb\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u76f8\u624b\u304c\u767a\u52d5\u3057\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2021-12-03",
+                "type": 0
+            },
+            "title": "\u5893\u5730\u3067\u767a\u52d5\u3057\u305f\u300c\u30d0\u30fc\u30b8\u30a7\u30b9\u30c8\u30de\u300d\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3001\u300c<<15741>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

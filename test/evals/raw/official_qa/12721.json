@@ -1,0 +1,38 @@
+{
+    "cards": [
+        10064,
+        10531
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if two or more materials are simultaneously removed from <<10531>>, such as by the effect of <<10064>>, the effect of <<10531>> will only activate once, and will increase its ATK by 800.",
+            "id": 12721,
+            "question": "If two or more materials are simultaneously removed from <<10531>>, such as by the effect of <<10064>> etc., what happens to its ATK?",
+            "thisSrc": {
+                "date": "2023-01-25",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If two or more materials are simultaneously removed from <<10531>>, what happens to its ATK?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<10064>>\u300d\u7b49\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<10531>>\u300d\u304c\u6301\u3064\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u304c2\u3064\u4ee5\u4e0a\u540c\u6642\u306b\u53d6\u308a\u9664\u304b\u308c\u305f\u5834\u5408\u3001\u300c<<10531>>\u300d\u306e\u300e\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u304c\u53d6\u308a\u9664\u304b\u308c\u305f\u6642\u300f\u306b\u767a\u52d5\u3059\u308b\u52b9\u679c\u306f1\u56de\u306e\u307f\u767a\u52d5\u3057\u3001\u653b\u6483\u529b\u304c800\u30dd\u30a4\u30f3\u30c8\u30a2\u30c3\u30d7\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 12721,
+            "question": "\u300c<<10064>>\u300d\u7b49\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<10531>>\u300d\u304c\u6301\u3064\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u304c2\u3064\u4ee5\u4e0a\u540c\u6642\u306b\u53d6\u308a\u9664\u304b\u308c\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u306f\u4f55\u30dd\u30a4\u30f3\u30c8\u30a2\u30c3\u30d7\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10531>>\u300d\u304c\u6301\u3064\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u304c\u540c\u6642\u306b2\u3064\u4ee5\u4e0a\u53d6\u308a\u9664\u304b\u308c\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u306f\u4f55\u30dd\u30a4\u30f3\u30c8\u30a2\u30c3\u30d7\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

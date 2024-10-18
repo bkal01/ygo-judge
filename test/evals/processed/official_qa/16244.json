@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5432,
+        11943
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When resolving the effect of Dystopia the Despondent, if it has been changed to face-down Defense Position, its effect does not apply.",
+            "id": 16244,
+            "question": "If the second effect of Dystopia the Despondent is activated during the Battle Step, but Book of Moon is chained so that Dystopia the Despondent is changed to face-down Defense Position, how does its effect resolve?",
+            "thisSrc": {
+                "date": "2015-06-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the second effect of Dystopia the Despondent is activated during the Battle Step, but Book of Moon is chained so that Dystopia the Despondent is changed to face-down Defense Position, how does its effect resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u300c<<11943>>\u300d\u81ea\u8eab\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u306b\u306f\u300e\u4ed6\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u305a\u3001\u6226\u95d8\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 16244,
+            "question": "\u300c<<11943>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3092\u884c\u3046\u30d0\u30c8\u30eb\u30b9\u30c6\u30c3\u30d7\u4e2d\u306b\uff11\u5ea6\u3001\u81ea\u5206\u306e\u5893\u5730\u306e\u30ec\u30d9\u30eb\uff11\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9664\u5916\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u30ab\u30fc\u30c9\u306f\u305d\u306e\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u7d42\u4e86\u6642\u307e\u3067\u3001\u4ed6\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u305a\u3001\u6226\u95d8\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5432>>\u300d\u304c\u767a\u52d5\u3057\u3001\u300c<<11943>>\u300d\u81ea\u8eab\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u30d0\u30c8\u30eb\u30b9\u30c6\u30c3\u30d7\u306b\u767a\u52d5\u3057\u305f\u300c<<11943>>\u300d\u306e\u52b9\u679c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5432>>\u300d\u304c\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain",
+        "k:Special Summon Monster"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4342,
+        11177
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In either case, <<11177>> can be activated.\n\nFurthermore, if 2 Synchro Monsters are destroyed simultaneously and sent to the Graveyard and <<11177>> is activated, it is activated by targeting 1 of the 2 Synchro Monsters.",
+            "id": 180,
+            "question": "Can <<11177>> be activated when a Synchro Monster and a non-Synchro Monster you control are destroyed simultaneously and sent to the Graveyard by the effect of <<4342>>?\n\nAlso, can <<11177>> be activated when 2 Synchro Monsters you control are destroyed simultaneously and sent to the Graveyard by the effect of <<4342>>?",
+            "thisSrc": {
+                "date": "2015-01-08",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can <<11177>> be activated when a Synchro Monster and a non-Synchro Monster you control are destroyed simultaneously and sent to the Graveyard by the effect of <<4342>>? Also, can <<11177>> be activated when 2 Synchro Monsters you control are destroyed simultaneously and sent to the Graveyard by the effect of <<4342>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u3069\u3061\u3089\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3082\u3001\u300c<<11177>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u306a\u304a\u3001\uff12\u4f53\u306e\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u540c\u6642\u306b\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u6642\u306b\u300c<<11177>>\u300d\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u306b\u306f\u3001\u305d\u306e\u7834\u58ca\u3055\u308c\u305f\uff12\u4f53\u306e\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5185\u3001\u3044\u305a\u308c\u304b\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 180,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3001\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u300c<<4342>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u540c\u6642\u306b\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u6642\u306b\u3001\u300c<<11177>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\uff12\u4f53\u306e\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u300c<<4342>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u540c\u6642\u306b\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u6642\u306b\u3001\u300c<<11177>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u542b\u30802\u4f53\u4ee5\u4e0a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u540c\u6642\u306b\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u300c<<11177>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

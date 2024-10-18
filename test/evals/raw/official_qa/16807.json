@@ -1,0 +1,38 @@
+{
+    "cards": [
+        12067,
+        12069
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of <<12069>> is a Trigger Effect that activates in the hand. Even if there are multiple copies of it in your hand, you can only activate the effect of 1 at a time.",
+            "id": 16807,
+            "question": "If I have 2 copies of <<12069>> in my hand, can I activate the effect of each copy when my opponent's monster declares an attack?",
+            "thisSrc": {
+                "date": "2015-08-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If I have 2 copies of <<12069>> in my hand, can I activate the effect of each copy when my opponent's monster declares an attack?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12069>>\u300d\u306e\u52b9\u679c\u306f\u624b\u672d\u306b\u3066\u767a\u52d5\u3059\u308b\u8a98\u767a\u52b9\u679c\u3067\u3059\u3002\n\n\u624b\u672d\u306b\u8907\u6570\u679a\u306e\u300c<<12069>>\u300d\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3067\u3082\u3001\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u306e\u306f\u3001\u3044\u305a\u308c\u304b1\u4f53\u306e\u307f\u3068\u306a\u308a\u307e\u3059\u3002",
+            "id": 16807,
+            "question": "\u81ea\u5206\u306e\u624b\u672d\u306b2\u679a\u306e\u300c<<12069>>\u300d\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u305b\u305a\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u5ba3\u8a00\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u624b\u672d\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3068\u81ea\u5206\u306e\u624b\u672d\u30fb\u30c7\u30c3\u30ad\u30fb\u5893\u5730\u306e\u300c<<12067>>\u300d\uff11\u4f53\u3092\u9078\u3093\u3067\u7279\u6b8a\u53ec\u559a\u3057\u3001\u305d\u306e\u653b\u6483\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3059\u308b\u3002\u305d\u306e\u5f8c\u3001\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u3092\u7d42\u4e86\u3059\u308b\u3002\u3053\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u5168\u3066\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u9664\u5916\u3055\u308c\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u624b\u672d\u306b\u8907\u6570\u679a\u306e\u300c<<12069>>\u300d\u304c\u3042\u308b\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Special Summon Monster"
+    ]
+}

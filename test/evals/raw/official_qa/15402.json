@@ -1,0 +1,38 @@
+{
+    "cards": [
+        6682,
+        11833
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in the proposed scenario, the effect of <<11833>> resolves.\n\nEven while resolving the \"\u20223\" or \"\u20225\" or \"\u202210\" effect of <<11833>>, the cards that would be sent to the Graveyard are banished instead.",
+            "id": 15402,
+            "question": "If the \"\u20223\" or \"\u20225\" or \"\u202210\" part of the effect of <<11833>> is resolved while <<6682>> is active, how does this resolve?",
+            "thisSrc": {
+                "date": "2015-05-01",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the \"\u20223\" or \"\u20225\" or \"\u202210\" part of the effect of <<11833>> is resolved while <<6682>> is active, how does this resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3067\u3082\u3001\u300c<<11833>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\n\u300e\u25cf\uff13\u7a2e\u985e\u4ee5\u4e0a\uff1a\u300f\u3084\u3001\u300e\u25cf\uff15\u7a2e\u985e\u4ee5\u4e0a\uff1a\u300f\u3001\u300e\u25cf\uff11\uff10\u7a2e\u985e\u4ee5\u4e0a\uff1a\u300f\u306e\u3044\u305a\u308c\u306e\u51e6\u7406\u306e\u5834\u5408\u3067\u3082\u3001\u300c<<6682>>\u300d\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u4e8b\u306b\u3088\u3063\u3066\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u30ab\u30fc\u30c9\u306f\u3001\u4ee3\u308f\u308a\u306b\u9664\u5916\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 15402,
+            "question": "\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u767a\u52d5\u3057\u305f\u300c<<11833>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300e\u25cf\uff13\u7a2e\u985e\u4ee5\u4e0a\uff1a\u304a\u4e92\u3044\u306f\u305d\u308c\u305e\u308c\u81ea\u5206\u306e\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\uff13\u679a\u9078\u3093\u3067\u5893\u5730\u3078\u9001\u308b\u300f\u51e6\u7406\u3084\u3001\u300e\u25cf\uff15\u7a2e\u985e\u4ee5\u4e0a\uff1a\u304a\u4e92\u3044\u306e\u30c7\u30c3\u30ad\u306e\u4e0a\u304b\u3089\u30ab\u30fc\u30c9\u3092\uff13\u679a\u5893\u5730\u3078\u9001\u308b\u300f\u51e6\u7406\u3001\u300e\u25cf\uff11\uff10\u7a2e\u985e\u4ee5\u4e0a\uff1a\u304a\u4e92\u3044\u306e\u624b\u672d\u306e\u30ab\u30fc\u30c9\u3092\u5168\u3066\u5893\u5730\u3078\u9001\u308b\u300f\u51e6\u7406\u304c\u884c\u308f\u308c\u308b\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<11833>>\u300d\u306e\u300e\u25cf\uff13\u7a2e\u985e\u4ee5\u4e0a\uff1a\u300f\u3084\u3001\u300e\u25cf\uff15\u7a2e\u985e\u4ee5\u4e0a\uff1a\u300f\u3001\u300e\u25cf\uff11\uff10\u7a2e\u985e\u4ee5\u4e0a\uff1a\u300f\u306e\u52b9\u679c\u306e\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

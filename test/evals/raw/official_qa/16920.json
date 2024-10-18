@@ -1,0 +1,39 @@
+{
+    "cards": [
+        7178,
+        7574,
+        12080
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of <<12080>> prevents your opponent from activating any cards or effects on the field for the rest of the turn. Therefore, effects that activate in the hand or Graveyard can still be activated normally.",
+            "id": 16920,
+            "question": "During the turn the first effect of <<12080>> is applying, can my opponent activate the effect of <<7574>> from their hand, or <<7178>> from their Graveyard?",
+            "thisSrc": {
+                "date": "2015-08-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "During the turn the first effect of <<12080>> is applying, can my opponent activate the effect of <<7574>> from their hand, or <<7178>> from their Graveyard?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<12080>>\u300d\u306e\u30b7\u30f3\u30af\u30ed\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30bf\u30fc\u30f3\u3001\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u9b54\u6cd5\u30fb\u7f60\u30fb\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306e\u767a\u52d5\u3092\u884c\u3046\u4e8b\u306f\u3067\u304d\u305a\u3001\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u3092\u884c\u3046\u4e8b\u3082\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u3088\u3063\u3066\u3001\u624b\u672d\u3084\u5893\u5730\u306b\u3066\u767a\u52d5\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3067\u3042\u308c\u3070\u3001\u76f8\u624b\u306f\u901a\u5e38\u901a\u308a\u767a\u52d5\u3057\u3001\u51e6\u7406\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 16920,
+            "question": "\u300c<<12080>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304cS\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u30bf\u30fc\u30f3\u76f8\u624b\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u3067\u767a\u52d5\u3059\u308b\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u3002\u3053\u306e\u767a\u52d5\u306b\u5bfe\u3057\u3066\u3001\u76f8\u624b\u306f\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30bf\u30fc\u30f3\u3067\u3059\u3002\n\n\u3053\u306e\u30bf\u30fc\u30f3\u306b\u3001\u76f8\u624b\u306f\u624b\u672d\u306e\u300c<<7574>>\u300d\u3084\u3001\u5893\u5730\u306e\u300c<<7178>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12080>>\u300d\u304c\u30b7\u30f3\u30af\u30ed\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30bf\u30fc\u30f3\u3001\u624b\u672d\u3084\u5893\u5730\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

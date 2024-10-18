@@ -1,0 +1,39 @@
+{
+    "cards": [
+        10574,
+        10752,
+        10793
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Regardless of which player has activated <<10793>>, its effect applies to all monsters on the Field.\n\nTherefore, in the proposed scenario, even if you are the player who activated <<10793>>, the battle damage you take as a result from the attack of an opponent's <<10752>> is not halved.\n\nSimilarly, the battle damage the opponent takes as a result from the attack of your <<10574>> is halved.",
+            "id": 12877,
+            "question": "While you control <<10793>>, an opponent's <<10752>> has declared an attack.\n\nIf, as a result, you take battle damage, is that battle damage halved?\n\nAlso, if while you control <<10793>> you declare an attack with <<10574>> and, as a result, the opponent takes battle damage, is that battle damage halved?",
+            "thisSrc": {
+                "date": "2013-08-08",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "While you control <<10793>>, an opponent's <<10752>> has declared an attack.  If, as a result, you take battle damage, is that battle damage halved?  Also, if while you control <<10793>> you declare an attack with <<10574>> and, as a result, the opponent takes battle damage, is that battle damage halved?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<10793>>\u300d\u3092\u767a\u52d5\u3057\u3066\u3044\u308b\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u81ea\u5206\u30fb\u76f8\u624b\u3069\u3061\u3089\u306e\u5834\u5408\u3067\u3042\u3063\u3066\u3082\u3001\u300c<<10793>>\u300d\u306e\u52b9\u679c\u306f\u3001\u304a\u4e92\u3044\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u300c<<10793>>\u300d\u3092\u767a\u52d5\u3057\u3066\u3044\u308b\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u81ea\u5206\u3067\u3042\u3063\u305f\u5834\u5408\u3067\u3082\u3001\u76f8\u624b\u306e\u300c<<10752>>\u300d\u7b49\u306e\u653b\u6483\u306b\u3088\u3063\u3066\u81ea\u5206\u304c\u53d7\u3051\u308b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u534a\u5206\u306b\u306f\u306a\u308a\u307e\u305b\u3093\u3002\n\u540c\u69d8\u306b\u3001\u81ea\u5206\u306e\u300c<<10574>>\u300d\u306e\u653b\u6483\u306b\u3088\u3063\u3066\u76f8\u624b\u304c\u53d7\u3051\u308b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u534a\u5206\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 12877,
+            "question": "\u81ea\u5206\u306e\u300c<<10793>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u76f8\u624b\u306e\u300c<<10752>>\u300d\u304c\u653b\u6483\u3092\u5ba3\u8a00\u3057\u307e\u3057\u305f\u3002\n\u305d\u306e\u7d50\u679c\u3001\u81ea\u5206\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\u4e8b\u306b\u306a\u308b\u5834\u5408\u3001\u305d\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u534a\u5206\u306b\u306a\u308a\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u81ea\u5206\u306e\u300c<<10793>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u81ea\u5206\u304c\u300c<<10574>>\u300d\u3067\u653b\u6483\u3092\u5ba3\u8a00\u3057\u3001\u305d\u306e\u7d50\u679c\u3001\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u305f\u5834\u5408\u3001\u76f8\u624b\u304c\u53d7\u3051\u308b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u534a\u5206\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u300c\u30b4\u30fc\u30b9\u30c8\u30ea\u30c3\u30af\uff65\u30cf\u30a6\u30b9\u300d\u306e\u9069\u7528\u4e2d\u3001\u76f8\u624b\u306e\u300c<<10752>>\u300d\u304c\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u81ea\u5206\u304c\u53d7\u3051\u308b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u534a\u5206\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

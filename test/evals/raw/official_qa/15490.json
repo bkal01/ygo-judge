@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5607,
+        5914,
+        11818
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, since by the end of the chain <<11818>> has been returned to the hand and no longer exists face-up in a Monster Zone, the effect of <<11818>> does not activate.",
+            "id": 15490,
+            "question": "The opponent targeted a <<11818>> you control for the effect of <<5914>> and you activated <<5607>> to increase your LP.\n\nIf that <<11818>> is returned to the owner's hand during the resolution of that chain, does the effect of <<11818>> activate?",
+            "thisSrc": {
+                "date": "2015-05-01",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "The opponent targeted a <<11818>> you control for the effect of <<5914>> and you activated <<5607>> to increase your LP.  If that <<11818>> is returned to the owner's hand during the resolution of that chain, does the effect of <<11818>> activate?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u4e00\u9023\u306e\u30c1\u30a7\u30fc\u30f3\u51e6\u7406\u304c\u5b8c\u4e86\u3057\u305f\u969b\u306b\u306f\u3001\u300c<<11818>>\u300d\u304c\u624b\u672d\u306b\u623b\u308a\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u305b\u3093\u306e\u3067\u3001\u300c<<11818>>\u300d\u306e\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u305b\u3093\u3002",
+            "id": 15490,
+            "question": "\u76f8\u624b\u304c\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<11818>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<5914>>\u300d\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u81ea\u5206\u304c\u300c<<5607>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300e\u25cf\u81ea\u5206\u306f\uff11\uff12\uff10\uff10LP\u56de\u5fa9\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u56de\u5fa9\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u4e00\u9023\u306e\u30c1\u30a7\u30fc\u30f3\u51e6\u7406\u306b\u3066\u3001\u300c<<11818>>\u300d\u304c\u6301\u3061\u4e3b\u306e\u624b\u672d\u306b\u623b\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u300c<<11818>>\u300d\u306e\u300e\u2461\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u306eLP\u304c\u56de\u5fa9\u3057\u305f\u5834\u5408\u306b\u767a\u52d5\u3059\u308b\u3002\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff11\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5914>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5607>>\u300d\u304c\u767a\u52d5\u3057\u3001\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u304c\u56de\u5fa9\u3057\u305f\u5834\u5408\u3001\u300c<<11818>>\u300d\u306e\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

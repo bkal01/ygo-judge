@@ -1,0 +1,35 @@
+{
+    "cards": [],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When performing a Link Summon, the monsters used are sent from your Monster Zone to the Graveyard, but those monsters are not considered to be Tributed.",
+            "id": 20750,
+            "question": "Are monsters sent to the Graveyard for a Link Summon considered Tributed?",
+            "thisSrc": {
+                "date": "2017-03-25",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Are monsters sent to the Graveyard for a Link Summon considered Tributed?",
+            "tlSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "translationStatus": "outdated"
+        },
+        "ja": {
+            "answer": "\u30ea\u30f3\u30af\u53ec\u559a\u3092\u884c\u3046\u969b\u306b\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5893\u5730\u3078\u9001\u308a\u307e\u3059\u304c\u3001\u305d\u306e\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u30ea\u30f3\u30af\u7d20\u6750\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u305f\u6271\u3044\u306b\u306f\u306a\u308a\u307e\u305b\u3093\u3002",
+            "id": 20750,
+            "question": "\u30ea\u30f3\u30af\u53ec\u559a\u306e\u969b\u306b\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u30ea\u30f3\u30af\u7d20\u6750\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u305f\u6271\u3044\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "title": "\u30ea\u30f3\u30af\u53ec\u559a\u306e\u969b\u306b\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u30ea\u30f3\u30af\u7d20\u6750\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u305f\u6271\u3044\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Link"
+    ]
+}

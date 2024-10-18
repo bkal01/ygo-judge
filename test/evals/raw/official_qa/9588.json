@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5000,
+        5355
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Since the printed ATK of <<5000>> is \"?\", it is treated as 0 when resolving <<5355>>.\nTherefore, in the example you describe, if <<5000>>'s ATK has been increased to 6000 by its own effect, and <<5355>> is then applied, <<5000>>'s original ATK of 0 will be halved, and the ATK increase by its own effect is then applied to this original ATK.\nTherefore, the ATK of <<5000>> will be 6000.",
+            "id": 9588,
+            "question": "The ATK of a <<5000>> on the field has been increased by its own effect. If this <<5000>> is targeted by <<5355>>, what happens to its ATK?",
+            "thisSrc": {
+                "date": "2022-08-23",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If <<5355>> is activated while <<5000>>'s ATK is increased, what happens to its ATK?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<5000>>\u300d\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u306f\u300c\uff1f\u300d\u3068\u306a\u308a\u3001\u300c<<5355>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u3092\u884c\u3046\u5834\u5408\u3001\u5143\u3005\u306e\u653b\u6483\u529b\u306f\u300c0\u300d\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u3059\u3002\n\u3057\u305f\u304c\u3063\u3066\u4f8b\u306e\u5834\u5408\u3001\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u653b\u6483\u529b\u304c6000\u306b\u30a2\u30c3\u30d7\u3057\u3066\u3044\u308b\u300c<<5000>>\u300d\u3092\u5bfe\u8c61\u306b\u300c<<5355>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u5143\u3005\u306e\u653b\u6483\u529b\u300c0\u300d\u304c\u534a\u5206\u306b\u306a\u308a\u3001\u305d\u306e\u5f8c\u3001\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u308b\u30a2\u30c3\u30d7\u3057\u305f\u6570\u5024\u304c\u9069\u7528\u3055\u308c\u3001\u653b\u6483\u529b\u306f6000\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 9588,
+            "question": "\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u653b\u6483\u529b\u304c\u30a2\u30c3\u30d7\u3057\u3066\u3044\u308b\u300c<<5000>>\u300d\u3092\u5bfe\u8c61\u306b\u9078\u629e\u3057\u3066\u300c<<5355>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c<<5000>>\u300d\u306e\u653b\u6483\u529b\u306e\u6570\u5024\u306f\u3069\u306e\u3088\u3046\u306b\u5909\u5316\u3057\u307e\u3059\u304b\uff1f\n\u4f8b\uff09\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u653b\u6483\u529b\u304c6000\u306b\u30a2\u30c3\u30d7\u3057\u3066\u3044\u308b\u300c<<5000>>\u300d\u3092\u5bfe\u8c61\u306b\u3001\u300c<<5355>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u306e\u6570\u5024\u306f\u3044\u304f\u3064\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5000>>\u300d\u306e\u653b\u6483\u529b\u304c\u30a2\u30c3\u30d7\u3057\u3066\u3044\u308b\u6642\u306b\u300c<<5355>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u306f\u3044\u304f\u3064\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Spell"
+    ]
+}

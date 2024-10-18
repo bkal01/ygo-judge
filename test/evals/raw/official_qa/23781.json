@@ -1,0 +1,38 @@
+{
+    "cards": [
+        13850,
+        16300
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, it can.\nIn order to do so, you first attack twice due to <<16300>>'s own effect. Then, at the End of the Damage Step for the second attack, activate the effect of the equipped <<13850>>.\nNote that <<13850>>'s effect cannot be activated at the End of the Damage Step for the first attack.",
+            "id": 23781,
+            "question": "My <<16300>> has been equipped with a monster by its own effect. Afterwards, it is also equipped with <<13850>>.\nIf my opponent's field has 3 monsters, can that <<16300>> now attack all 3 of my opponent's monsters?",
+            "thisSrc": {
+                "date": "2022-06-06",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If <<16300>> is equipped with monsters by its own effect, and also equipped with <<13850>>, how often can it attack?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u3059\u3002\n\uff13\u56de\u653b\u6483\u3059\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u5148\u306b\u300c<<16300>>\u300d\u306e\u2462\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\uff12\u56de\u653b\u6483\u3057\u3001\u305d\u306e\uff12\u56de\u76ee\u306e\u653b\u6483\u3092\u884c\u3063\u305f\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u7d42\u4e86\u6642\u306b\u3001\u300c<<13850>>\u300d\u306e\u2461\u306e\u52b9\u679c\u3092\u767a\u52d5\u30fb\u9069\u7528\u3059\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002\n\u306a\u304a\u3001\uff11\u56de\u76ee\u306e\u653b\u6483\u3092\u884c\u3063\u305f\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u7d42\u4e86\u6642\u306b\u3001\u300c<<13850>>\u300d\u306e\u2461\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 23781,
+            "question": "\u300c<<16300>>\u300d\u306e\u2461\u306e\u52b9\u679c\u3067\u81ea\u8eab\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\uff11\u4f53\u88c5\u5099\u3057\u305f\u5f8c\u3001\u3055\u3089\u306b\u300c<<13850>>\u300d\u3092\u88c5\u5099\u3057\u307e\u3057\u305f\u3002\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\uff13\u4f53\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u305d\u306e\u300c<<16300>>\u300d\u306f\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3078\uff13\u56de\u653b\u6483\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<13850>>\u300d\u3068\u3001\u81ea\u8eab\u306e\u2461\u306e\u52b9\u679c\u3067\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u88c5\u5099\u3057\u3066\u3044\u308b\u300c<<16300>>\u300d\u306f\u4f55\u56de\u653b\u6483\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

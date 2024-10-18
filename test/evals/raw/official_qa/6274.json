@@ -1,0 +1,71 @@
+{
+    "cards": [
+        10541,
+        10570,
+        10662,
+        10879,
+        10945,
+        11022,
+        11186,
+        11595,
+        11732,
+        11841,
+        11998,
+        12223,
+        12330,
+        12644,
+        12791,
+        12962,
+        12974,
+        13445,
+        13956,
+        14222,
+        14402,
+        14530,
+        14883,
+        15061,
+        15557,
+        15848,
+        16011,
+        16473,
+        16745,
+        17400,
+        18001,
+        18014,
+        18033,
+        18527,
+        19914
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot.\n\nThe effect of <<10570>> uses the targeted monster as Xyz Material to Special Summon a \"Number C\" monster from your Extra Deck, with that Special Summon being treated as an Xyz Summon.\n\nSince a monster Special Summoned by <<12962>>'s effect\u300ecannot be used as material for an Xyz Summon,\u300fyou cannot activate <<10570>> by targeting it.\n\nThe same applies to monsters that had the effects of <<14530>>, <<18001>>, <<17400>>, <<15557>>, or <<18033>> applied to it.\n\n~~~\n\nAdditionally, in place of <<10570>>, this applies to the following effects, which cannot target a monster that cannot be used as material for an Xyz Summon:\n\u25cf <<16473>>\n\u25cf <<16011>>\n\u25cf <<12791>>\n\u25cf <<12644>>\n\u25cf <<12330>>\n\u25cf <<11998>>\n\u25cf <<11841>>\n\u25cf <<11732>>\n\u25cf <<11186>>\n\u25cf <<11022>>\n\u25cf <<10945>>\n\u25cf <<10662>>\n\u25cf <<10541>>\n\u25cf <<16745>>\n\u25cf <<12974>>\n\u25cf <<15848>>'s \u2460st effect\n\u25cf <<18527>>'s \u2461nd effect\n\u25cf <<12223>>'s \u2460st effect\n\u25cf <<10879>>'s \u2461nd effect\n\u25cf <<14222>>'s 2nd bulleted (\u25cf) effect\n\u25cf <<14402>>\n\u25cf <<13956>>\n\u25cf <<18014>>'s \u2460st effect\n\u25cf <<19914>>'s \u2460st effect\n\u25cf <<15061>>'s \u2461nd effect\n\u25cf <<14883>>'s \u2460st effect\n\u25cf <<13445>>'s \u2461nd effect\n\u25cf <<11595>>'s \u2461nd effect",
+            "id": 6274,
+            "question": "I have Special Summoned a \"Zoodiac\" monster using the effect of <<12962>>, and thus\u300eit cannot be used as material for an Xyz Summon.\u300fCan I now activate <<10570>> by targeting this \"Zoodiac\" monster?",
+            "thisSrc": {
+                "date": "2024-07-15",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If a monster\u300ecannot be used as material for an Xyz Summon,\u300fcan I target it with <<10570>>?",
+            "tlSrc": {
+                "date": "2024-07-15",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u300c<<10570>>\u300d\u306f\u305d\u306e\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u5bfe\u8c61\u3068\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3068\u3057\u3001\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u6271\u3044\u3068\u3057\u3066\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u3001\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3088\u308a\u30e9\u30f3\u30af\u304c\uff11\u3064\u9ad8\u3044\u300cCNo.\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3057\u307e\u3059\u3002\n\n\u300c<<12962>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u306e\u7d20\u6750\u3068\u3057\u3066\u4f7f\u7528\u3067\u304d\u307e\u305b\u3093\u306e\u3067\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<10570>>\u300d\u306f\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\n\n\n\u300c<<14530>>\u300d\u300c<<18001>>\u300d\u300c<<17400>>\u300d\u300c<<15557>>\u300d\u300c<<18033>>\u300d\u306a\u3069\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u3001\u300eX\u53ec\u559a\u306e\u7d20\u6750\u306b\u3067\u304d\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u4ee5\u4e0b\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u3053\u3068\u3082\u3067\u304d\u307e\u305b\u3093\u3002\n\u300c<<16473>>\u300d\n\u300c<<16011>>\u300d\n\u300c<<12791>>\u300d\n\u300c<<12644>>\u300d\n\u300c<<12330>>\u300d\n\u300c<<11998>>\u300d\n\u300c<<11841>>\u300d\n\u300c<<11732>>\u300d\n\u300c<<11186>>\u300d\n\u300c<<11022>>\u300d\n\u300c<<10945>>\u300d\n\u300c<<10662>>\u300d\n\u300c<<10541>>\u300d\n\u300c<<16745>>\u300d\n\u300c<<12974>>\u300d\n\u300c<<15848>>\u300d\u2460\n\u300c<<18527>>\u300d\u2461\n\u300c<<12223>>\u300d\u2460\n\u300c<<10879>>\u300d\u2461\n\u300c<<14222>>\u300d\uff12\u3064\u76ee\u306e\u25cf\n\u300c<<14402>>\u300d\n\u300c<<13956>>\u300d\n\u300c<<18014>>\u300d\u2460\n\u300c<<19914>>\u300d\u2460\n\u300c<<15061>>\u300d\u2461\n\u300c<<14883>>\u300d\u2460\n\u300c<<13445>>\u300d\u2461\n\u300c<<11595>>\u300d\u2461",
+            "id": 6274,
+            "question": "\u300c<<12962>>\u300d\u306e\u300e\u2461\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306eX\u7d20\u6750\u3092\uff11\u3064\u53d6\u308a\u9664\u304d\u3001\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u5341\u4e8c\u7363\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u3002\u3053\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3053\u306e\u30bf\u30fc\u30f3\u3001\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u3001X\u53ec\u559a\u306e\u7d20\u6750\u306b\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u5893\u5730\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3057\u305f\u300c\u5341\u4e8c\u7363\u300d\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<10570>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-07-15",
+                "type": 0
+            },
+            "title": "\u300eX\u53ec\u559a\u306e\u7d20\u6750\u306b\u3067\u304d\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<10570>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

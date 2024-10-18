@@ -1,0 +1,39 @@
+{
+    "cards": [
+        9575,
+        9879,
+        14222
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if you target Number 39: Utopia with Shining Draw, you can equip it with ZW - Unicorn Spear. In that case, since ZW - Unicorn Spear was not equipped by its own effect, its effect that increases the equipped monster's ATK by 1900 is not applied, but the effect that negates the effects of a monster that battles with the equipped monster during the Battle Phase still applies.",
+            "id": 22334,
+            "question": "If I activate Shining Draw targeting a Number 39: Utopia on my field, and activate the effect that equips \"ZW -\" monsters to it, can I equip it with ZW - Unicorn Spear?",
+            "thisSrc": {
+                "date": "2018-12-26",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If I activate Shining Draw targeting a Number 39: Utopia on my field, and activate the effect that equips \"ZW -\" monsters to it, can I equip it with ZW - Unicorn Spear?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<9575>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<14222>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3067\u3082\u3001\u300c<<9879>>\u300d\u3092\u88c5\u5099\u3055\u305b\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u300c<<9879>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u88c5\u5099\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u306e\u3067\u3001\u653b\u6483\u529b\u30921900\u30a2\u30c3\u30d7\u3059\u308b\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u304c\u3001\u300e\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3046\u5834\u5408\u3001\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u306e\u9593\u3060\u3051\u305d\u306e\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 22334,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<9575>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<14222>>\u300d\u306e\u300e\u25cf\u30c7\u30c3\u30ad\u30fbEX\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u540d\u304c\u7570\u306a\u308b\u300cZW\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u4efb\u610f\u306e\u6570\u3060\u3051\u9078\u3073\u3001\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u88c5\u5099\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u5bfe\u8c61\u306e\u300c<<9575>>\u300d\u306b\u300c<<9879>>\u300d\u3092\u88c5\u5099\u3055\u305b\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<9575>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<14222>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c<<9879>>\u300d\u3092\u88c5\u5099\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

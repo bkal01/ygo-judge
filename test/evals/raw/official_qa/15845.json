@@ -1,0 +1,50 @@
+{
+    "cards": [
+        5526,
+        11901,
+        11904
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "Substituting for continuous attempts to destroy can be attempted, though futile",
+                "date": "2020-01-13",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "When <<11904>> resolves, you take control of the <<5526>> that was targeted, and it will be treated as a Toon monster.\n\nAfter you gain control of <<5526>>, its effect that destroys it when it is targeted by a card or effect will apply. In this case, you can apply the last effect of <<11901>> once, and banish the top card of your Deck face-down, but the effect of <<5526>> will immediately apply again, resulting in <<5526>> being destroyed.",
+            "id": 15845,
+            "question": "If <<11901>> is face-up on my side of the field, and I activate <<11904>> by targeting an opponent's <<5526>>, how will the effects apply?",
+            "thisSrc": {
+                "date": "2015-05-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "What happens if I target <<5526>> with <<11904>> while <<11901>> is applying?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<5526>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<11904>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c<<11904>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306b\u3088\u3063\u3066\u3001\u300c<<5526>>\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u306f\u81ea\u5206\u306b\u79fb\u308a\u3001\u30c8\u30a5\u30fc\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u300c<<5526>>\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u81ea\u5206\u306b\u79fb\u3063\u305f\u969b\u306b\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u306b\u306a\u3063\u305f\u6642\u3001\u3053\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\u3053\u306e\u5834\u5408\u3001\u300c<<11901>>\u300d\u306e\u300e\u2463\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30c8\u30a5\u30fc\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u30fb\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3001\u4ee3\u308f\u308a\u306b\u7834\u58ca\u3055\u308c\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u306b\u3064\u304d\uff11\u679a\u3001\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u306e\u4e0a\u304b\u3089\u30ab\u30fc\u30c9\u3092\u88cf\u5074\u8868\u793a\u3067\u9664\u5916\u3067\u304d\u308b\u300f\u52b9\u679c\u30921\u5ea6\u3060\u3051\u9069\u7528\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304c\u3001\u305f\u3060\u3061\u306b\u300c<<5526>>\u300d\u306e\u81ea\u8eab\u3092\u7834\u58ca\u3059\u308b\u52b9\u679c\u304c\u518d\u3073\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u7d50\u679c\u7684\u306b\u300c<<5526>>\u300d\u306f\u7834\u58ca\u3055\u308c\u307e\u3059\u3002",
+            "id": 15845,
+            "question": "\u81ea\u5206\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u300c<<11901>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<5526>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u81ea\u5206\u304c\u300c<<11904>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11901>>\u300d\u306e\u9069\u7528\u4e2d\u3001\u300c<<5526>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<11904>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell",
+        "o:Important Precedent"
+    ]
+}

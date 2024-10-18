@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4923,
+        5135,
+        5544
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of Shadow of Eyes prevents the effects of Flip monsters from being activated immediately as a result of being flipped face-up by its effect.\n\nThe Trigger Effect of Spear Cretin is not activated when it is flipped face-up, but rather when it is subsequently sent to the Graveyard.\n\nTherefore, in this scenario, the effect of Spear Cretin that was later destroyed and sent to the Graveyard will activate normally.",
+            "id": 12649,
+            "question": "When I Set a Spear Cretin, my opponent activates Shadow of Eyes, and its effect changes that Spear Cretin to face-up Attack Position.\n\nAfterward, if Spear Cretin is destroyed by the effect of Raigeki Break and sent to the Graveyard, will its effect activate?",
+            "thisSrc": {
+                "date": "2020-08-28",
+                "misc": "Redshift",
+                "type": 4
+            },
+            "title": "If a Spear Cretin that was changed to face-up Attack Position by the effect of Shadow of Eyes is then sent to the Graveyard, will the effect of Spear Cretin activate?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<5135>>\u300d\u306e\u52b9\u679c\u306f\u3001\u305d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u8868\u5074\u653b\u6483\u8868\u793a\u306b\u306a\u3063\u305f\u30ea\u30d0\u30fc\u30b9\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u30ea\u30d0\u30fc\u30b9\u3057\u305f\u4e8b\u3067\u305f\u3060\u3061\u306b\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u3088\u3046\u306a\u5834\u5408\u306b\u52b9\u679c\u304c\u767a\u52d5\u3057\u306a\u3044\u3001\u3068\u3044\u3046\u52b9\u679c\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u300c<<4923>>\u300d\u306e\u52b9\u679c\u306f\u30ea\u30d0\u30fc\u30b9\u3057\u305f\u6642\u70b9\u3067\u306f\u52b9\u679c\u304c\u767a\u52d5\u305b\u305a\u3001\u305d\u306e\u5f8c\u306b\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u969b\u306b\u767a\u52d5\u3059\u308b\u8a98\u767a\u52b9\u679c\u3067\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u305d\u306e\u5f8c\u306b\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u300c<<4923>>\u300d\u306e\u52b9\u679c\u306f\u901a\u5e38\u901a\u308a\u767a\u52d5\u3057\u307e\u3059\u3002",
+            "id": 12649,
+            "question": "\u81ea\u5206\u304c\u300c<<4923>>\u300d\u3092\u30bb\u30c3\u30c8\u3057\u305f\u969b\u306b\u3001\u76f8\u624b\u304c\u300c<<5135>>\u300d\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u305d\u306e\u300c<<4923>>\u300d\u304c\u8868\u5074\u653b\u6483\u8868\u793a\u306b\u306a\u308a\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u5f8c\u3001\u305d\u306e\u300c<<4923>>\u300d\u304c\u300c<<5544>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u300c<<4923>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u6642\u3001\u304a\u4e92\u3044\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u305d\u308c\u305e\u308c\u306e\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u629e\u3057\u3001\u8868\u5074\u653b\u6483\u8868\u793a\u307e\u305f\u306f\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5135>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u8868\u5074\u653b\u6483\u8868\u793a\u306b\u306a\u3063\u305f\u300c<<4923>>\u300d\u304c\u3001\u305d\u306e\u5f8c\u306b\u5893\u5730\u306b\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u300c<<4923>>\u300d\u306e\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Flip"
+    ]
+}

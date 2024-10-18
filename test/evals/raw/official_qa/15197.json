@@ -1,0 +1,19 @@
+{
+    "cards": [],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot.",
+            "id": 15197,
+            "question": "When resolving <<11728>>, if I reveal <<11717>> and add <<11688>> to my hand, for the rest of the turn, can I Normal Set <<11688>>, or Special Summon it face-down with <<10801>>?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When resolving <<11728>>, if I reveal <<11717>> and add <<11688>> to my hand, for the rest of the turn, can I Normal Set <<11688>>, or Special Summon it face-down with <<10801>>?",
+            "translationStatus": "zombie"
+        }
+    },
+    "tags": []
+}

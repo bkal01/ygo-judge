@@ -1,0 +1,37 @@
+{
+    "cards": [
+        13036
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if each player controls a Link Monster whose Link Markers point to each other's Main Monster Zones, such as the 2 copies of <<13036>> in this scenario, they are not considered linked to each other.",
+            "id": 20724,
+            "question": "<<13036>> is in my Main Monster Zone, and my opponent's <<13036>> is in their Main Monster Zone in the same column. In this case, are the 2 copies of <<13036>> linked to each other?",
+            "thisSrc": {
+                "date": "2017-03-25",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<13036>> is in my Main Monster Zone, and my opponent's <<13036>> is in their Main Monster Zone in the same column. In this case, are the 2 copies of <<13036>> linked to each other?",
+            "tlSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "translationStatus": "outdated"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u300c<<13036>>\u300d\u306e\u3088\u3046\u306b\u3001\u4e0a\u306b\u30ea\u30f3\u30af\u30de\u30fc\u30ab\u30fc\u3092\u6301\u3064\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u540c\u3058\u7e26\u5217\u306e\u81ea\u5206\u3068\u76f8\u624b\u306e\u30e1\u30a4\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3057\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u30ea\u30f3\u30af\u72b6\u614b\u306b\u306f\u306a\u308a\u307e\u305b\u3093\u3002",
+            "id": 20724,
+            "question": "\u81ea\u5206\u306e\u30e1\u30a4\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<13036>>\u300d\u304c\u5b58\u5728\u3057\u3001\u540c\u3058\u7e26\u5217\u3068\u306a\u308b\u76f8\u624b\u306e\u30e1\u30a4\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<13036>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u5834\u5408\u30012\u4f53\u306e\u300c<<13036>>\u300d\u306f\u30ea\u30f3\u30af\u72b6\u614b\u3068\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u30e1\u30a4\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3001\u76f8\u624b\u306e\u30e1\u30a4\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u540c\u3058\u7e26\u5217\u306b\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u30ea\u30f3\u30af\u72b6\u614b\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Link"
+    ]
+}

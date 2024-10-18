@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4826,
+        13547
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Pendulum Halt is not treated as a card that targets 1 player, so you cannot chain Mystical Refpanel to it.",
+            "id": 10456,
+            "question": "If Pendulum Halt is activated, can Mystical Refpanel be chained to it?",
+            "thisSrc": {
+                "date": "2018-01-26",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Pendulum Halt is activated, can Mystical Refpanel be chained to it?",
+            "tlSrc": {
+                "date": "2018-01-25",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<4826>>\u300d\u306f\u30d7\u30ec\u30a4\u30e4\u30fc1\u4eba\u306b\u52b9\u679c\u304c\u53ca\u3076\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u306b\u76f4\u63a5\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3059\u308b\u30ab\u30fc\u30c9\u3067\u3059\u3002\n\n\u300c<<13547>>\u300d\u306f\u30d7\u30ec\u30a4\u30e4\u30fc1\u4eba\u306b\u52b9\u679c\u304c\u53ca\u3076\u9b54\u6cd5\u30ab\u30fc\u30c9\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u306e\u3067\u3001\u300c<<13547>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<4826>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 10456,
+            "question": "\u300c<<13547>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u306eEX\u30c7\u30c3\u30ad\u306b\u8868\u5074\u8868\u793a\u306eP\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\uff13\u7a2e\u985e\u4ee5\u4e0a\u5b58\u5728\u3059\u308b\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff12\u679a\u30c9\u30ed\u30fc\u3059\u308b\u3002\u3053\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u5f8c\u3001\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u4e8b\u306f\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u300c<<4826>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2018-01-25",
+                "type": 0
+            },
+            "title": "\u300c<<13547>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<4826>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

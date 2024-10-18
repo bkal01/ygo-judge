@@ -1,0 +1,63 @@
+{
+    "cards": [
+        4737,
+        7145,
+        14033,
+        14035,
+        14036,
+        14039,
+        14040,
+        14041,
+        14042,
+        14043,
+        14496,
+        14770,
+        14771,
+        14772,
+        14773,
+        14774,
+        14775,
+        14776,
+        14831,
+        14948,
+        15013,
+        15014,
+        17035,
+        17069,
+        18165,
+        18192,
+        18847
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In both of these situations, since you already control a card named \"<<17069>>\", you cannot Special Summon another <<17069>>.\n\n~~~\n\nThis also applies to the following monsters'\u300eyou can only control 1 \"\u205c\u205c\u205c\"\u300feffects: <<7145>>, <<14496>>, <<14033>>, <<14035>>, <<14036>>, <<14039>>, <<14040>>, <<14041>>, <<14042>>, <<14043>>, <<14948>>, <<17035>>, <<14770>>, <<14771>>, <<14772>>, <<14773>>, <<14774>>, <<14775>>, <<14776>>, <<14831>>, <<15013>>, <<18165>>, <<15014>>, Laevatein, and Generaider Boss of Shadows.",
+            "id": 13840,
+            "question": "If a <<17069>>, which has the\u300eyou can only control 1 \"<<17069>>\"\u300feffect, is placed in my Spell & Trap Zone as an Equip Spell by my <<4737>>'s effect, can I Special Summon another <<17069>>?\n\nFurthermore, if <<17069>> is instead placed in my Spell & Trap Zone as a Continuous Spell by <<18847>>, can I Special Summon another <<17069>>?",
+            "thisSrc": {
+                "date": "2023-10-02",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If a monster with the\u300eyou can only control 1 \"\u205c\u205c\u205c\"\u300feffect exists as an Equip Spell, or as a Continuous Spell, can a monster with the same name be Special Summoned?",
+            "tlSrc": {
+                "date": "2023-10-16",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3044\u305a\u308c\u306e\u5834\u5408\u3067\u3082\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u305b\u3093\u3002\n\uff08\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c<<17069>>\u300d\u304c\u5b58\u5728\u3059\u308b\u72b6\u6cc1\u3068\u307f\u306a\u3055\u308c\u307e\u3059\u3002\uff09\n\n\u4ee5\u4e0b\u306e\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\uff11\u4f53\u3057\u304b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u3092\u6301\u3064\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u3064\u3044\u3066\u3082\u540c\u69d8\u3067\u3059\u3002\n\u300c<<7145>>\u300d\n\u300c<<14496>>\u300d\n\u300c<<14033>>\u300d\n\u300c<<14035>>\u300d\n\u300c<<14036>>\u300d\n\u300c<<14039>>\u300d\n\u300c<<14040>>\u300d\n\u300c<<14041>>\u300d\n\u300c<<14042>>\u300d\n\u300c<<14043>>\u300d\n\u300c<<14948>>\u300d\n\u300c<<17035>>\u300d\n\u300c<<14770>>\u300d\n\u300c<<14771>>\u300d\n\u300c<<14772>>\u300d\n\u300c<<14773>>\u300d\n\u300c<<14774>>\u300d\n\u300c<<14775>>\u300d\n\u300c<<14776>>\u300d\n\u300c<<14831>>\u300d\n\u300c<<15013>>\u300d\n\u300c<<18165>>\u300d\n\u300c<<15014>>\u300d\n\u300c<<18192>>\u300d",
+            "id": 13840,
+            "question": "\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\uff11\u4f53\u3057\u304b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u3092\u6301\u3064\u300c<<17069>>\u300d\u304c\u3001\u300c<<4737>>\u300d\u306e\u52b9\u679c\u3067\u88c5\u5099\u9b54\u6cd5\u30ab\u30fc\u30c9\u3068\u3057\u3066\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u7f6e\u304b\u308c\u3066\u3044\u308b\u72b6\u6cc1\u3067\u3001\u5225\u306e\u300c<<17069>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<17069>>\u300d\u304c\u300c<<18847>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u6c38\u7d9a\u9b54\u6cd5\u30ab\u30fc\u30c9\u3068\u3057\u3066\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u72b6\u6cc1\u3067\u3001\u5225\u306e\u300c<<17069>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-10-16",
+                "type": 0
+            },
+            "title": "\u300e\uff11\u4f53\u3057\u304b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3067\u304d\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u88c5\u5099\u9b54\u6cd5\u30ab\u30fc\u30c9\u3084\u6c38\u7d9a\u9b54\u6cd5\u30ab\u30fc\u30c9\u3068\u3057\u3066\u5b58\u5728\u3059\u308b\u72b6\u6cc1\u3067\u3001\u305d\u306e\u540c\u540d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

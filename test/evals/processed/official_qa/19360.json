@@ -1,0 +1,82 @@
+{
+    "cards": [
+        5899,
+        6344,
+        6467,
+        6479,
+        6564,
+        6845,
+        7085,
+        7245,
+        7257,
+        7538,
+        7736,
+        7738,
+        7837,
+        7854,
+        8025,
+        8163,
+        8275,
+        8328,
+        8740,
+        8913,
+        9559,
+        9801,
+        9839,
+        10065,
+        10382,
+        10533,
+        10768,
+        10877,
+        11148,
+        11312,
+        11331,
+        11538,
+        11648,
+        11718,
+        11768,
+        11986,
+        12077,
+        12081,
+        12159,
+        12267,
+        12326,
+        13411,
+        14170,
+        15006,
+        15867,
+        17798
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot.\n\nEffects with the\u300edestroys a monster by battle and sends it to the Graveyard\u300factivation condition can only be activated if the opponent's monster, which was destroyed by the battle, was sent to the Graveyard as a result, and is still a monster while in the Graveyard.\n\nIn the scenario you describe, the The Phantom Knights of Shade Brigandine that was destroyed is not treated as a monster while in the Graveyard. Therefore, the activation requirements for Digital Bug Scaradiator's effect are not met.\n\n~~~\n\nSimilarly to Digital Bug Scaradiator, the following effects' activation conditions are only met if the monster that was destroyed by battle is also still a monster in the Graveyard:\n\u25cf Ancient Warriors - Ambitious Cao De\n\u25cf Infernoid Attondel\n\u25cf Odd-Eyes Saber Dragon\n\u25cf Odd-Eyes Dragon\n\u25cf Performapal Salutiger\n\u25cf Gem-Knight Topaz\n\u25cf Stygian Street Patrol\n\u25cf Infernity Destroyer\n\u25cf Brotherhood of the Fire Fist - Gorilla\n\u25cf Gladiator Beast Samnite\n\u25cf Flamvell Firedog\n\u25cf Chaos-End Master\n\u25cf X-Saber Uruz\n\u25cf Skelesaurus\n\u25cf Red-Eyes Zombie Dragon\n\u25cf Hydrogeddon\n\u25cf Hamon, Lord of Striking Thunder\n\u25cf Darkblaze Dragon\n\u25cf Volcanic Doomfire\n\u25cf Guardian Angel Joan\n\u25cf Cyber Angel Izana\n\u25cf Cyber Angel Benten\n\u25cf Black Luster Soldier - Super Soldier\n\u25cf Frightfur Chimera\n\u25cf Elemental HERO Shining Flare Wingman\n\u25cf Elemental HERO Flame Wingman\n\u25cf Evil HERO Inferno Wing\n\u25cf Masked HERO Dian\n\u25cf Masked HERO Divine Wind\n\u25cf Masked HERO Anki\n\u25cf Blackwing - Shura the Blue Flame\n\u25cf Blackwing - Boreastorm the Wicked Wind\n\u25cf Ignoble Knight of High Laundsallyn\n\u25cf Crimson Blader\n\u25cf Goyo Chaser\n\u25cf Goyo Predator\n\u25cf Goyo King\n\u25cf Goyo Guardian\n\u25cf Thought Ruler Archfiend\n\u25cf Number C105: Battlin' Boxer Comet Cestus\n\u25cf Number 32: Shark Drake\n\u25cf Kachi Kochi Dragon\n\u25cf Vector Scare Archfiend\n\u25cf Sunvine Thrasher",
+            "id": 19360,
+            "question": "My opponent's The Phantom Knights of Shade Brigandine, which was Special Summoned as a monster by its\u300eSpecial Summon this card in Defense Position as a Normal Monster\u300feffect, is destroyed by battle with my Digital Bug Scaradiator.\n\nCan I now activate Digital Bug Scaradiator's\u300eattach that destroyed monster to this card as material\u300feffect?",
+            "thisSrc": {
+                "date": "2023-10-02",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If Digital Bug Scaradiator destroys The Phantom Knights of Shade Brigandine, which is treated as a monster, by battle, can Digital Bug Scaradiator's effect be activated?",
+            "tlSrc": {
+                "date": "2024-07-13",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u300e\u6226\u95d8\u3067\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u5893\u5730\u3078\u9001\u3063\u305f\u300f\u3092\u6761\u4ef6\u3068\u3059\u308b\u52b9\u679c\u306f\u3001\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u3001\u5893\u5730\u3067\u3082\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u308b\u5834\u5408\u306b\u767a\u52d5\u306e\u6761\u4ef6\u304c\u6e80\u305f\u3055\u308c\u307e\u3059\u3002\n\n\u8cea\u554f\u306e\u300c<<12267>>\u300d\u306f\u5893\u5730\u3067\u306f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u305b\u3093\u3002\u305d\u306e\u305f\u3081\u3001\u300c<<12326>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306e\u6761\u4ef6\u306f\u6e80\u305f\u3055\u308c\u307e\u305b\u3093\u3002\n\n\u4ee5\u4e0b\u306e\u52b9\u679c\u306b\u3064\u3044\u3066\u3082\u300c<<12326>>\u300d\u3068\u540c\u69d8\u306b\u3001\u6226\u95d8\u3067\u7834\u58ca\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5893\u5730\u3067\u3082\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u308b\u5834\u5408\u306b\u767a\u52d5\u306e\u6761\u4ef6\u304c\u6e80\u305f\u3055\u308c\u307e\u3059\u3002\n\u300c<<15006>>\u300d\n\u300c<<11538>>\u300d\n\u300c<<11768>>\u300d\n\u300c<<11148>>\u300d\n\u300c<<11331>>\u300d\n\u300c<<8913>>\u300d\n\u300c<<8740>>\u300d\n\u300c<<8275>>\u300d\n\u300c<<10382>>\u300d\n\u300c<<8025>>\u300d\n\u300c<<8328>>\u300d\n\u300c<<7837>>\u300d\n\u300c<<7538>>\u300d\n\u300c<<10768>>\u300d\n\u300c<<7854>>\u300d\n\u300c<<6479>>\u300d\n\u300c<<6564>>\u300d\n\u300c<<7245>>\u300d\n\u300c<<7085>>\u300d\n\u300c<<5899>>\u300d\n\u300c<<14170>>\u300d\n\u300c<<6845>>\u300d\n\u300c<<11986>>\u300d\n\u300c<<11718>>\u300d\n\u300c<<6467>>\u300d\n\u300c<<6344>>\u300d\n\u300c<<7257>>\u300d\n\u300c<<9559>>\u300d\n\u300c<<11312>>\u300d\n\u300c<<11648>>\u300d\n\u300c<<8163>>\u300d\n\u300c<<17798>>\u300d\n\u300c<<10877>>\u300d\n\u300c<<9801>>\u300d\n\u300c<<12077>>\u300d\n\u300c<<12081>>\u300d\n\u300c<<12159>>\u300d\n\u300c<<7736>>\u300d\n\u300c<<7738>>\u300d\n\u300c<<10533>>\u300d\n\u300c<<10065>>\u300d\n\u300c<<9839>>\u300d\n\u300c<<13411>>\u300d\n\u300c<<15867>>\u300d",
+            "id": 19360,
+            "question": "\u81ea\u8eab\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306f\u767a\u52d5\u5f8c\u3001\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\uff08\u6226\u58eb\u65cf\u30fb\u95c7\u30fb\u661f\uff14\u30fb\u653b\uff10\uff0f\u5b88\uff13\uff10\uff10\uff09\u3068\u306a\u308a\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b88\u5099\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\uff08\u7f60\u30ab\u30fc\u30c9\u3068\u3057\u3066\u306f\u6271\u308f\u306a\u3044\uff09\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u308b\u300c<<12267>>\u300d\u304c\u3001\u300c<<12326>>\u300d\u3068\u306e\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u300c<<12326>>\u300d\u306e\u300e\u2461\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3067\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u5893\u5730\u3078\u9001\u3063\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u7834\u58ca\u3057\u305f\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u3053\u306e\u30ab\u30fc\u30c9\u306e\u4e0b\u306b\u91cd\u306d\u3066X\u7d20\u6750\u3068\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-07-13",
+                "type": 0
+            },
+            "title": "\u300c<<12326>>\u300d\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u6271\u3044\u306e\u300c<<12267>>\u300d\u3092\u6226\u95d8\u3067\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

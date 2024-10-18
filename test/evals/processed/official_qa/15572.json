@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4342,
+        8893,
+        8895,
+        11852
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in this situation, you can activate Brilliant Spark. In that case, you can target either 1 of the monsters destroyed by Dark Hole.",
+            "id": 15572,
+            "question": "If Gem-Knight Garnet and Gem-Knight Tourmaline are both destroyed at the same time by my opponent's Dark Hole, can I activate Brilliant Spark?",
+            "thisSrc": {
+                "date": "2015-05-05",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Gem-Knight Garnet and Gem-Knight Tourmaline are both destroyed at the same time by my opponent's Dark Hole, can I activate Brilliant Spark?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3067\u3082\u3001\u300c<<11852>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u5bfe\u8c61\u3068\u306a\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u76f8\u624b\u306e\u300c<<4342>>\u300d\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u300c<<8893>>\u300d\u307e\u305f\u306f\u300c<<8895>>\u300d\u306e\u3069\u3061\u3089\u304b\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 15572,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u300c<<8893>>\u300d\u3068\u300c<<8895>>\u300d\u304c\u3001\u76f8\u624b\u306e\u300c<<4342>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u540c\u6642\u306b\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u969b\u306b\u3001\u300c<<11852>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c\u30b8\u30a7\u30e0\u30ca\u30a4\u30c8\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u307e\u305f\u306f\u76f8\u624b\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u7834\u58ca\u3055\u308c\u305f\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u76f8\u624b\u306b\u4e0e\u3048\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c\u30b8\u30a7\u30e0\u30ca\u30a4\u30c8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c2\u4f53\u4ee5\u4e0a\u540c\u6642\u306b\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u306b\u3001\u300c<<11852>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

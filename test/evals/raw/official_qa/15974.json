@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4989,
+        11906
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "<<11906>> can only be activated when your opponent Summons a monster. In this situation, if <<4989>> was activated as Chain Link 2 or higher, after the monster is Special Summoned, rest of the chain must still resolve, so <<11906>> cannot be activated.",
+            "id": 15974,
+            "question": "If my opponent activates <<4989>> as Chain Link 2 and Special Summons a monster, can I activate <<11906>>?",
+            "thisSrc": {
+                "date": "2015-05-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If my opponent activates <<4989>> as Chain Link 2 and Special Summons a monster, can I activate <<11906>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11906>>\u300d\u306f\u3001\u76f8\u624b\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u53ec\u559a\u30fb\u53cd\u8ee2\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u306b\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u30ab\u30fc\u30c9\u3067\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u30c1\u30a7\u30fc\u30f32\u4ee5\u964d\u3067\u767a\u52d5\u3057\u305f\u300c<<4989>>\u300d\u3067\u76f8\u624b\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5834\u5408\u306b\u306f\u3001\u305d\u306e\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u969b\u306b\u306f\u3001\u30c1\u30a7\u30fc\u30f3\u306e\u51e6\u7406\u304c\u884c\u308f\u308c\u3066\u3044\u308b\u9014\u4e2d\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300c<<11906>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 15974,
+            "question": "\u76f8\u624b\u304c\u30c1\u30a7\u30fc\u30f32\u4ee5\u964d\u306b\u767a\u52d5\u3057\u305f\u300c<<4989>>\u300d\u306b\u3088\u3063\u3066\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u969b\u306b\u3001\u81ea\u5206\u306f\u300c<<11906>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u30c1\u30a7\u30fc\u30f32\u4ee5\u964d\u306b\u767a\u52d5\u3057\u305f\u300c<<4989>>\u300d\u306b\u3088\u3063\u3066\u3001\u76f8\u624b\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300c<<11906>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

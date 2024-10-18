@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4909,
+        6626,
+        12015
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, the <<12015>> that was returned to being Set on the field by <<6626>> is no longer affected by its effect.\n\nAfterwards, if that <<12015>> is destroyed by the effect of <<4909>>, it is not banished by its own effect.",
+            "id": 16573,
+            "question": "A <<12015>> was set on the field by its own effect.\n\nAfterwards, if that <<12015>> is activated, and it has its activation negated by <<6626>>, setting it again on the field, is that <<12015>> banished later?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<12015>> that was set by its own effect has it's activation negated by <<6626>>, afterwards if it's destroyed would <<12015>> be banished by it's effect?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<6626>>\u300d\u306b\u3088\u3063\u3066\u30bb\u30c3\u30c8\u3055\u308c\u305f\u72b6\u614b\u306b\u623b\u3063\u305f\u300c<<12015>>\u300d\u306f\u3001\u300e\u3053\u306e\u52b9\u679c\u3067\u30bb\u30c3\u30c8\u3057\u305f\u3053\u306e\u30ab\u30fc\u30c9\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u96e2\u308c\u305f\u5834\u5408\u306b\u9664\u5916\u3055\u308c\u308b\u300f\u52b9\u679c\u306e\u9069\u7528\u304c\u306a\u304f\u306a\u308a\u307e\u3059\u3002\n\n\u305d\u306e\u5f8c\u306b\u3001\u305d\u306e\u300c<<12015>>\u300d\u304c\u300c<<4909>>\u300d\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u305f\u3068\u3057\u3066\u3082\u3001\u305d\u306e\u300c<<12015>>\u300d\u306f\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u9664\u5916\u3055\u308c\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+            "id": 16573,
+            "question": "\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\uff11\u3064\u53d6\u308a\u9664\u3044\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u5893\u5730\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30bb\u30c3\u30c8\u3059\u308b\u3002\u3053\u306e\u52b9\u679c\u3067\u30bb\u30c3\u30c8\u3057\u305f\u3053\u306e\u30ab\u30fc\u30c9\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u96e2\u308c\u305f\u5834\u5408\u306b\u9664\u5916\u3055\u308c\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u5893\u5730\u304b\u3089\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u30bb\u30c3\u30c8\u3055\u308c\u305f\u300c<<12015>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u5f8c\u306b\u3001\u305d\u306e\u300c<<12015>>\u300d\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u3092\u884c\u3063\u305f\u969b\u306b\u3001\u305d\u306e\u767a\u52d5\u304c\u300c<<6626>>\u300d\u3067\u7121\u52b9\u306b\u306a\u308a\u3001\u30bb\u30c3\u30c8\u3055\u308c\u305f\u72b6\u614b\u306b\u623b\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u5f8c\u306b\u300c<<12015>>\u300d\u306f\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u5893\u5730\u304b\u3089\u30bb\u30c3\u30c8\u3055\u308c\u305f\u300c<<12015>>\u300d\u306e\u767a\u52d5\u304c\u300c<<6626>>\u300d\u306b\u3088\u3063\u3066\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

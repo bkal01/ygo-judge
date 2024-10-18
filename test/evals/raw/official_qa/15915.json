@@ -1,0 +1,39 @@
+{
+    "cards": [
+        7982,
+        11894,
+        11895
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "As long as the total Levels of the monsters on your side of the field and/or hand, and/or the \"Red-Eyes\" monsters banished from the Graveyard equals 8 or more, you can use them for <<11895>>. In this scenario, you can perform the Ritual Summon by banishing 2 copies of <<7982>> from your Graveyard.",
+            "id": 15915,
+            "question": "When Ritual Summoning <<11894>> using <<11895>>, can I banish 2 copies of <<7982>> in my Graveyard for the Ritual Summon?",
+            "thisSrc": {
+                "date": "2015-05-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When Ritual Summoning <<11894>> using <<11895>>, can I banish 2 copies of <<7982>> in my Graveyard for the Ritual Summon?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300e\u81ea\u5206\u306e\u624b\u672d\u30fb\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u3001\u30ec\u30d9\u30eb\u306e\u5408\u8a08\u304c\uff18\u4ee5\u4e0a\u306b\u306a\u308b\u3088\u3046\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30ea\u30ea\u30fc\u30b9\u3001\u307e\u305f\u306f\u30ea\u30ea\u30fc\u30b9\u306e\u4ee3\u308f\u308a\u306b\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u30ec\u30c3\u30c9\u30a2\u30a4\u30ba\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9664\u5916\u300f\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u300c<<11895>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u5893\u5730\u306e\u300c<<7982>>\u300d2\u4f53\u3092\u9664\u5916\u3057\u3066\u300c<<11894>>\u300d\u3092\u5100\u5f0f\u53ec\u559a\u3059\u308b\u4e8b\u3082\u3067\u304d\u307e\u3059\u3002",
+            "id": 15915,
+            "question": "\u300c<<11895>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u306e\u624b\u672d\u30fb\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u3001\u30ec\u30d9\u30eb\u306e\u5408\u8a08\u304c\uff18\u4ee5\u4e0a\u306b\u306a\u308b\u3088\u3046\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30ea\u30ea\u30fc\u30b9\u3001\u307e\u305f\u306f\u30ea\u30ea\u30fc\u30b9\u306e\u4ee3\u308f\u308a\u306b\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u30ec\u30c3\u30c9\u30a2\u30a4\u30ba\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9664\u5916\u3057\u3001\u624b\u672d\u304b\u3089\u300c<<11894>>\u300d\u3092\u5100\u5f0f\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3067\u5100\u5f0f\u53ec\u559a\u3092\u884c\u3046\u969b\u306b\u3001\u81ea\u5206\u306e\u5893\u5730\u306e\u300c<<7982>>\u300d2\u4f53\u3092\u9664\u5916\u3057\u3066\u3001\u5100\u5f0f\u53ec\u559a\u3092\u884c\u3046\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11895>>\u300d\u306e\u52b9\u679c\u3067\u5100\u5f0f\u53ec\u559a\u3092\u884c\u3046\u969b\u306b\u3001\u5893\u5730\u306e\u300c<<7982>>\u300d2\u4f53\u3092\u9664\u5916\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Ritual"
+    ]
+}

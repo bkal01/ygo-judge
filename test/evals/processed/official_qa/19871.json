@@ -1,0 +1,38 @@
+{
+    "cards": [
+        7734,
+        12040
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "As in this scenario, even if you Tribute Stardust Dragon as a cost to activate its own effect, since it is sent from the field to the Graveyard, a Kaiju Counter is placed on Kyoutou Waterfront.",
+            "id": 19871,
+            "question": "If the effect of Stardust Dragon is activated by Tributing it, will a Kaiju Counter be placed on Kyoutou Waterfront?",
+            "thisSrc": {
+                "date": "2016-09-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the effect of Stardust Dragon is activated by Tributing it, will a Kaiju Counter be placed on Kyoutou Waterfront?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u81ea\u8eab\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u3001\u30b3\u30b9\u30c8\u3068\u3057\u3066\u3001\u300c<<7734>>\u300d\u304c\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3067\u3082\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u300c<<12040>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u58ca\u7363\u30ab\u30a6\u30f3\u30bf\u30fc\u304c\u7f6e\u304b\u308c\u307e\u3059\u3002",
+            "id": 19871,
+            "question": "\u300c<<7734>>\u300d\u306e\u300e\u2460\uff1a\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3059\u308b\u9b54\u6cd5\u30fb\u7f60\u30fb\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u304c\u767a\u52d5\u3057\u305f\u6642\u3001\u3053\u306e\u30ab\u30fc\u30c9\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u7834\u58ca\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u767a\u52d5\u3057\u3001\u300c<<7734>>\u300d\u81ea\u8eab\u304c\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u300c<<12040>>\u300d\u306e\u300e\u2460\uff1a\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u5ea6\u306b\u3001\uff11\u679a\u306b\u3064\u304d\uff11\u3064\u3053\u306e\u30ab\u30fc\u30c9\u306b\u58ca\u7363\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\u7f6e\u304f\uff08\u6700\u5927\uff15\u3064\u307e\u3067\uff09\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u8eab\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u767a\u52d5\u3059\u308b\u300c<<7734>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c<<12040>>\u300d\u306b\u58ca\u7363\u30ab\u30a6\u30f3\u30bf\u30fc\u306f\u7f6e\u304b\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

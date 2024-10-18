@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5242,
+        8283
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this case, if Archlord Kristya is destroyed by battle with Mystical Beast of Serket, Archlord Kristya does not return to the top of the Deck, and is banished instead.",
+            "id": 8215,
+            "question": "If Archlord Kristya is destroyed by battle with Mystical Beast of Serket, will the effect of Mystical Beast of Serket banish Archlord Kristya, or will the effect of Archlord Kristya return it to the top of the Deck?",
+            "thisSrc": {
+                "date": "2015-03-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Archlord Kristya is destroyed by battle with Mystical Beast of Serket, will the effect of Mystical Beast of Serket banish Archlord Kristya, or will the effect of Archlord Kristya return it to the top of the Deck?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<5242>>\u300d\u3068\u306e\u6226\u95d8\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u300c<<8283>>\u300d\u306f\u3001\u30c7\u30c3\u30ad\u306b\u306f\u623b\u3089\u305a\u3001\u300c<<5242>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u9664\u5916\u3055\u308c\u307e\u3059\u3002",
+            "id": 8215,
+            "question": "\u300c<<8283>>\u300d\u304c\u3001\u300c<<5242>>\u300d\u3068\u306e\u6226\u95d8\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3001\u300c<<5242>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3067\u7834\u58ca\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u9664\u5916\u3055\u308c\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f\n\n\u305d\u308c\u3068\u3082\u3001\u300c<<8283>>\u300d\u306e\u300e\u2463\uff1a\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u306e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u5834\u5408\u3001\u5893\u5730\u3078\u306f\u884c\u304b\u305a\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306e\u4e00\u756a\u4e0a\u306b\u623b\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u30c7\u30c3\u30ad\u306b\u623b\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8283>>\u300d\u304c\u3001\u300c<<5242>>\u300d\u3068\u306e\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3001\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Damage Step"
+    ]
+}

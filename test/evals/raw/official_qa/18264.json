@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5627,
+        9760,
+        12306
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "<<9760>> can attack all Defense Position monsters your opponent controls once each due to the effect gained by Xyz Summoning it using\u00a0<<12306>> as Xyz Material.\n\nIn the situation in question, after the effect of\u00a0<<5627>> changes the opponent's attacked monster to Attack Position after being flipped face-up during the Damage Step, the attack will continue and damage will be calculated normally. However, after that attack, that <<9760>> can no longer attack Defense Position Monsters during that Battle Phase.",
+            "id": 18264,
+            "question": "It is the Battle Phase and my <<9760>> that was Xyz Summoned using\u00a0<<12306>> as Xyz Material and gained the effect that allows it to attack all Defense Position monsters my opponent controls once each attacked the first Defense Position monster.\n\nWhen it attacks the second Defense Position monster that is in face-down Defense Position,\u00a0<<5627>> is activated during the Battle Step. What happens when the opponent's attacked\u00a0face-down monster is flipped face-up during the Damage Step and changed to Attack Position by the effect of\u00a0<<5627>>?",
+            "thisSrc": {
+                "date": "2020-06-06",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "When\u00a0<<9760>> that was summoned using\u00a0<<12306>> as Xyz Material attacks the second monster in Defense Position while the effect of\u00a0<<5627>> applies, what happens when the opponent's monster will be changed to Attack Position during the Damage Step?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<9760>>\u300d\u306f\u300e\u25cf\u3053\u306e\u30ab\u30fc\u30c9\u306f\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u5168\u3066\u306e\u5b88\u5099\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\uff11\u56de\u305a\u3064\u653b\u6483\u3067\u304d\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u5b88\u5099\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306b1\u56de\u305a\u3064\u653b\u6483\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<5627>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u306b\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u8868\u793a\u5f62\u5f0f\u304c\u8868\u5074\u653b\u6483\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u306b\u306f\u3001\u305d\u306e\u653b\u6483\u3067\u306f\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u306f\u884c\u308f\u308c\u307e\u3059\u304c\u3001\u305d\u306e\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u3067\u306f\u305d\u308c\u4ee5\u964d\u3055\u3089\u306b\u5b88\u5099\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u653b\u6483\u3092\u884c\u3046\u4e8b\u306f\u3067\u304d\u306a\u304f\u306a\u308a\u307e\u3059\u3002",
+            "id": 18264,
+            "question": "\u300c<<12306>>\u300d\u306e\u300e\u25cf\u3053\u306e\u30ab\u30fc\u30c9\u306f\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u5168\u3066\u306e\u5b88\u5099\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\uff11\u56de\u305a\u3064\u653b\u6483\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u5f97\u3066\u3044\u308b\u300c<<9760>>\u300d\u3067\u30011\u4f53\u76ee\u306e\u5b88\u5099\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u653b\u6483\u3092\u884c\u3063\u3066\u3044\u308b\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u3067\u3059\u3002\n\n\u305d\u306e\u300c<<9760>>\u300d\u304c2\u4f53\u76ee\u306e\u88cf\u5074\u5b88\u5099\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u653b\u6483\u3057\u305f\u30d0\u30c8\u30eb\u30b9\u30c6\u30c3\u30d7\u306b\u3066\u300c<<5627>>\u300d\u304c\u767a\u52d5\u3057\u3001\u305d\u306e\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u306b\u3066\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30ea\u30d0\u30fc\u30b9\u3057\u3001\u8868\u793a\u5f62\u5f0f\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u304b\u3089\u8868\u5074\u653b\u6483\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u653b\u6483\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12306>>\u300d\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u3068\u3057\u3066\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3055\u308c\u305f\u300c<<9760>>\u300d\u304c2\u4f53\u76ee\u306e\u5b88\u5099\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u653b\u6483\u3057\u305f\u969b\u306b\u3001\u6700\u7d42\u7a81\u6483\u547d\u4ee4\u300d\u306e\u52b9\u679c\u3067\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u306b\u653b\u6483\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u653b\u6483\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

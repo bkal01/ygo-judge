@@ -1,0 +1,38 @@
+{
+    "cards": [
+        15867,
+        15893
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "It can attack up to twice.\n\nThe number of attacks the target monster can make is determined by the number of \"Sunavalon\" Link Monsters you control at the time <<15893>>' effect resolves.",
+            "id": 23538,
+            "question": "While you control two \"Sunavalon\" Link Monsters, the effect of your <<15893>> resolves targeting your <<15867>>.\n\nIf you no longer control any \"Sunavalon\" Link Monsters by the time you reach the Battle Phase, how often can that <<15867>> attack?\n\n(TL note: Yes, I think they forgot that <<15867>> is a Link monster.)",
+            "thisSrc": {
+                "date": "2022-01-19",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "At what point is the number of attacks permitted by <<15893>>' effect determined?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\uff12\u56de\u653b\u6483\u3067\u304d\u307e\u3059\u3002\n\n\u300c<<15893>>\u300d\u306e\u300e\u2462\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u653b\u6483\u3067\u304d\u308b\u56de\u6570\u306f\u3001\u305d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3059\u308b\u300c\u30b5\u30f3\u30a2\u30d0\u30ed\u30f3\u300d\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6570\u306b\u3088\u3063\u3066\u6c7a\u5b9a\u3057\u307e\u3059\u3002",
+            "id": 23538,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c\u30b5\u30f3\u30a2\u30d0\u30ed\u30f3\u300d\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\uff12\u4f53\u5b58\u5728\u3059\u308b\u72b6\u6cc1\u3067\u3001\u300c<<15867>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<15893>>\u300d\u306e\u300e\u2462\u300f\u306e\u300e\u3053\u306e\u30bf\u30fc\u30f3\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c\u30b5\u30f3\u30a2\u30d0\u30ed\u30f3\u300d\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6570\u307e\u3067\u653b\u6483\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u30bf\u30fc\u30f3\u306e\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u307e\u3067\u306b\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u300c\u30b5\u30f3\u30a2\u30d0\u30ed\u30f3\u300d\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6570\u304c\uff10\u4f53\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u300c<<15867>>\u300d\u306f\u4f55\u56de\u653b\u6483\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<15893>>\u300d\u306e\u300e\u2462\u300f\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u300c\u30b5\u30f3\u30f4\u30a1\u30a4\u30f3\u300d\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u653b\u6483\u3067\u304d\u308b\u56de\u6570\u306f\u3044\u3064\u6c7a\u5b9a\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Link"
+    ]
+}

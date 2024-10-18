@@ -1,0 +1,39 @@
+{
+    "cards": [
+        11316,
+        13333,
+        13340
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect that a \"The Weather\" monster gains from The Weather Auroral Canvas cannot be activated if the player who would draw a card has no cards in their Deck.",
+            "id": 21301,
+            "question": "My opponent activates the effect of Doomstar Magician and draws the last card in their Deck. At this time, can I activate the effect of a The Weather Painter Aurora that it gained from The Weather Auroral Canvas, which banishes the drawn card and makes my opponent draw 1 more card?",
+            "thisSrc": {
+                "date": "2017-08-12",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "My opponent activates the effect of Doomstar Magician and draws the last card in their Deck. At this time, can I activate the effect of a The Weather Painter Aurora that it gained from The Weather Auroral Canvas, which banishes the drawn card and makes my opponent draw 1 more card?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<13340>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u5f97\u3066\u3044\u308b\u300e\u624b\u672d\u306b\u52a0\u308f\u3063\u305f\u305d\u306e\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u3001\u305d\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff11\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u52b9\u679c\u306f\u3001\u305d\u306e\u304d\u3063\u304b\u3051\u3068\u306a\u308b\u30ab\u30fc\u30c91\u679a\u306e\u307f\u3092\u624b\u672d\u306b\u52a0\u3048\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u30c7\u30c3\u30ad\u306e\u679a\u6570\u304c0\u679a\u306e\u5834\u5408\u306b\u306f\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 21301,
+            "question": "\u76f8\u624b\u304c\u300c<<11316>>\u300d\u306e\u300e\u2460\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u624b\u672d\u3092\uff11\u679a\u6368\u3066\u3001\u81ea\u5206\u307e\u305f\u306f\u76f8\u624b\u306eP\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3057\u3001\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff11\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\u30c9\u30ed\u30fc\u3057\u3001\u76f8\u624b\u306e\u30c7\u30c3\u30ad\u306e\u679a\u6570\u304c0\u679a\u306b\u306a\u308a\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u6642\u3001\u81ea\u5206\u306f\u300c<<13340>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u300c<<13333>>\u300d\u304c\u5f97\u3066\u3044\u308b\u300e\u25cf\u30ab\u30fc\u30c9\uff11\u679a\u306e\u307f\u304c\u81ea\u5206\u307e\u305f\u306f\u76f8\u624b\u306e\u624b\u672d\u306b\u52a0\u308f\u3063\u305f\u6642\u3001\u3053\u306e\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u624b\u672d\u306b\u52a0\u308f\u3063\u305f\u305d\u306e\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u3001\u305d\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff11\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<13340>>\u300d\u306e\u52b9\u679c\u306f\u3001\u624b\u672d\u306b\u30ab\u30fc\u30c9\u3092\u52a0\u3048\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u30c7\u30c3\u30ad\u304c0\u679a\u306e\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

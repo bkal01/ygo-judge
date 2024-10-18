@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5400,
+        12422,
+        12471
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, when the effect of <<5400>> is applied, <<12422>> is banished as a result, but was still destroyed while on your field. Therefore, you can activate <<12471>>.",
+            "id": 7466,
+            "question": "When I Normal or Special Summon a <<12422>> to my field, my opponent activates <<5400>>. If <<12422>> is destroyed and banished, can I still activate <<12471>>?",
+            "thisSrc": {
+                "date": "2016-07-07",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When I Normal or Special Summon a <<12422>> to my field, my opponent activates <<5400>>. If <<12422>> is destroyed and banished, can I still activate <<12471>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<5400>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u300c<<12422>>\u300d\u306f\u7d50\u679c\u7684\u306b\u9664\u5916\u3055\u308c\u307e\u3059\u304c\u3001\u305d\u306e\u300c<<12422>>\u300d\u306f\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u3067\u7834\u58ca\u3055\u308c\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u30fb\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u300f\u306b\u3042\u305f\u308a\u307e\u3059\u3002\n\n\u3088\u3063\u3066\u3001\u300c<<12471>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 7466,
+            "question": "\u300c<<12422>>\u300d\u304c\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u53ec\u559a\u307e\u305f\u306f\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u306b\u3001\u76f8\u624b\u304c\u300c<<5400>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u300c<<12422>>\u300d\u304c\u7834\u58ca\u3055\u308c\u9664\u5916\u3055\u308c\u305f\u5834\u5408\u3001\u81ea\u5206\u306f\u300c<<12471>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u30fb\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u300c\u30e1\u30bf\u30eb\u30d5\u30a9\u30fc\u30bc\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u300c<<5400>>\u300d\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u9664\u5916\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<12471>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6390,
+        7750,
+        12240
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The damage inflicted to the opponent by the effect of Trap Hole of Spikes is equal to the Original ATK written in the destroyed Monster Card.\n\nIn the proposed scenario, since the Original ATK of Cyber Dragon is 2100, the opponent takes half of that value for a total of 1050 damage by the effect of Trap Hole of Spikes.",
+            "id": 17842,
+            "question": "A Cyber Dragon Special Summoned during the Main Phase of the opponent's turn has been equipped with Unstable Evolution and its Original ATK became 2400.\n\nWhen that Cyber Dragon attacks during this turn, you activated Trap Hole of Spikes.\n\nIn this case, how much damage does the opponent take by the part of the effect that inflicts damage?",
+            "thisSrc": {
+                "date": "2015-12-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "A Cyber Dragon Special Summoned during the Main Phase of the opponent's turn has been equipped with Unstable Evolution and its Original ATK became 2400.  When that Cyber Dragon attacks during this turn, you activated Trap Hole of Spikes.  In this case, how much damage does the opponent take by the part of the effect that inflicts damage?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12240>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u76f8\u624b\u306b\u4e0e\u3048\u308b\u30c0\u30e1\u30fc\u30b8\u306f\u3001\u305d\u306e\u7834\u58ca\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ab\u30fc\u30c9\u306b\u8a18\u8f09\u3055\u308c\u305f\u5143\u3005\u306e\u653b\u6483\u529b\u306e\u534a\u5206\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<6390>>\u300d\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u306f2100\u3067\u3059\u306e\u3067\u3001\u300c<<12240>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u76f8\u624b\u306b\u4e0e\u3048\u308b\u30c0\u30e1\u30fc\u30b8\u306f\u305d\u306e\u534a\u5206\u306e1050\u3068\u306a\u308a\u307e\u3059\u3002",
+            "id": 17842,
+            "question": "\u76f8\u624b\u306e\u30bf\u30fc\u30f3\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u3066\u305d\u306e\u30bf\u30fc\u30f3\u306b\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<6390>>\u300d\u304c\u3001\u300c<<7750>>\u300d\u3092\u88c5\u5099\u3057\u3001\u5143\u3005\u306e\u653b\u6483\u529b\u304c2400\u3068\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u30bf\u30fc\u30f3\u306b\u3001\u305d\u306e\u300c<<6390>>\u300d\u304c\u653b\u6483\u3092\u884c\u3063\u305f\u969b\u3001\u81ea\u5206\u306f\u300c<<12240>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u300e\u305d\u306e\u653b\u6483\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u306e\u534a\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u76f8\u624b\u306b\u4e0e\u3048\u308b\u300f\u51e6\u7406\u306b\u3088\u3063\u3066\u76f8\u624b\u304c\u53d7\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u306f\u3044\u304f\u3064\u3067\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12240>>\u300d\u306e\u52b9\u679c\u3067\u3001\u300c<<7750>>\u300d\u3092\u88c5\u5099\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u4e0e\u3048\u308b\u30c0\u30e1\u30fc\u30b8\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

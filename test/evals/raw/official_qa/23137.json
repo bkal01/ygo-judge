@@ -1,0 +1,37 @@
+{
+    "cards": [
+        15304
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "After activating <<15304>>, that effect is applied until the end of your next turn. If you activate <<15304>> during your opponent's turn, you cannot Special Summon from the Extra Deck for the rest of that opponent's turn and your next turn. If you activate <<15304>> during your turn, you cannot Special Summon from the Extra Deck for the rest of your turn, your opponent's next turn, and your next turn after that.",
+            "id": 23137,
+            "question": "How long does the effect of <<15304>> prevent me from Special Summoning from the Extra Deck?",
+            "thisSrc": {
+                "date": "2020-11-11",
+                "misc": "Redshift",
+                "type": 4
+            },
+            "title": "How long does the effect of <<15304>> prevent me from Special Summoning from the Extra Deck?",
+            "tlSrc": {
+                "date": "2020-11-09",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<15304>>\u300d\u3092\u767a\u52d5\u3057\u305f\u306e\u3061\u3001\u6b21\u306b\u56de\u3063\u3066\u6765\u308b\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306e\u3001\u305d\u306e\u7d42\u4e86\u6642\u307e\u3067\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\n\u300c<<15304>>\u300d\u3092\u76f8\u624b\u306e\u30bf\u30fc\u30f3\u306b\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u767a\u52d5\u5f8c\u3001\u305d\u306e\u76f8\u624b\u306e\u30bf\u30fc\u30f3\u3068\u3001\u305d\u306e\u6b21\u306e\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306e\u9593\u3001\u81ea\u5206\u306f\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u300c<<15304>>\u300d\u3092\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306b\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u767a\u52d5\u5f8c\u3001\u305d\u306e\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u3068\u3001\u305d\u306e\u6b21\u306e\u76f8\u624b\u306e\u30bf\u30fc\u30f3\u3068\u3001\u305d\u306e\u6b21\u306e\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306e\u9593\u3001\u81ea\u5206\u306f\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 23137,
+            "question": "\u300c<<15304>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u5f8c\u3001\u6b21\u306e\u81ea\u5206\u30bf\u30fc\u30f3\u306e\u7d42\u4e86\u6642\u307e\u3067\u81ea\u5206\u306fEX\u30c7\u30c3\u30ad\u304b\u3089\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306f\u3001\u3044\u3064\u307e\u3067\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2020-11-09",
+                "type": 0
+            },
+            "title": "\u300c<<15304>>\u300d\u306e\u300eEX\u30c7\u30c3\u30ad\u304b\u3089\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306f\u3044\u3064\u307e\u3067\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

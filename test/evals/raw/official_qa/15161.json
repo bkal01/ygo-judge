@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11723
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Whether it is attacking directly, or battling an opponent's monster, if <<11723>> inflicts battle damage to your opponent, you can activate its second effect.",
+            "id": 15161,
+            "question": "Can the second effect of <<11723>> be activated whenever it inflicts battle damage to my opponent both from a direct attack and from battling an opponent's monster?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can the second effect of <<11723>> be activated whenever it inflicts battle damage to my opponent both from a direct attack and from battling an opponent's monster?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u76f4\u63a5\u653b\u6483\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u306e\u6226\u95d8\u306e\u3044\u305a\u308c\u306e\u5834\u5408\u3067\u3082\u3001\u300c<<11723>>\u300d\u304c\u76f8\u624b\u306b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u305f\u306e\u3067\u3042\u308c\u3070\u3001\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 15161,
+            "question": "\u300c<<11723>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u76f8\u624b\u306b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u305f\u6642\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u306f\u3001\u76f4\u63a5\u653b\u6483\u306b\u3088\u3063\u3066\u76f8\u624b\u306b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u305f\u6642\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u306e\u6226\u95d8\u306b\u3088\u3063\u3066\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u305f\u6642\u3001\u3069\u3061\u3089\u306e\u5834\u5408\u3067\u3082\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11723>>\u300d\u306e\u52b9\u679c\u306f\u3001\u76f4\u63a5\u653b\u6483\u306b\u3088\u3063\u3066\u76f8\u624b\u306b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u305f\u6642\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u306e\u6226\u95d8\u306b\u3088\u3063\u3066\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u305f\u6642\u3001\u3069\u3061\u3089\u306e\u5834\u5408\u3067\u3082\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

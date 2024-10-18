@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5627,
+        11465
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, when a face-down Defense Position Jormungardr the Nordic Serpent is attacked and flipped face-up before damage calculation, the effect of Final Attack Orders will immediately change it to face-up Attack Position. Therefore, the effect of Jormungardr the Nordic Serpent that inflicts damage will activate and resolve before damage calculation.",
+            "id": 17140,
+            "question": "The effect of Final Attack Orders is applying, and Jormungardr the Nordic Serpent is on the field in face-down Defense Position. If an opponent's monster attacks the Set Jormungardr the Nordic Serpent, and it is flipped face-up before damage calculation, will the effect of Jormungardr the Nordic Serpent activate?",
+            "thisSrc": {
+                "date": "2015-10-06",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "The effect of Final Attack Orders is applying, and Jormungardr the Nordic Serpent is on the field in face-down Defense Position. If an opponent's monster attacks the Set Jormungardr the Nordic Serpent, and it is flipped face-up before damage calculation, will the effect of Jormungardr the Nordic Serpent activate?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u653b\u6483\u3055\u308c\u305f\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u300c<<11465>>\u300d\u304c\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u524d\u306b\u30ea\u30d0\u30fc\u30b9\u3057\u305f\u5f8c\u3001\u300c<<5627>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u5168\u3066\u653b\u6483\u8868\u793a\u3068\u306a\u308a\u3001\u8868\u793a\u5f62\u5f0f\u306f\u5909\u66f4\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u300c<<11465>>\u300d\u306f\u8868\u5074\u5b88\u5099\u8868\u793a\u304b\u3089\u8868\u5074\u653b\u6483\u8868\u793a\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<11465>>\u300d\u306e\u300e\u81ea\u5206\u306f\uff13\uff10\uff10\uff10\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\u300f\u52b9\u679c\u304c\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u524d\u306b\u767a\u52d5\u3057\u3001\u51e6\u7406\u3092\u884c\u3046\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 17140,
+            "question": "\u300c<<5627>>\u300d\u304c\u76f8\u624b\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<11465>>\u300d\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u81ea\u5206\u306e\u300c<<11465>>\u300d\u3092\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u3055\u308c\u305f\u300c<<11465>>\u300d\u306f\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u524d\u306b\u30ea\u30d0\u30fc\u30b9\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u304c\u3001\u300c<<11465>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u9650\u308a\uff11\u5ea6\u3060\u3051\u3001\u8868\u5074\u5b88\u5099\u8868\u793a\u306e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u8868\u5074\u653b\u6483\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u306b\u767a\u52d5\u3059\u308b\u3002\u81ea\u5206\u306f\uff13\uff10\uff10\uff10\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\u300f\u52b9\u679c\u306f\u767a\u52d5\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5627>>\u300d\u306e\u52b9\u679c\u9069\u7528\u4e2d\u306b\u3001\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u300c<<11465>>\u300d\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u653b\u6483\u3055\u308c\u305f\u5834\u5408\u3001\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

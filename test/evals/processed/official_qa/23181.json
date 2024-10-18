@@ -1,0 +1,39 @@
+{
+    "cards": [
+        14843,
+        14850,
+        16022
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can. Each \u25cf effect of You and A.I. can be used once per turn, per Attribute.\n\nIn other words, by Special Summoning Earth Golem @Ignister (EARTH), the effect of You and A.I. corresponding to EARTH/WATER can be activated. Then, when Water Leviathan @Ignister (WATER) is Special Summoned, the effect corresponding to EARTH/WATER can be activated again.",
+            "id": 23181,
+            "question": "I Special Summon Earth Golem @Ignister and activate the effect of You and A.I. corresponding to EARTH/WATER.\n\nAfter that, if I Special Summon Water Leviathan @Ignister, can I activate the effect corresponding to EARTH/WATER again?",
+            "thisSrc": {
+                "date": "2021-01-16",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "How many times can the bulleted (\u25cf) effects of You and A.I. be activated per turn?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u3059\u3002\n\n\u300c<<16022>>\u300d\u306e\u25cf\u306e\u52b9\u679c\u306f\u3001\uff11\u3064\u306e\u5c5e\u6027\u306b\u3064\u304d\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u305a\u3064\u9078\u629e\u3067\u304d\u307e\u3059\u3002\n\n\u3064\u307e\u308a\u3001\u300c<<14850>>\u300d\uff08\u5730\u5c5e\u6027\uff09\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u3053\u3068\u306b\u3088\u3063\u3066\u300e\u25cf\u5730\u30fb\u6c34\u300f\u306e\u52b9\u679c\u3092\u9078\u629e\u3057\u3066\u767a\u52d5\u3057\u3001\u305d\u306e\u30bf\u30fc\u30f3\u4e2d\u306b\u300c<<14843>>\u300d\uff08\u6c34\u5c5e\u6027\uff09\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u3053\u3068\u306b\u3088\u3063\u3066\u518d\u3073\u300e\u25cf\u5730\u30fb\u6c34\u300f\u306e\u52b9\u679c\u3092\u9078\u629e\u3057\u3066\u767a\u52d5\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 23181,
+            "question": "\u81ea\u5206\u304c\u300c<<14850>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c<<16022>>\u300d\u306e\u300e\u25cf\u5730\u30fb\u6c34\u300f\u306e\u52b9\u679c\u3092\u9078\u629e\u3057\u3066\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\u305d\u306e\u5f8c\u3001\u81ea\u5206\u304c\u300c<<14843>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300c<<16022>>\u300d\u306e\u300e\u25cf\u5730\u30fb\u6c34\u300f\u306e\u52b9\u679c\u3092\u9078\u629e\u3057\u3066\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<16022>>\u300d\u306e\u300e\u25cf\u300f\u306e\u52b9\u679c\u3092\uff11\u30bf\u30fc\u30f3\u306b\u4f55\u56de\u305a\u3064\u9078\u629e\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

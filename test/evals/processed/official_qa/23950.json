@@ -1,0 +1,41 @@
+{
+    "cards": [
+        18003,
+        18006,
+        18011,
+        18013,
+        18524
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When resolving the second Purrely Happy Memory, you can apply the\u300ethe first time it would be destroyed by card effect, it is not destroyed\u300feffect to a Epurrely Plump that has already had this effect applied to it previously. If you do so, you can also still choose to apply the\u300e\u25cfDiscard 1 card, and if you do, Special Summon 1 Level 1 \"Purrely\" monster from your Deck.\u300feffect.\n\nHowever, when that Epurrely Plump would later be destroyed by a card effect, all of the applied\u300eit is not destroyed\u300feffects cease to apply at once. (Even if the effect is applied to it twice, it will not be destroyed only once.)\n\nThis also applies to the following cards: Purrely Delicious Memory and Purrely Sleepy Memory.",
+            "id": 23950,
+            "question": "I have previously activated Purrely Happy Memory, choosing a Epurrely Plump on my field as the monster to apply the\u300ethe first time it would be destroyed by card effect, it is not destroyed\u300feffect to.\nAfterwards, can I activate a second Purrely Happy Memory, choosing that same Epurrely Plump as the card to which to apply the effect?\n\nAdditionally, if I can do so, can I also apply the second Purrely Happy Memory's\u300e\u25cfDiscard 1 card, and if you do, Special Summon 1 Level 1 \"Purrely\" monster from your Deck.\u300feffect?",
+            "thisSrc": {
+                "date": "2023-02-18",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "When resolving Purrely Happy Memory, can I choose a monster to which the effect of another Purrely Happy Memory has already been applied?",
+            "tlSrc": {
+                "date": "2023-02-18",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\uff12\u679a\u76ee\u306e\u300c<<18011>>\u300d\u306e\u51e6\u7406\u6642\u306b\u3001\u65e2\u306b\u540c\u3058\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u300c<<18006>>\u300d\u306b\u300e\uff11\u5ea6\u3060\u3051\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u3092\u9069\u7528\u3067\u304d\u307e\u3059\u3002\u307e\u305f\u3001\u300e\u25cf\u81ea\u5206\u306e\u624b\u672d\u3092\uff11\u679a\u9078\u3093\u3067\u6368\u3066\u3001\u30c7\u30c3\u30ad\u304b\u3089\u30ec\u30d9\u30eb\uff11\u306e\u300c<<18003>>\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u51e6\u7406\u3082\u9069\u7528\u3067\u304d\u307e\u3059\u3002\n\n\u305f\u3060\u3057\u3001\u305d\u306e\u300c<<18006>>\u300d\u304c\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u308b\u969b\u306b\u3001\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u300e\uff11\u5ea6\u3060\u3051\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u306f\u5168\u3066\u5931\u308f\u308c\u307e\u3059\u3002\uff08\uff12\u5ea6\u307e\u3067\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u72b6\u614b\u306b\u306f\u306a\u308a\u307e\u305b\u3093\u3002\uff09\n\n\u4ee5\u4e0b\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3064\u3044\u3066\u3082\u540c\u69d8\u3067\u3059\u3002\n\u300c<<18013>>\u300d\u306e\u2460\n\u300c<<18524>>\u300d\u306e\u2460",
+            "id": 23950,
+            "question": "\u81ea\u5206\u304c\u300c<<18011>>\u300d\u306e\u2460\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3066\u3001\u300e\u305d\u306e\u30ab\u30fc\u30c9\u306f\u6b21\u306e\u30bf\u30fc\u30f3\u306e\u7d42\u4e86\u6642\u307e\u3067\uff11\u5ea6\u3060\u3051\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u30ab\u30fc\u30c9\u3068\u3057\u3066\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c<<18006>>\u300d\u3092\u9078\u3073\u307e\u3057\u305f\u3002\n\u305d\u306e\u5f8c\u3001\u81ea\u5206\u306f\uff12\u679a\u76ee\u306e\u300c<<18011>>\u300d\u306e\u2460\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u30ab\u30fc\u30c9\u3068\u3057\u3066\u540c\u3058\u300c<<18006>>\u300d\u3092\u9078\u3079\u307e\u3059\u304b\uff1f\n\n\u3067\u304d\u308b\u5834\u5408\u3001\uff12\u679a\u76ee\u306e\u300c<<18011>>\u300d\u306e\u300e\u25cf\u81ea\u5206\u306e\u624b\u672d\u3092\uff11\u679a\u9078\u3093\u3067\u6368\u3066\u3001\u30c7\u30c3\u30ad\u304b\u3089\u30ec\u30d9\u30eb\uff11\u306e\u300c<<18003>>\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u51e6\u7406\u3082\u9069\u7528\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-02-18",
+                "type": 0
+            },
+            "title": "\u300c<<18011>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u52b9\u679c\u306e\u9069\u7528\u5148\u3068\u3057\u3066\u65e2\u306b\u5225\u306e\u300c<<18011>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u3079\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "cards": [
+        6941,
+        12033,
+        12034,
+        12100,
+        12385
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When resolving the effect of Kozmo Scaredy Lion, if 1 of the 3 targeted \"Kozmo\" monsters has already been returned to the Graveyard, the effect is applied. In this scenario, the targeted Kozmo Farmgirl and Kozmo Strawman return to the Graveyard, and your opponent still takes 500 damage.",
+            "id": 19941,
+            "question": "I activate the effect of Kozmo Scaredy Lion that returns 3 of my banished \"Kozmo\" monsters to my Graveyard, targeting Kozmo Farmgirl, Kozmo Goodwitch, and Kozmo Strawman. If my opponent chains Burial from a Different Dimension and returns Kozmo Goodwitch to the Graveyard, how does the effect of Kozmo Scaredy Lion resolve?",
+            "thisSrc": {
+                "date": "2016-09-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I activate the effect of Kozmo Scaredy Lion that returns 3 of my banished \"Kozmo\" monsters to my Graveyard, targeting Kozmo Farmgirl, Kozmo Goodwitch, and Kozmo Strawman. If my opponent chains Burial from a Different Dimension and returns Kozmo Goodwitch to the Graveyard, how does the effect of Kozmo Scaredy Lion resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12385>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u305f\u3001\u9664\u5916\u3055\u308c\u3066\u3044\u308b\u81ea\u5206\u306e\u300cKozmo\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\uff13\u4f53\u306e\u5185\u30011\u4f53\u304c\u5893\u5730\u306b\u623b\u3063\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u52b9\u679c\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u9664\u5916\u3055\u308c\u3066\u3044\u308b\u5bfe\u8c61\u306e\u300c<<12033>>\u300d\u3068\u300c<<12100>>\u300d\u3092\u5893\u5730\u3078\u623b\u3057\u3001\u300e\u76f8\u624b\u306b\uff15\uff10\uff10\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u300f\u51e6\u7406\u3082\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 19941,
+            "question": "\u300c<<12385>>\u300d\u306e\u300e\u2461\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\uff15\uff10\uff10LP\u3092\u6255\u3044\u3001\u9664\u5916\u3055\u308c\u3066\u3044\u308b\u81ea\u5206\u306e\u300cKozmo\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff13\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5893\u5730\u306b\u623b\u3057\u3001\u76f8\u624b\u306b\uff15\uff10\uff10\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u9664\u5916\u3055\u308c\u3066\u3044\u308b\u300c<<12033>>\u300d\u300c<<12034>>\u300d\u300c<<12100>>\u300d\u3092\u5bfe\u8c61\u306b\u9078\u629e\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u76f8\u624b\u304c\u300c<<6941>>\u300d\u3092\u767a\u52d5\u3057\u3001\u5bfe\u8c61\u306e\u300c<<12034>>\u300d1\u4f53\u306e\u307f\u3092\u5893\u5730\u3078\u623b\u3057\u305f\u5834\u5408\u3001\u300c<<12385>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12385>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u5bfe\u8c61\u3068\u3057\u305f\u9664\u5916\u3055\u308c\u3066\u3044\u308b\u81ea\u5206\u306e\u300cKozmo\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\uff13\u4f53\u306e\u5185\u30011\u4f53\u304c\u5893\u5730\u306b\u623b\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

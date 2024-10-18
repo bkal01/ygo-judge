@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12327
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can.\n(Either situation meets the\u300ethe battle position of a monster(s) on the field is changed\u300factivation condition.)",
+            "id": 18140,
+            "question": "If a <<12327>> in the Monster Zone is changed from Attack Position to face-up Defense Position, can its effect to attach a material to it be activated?\n\nFurthermore, if I Flip Summon a <<12327>> in my Monster Zone, can I activate that same effect?",
+            "thisSrc": {
+                "date": "2022-08-29",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can I activate the effect of <<12327>> even if its own battle position was changed?",
+            "tlSrc": {
+                "date": "2022-08-29",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\n\uff08\u3044\u305a\u308c\u306e\u72b6\u6cc1\u3082\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u8868\u793a\u5f62\u5f0f\u304c\u5909\u66f4\u3055\u308c\u305f\u5834\u5408\u300f\u306b\u3042\u305f\u308a\u307e\u3059\u3002\uff09",
+            "id": 18140,
+            "question": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u300c<<12327>>\u300d\u306e\u8868\u793a\u5f62\u5f0f\u3092\u653b\u6483\u8868\u793a\u304b\u3089\u8868\u5074\u5b88\u5099\u8868\u793a\u306b\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u300c<<12327>>\u300d\u306e\u2461\u306e\u300e\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u8868\u793a\u5f62\u5f0f\u304c\u5909\u66f4\u3055\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u300c<<12327>>\u300d\u3092\u53cd\u8ee2\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u300c<<12327>>\u300d\u306e\u2461\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-08-29",
+                "type": 0
+            },
+            "title": "\u300c<<12327>>\u300d\u81ea\u8eab\u306e\u8868\u793a\u5f62\u5f0f\u3092\u5909\u66f4\u3057\u305f\u5834\u5408\u3067\u3082\u3001\u300c<<12327>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

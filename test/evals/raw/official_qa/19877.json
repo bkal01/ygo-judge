@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12039
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of <<12039>> cannot be activated when <<12039>> itself is the monster that was Special Summoned by your opponent.",
+            "id": 19877,
+            "question": "If <<12039>> is Special Summoned by my opponent from their hand to my side of the field by Tributing 1 monster on my field, can I activate the effect of <<12039>> that negates the Special Summoned monster's effects and prevents it from attacking until the end of the next turn?",
+            "thisSrc": {
+                "date": "2016-09-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<12039>> is Special Summoned by my opponent from their hand to my side of the field by Tributing 1 monster on my field, can I activate the effect of <<12039>> that negates the Special Summoned monster's effects and prevents it from attacking until the end of the next turn?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u58ca\u7363\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\u53d6\u308a\u9664\u3044\u3066\u767a\u52d5\u3059\u308b\u300c<<12039>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3001\u76f8\u624b\u306b\u3088\u3063\u3066\u81ea\u8eab\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u6642\u306b\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 19877,
+            "question": "\u76f8\u624b\u306e\u624b\u672d\u304b\u3089\u3001\u300c<<12039>>\u300d\u304c\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306f\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3001\u624b\u672d\u304b\u3089\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u653b\u6483\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3067\u304d\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u7279\u6b8a\u53ec\u559a\u3055\u308c\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u6642\u3001\u81ea\u5206\u306f\u305d\u306e\u300c<<12039>>\u300d\u306e\u300e\u2463\uff1a\u76f8\u624b\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3057\u305f\u6642\u3001\u81ea\u5206\u30fb\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u58ca\u7363\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\uff12\u3064\u53d6\u308a\u9664\u3044\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u6b21\u306e\u30bf\u30fc\u30f3\u306e\u7d42\u4e86\u6642\u307e\u3067\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u653b\u6483\u3067\u304d\u305a\u3001\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12039>>\u300d\u304c\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u76f8\u624b\u306e\u624b\u672d\u304b\u3089\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u6642\u3001\u81ea\u5206\u306f\u300c<<12039>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

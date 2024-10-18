@@ -1,0 +1,38 @@
+{
+    "cards": [
+        11258,
+        11724
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this case, the second effect of <<11724>> will activate at the start of the Damage Step as Chain Link 1, and the effect of <<11258>> will activate as Chain Link 2. <<11724>> will first be destroyed by the effect of <<11258>>, then the ATK and DEF of <<11258>> both become 0.",
+            "id": 15168,
+            "question": "If <<11724>> attacks an opponent's <<11258>>, how will each of their effects be applied?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<11724>> attacks an opponent's <<11258>>, how will each of their effects be applied?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<11724>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3046\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u958b\u59cb\u6642\u306b\u767a\u52d5\u3059\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u3092\uff10\u306b\u3059\u308b\u300f\u52b9\u679c\u304c\u30c1\u30a7\u30fc\u30f3\uff11\u3001\u300c<<11258>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3046\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u958b\u59cb\u6642\u306b\u767a\u52d5\u3059\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u304c\u30c1\u30a7\u30fc\u30f3\uff12\u306b\u3066\u767a\u52d5\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u300c<<11258>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u300c<<11724>>\u300d\u306f\u7834\u58ca\u3055\u308c\u307e\u3059\u304c\u3001\u300c<<11258>>\u300d\u306e\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\uff10\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 15168,
+            "question": "\u300c<<11724>>\u300d\u304c\u76f8\u624b\u306e\u300c<<11258>>\u300d\u3092\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u306f\u3069\u306e\u3088\u3046\u306b\u51e6\u7406\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11724>>\u300d\u304c\u76f8\u624b\u306e\u300c<<11258>>\u300d\u3092\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u306f\u3069\u306e\u3088\u3046\u306b\u51e6\u7406\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

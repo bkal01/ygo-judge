@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11861
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "You can activate <<11861>> if the total ATK of all face-up monsters on your opponent's side of the field is greater than your current Life Points. (For example, if the sum of the ATK of all face-up monsters your opponent controls is 4000, and your Life Points are less than 4000, you can activate <<11861>> . Then, when resolving the effect, your opponent will shuffle monsters into their Deck until the total ATK of all face-up monsters on their side of the field becomes less than your current Life Points. (For example, if your Life Points are 100, and all monsters on your opponent's side of the field have 200 or more ATK, then your opponent must shuffle all monsters of them into the Deck.)",
+            "id": 15767,
+            "question": "How does one apply the effect of <<11861>> ?",
+            "thisSrc": {
+                "date": "2021-08-15",
+                "misc": "Catmaster0",
+                "type": 4
+            },
+            "title": "How does one apply the effect of <<11861>> ?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<11861>>\u300d\u306f\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306e\u5408\u8a08\u304c\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3088\u308a\u3082\u9ad8\u3044\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u30ab\u30fc\u30c9\u3067\u3059\u3002\n\uff08\u4f8b\u3048\u3070\u3001\u76f8\u624b\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306e\u5408\u8a08\u304c4000\u3067\u3042\u308b\u5834\u5408\u3001\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u304c4000\u672a\u6e80\u3067\u3042\u308c\u3070\u3001\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u3068\u3044\u3046\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\uff09\n\n\u305d\u3057\u3066\u3001\u305d\u306e\u52b9\u679c\u51e6\u7406\u306e\u969b\u306b\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u304c\u3001\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u4ee5\u4e0b\u306e\u6570\u5024\u3068\u306a\u308b\u3088\u3046\u306b\u3001\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u81ea\u8eab\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306b\u623b\u3059\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\uff08\u4f8b\u3048\u3070\u3001\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u304c100\u3067\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5168\u3066\u653b\u6483\u529b200\u4ee5\u4e0a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3060\u3063\u305f\u5834\u5408\u3001\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u81ea\u8eab\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u5168\u3066\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30c7\u30c3\u30ad\u306b\u623b\u3055\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002\uff09",
+            "id": 15767,
+            "question": "\u300c<<11861>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306f\u3069\u306e\u3088\u3046\u306b\u884c\u3044\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11861>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306f\u3069\u306e\u3088\u3046\u306b\u884c\u3044\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

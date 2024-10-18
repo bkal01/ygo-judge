@@ -1,0 +1,39 @@
+{
+    "cards": [
+        7219,
+        7456,
+        16502
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If the effect of your Floowandereeze & Snowl has previously been applied, you cannot activate Double Summon or Chain Summoning.\n\nFurthermore, if Double Summon has previously resolved, the effect of Floowandereeze & Snowl can still be activated. However, if Chain Summoning has previously resolved, the effect of Floowandereeze & Snowl cannot be activated.",
+            "id": 23517,
+            "question": "I have resolved the effect of my Floowandereeze & Snowl previously this turn, and can conduct up to 3 Normal Summons/Sets this turn, not just 1. Can I still activate Double Summon or Chain Summoning this turn?\n\nConversely, if Double Summon or Chain Summoning has previously resolved, can I activate the effect of Floowandereeze & Snowl?",
+            "thisSrc": {
+                "date": "2022-01-05",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If I can Normal Summon 3 times this turn due to Floowandereeze & Snowl's effect, can I activate Double Summon or Chain Summoning?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<16502>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30bf\u30fc\u30f3\u306b\u300c<<7219>>\u300d\u3084\u300c<<7456>>\u300d\u3092\u767a\u52d5\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u307e\u305f\u3001\u300c<<7219>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30bf\u30fc\u30f3\u306b\u300c<<16502>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u306f\u767a\u52d5\u3067\u304d\u307e\u3059\u304c\u3001\u300c<<7456>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30bf\u30fc\u30f3\u306b\u300c<<16502>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u306f\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 23517,
+            "question": "\u300c<<16502>>\u300d\u306e\u300e\u2460\u300f\u306e\u300e\u3053\u306e\u30bf\u30fc\u30f3\u81ea\u5206\u306f\u901a\u5e38\u53ec\u559a\u3092\uff13\u56de\u307e\u3067\u884c\u3046\u4e8b\u304c\u3067\u304d\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30bf\u30fc\u30f3\u306b\u300c<<7219>>\u300d\u307e\u305f\u306f\u300c<<7456>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<7219>>\u300d\u307e\u305f\u306f\u300c<<7456>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30bf\u30fc\u30f3\u306b\u300c<<16502>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<16502>>\u300d\u306e\u52b9\u679c\u3067\uff13\u56de\u901a\u5e38\u53ec\u559a\u3067\u304d\u308b\u30bf\u30fc\u30f3\u306b\u300c<<7219>>\u300d\u3084\u300c<<7456>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\u3002"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

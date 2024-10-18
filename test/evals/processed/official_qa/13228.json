@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4960,
+        10662
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If Imperial Order is activated in response to a Pendulum Monster being activated as a Spell Card in the Pendulum Zone, that Pendulum Monster will remain in the Pendulum Zone. The Pendulum effect of that monster is treated as a Spell effect and is negated by Imperial Order, but it is still possible to perform a Pendulum Summon if you have 2 cards in your Pendulum Zones. Also, even if Rank-Up-Magic Numeron Force negates the effects of a Pendulum Monster already in the Pendulum Zone, that Pendulum Monster can still be used to perform a Pendulum Summon.",
+            "id": 13228,
+            "question": "If Imperial Order is activated in response to a Pendulum Monster being activated as a Spell Card in the Pendulum Zone, what happens to the Pendulum Monster? Also, if Rank-Up-Magic Numeron Force negates the effects of a Pendulum Monster already in the Pendulum Zone, can that Pendulum Monster no longer be used to perform a Pendulum Summon?",
+            "thisSrc": {
+                "date": "2014-05-08",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Imperial Order is activated in response to a Pendulum Monster being activated as a Spell Card in the Pendulum Zone, what happens to the Pendulum Monster? Also, if Rank-Up-Magic Numeron Force negates the effects of a Pendulum Monster already in the Pendulum Zone, can that Pendulum Monster no longer be used to perform a Pendulum Summon?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<4960>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u9b54\u6cd5\u30ab\u30fc\u30c9\u3068\u3057\u3066\u767a\u52d5\u3057\u305f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u6b8b\u308a\u307e\u3059\u3002\n\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306f\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3068\u3057\u3066\u6271\u308f\u308c\u308b\u306e\u3067\u300c<<4960>>\u300d\u306b\u3088\u3063\u3066\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u304c\u30012\u7b87\u6240\u306e\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u305d\u308c\u305e\u308c\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7f6e\u304b\u308c\u3066\u3044\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3092\u884c\u3046\u4e8b\u306f\u53ef\u80fd\u3067\u3059\u3002\n\n\u307e\u305f\u3001\u300c<<10662>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u65e2\u306b\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u7f6e\u304b\u308c\u3066\u3044\u308b\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u3067\u3082\u3001\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u304c\u884c\u3048\u306a\u304f\u306a\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+            "id": 13228,
+            "question": "\u300c<<4960>>\u300d\u9069\u7528\u4e2d\u306b\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u624b\u672d\u304b\u3089\u9b54\u6cd5\u30ab\u30fc\u30c9\u3068\u3057\u3066\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u7f6e\u304b\u308c\u305f\u5f8c\u306b\u767a\u52d5\u3057\u305f\u300c<<10662>>\u300d\u306b\u3088\u3063\u3066\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u3001\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u306f\u884c\u3048\u306a\u304f\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u306f\u884c\u3048\u306a\u304f\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Pendulum"
+    ]
+}

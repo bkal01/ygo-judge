@@ -1,0 +1,40 @@
+{
+    "cards": [
+        11299,
+        13213,
+        13368
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, since the effect of <<11299>> was activated by declaring Level 9, <<13213>> becomes Level 9. There is no further increase due to the effect of <<13368>>. Afterward, even if you proceed to your Battle Phase, since the Level has become 9 due to the effect of <<11299>>, the effect of <<13368>> is not being factored, which means the Level is not reduced by 2. After that, if you proceed to Main Phase 2, the effect of <<13368>> is applied again, and <<13213>> increases to Level 11.",
+            "id": 9925,
+            "question": "<<13368>> is face-up in my Field Zone, and my <<13213>> is Level 6 due to its effect. In this situation, if I activate the effect of <<11299>> and declare Level 9, what happens to the Level of <<13213>>?",
+            "thisSrc": {
+                "date": "2018-09-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<13368>> is face-up in my Field Zone, and my <<13213>> is Level 6 due to its effect. In this situation, if I activate the effect of <<11299>> and declare Level 9, what happens to the Level of <<13213>>?",
+            "tlSrc": {
+                "date": "2018-09-17",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<11299>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<13213>>\u300d\u306e\u30ec\u30d9\u30eb\u306f9\u3068\u306a\u308a\u307e\u3059\u3002\n\u305d\u306e\u6642\u70b9\u3067\u306f\u3001\u300c<<13368>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u3055\u3089\u306b\u30ec\u30d9\u30eb\u304c2\u3064\u4e0a\u304c\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u305d\u306e\u5f8c\u3001\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u306b\u9032\u3093\u3060\u5834\u5408\u3001\u300c<<13213>>\u300d\u306e\u30ec\u30d9\u30eb\u306f\u300c<<11299>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u30669\u3068\u306a\u3063\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u300c<<13368>>\u300d\u306e\u52b9\u679c\u306e\u9069\u7528\u304c\u306a\u304f\u306a\u3063\u305f\u4e8b\u3067\u3001\u30ec\u30d9\u30eb\u304c2\u3064\u4e0b\u304c\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u306a\u304a\u3001\u305d\u306e\u5f8c\u3001\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba2\u3092\u8fce\u3048\u308c\u3070\u3001\u300c<<13368>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u300c<<13213>>\u300d\u306e\u30ec\u30d9\u30eb\u306f2\u3064\u4e0a\u304c\u308a\u300111\u3068\u306a\u308a\u307e\u3059\u3002",
+            "id": 9925,
+            "question": "\u300c<<13368>>\u300d\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300cF.A.\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ec\u30d9\u30eb\u306f\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306e\u9593\u3060\u3051\uff12\u3064\u4e0a\u304c\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<13213>>\u300d\u306e\u30ec\u30d9\u30eb\u304c6\u306e\u72b6\u614b\u3068\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba1\u306b\u3001\u300c<<11299>>\u300d\u306e\u300e\u2461\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\uff15\uff5e\uff19\u307e\u3067\u306e\u4efb\u610f\u306e\u30ec\u30d9\u30eb\u3092\u5ba3\u8a00\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ec\u30d9\u30eb\uff15\u4ee5\u4e0a\u306e\u6a5f\u68b0\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ec\u30d9\u30eb\u306f\u5ba3\u8a00\u3057\u305f\u30ec\u30d9\u30eb\u306b\u306a\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u30ec\u30d9\u30eb9\u3092\u5ba3\u8a00\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u300c<<13213>>\u300d\u306e\u30ec\u30d9\u30eb\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2018-09-17",
+                "type": 0
+            },
+            "title": "\u300c<<13368>>\u300d\u306e\u52b9\u679c\u9069\u7528\u4e2d\u306b\u300c<<11299>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300cF.A.\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ec\u30d9\u30eb\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Trap"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "cards": [
+        5346,
+        7752,
+        8764,
+        9455,
+        10544,
+        11871,
+        11969,
+        11996,
+        12612,
+        12950,
+        13922,
+        14178,
+        14207,
+        14384,
+        15275,
+        17762,
+        19162,
+        19214
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can.\n\nEven though adding \"Spellbook\" cards to your hand and Special Summoning a Spellcaster are performed during the End Phase, and not during the resolution of <<10544>>'s activation, that activation is still treated as including an effect that adds cards from the Deck to the hand, as well as including an effect that Special Summons monsters from the Deck.\n\n~~~\n\nThe effect of <<12950>> can also be activated in response to the activation of any of the following, assuming they are activated outside the Damage Step: <<19162>>'s \u2461nd effect, <<17762>>'s \u2461nd effect, <<9455>>'s effect, <<15275>>'s \u2460st effect, <<8764>>'s \u2460st effect, <<14207>>'s \u2461nd effect, <<11996>>'s \u2460st effect, <<13922>>'s \u2462rd effect, <<11969>>'s \u2460st effect, <<14384>>'s \u2461nd effect, <<12612>>'s Monster Effect, <<11871>>'s Monster Effect, as well as the card activations of <<5346>>, <<7752>>, <<14178>>, and <<19214>>.",
+            "id": 23793,
+            "question": "Can I activate the effect of <<12950>> in response to the activation of <<10544>>?",
+            "thisSrc": {
+                "date": "2022-06-26",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can I activate the effect of <<12950>> in response to the activation of <<10544>>?",
+            "tlSrc": {
+                "date": "2023-11-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\n\n\u30c7\u30c3\u30ad\u304b\u3089\u300c\u9b54\u5c0e\u66f8\u300d\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u51e6\u7406\u3068\u30c7\u30c3\u30ad\u304b\u3089\u9b54\u6cd5\u4f7f\u3044\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u51e6\u7406\u306f\u3001\u300c<<10544>>\u300d\u306e\u52b9\u679c\u306e\u51e6\u7406\u6642\u3067\u306f\u306a\u304f\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u884c\u308f\u308c\u307e\u3059\u304c\u3001\u305d\u306e\u3088\u3046\u306a\u52b9\u679c\u3082\u300e\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u52b9\u679c\u300f\u300e\u30c7\u30c3\u30ad\u304b\u3089\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u300f\u3092\u542b\u3080\u52b9\u679c\u306b\u3042\u305f\u308a\u307e\u3059\u3002\n\n\u4ee5\u4e0b\u306e\u52b9\u679c\u306b\u3064\u3044\u3066\u3082\u3001\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u4ee5\u5916\u3067\u767a\u52d5\u3057\u305f\u306e\u3067\u3042\u308c\u3070\u540c\u69d8\u306b\u3001\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<12950>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u30e2\u30f3\u30b9\u30bf\u30fc\n\u300c<<19162>>\u300d\u306e\u2461\n\u300c<<17762>>\u300d\u306e\u2461\n\u300c<<9455>>\u300d\n\u300c<<15275>>\u300d\u306e\u2460\n\u300c<<8764>>\u300d\u306e\u2460\n\u300c<<14207>>\u300d\u306e\u2461\n\u300c<<11996>>\u300d\u306e\u2460\n\u300c<<13922>>\u300d\u306e\u2462\n\u300c<<11969>>\u300d\u306e\u2460\n\u300c<<14384>>\u300d\u306e\u2461\n\u300c<<12612>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\n\u300c<<11871>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\n\n\u9b54\u6cd5\u30ab\u30fc\u30c9\n\u300c<<5346>>\u300d\n\u300c<<7752>>\u300d\n\u300c<<14178>>\u300d\n\n\u7f60\u30ab\u30fc\u30c9\n\u300c<<19214>>\u300d\u306e\u2460",
+            "id": 23793,
+            "question": "\u300c<<10544>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<12950>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-11-30",
+                "type": 0
+            },
+            "title": "\u300c<<10544>>\u300d\u306b\u5bfe\u3057\u3066\u300c<<12950>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "cards": [
+        6337,
+        9153,
+        15408,
+        15409
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the given situation, the effect of\u00a0<<9153>> applies so you cannot Special Summon monsters.\n\nYou cannot activate\u00a0<<15409>> if you can only choose 2 \"Charmer\"\u00a0monsters or \"Familiar-Possessed\" monsters with different names from your\u00a0Deck.\n(As an example, you can add\u00a0<<6337>> to your hand and Set\u00a0<<15408>> to your Spell & Trap Zone. In the situation in question, it is necessary to choose at least 1 \"Possessed\"\u00a0Spell/Trap that you will then Set to your Spell & Trap Zone when resolving the effect.)",
+            "id": 23038,
+            "question": "There is a face-up\u00a0<<9153>> in my opponent's Spell & Trap Zone applying its effect.\n\nIn this situation, can I activate\u00a0<<15409>>?",
+            "thisSrc": {
+                "date": "2020-07-04",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "Can\u00a0<<15409>> be activated while the effect of\u00a0<<9153>> applies?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<9153>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u7279\u6b8a\u53ec\u559a\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u300e\u30c7\u30c3\u30ad\u304b\u3089\u300c\u970a\u4f7f\u3044\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3001\u300c\u6191\u4f9d\u88c5\u7740\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3001\u300c\u6191\u4f9d\u300d\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u5185\u3001\uff12\u679a\u3092\u9078\u3076\uff08\u540c\u540d\u30ab\u30fc\u30c9\u306f\uff11\u679a\u307e\u3067\uff09\u300f\u51e6\u7406\u306b\u3088\u3063\u3066\u9078\u3079\u308b\u7d44\u307f\u5408\u308f\u305b\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\uff12\u679a\u3068\u306a\u3063\u3066\u3057\u307e\u3046\u5834\u5408\u306b\u306f\u3001\u300c<<15409>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\uff08\u4f8b\u3048\u3070\u3001\u300c<<6337>>\u300d\u3092\u624b\u672d\u306b\u52a0\u3048\u3001\u300c<<15408>>\u300d\u3092\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u30bb\u30c3\u30c8\u3059\u308b\u306a\u3069\u3001\u300e\u3082\u3046\uff11\u679a\u3092\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30bb\u30c3\u30c8\u3059\u308b\u300f\u51e6\u7406\u304c\u300c\u6191\u4f9d\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u3092\u30bb\u30c3\u30c8\u3059\u308b\u51e6\u7406\u3068\u306a\u308b\u3088\u3046\u306b\u3001\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\u9078\u3073\u51e6\u7406\u3092\u884c\u3046\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002\uff09",
+            "id": 23038,
+            "question": "\u76f8\u624b\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u300c<<9153>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u300e\u2460\u300f\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306f\u300c<<15409>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<9153>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<15409>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

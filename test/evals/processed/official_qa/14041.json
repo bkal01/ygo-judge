@@ -1,0 +1,37 @@
+{
+    "cards": [
+        9457
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "A monster affected by the effect of Nordic Relic Megingjord has its ATK and DEF become twice their Original values.\n\nEven if the same monster is affected by 2 copies of Nordic Relic Megingjord, as an end result, the ATK and DEF only become twice their Original values.\n\n(It is no different to applying the effect of a single copy of Nordic Relic Megingjord)",
+            "id": 14041,
+            "question": "If 2 copies of Nordic Relic Megingjord are activated targeting the same monster during the same turn, what happens with that monster's ATK and DEF?",
+            "thisSrc": {
+                "date": "2014-10-17",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If 2 copies of Nordic Relic Megingjord are activated targeting the same monster during the same turn, what happens with that monster's ATK and DEF?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<9457>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u307e\u3067\u3001\u300e\u5143\u3005\u306e\u6570\u5024\u306e\u500d\u300f\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u540c\u4e00\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b2\u679a\u306e\u300c<<9457>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u3068\u3057\u3066\u3082\u3001\u7d50\u679c\u7684\u306b\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\u300e\u5143\u3005\u306e\u6570\u5024\u306e\u500d\u300f\u306b\u3057\u304b\u306a\u308a\u307e\u305b\u3093\u3002\n\uff08\u300c<<9457>>\u300d\u30921\u679a\u306e\u307f\u9069\u7528\u3057\u305f\u5834\u5408\u3068\u5909\u308f\u308a\u307e\u305b\u3093\u3002\uff09",
+            "id": 14041,
+            "question": "2\u679a\u306e\u300c<<9457>>\u300d\u3092\u3001\u540c\u4e00\u30bf\u30fc\u30f3\u306b\u3066\u3001\u540c\u4e00\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "2\u679a\u306e\u300c<<9457>>\u300d\u3092\u3001\u540c\u4e00\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4342,
+        5432,
+        8374
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In that case, since the effect that prevents that monster from being destroyed by card effects is no longer applied, it is destroyed normally by the effect of <<4342>>.",
+            "id": 14044,
+            "question": "If a Level 7 or higher monster that was Tribute Summoned using <<8374>> is later flipped to face-down Defense Position by the effect of <<5432>>, is that monster destroyed by the effect of <<4342>>?",
+            "thisSrc": {
+                "date": "2014-10-17",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a Level 7 or higher monster that was Tribute Summoned using <<8374>> is later flipped to face-down Defense Position by the effect of <<5432>>, is that monster destroyed by the effect of <<4342>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<8374>>\u300d\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u30ec\u30d9\u30eb7\u4ee5\u4e0a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u305d\u306e\u5f8c\u306b\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u300e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u306e\u9069\u7528\u304c\u306a\u304f\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300c<<4342>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u901a\u5e38\u901a\u308a\u7834\u58ca\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 14044,
+            "question": "\u300c<<8374>>\u300d\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u30ec\u30d9\u30eb7\u4ee5\u4e0a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u305d\u306e\u5f8c\u306b\u300c<<5432>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u300c<<4342>>\u300d\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8374>>\u300d\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u30ec\u30d9\u30eb7\u4ee5\u4e0a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u88cf\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

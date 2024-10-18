@@ -1,0 +1,50 @@
+{
+    "cards": [
+        16745
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "    Forgetting: Special Summoned from a particular location + flipped face-down",
+                "date": "2021-08-28",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "If a monster is Special Summoned from the Graveyard, that monster is treated as a monster that was Special Summoned from the Graveyard, regardless of its battle position. This includes a monster which was Special Summoned from the Graveyard in face-down Defense Position, and then flipped face-up.\n\nIf any such monster is on your opponent's field, you can activate Exosister Arment during your turn. (As that monster is treated as having been Special Summoned from the Graveyard.)\n\nHowever, if a face-up monster on the field which was Special Summoned from the Graveyard is flipped face-down, that monster is no longer treated as a monster that was Special Summoned from the Graveyard.",
+            "id": 23330,
+            "question": "There is a face-down Defense Position monster on my opponent's field, which was at one point Special Summoned from the Graveyard.\n\nIn this situation, can I activate Exosister Arment during my turn, which is only possible if my opponent controls a monster which was Special Summoned from the Graveyard?",
+            "thisSrc": {
+                "date": "2021-08-28",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Is a face-down Defense Position monster treated as having been Special Summoned from the Graveyard?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u5893\u5730\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u306e\u3067\u3042\u308c\u3070\u3001\u8868\u793a\u5f62\u5f0f\u3092\u554f\u308f\u305a\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u5893\u5730\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u3002\u307e\u305f\u3001\u5893\u5730\u304b\u3089\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u306e\u3061\u8868\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3082\u3001\u5893\u5730\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u3053\u308c\u3089\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3059\u308b\u72b6\u6cc1\u3067\u3042\u308c\u3070\u3001\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306b\u300c<<16745>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\uff08\u5893\u5730\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3059\u308b\u5834\u5408\u306b\u3042\u305f\u308a\u307e\u3059\u3002\uff09\n\n\u305f\u3060\u3057\u3001\u5893\u5730\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u72b6\u614b\u306b\u3042\u308b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u5893\u5730\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u306a\u304f\u306a\u308a\u307e\u3059\u3002",
+            "id": 23330,
+            "question": "\u5893\u5730\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3059\u308b\u72b6\u6cc1\u3067\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u300e\u5893\u5730\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u76f8\u624b\u30bf\u30fc\u30f3\u306b\u3057\u304b\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u30ab\u30fc\u30c9\u3067\u3042\u308b\u300c<<16745>>\u300d\u3092\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306b\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u5893\u5730\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u5893\u5730\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell",
+        "o:Being Flipped Face-Down",
+        "o:Forgetting",
+        "o:Important Precedent"
+    ]
+}

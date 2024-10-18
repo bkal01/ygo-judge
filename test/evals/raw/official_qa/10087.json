@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5355,
+        5574
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The ATK of a monster halved by the effect of <<5355>> is treated as the Original ATK of the monster.\n\nAs a result, the ATK of the Clone Token Special Summoned by the effect of <<5574>> is equal to the ATK of the monster halved by <<5355>>.",
+            "id": 10087,
+            "question": "When <<5574>> is activated in response to the opponent Normal or Special Summoning a monster, if <<5355>> is chained to that activation targeting that monster, is the ATK of the Clone Token Special Summoned by the effect of <<5574>> equal to the Original ATK of the opponent's monster that is halved by the effect of <<5355>>?",
+            "thisSrc": {
+                "date": "2014-04-03",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When <<5574>> is activated in response to the opponent Normal or Special Summoning a monster, if <<5355>> is chained to that activation targeting that monster, is the ATK of the Clone Token Special Summoned by the effect of <<5574>> equal to the Original ATK of the opponent's monster that is halved by the effect of <<5355>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<5355>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u534a\u5206\u306b\u306a\u3063\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u3001\u201c\u5143\u3005\u306e\u653b\u6483\u529b\u201d\u3068\u3057\u3066\u306f\u6271\u3044\u307e\u3059\u3002\n\u3088\u3063\u3066\u3001\u300c<<5574>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3057\u305f\u300c\u30af\u30ed\u30fc\u30f3\u30c8\u30fc\u30af\u30f3\u300d\u306e\u653b\u6483\u529b\u306f\u3001\u300c<<5355>>\u300d\u3067\u534a\u5206\u306b\u306a\u3063\u305f\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u3068\u540c\u3058\u653b\u6483\u529b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 10087,
+            "question": "\u76f8\u624b\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u53ec\u559a\u30fb\u53cd\u8ee2\u53ec\u559a\u3057\u305f\u6642\u306b\u767a\u52d5\u3057\u305f\u300c<<5574>>\u300d\u306b\u30c1\u30a7\u30fc\u30f3\u3092\u3057\u3066\u3001\u305d\u306e\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u300c<<5355>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c<<5574>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u308b\u300c\u30af\u30ed\u30fc\u30f3\u30c8\u30fc\u30af\u30f3\u300d\u306e\u653b\u6483\u529b\u306f\u3001\u300c<<5355>>\u300d\u306e\u52b9\u679c\u306b\u3088\u308a\u5143\u3005\u306e\u653b\u6483\u529b\u304c\u534a\u5206\u306b\u306a\u3063\u305f\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u540c\u3058\u653b\u6483\u529b\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5574>>\u300d\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u300c<<5355>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c\u30af\u30ed\u30fc\u30f3\u30c8\u30fc\u30af\u30f3\u300d\u306e\u653b\u6483\u529b\u306f\u3044\u304f\u3064\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain",
+        "k:Normal/Token"
+    ]
+}

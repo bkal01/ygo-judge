@@ -1,0 +1,38 @@
+{
+    "cards": [
+        6206,
+        11843
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If <<11843>> is activated, you cannot Normal or Special Summon monsters during the same turn, except by its effect. Furthermore, if <<6206>> is activated, its effect becomes the same as the effect of the Normal Spell card it is chained to. (The effect of <<6206>> does not mean you are activating the same Normal Spell Card twice.) Therefore, <<6206>> cannot be chained to <<11843>>.",
+            "id": 9608,
+            "question": "Can <<6206>> be chained to <<11843>>?",
+            "thisSrc": {
+                "date": "2016-07-07",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can <<6206>> be chained to <<11843>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11843>>\u300d\u3092\u767a\u52d5\u3059\u308b\u30bf\u30fc\u30f3\u3001\u81ea\u5206\u306f\u305d\u306e\u767a\u52d5\u3057\u305f\u300c<<11843>>\u300d\u81ea\u8eab\u306e\u52b9\u679c\u4ee5\u5916\u3067\u306f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u306a\u304f\u306a\u308a\u307e\u3059\u3002\n\n\u307e\u305f\u3001\u901a\u5e38\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<6206>>\u300d\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306f\u3001\u305d\u306e\u901a\u5e38\u9b54\u6cd5\u306e\u52b9\u679c\u3068\u540c\u3058\u306b\u306a\u308b\u300f\u51e6\u7406\u306b\u3088\u308a\u3001\u300c<<6206>>\u300d\u306e\u52b9\u679c\u3068\u3057\u3066\u3001\u305d\u306e\u901a\u5e38\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u51e6\u7406\u3068\u540c\u3058\u51e6\u7406\u3092\u884c\u3046\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\uff08\u300c<<6206>>\u300d\u306e\u52b9\u679c\u306f\u3001\u767a\u52d5\u306e\u304d\u3063\u304b\u3051\u3068\u306a\u3063\u305f\u901a\u5e38\u9b54\u6cd5\u30ab\u30fc\u30c9\u304c\u3082\u30461\u5ea6\u767a\u52d5\u3057\u305f\u6271\u3044\u306b\u306a\u308b\u308f\u3051\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002\uff09\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<11843>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<6206>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u81ea\u4f53\u304c\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 9608,
+            "question": "\u300c<<11843>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<6206>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11843>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u300c<<6206>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

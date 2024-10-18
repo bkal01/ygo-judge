@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5740,
+        14961
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The Special Summoned D/D/D Vice King Requiem has its level increased, or decreased, by its own Pendulum Effect (i.e., a Spell effect).\n\nTherefore, even if the monster effects of that D/D/D Vice King Requiem are subsequently negated by Skill Drain, the Level of that D/D/D Vice King Requiem will remain at the changed value. (In the situation described, the Level will remain lowered by 1.)",
+            "id": 22932,
+            "question": "I have Special Summoned D/D/D Vice King Requiem from the Pendulum Zone using its \u2460st Pendulum Effect, and as a result, its Level was reduced by 1.\n\nIf Skill Drain now begins applying, negating the monster effects of that D/D/D Vice King Requiem, what happens to its Level?",
+            "thisSrc": {
+                "date": "2022-12-12",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If the monster effects of a D/D/D Vice King Requiem, which was Special Summoned by its own Pendulum Effect, are negated, what happens to its Level?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<14961>>\u300d\u306f\u81ea\u8eab\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u3001\u3064\u307e\u308a\u3001\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u305d\u306e\u30ec\u30d9\u30eb\u304c\u4e0a\u304c\u308b\uff08\u307e\u305f\u306f\u4e0b\u304c\u308b\uff09\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u305d\u306e\u5f8c\u306b\u300c<<14961>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u300c<<5740>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u3067\u3082\u3001\u300c<<14961>>\u300d\u306e\u30ec\u30d9\u30eb\u306f\u9069\u7528\u3055\u308c\u305f\u30ec\u30d9\u30eb\uff08\uff1d\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u30ec\u30d9\u30eb\u304c\uff11\u3064\u4e0b\u304c\u3063\u3066\u3044\u308b\u72b6\u614b\uff09\u306e\u307e\u307e\u3068\u306a\u308a\u307e\u3059\u3002",
+            "id": 22932,
+            "question": "\u81ea\u8eab\u306e\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c\u5951\u7d04\u66f8\u300d\u30ab\u30fc\u30c9\u3092\u4efb\u610f\u306e\u6570\u3060\u3051\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3057\u3001P\u30be\u30fc\u30f3\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u3002\u305d\u306e\u5f8c\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306e\u30ec\u30d9\u30eb\u3092\u3001\u7834\u58ca\u3057\u305f\u6570\u3060\u3051\u4e0a\u3052\u308b\u3001\u307e\u305f\u306f\u4e0b\u3052\u308b\u4e8b\u304c\u3067\u304d\u308b\u300f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<14961>>\u300d\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u3001\u305d\u306e\u30ec\u30d9\u30eb\u304c\uff11\u3064\u4e0b\u304c\u3063\u3066\u3044\u308b\u72b6\u614b\u3067\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u300c<<5740>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u300c<<14961>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u3001\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30ec\u30d9\u30eb\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u81ea\u8eab\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<14961>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u9069\u7528\u3055\u308c\u305f\u30ec\u30d9\u30eb\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Pendulum"
+    ]
+}

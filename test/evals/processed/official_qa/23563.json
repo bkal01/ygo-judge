@@ -1,0 +1,38 @@
+{
+    "cards": [
+        12953,
+        17261
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, it cannot. In order to activate that effect, a Supreme King Z-ARC that exists as a monster in the Monster Zone must be banished.",
+            "id": 23563,
+            "question": "Can the effect of Soul of the Supreme King in the Graveyard be activated by banishing a Supreme King Z-ARC in the Pendulum Zone or equipped to a monster?",
+            "thisSrc": {
+                "date": "2022-02-19",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "Can the effect of Soul of the Supreme King in the Graveyard be activated by banishing a Supreme King Z-ARC in the Pendulum Zone or equipped to a monster?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u300c<<17261>>\u300d\u306e\u300e\u2461\u300f\u3092\u767a\u52d5\u3059\u308b\u305f\u3081\u306b\u306f\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u5b58\u5728\u3057\u3066\u3044\u308b\u300c<<12953>>\u300d\uff11\u4f53\u3092\u9664\u5916\u3057\u307e\u3059\u3002",
+            "id": 23563,
+            "question": "\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3057\u3066\u3044\u308b\u300c<<12953>>\u300d\u3084\u3001\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3067\u5b58\u5728\u3059\u308b\u300c<<12953>>\u300d\u3092\u9664\u5916\u3057\u3066\u3001\u300c<<17261>>\u300d\u306e\u300e\u2461\u300f\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "P\u30be\u30fc\u30f3\u306e\u300c<<12953>>\u300d\u3084\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u88c5\u5099\u3055\u308c\u3066\u3044\u308b\u300c<<12953>>\u300d\u3092\u9664\u5916\u3057\u3066\u3001\u300c<<17261>>\u300d\u306e\u300e\u2461\u300f\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

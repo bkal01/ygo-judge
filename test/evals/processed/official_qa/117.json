@@ -1,0 +1,38 @@
+{
+    "cards": [
+        8085,
+        8135
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "To activate the effect of Tempest Magician, you must remove all Spell Counters from the field. In this situation, you cannot apply the effect of Magical Citadel of Endymion, and you must remove all Spell Counters on Tempest Magician and Magical Citadel of Endymion to activate the effect of Tempest Magician.",
+            "id": 117,
+            "question": "I have a Tempest Magician with 1 Spell Counter on it, and a Magical Citadel of Endymion with 4 Spell Counters on it, on my side of the field. If I activate the effect of Tempest Magician that inflicts damage, by removing all Spell Counters from the field, can I apply the effect of Magical Citadel of Endymion and remove only the Spell Counters on it instead?",
+            "thisSrc": {
+                "date": "2015-06-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I have a Tempest Magician with 1 Spell Counter on it, and a Magical Citadel of Endymion with 4 Spell Counters on it, on my side of the field. If I activate the effect of Tempest Magician that inflicts damage, by removing all Spell Counters from the field, can I apply the effect of Magical Citadel of Endymion and remove only the Spell Counters on it instead?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<8085>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u306f\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3059\u308b\u5168\u3066\u306e\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\u53d6\u308a\u9664\u304b\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<8135>>\u300d\u306e\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u305a\u3001\u300c<<8085>>\u300d\u306b\u7f6e\u304b\u308c\u3066\u3044\u308b\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u3068\u3001\u300c<<8135>>\u300d\u306b\u7f6e\u304b\u308c\u3066\u3044\u308b\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u306e\u5168\u3066\u3092\u53d6\u308a\u9664\u3044\u3066\u3001\u300c<<8085>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 117,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u304c1\u3064\u7f6e\u304b\u308c\u305f\u300c<<8085>>\u300d\u304c\u5b58\u5728\u3057\u3001\u81ea\u5206\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u304c4\u3064\u7f6e\u304b\u308c\u305f\u300c<<8135>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u300c<<8085>>\u300d\u306e\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\u5168\u3066\u53d6\u308a\u9664\u304f\u4e8b\u3067\u3001\u305d\u306e\u500b\u6570\u00d7\uff15\uff10\uff10\u30dd\u30a4\u30f3\u30c8\u30c0\u30e1\u30fc\u30b8\u3092\u76f8\u624b\u30e9\u30a4\u30d5\u306b\u4e0e\u3048\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u3001\u300c<<8135>>\u300d\u306e\u300e\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\u53d6\u308a\u9664\u3044\u3066\u81ea\u5206\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u3001\u4ee3\u308f\u308a\u306b\u3053\u306e\u30ab\u30fc\u30c9\u306b\u4e57\u3063\u3066\u3044\u308b\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\u53d6\u308a\u9664\u304f\u4e8b\u304c\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8085>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u3001\u300c<<8135>>\u300d\u306b\u7f6e\u304b\u308c\u3066\u3044\u308b\u9b54\u529b\u30ab\u30a6\u30f3\u30bf\u30fc\u3060\u3051\u3092\u53d6\u308a\u9664\u3051\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

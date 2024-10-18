@@ -1,0 +1,37 @@
+{
+    "cards": [
+        13964
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If the effects of 2 copies of <<13964>> are applying, players cannot declare an attack unless they send 2 cards from their hand to the Graveyard.",
+            "id": 22047,
+            "question": "There are 2 copies of <<13964>> face-up in my opponent's Spell & Trap Zone, and their effects are applying. In this situation, when I declare an attack with a monster, do I have to send 2 cards from my hand to the Graveyard?",
+            "thisSrc": {
+                "date": "2018-07-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "There are 2 copies of <<13964>> face-up in my opponent's Spell & Trap Zone, and their effects are applying. In this situation, when I declare an attack with a monster, do I have to send 2 cards from my hand to the Graveyard?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "2\u679a\u306e\u300c<<13964>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u306b\u306f\u3001\u304a\u4e92\u3044\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u3001\u624b\u672d\u30922\u679a\u5893\u5730\u3078\u9001\u3089\u308c\u306a\u3051\u308c\u3070\u3001\u653b\u6483\u5ba3\u8a00\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u306a\u304f\u306a\u308a\u307e\u3059\u3002",
+            "id": 22047,
+            "question": "\u76f8\u624b\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b2\u679a\u306e\u300c<<13964>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u305d\u308c\u305e\u308c\u306e\u300e\u2460\uff1a\u304a\u4e92\u3044\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u624b\u672d\u3092\uff11\u679a\u5893\u5730\u3078\u9001\u3089\u306a\u3051\u308c\u3070\u653b\u6483\u5ba3\u8a00\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u653b\u6483\u5ba3\u8a00\u3092\u884c\u3046\u969b\u306b\u306f\u3001\u81ea\u5206\u306e\u624b\u672d\u30922\u679a\u3001\u5893\u5730\u3078\u9001\u3089\u306a\u3051\u308c\u3070\u653b\u6483\u5ba3\u8a00\u3092\u884c\u3048\u306a\u304f\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "2\u679a\u306e\u300c<<13964>>\u300d\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u624b\u672d\u30922\u679a\u5893\u5730\u3078\u9001\u3089\u308c\u306a\u3051\u308c\u3070\u3001\u653b\u6483\u5ba3\u8a00\u304c\u884c\u3048\u306a\u304f\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

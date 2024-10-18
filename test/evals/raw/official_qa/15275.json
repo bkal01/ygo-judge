@@ -1,0 +1,39 @@
+{
+    "cards": [
+        7445,
+        11718,
+        11744
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If your opponent activates <<7445>> and Fusion Summons <<11718>>, they can use your monster which was Special Summoned by the effect of <<11744>> as a \"Frightfur\" Fusion Material monster.",
+            "id": 15275,
+            "question": "If a monster was Special Summoned by the effect of <<11744>>, and then my opponent activates <<7445>>, can the Special Summoned monster still be treated as a \"Frightfur\" monster for my opponent's Fusion Summon?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a monster was Special Summoned by the effect of <<11744>>, and then my opponent activates <<7445>>, can the Special Summoned monster still be treated as a \"Frightfur\" monster for my opponent's Fusion Summon?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u76f8\u624b\u304c\u300c<<7445>>\u300d\u3092\u767a\u52d5\u3057\u300c<<11718>>\u300d\u3092\u878d\u5408\u53ec\u559a\u3059\u308b\u969b\u306b\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c<<11744>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u878d\u5408\u7d20\u6750\u3068\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 15275,
+            "question": "\u300c<<11744>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u76f8\u624b\u306e\u767a\u52d5\u3057\u305f\u300c<<7445>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u878d\u5408\u7d20\u6750\u3068\u306a\u308b\u5834\u5408\u3001\u300e\u3053\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u878d\u5408\u7d20\u6750\u3068\u3059\u308b\u5834\u5408\u3001\u300c\u30c7\u30b9\u30c8\u30fc\u30a4\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u3046\u4e8b\u304c\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11744>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u76f8\u624b\u306e\u300c<<7445>>\u300d\u3067\u878d\u5408\u7d20\u6750\u3068\u306a\u308b\u5834\u5408\u3082\u3001\u300c\u30c7\u30b9\u30c8\u30fc\u30a4\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u3044\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

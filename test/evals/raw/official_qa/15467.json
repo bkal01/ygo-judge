@@ -1,0 +1,38 @@
+{
+    "cards": [
+        7306,
+        11804
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of <<11804>> can be activated at the End of the Battle Phase (= End Step) in which it has performed an attack by the player who controls it.\n\nIn the proposed scenario, since the <<11804>> that battled is treated as an Effect Monster at the End of the Battle Phase, the effect can be activated.",
+            "id": 15467,
+            "question": "During the Battle Phase of this turn, a <<11804>> you control that is treated as a Normal Monster has battled.\n\nIf that <<11804>> is treated as an Effect Monster as a result of <<7306>> being activated during the Battle Step of that turn, when the Battle Phase ends, can the effect of <<11804>> be activated?",
+            "thisSrc": {
+                "date": "2015-05-01",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "During the Battle Phase of this turn, a <<11804>> you control that is treated as a Normal Monster has battled.  If that <<11804>> is treated as an Effect Monster as a result of <<7306>> being activated during the Battle Step of that turn, when the Battle Phase ends, can the effect of <<11804>> be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11804>>\u300d\u306e\u52b9\u679c\u306f\u3001\u81ea\u8eab\u304c\u653b\u6483\u3092\u884c\u3063\u305f\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u7d42\u4e86\u6642\uff08\uff1d\u30a8\u30f3\u30c9\u30b9\u30c6\u30c3\u30d7\uff09\u306b\u3001\u305d\u306e\u300c<<11804>>\u300d\u3092\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3057\u3066\u3044\u308b\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u52b9\u679c\u3067\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u653b\u6483\u3092\u884c\u3063\u305f\u300c<<11804>>\u300d\u304c\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u7d42\u4e86\u6642\u306b\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 15467,
+            "question": "\u3053\u306e\u30bf\u30fc\u30f3\u306e\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u306b\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u6271\u3044\u3067\u5b58\u5728\u3059\u308b\u300c<<11804>>\u300d\u304c\u6226\u95d8\u3092\u884c\u3044\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u30bf\u30fc\u30f3\u306e\u30d0\u30c8\u30eb\u30b9\u30c6\u30c3\u30d7\u306b\u767a\u52d5\u3057\u305f\u300c<<7306>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<11804>>\u300d\u304c\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u6271\u3044\u3068\u306a\u308a\u3001\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u7d42\u4e86\u6642\u3092\u8fce\u3048\u305f\u5834\u5408\u3001\u300c<<11804>>\u300d\u306e\u300e\u25cf\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3092\u884c\u3063\u305f\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u7d42\u4e86\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u30ab\u30fc\u30c9\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u76f8\u624b\u306b\u4e0e\u3048\u308b\u3002\u300c<<11804>>\u300d\u306e\u3053\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u6271\u3044\u306e\u300c<<11804>>\u300d\u304c\u653b\u6483\u3092\u884c\u3063\u305f\u5f8c\u3001\u300c<<7306>>\u300d\u306e\u52b9\u679c\u3067\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u6271\u3044\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u7d42\u4e86\u6642\u306b\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Gemini"
+    ]
+}

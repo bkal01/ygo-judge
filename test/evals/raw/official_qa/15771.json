@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5125,
+        11862
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if you draw 2 or more cards with the effect of <<11862>>, since the effect of drawing only occurs once, you only gain 500 Life Points with the effect of <<5125>>.",
+            "id": 15771,
+            "question": "If I have <<5125>> face-up on my side of the field, and I draw 2 or more cards with the effect of <<11862>>, how many Life Points will I gain?",
+            "thisSrc": {
+                "date": "2015-05-05",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If I have <<5125>> face-up on my side of the field, and I draw 2 or more cards with the effect of <<11862>>, how many Life Points will I gain?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11862>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u30662\u679a\u4ee5\u4e0a\u306e\u30ab\u30fc\u30c9\u3092\u30c9\u30ed\u30fc\u3059\u308b\u5834\u5408\u3067\u3082\u3001\u30c9\u30ed\u30fc\u306e\u51e6\u7406\u306f1\u56de\u306e\u307f\u884c\u308f\u308c\u3066\u3044\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300c<<5125>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u56de\u5fa9\u3067\u304d\u308b\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u306f500\u306e\u307f\u3068\u306a\u308a\u307e\u3059\u3002",
+            "id": 15771,
+            "question": "\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u300c<<5125>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u81ea\u5206\u306e\u767a\u52d5\u3057\u305f\u300c<<11862>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u81ea\u5206\u304c2\u679a\u4ee5\u4e0a\u306e\u30ab\u30fc\u30c9\u3092\u30c9\u30ed\u30fc\u3059\u308b\u5834\u5408\u3001\u300c<<5125>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u81ea\u5206\u306f\u56de\u5fa9\u3059\u308b\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u306f\u3044\u304f\u3064\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11862>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30012\u679a\u4ee5\u4e0a\u306e\u30ab\u30fc\u30c9\u3092\u30c9\u30ed\u30fc\u3059\u308b\u5834\u5408\u3001\u300c<<5125>>\u300d\u306e\u52b9\u679c\u3067\u56de\u5fa9\u3067\u304d\u308b\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u306f\u3044\u304f\u3064\u3067\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

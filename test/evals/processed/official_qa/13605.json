@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4909,
+        13788
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Not being able to Special Summon monsters other than \"Dragunity\" monsters during the turn you activate the \"\u25cf\" effects of Dragunity Legion is part of the effect applied when that effect resolves. If Dragunity Legion is destroyed by a Mystical Space Typhoon that was chained to its effect, the activated \"\u25cf\" effect does not apply, so the part of the effect preventing you from Special Summoning also does not apply.",
+            "id": 13605,
+            "question": "When I activate one of the effects of Dragunity Legion, if my opponent chains Mystical Space Typhoon and destroys that Dragunity Legion, can I still Special Summon monsters other than \"Dragunity\" monsters that turn?",
+            "thisSrc": {
+                "date": "2018-04-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When I activate one of the effects of Dragunity Legion, if my opponent chains Mystical Space Typhoon and destroys that Dragunity Legion, can I still Special Summon monsters other than \"Dragunity\" monsters that turn?",
+            "tlSrc": {
+                "date": "2018-04-20",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300e\u3053\u306e\u30bf\u30fc\u30f3\u3001\u81ea\u5206\u306f\u300c\u30c9\u30e9\u30b0\u30cb\u30c6\u30a3\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304b\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u306f\u3001\u300c<<13788>>\u300d\u306e\u767a\u52d5\u3057\u305f\u52b9\u679c\u306e\u51e6\u7406\u304c\u884c\u308f\u308c\u308b\u969b\u306b\u9069\u7528\u3055\u308c\u308b\u52b9\u679c\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u300c<<13788>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u305f\u300c<<4909>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u300c<<13788>>\u300d\u81ea\u8eab\u304c\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u306b\u306f\u3001\u9078\u629e\u3057\u305f\u300e\u25cf\u300f\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u306e\u3067\u3001\u300e\u3053\u306e\u30bf\u30fc\u30f3\u3001\u81ea\u5206\u306f\u300c\u30c9\u30e9\u30b0\u30cb\u30c6\u30a3\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304b\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u3082\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 13605,
+            "question": "\u81ea\u5206\u304c\u300c<<13788>>\u300d\u306e\u300e\u25cf\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c\u30c9\u30e9\u30b0\u30cb\u30c6\u30a3\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u306e\u5893\u5730\u304b\u3089\u300c\u30c9\u30e9\u30b0\u30cb\u30c6\u30a3\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u3073\u3001\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u5bfe\u8c61\u306e\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u88c5\u5099\u3059\u308b\u300f\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u76f8\u624b\u304c\u300c<<4909>>\u300d\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u300c<<13788>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u300e\u3053\u306e\u30bf\u30fc\u30f3\u3001\u81ea\u5206\u306f\u300c\u30c9\u30e9\u30b0\u30cb\u30c6\u30a3\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304b\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2018-04-20",
+                "type": 0
+            },
+            "title": "\u300c<<13788>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u305f\u300c<<4909>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u300c<<13788>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u81ea\u5206\u306f\u300c\u30c9\u30e9\u30b0\u30cb\u30c6\u30a3\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304b\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u304f\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

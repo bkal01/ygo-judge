@@ -1,0 +1,39 @@
+{
+    "cards": [
+        13292,
+        17367,
+        17369
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, it can be applied.",
+            "id": 23599,
+            "question": "I chained <<13292>> to the activation of my <<17369>> and activated <<17367>> from my Deck to the Field Zone.\n\nIn this case, can the effect of <<17367>> be applied to add an effect to the effect of my <<17369>>?",
+            "thisSrc": {
+                "date": "2022-03-19",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "Can the effect of <<17367>> be applied if it is activated into the Field Zone in a Chain to the activation of <<17369>>?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u3059\u3002",
+            "id": 23599,
+            "question": "\u81ea\u5206\u306e\u300c<<17369>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u81ea\u5206\u304c\u300c<<13292>>\u300d\u3092\u767a\u52d5\u3057\u3001\u30c7\u30c3\u30ad\u304b\u3089\u300c<<17367>>\u300d\u3092\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u3078\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u300c<<17369>>\u300d\u306e\u51e6\u7406\u306b\u300c<<17367>>\u300d\u306e\u300e\u25cf\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u3092\u52a0\u3048\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<17369>>\u300d\u901a\u5e38\u7f60\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<17367>>\u300d\u3092\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300e\u25cf\u300f\u306e\u52b9\u679c\u3092\u52a0\u3048\u3089\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

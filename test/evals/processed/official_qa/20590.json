@@ -1,0 +1,38 @@
+{
+    "cards": [
+        7765,
+        12935
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Intercept is a Counter Trap Card that can be activated when a monster is Tribute Summoned by only Tributing 1 monster. As in this scenario, if Ignis Heat, the True Dracowarrior is Tribute Summoning by Tributing a Continuous Spell/Trap Card instead of a monster, since no monster was Tributed, your opponent cannot activate Intercept.",
+            "id": 20590,
+            "question": "I Tribute Summon a Ignis Heat, the True Dracowarrior using its method of Tributing a Continuous Spell/Trap Card instead of a monster for the Tribute Summon. At this time, can my opponent activate Intercept?",
+            "thisSrc": {
+                "date": "2017-01-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I Tribute Summon a Ignis Heat, the True Dracowarrior using its method of Tributing a Continuous Spell/Trap Card instead of a monster for the Tribute Summon. At this time, can my opponent activate Intercept?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<7765>>\u300d\u306f\u3001\u30e2\u30f3\u30b9\u30bf\u30fc1\u4f53\u306e\u307f\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u306b\u3001\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u30ab\u30a6\u30f3\u30bf\u30fc\u7f60\u30ab\u30fc\u30c9\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u8868\u5074\u8868\u793a\u3067\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3059\u308b\u5834\u5408\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u4ee3\u308f\u308a\u306b\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u6c38\u7d9a\u9b54\u6cd5\u30fb\u6c38\u7d9a\u7f60\u30ab\u30fc\u30c9\u3092\u30ea\u30ea\u30fc\u30b9\u3067\u304d\u308b\u300f\u65b9\u6cd5\u306b\u3088\u3063\u3066\u3001\u6c38\u7d9a\u9b54\u6cd5\u30fb\u6c38\u7d9a\u7f60\u30ab\u30fc\u30c9\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u300c<<12935>>\u300d\u3092\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u5834\u5408\u306b\u306f\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u306b\u6210\u529f\u3057\u3066\u3044\u307e\u305b\u3093\u306e\u3067\u3001\u76f8\u624b\u306f\u300c<<7765>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 20590,
+            "question": "\u300e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u8868\u5074\u8868\u793a\u3067\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3059\u308b\u5834\u5408\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u4ee3\u308f\u308a\u306b\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u6c38\u7d9a\u9b54\u6cd5\u30fb\u6c38\u7d9a\u7f60\u30ab\u30fc\u30c9\u3092\u30ea\u30ea\u30fc\u30b9\u3067\u304d\u308b\u300f\u65b9\u6cd5\u306b\u3088\u3063\u3066\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u4ee3\u308f\u308a\u306b\u6c38\u7d9a\u9b54\u6cd5\u30fb\u6c38\u7d9a\u7f60\u30ab\u30fc\u30c9\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u300c<<12935>>\u300d\u304c\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u306b\u6210\u529f\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u6642\u3001\u76f8\u624b\u306f\u300c<<7765>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u6c38\u7d9a\u9b54\u6cd5\u30fb\u6c38\u7d9a\u7f60\u30ab\u30fc\u30c9\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u3001\u300c<<12935>>\u300d\u304c\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u5834\u5408\u3001\u76f8\u624b\u306f\u300c<<7765>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

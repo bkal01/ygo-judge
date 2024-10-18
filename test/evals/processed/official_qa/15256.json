@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11739
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can. (In that case, you still Special Summon a Pendulum Monster with the same Level as the sent monster's original Level.)",
+            "id": 15256,
+            "question": "Can I activate Pendulum Rising by sending a face-down Defense Position monster I control to the Graveyard?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can I activate Pendulum Rising by sending a face-down Defense Position monster I control to the Graveyard?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11739>>\u300d\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5893\u5730\u3078\u9001\u308b\u4e8b\u3082\u3067\u304d\u307e\u3059\u3002\n\uff08\u305d\u306e\u5834\u5408\u3082\u3001\u901a\u5e38\u901a\u308a\u5893\u5730\u3078\u9001\u3063\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5143\u3005\u306e\u30ec\u30d9\u30eb\u3068\u540c\u3058\u30ec\u30d9\u30eb\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3057\u307e\u3059\u3002\uff09",
+            "id": 15256,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5893\u5730\u3078\u9001\u3063\u3066\u3001\u300c<<11739>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5893\u5730\u3078\u9001\u3063\u3066\u300c<<11739>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

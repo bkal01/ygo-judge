@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11864
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this situation, since you only have 2 cards left in your Deck, you can only choose to draw 1 or 2 cards. (You cannot choose to draw 3 cards.)",
+            "id": 15781,
+            "question": "If my opponent activates <<11864>> while I have 2 cards left in their Deck, can I choose to draw 3 cards?",
+            "thisSrc": {
+                "date": "2015-05-05",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If my opponent activates <<11864>> while I have 2 cards left in their Deck, can I choose to draw 3 cards?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u76f8\u624b\u306e\u767a\u52d5\u3057\u305f\u300c<<11864>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306b\u3088\u3063\u3066\u81ea\u5206\u304c\u30c9\u30ed\u30fc\u3092\u884c\u3046\u5834\u5408\u30011\u679a\uff5e3\u679a\u306e\u7bc4\u56f2\u3067\u30c9\u30ed\u30fc\u53ef\u80fd\u306a\u679a\u6570\u3092\u9078\u3073\u3001\u30c9\u30ed\u30fc\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u306e\u679a\u6570\u304c2\u679a\u3067\u3059\u306e\u3067\u30011\u679a\u307e\u305f\u306f2\u679a\u3092\u9078\u3093\u3067\u30c9\u30ed\u30fc\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\uff083\u679a\u3092\u30c9\u30ed\u30fc\u3059\u308b\u4e8b\u3092\u9078\u3079\u307e\u305b\u3093\u3002\uff09",
+            "id": 15781,
+            "question": "\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u304c2\u679a\u306e\u6642\u306b\u76f8\u624b\u304c\u300c<<11864>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u52b9\u679c\u51e6\u7406\u306e\u969b\u306b\u3001\u81ea\u5206\u306f3\u679a\u30c9\u30ed\u30fc\u3059\u308b\u4e8b\u3092\u9078\u3079\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11864>>\u300d\u306e\u52b9\u679c\u3067\u81ea\u5206\u304c\u30c9\u30ed\u30fc\u3057\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u5834\u5408\u3001\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u306e\u679a\u6570\u3088\u308a\u591a\u304f\u30c9\u30ed\u30fc\u3059\u308b\u4e8b\u3092\u9078\u3079\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

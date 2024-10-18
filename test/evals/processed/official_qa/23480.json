@@ -1,0 +1,38 @@
+{
+    "cards": [
+        14695,
+        15040
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the situation given, that effect of Marincess Great Bubble Reef will be activated twice, and these activations will form a Chain.",
+            "id": 23480,
+            "question": "I have activated two copies of Marincess Cascade, each by banishing one \"Marincess\" Link Monster I control until the next Standby Phase.\n\nIn this situation, how many times will the effect of Marincess Great Bubble Reef, that causes it to gain ATK each time a monster is banished face-up, activate?",
+            "thisSrc": {
+                "date": "2021-12-17",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If monster(s) are banished twice during the same Chain's resolution, how often will the effect of Marincess Great Bubble Reef activate?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u305d\u306e\u5834\u5408\u3001\u300c<<15040>>\u300d\u306e\u300e\u2461\u300f\u306e\u52b9\u679c\u306f\u540c\u4e00\u30c1\u30a7\u30fc\u30f3\u4e0a\u3067\uff12\u56de\u767a\u52d5\u3057\u307e\u3059\u3002",
+            "id": 23480,
+            "question": "\u540c\u4e00\u30c1\u30a7\u30fc\u30f3\u4e0a\u3067\u300c<<14695>>\u300d\u3092\uff12\u56de\u767a\u52d5\u3057\u3001\u305d\u308c\u305e\u308c\u306e\u30b3\u30b9\u30c8\u3068\u3057\u3066\uff11\u4f53\u305a\u3064\u300c\u30de\u30ea\u30f3\u30bb\u30b9\u300d\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u6b21\u306e\u81ea\u5206\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u307e\u3067\u9664\u5916\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u4e00\u9023\u306e\u30c1\u30a7\u30fc\u30f3\u51e6\u7406\u5f8c\u306b\u81ea\u5206\u306e\u300c<<15040>>\u300d\u306e\u300e\u2461\uff1a\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u9664\u5916\u3055\u308c\u308b\u5ea6\u306b\u767a\u52d5\u3059\u308b\u3002\u3053\u306e\u30ab\u30fc\u30c9\u306e\u653b\u6483\u529b\u306f\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u305d\u306e\u9664\u5916\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6570\u00d7\uff16\uff10\uff10\u30a2\u30c3\u30d7\u3059\u308b\u300f\u52b9\u679c\u306f\u4f55\u56de\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u540c\u4e00\u30c1\u30a7\u30fc\u30f3\u4e0a\u3067\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\uff12\u56de\u9664\u5916\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<15040>>\u300d\u306e\u300e\u2461\u300f\u306e\u52b9\u679c\u306f\u4f55\u56de\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Link"
+    ]
+}

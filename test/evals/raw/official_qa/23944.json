@@ -1,0 +1,37 @@
+{
+    "cards": [
+        18539
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "First, you pay half your Life Points to activate <<18539>>, your remaining Life Points will be 63. (When you pay half your Life Points from an odd number of Life Points, the remaining Life Points will then be rounded to a whole number.)\n\nAfterwards, you take battle damage while the\u300eany battle damage you take becomes half your Life Points\u300feffect has been applied. Since you have 63 Life Points, you will take 32 points of battle damage. (The damage dealt will be rounded to a whole number.) You will therefore have 31 Life Points remaining.",
+            "id": 23944,
+            "question": "While I have 125 Life Points, I activate and resolve <<18539>>. Afterwards, I take Battle Damage from a direct attack from a monster with 100 ATK. How do my Life Points change?",
+            "thisSrc": {
+                "date": "2023-02-01",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If I activate <<18539>> with an odd number of Life Points, what happens?",
+            "tlSrc": {
+                "date": "2023-02-01",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u307e\u305a\u3001\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u534a\u5206\u6255\u3063\u3066\u300c<<18539>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u81ea\u5206\u306e\u6b8b\u308a\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u306f\uff16\uff13\u306b\u306a\u308a\u307e\u3059\uff08\u5947\u6570\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u304b\u3089\u534a\u5206\u3092\u6255\u3063\u305f\u5834\u5408\u3001\u6b8b\u308a\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u304c\u6574\u6570\u306b\u306a\u308b\u3088\u3046\u306b\u56db\u6368\u4e94\u5165\u3055\u308c\u307e\u3059\uff09\u3002\n\n\u305d\u306e\u5f8c\u3001\u300e\u81ea\u5206\u304c\u53d7\u3051\u308b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u305d\u306e\u6642\u306e\u81ea\u5206\u306eLP\u306e\u534a\u5206\u306e\u6570\u5024\u306b\u306a\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u72b6\u614b\u3067\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3059\u3002\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u304c\uff16\uff13\u306e\u5834\u5408\u3001\u305d\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306e\u6570\u5024\u306f\uff13\uff12\u306b\u306a\u308a\u307e\u3059\uff08\u30c0\u30e1\u30fc\u30b8\u306e\u6570\u5024\u304c\u6574\u6570\u306b\u306a\u308b\u3088\u3046\u306b\u56db\u6368\u4e94\u5165\u3055\u308c\u307e\u3059\uff09\u3002\u305d\u306e\u305f\u3081\u3001\u6b8b\u308a\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u306f\uff13\uff11\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 23944,
+            "question": "\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u304c\uff11\uff12\uff15\u306e\u72b6\u6cc1\u3067\u300c<<18539>>\u300d\u3092\u767a\u52d5\u30fb\u9069\u7528\u3057\u305f\u306e\u3061\u3001\u653b\u6483\u529b\uff11\uff10\uff10\u306e\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u76f4\u63a5\u653b\u6483\u306b\u3088\u3063\u3066\u81ea\u5206\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u305f\u5834\u5408\u3001\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u306f\u3069\u306e\u3088\u3046\u306b\u5909\u5316\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-02-01",
+                "type": 0
+            },
+            "title": "\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u304c\u5947\u6570\u306e\u72b6\u6cc1\u3067\u300c<<18539>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

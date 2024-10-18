@@ -1,0 +1,42 @@
+{
+    "cards": [
+        5544,
+        7195,
+        7618,
+        12296,
+        12297,
+        12303
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "While the Pendulum Effect of <<12303>> is applying, if non-\"Amorphage\" cards are sent to the Graveyard, they are banished instead of going to the Graveyard.\n\nIn the situation you describe, the name of <<12297>> is treated as \"<<7195>>\" while it is on the field. However, when it is destroyed and added to the face-up Extra Deck as a result, its name is \"<<12297>>\". Therefore, it will not be banished by <<12303>>'s effect.",
+            "id": 18146,
+            "question": "I control an <<12297>>, as well as an <<12296>> whose name is treated as \"<<7195>>\" due to the effect of <<7618>>. Additionally, a <<12303>> in my Pendulum Zone is applying its\u300eWhile you control an \"Amorphage\" monster, any card sent to the Graveyard is banished instead, except \"Amorphage\" cards.\u300feffect.\n\nIf this <<12297>>, whose name is treated as \"<<7195>>\" due to the effect of <<7618>>, is now destroyed by the effect of <<5544>>, will that <<12297>> be banished?",
+            "thisSrc": {
+                "date": "2023-03-28",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If the Pendulum Effect of <<12303>> is applying, and an \"Amorphage\" monster, to which the effect of <<7618>> has been applied, is destroyed, would it be banished?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<12303>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u300c\u30a2\u30e2\u30eb\u30d5\u30a1\u30fc\u30b8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u30ab\u30fc\u30c9\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u969b\u306b\u306f\u3001\u5893\u5730\u3078\u306f\u884c\u304b\u305a\u9664\u5916\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<12297>>\u300d\u306e\u30ab\u30fc\u30c9\u540d\u306f\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u3067\u306f\u300c<<7195>>\u300d\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u307e\u3059\u304c\u3001\u7834\u58ca\u3055\u308c\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u8868\u5074\u8868\u793a\u3067\u52a0\u308f\u308b\u969b\u306b\u306f\u3001\u300c<<12297>>\u300d\u3068\u3057\u3066\u52a0\u308f\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300c<<12303>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306b\u3088\u3063\u3066\u9664\u5916\u3055\u308c\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+            "id": 18146,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<12296>>\u300d\u3068\u300c<<7618>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30ab\u30fc\u30c9\u540d\u304c\u300c<<7195>>\u300d\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u300c<<12297>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u300c<<12303>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c\u30a2\u30e2\u30eb\u30d5\u30a1\u30fc\u30b8\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u300c\u30a2\u30e2\u30eb\u30d5\u30a1\u30fc\u30b8\u300d\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u304a\u4e92\u3044\u306e\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u30ab\u30fc\u30c9\u306f\u5893\u5730\u3078\u306f\u884c\u304b\u305a\u9664\u5916\u3055\u308c\u308b\u300f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u72b6\u614b\u3067\u3001\u30ab\u30fc\u30c9\u540d\u304c\u300c<<7195>>\u300d\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u300c<<12297>>\u300d\u304c\u300c<<5544>>\u300d\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u300c<<12297>>\u300d\u306f\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12303>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u300c\u30d2\u30fc\u30ed\u30fc\uff65\u30de\u30b9\u30af\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u300c\u30a2\u30e2\u30eb\u30d5\u30a1\u30fc\u30b8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Pendulum"
+    ]
+}

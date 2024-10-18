@@ -1,0 +1,37 @@
+{
+    "cards": [
+        9639
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if there are multiple copies of <<9639>> in your hand and/or Graveyard, you can only Special Summon one of them when a face-up Fish, Sea Serpent, or Aqua monster on your field is banished.",
+            "id": 11169,
+            "question": "While I have multiple copies of <<9639>> in my hand and/or Graveyard, a face-up Fish, Sea Serpent, or Aqua monster on my field is banished. Can I now activate the effects of each copy of <<9639>>, and Special Summon them?",
+            "thisSrc": {
+                "date": "2023-02-24",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If there are multiple copies of <<9639>> in my hand, can I activate all of their effects to Special Summon and have them form a Chain?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u624b\u672d\u30fb\u5893\u5730\u306b\u8907\u6570\u4f53\u306e\u300c<<9639>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u308b\u5834\u5408\u3067\u3042\u3063\u3066\u3082\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u9b5a\u65cf\u30fb\u6d77\u7adc\u65cf\u30fb\u6c34\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30b2\u30fc\u30e0\u304b\u3089\u9664\u5916\u3055\u308c\u305f\u30bf\u30a4\u30df\u30f3\u30b0\u306b\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u306e\u306f\u3001\u300c<<9639>>\u300d1\u4f53\u306e\u307f\u3068\u306a\u308a\u307e\u3059\u3002",
+            "id": 11169,
+            "question": "\u300c<<9639>>\u300d\u304c\u3001\u624b\u672d\u30fb\u5893\u5730\u306b\u305d\u308c\u305e\u308c\u8907\u6570\u4f53\u5b58\u5728\u3059\u308b\u6642\u306b\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u9b5a\u65cf\u30fb\u6d77\u7adc\u65cf\u30fb\u6c34\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30b2\u30fc\u30e0\u304b\u3089\u9664\u5916\u3055\u308c\u305f\u30bf\u30a4\u30df\u30f3\u30b0\u306b\u3066\u3001\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u8907\u6570\u4f53\u306e\u300c<<9639>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9639>>\u300d\u304c\u624b\u672d\u30fb\u5893\u5730\u306b\u8907\u6570\u4f53\u5b58\u5728\u3059\u308b\u6642\u3001\u305d\u308c\u305e\u308c\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u3092\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

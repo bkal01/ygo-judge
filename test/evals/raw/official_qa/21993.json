@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5740,
+        13888
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If <<5740>> is activated after the effect of <<13888>> resolves and its effects are negated, the effect that halved its ATK is no longer applied and its ATK returns to its original value, but the Special Summoned Clock Token remains on the field normally.",
+            "id": 21993,
+            "question": "I activated the effect of <<13888>> when it was Normal or Special Summoned, and its ATK was halved and a Clock Token was Special Summoned. Afterward, if <<5740>> is activated and the effects of <<13888>> are negated, what happens to the effect of <<13888>> that was applied?",
+            "thisSrc": {
+                "date": "2018-07-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I activated the effect of <<13888>> when it was Normal or Special Summoned, and its ATK was halved and a Clock Token was Special Summoned. Afterward, if <<5740>> is activated and the effects of <<13888>> are negated, what happens to the effect of <<13888>> that was applied?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<13888>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u9069\u7528\u5f8c\u306b\u3001\u300c<<5740>>\u300d\u304c\u767a\u52d5\u3057\u3001\u300c<<13888>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u306b\u306f\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306e\u653b\u6483\u529b\u3092\u534a\u5206\u306b\u3057\u300f\u306e\u52b9\u679c\u306e\u9069\u7528\u304c\u306a\u304f\u306a\u308a\u3001\u653b\u6483\u529b\u306f\u5143\u306b\u623b\u308a\u307e\u3059\u304c\u3001\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c\u30af\u30ed\u30c3\u30af\u30c8\u30fc\u30af\u30f3\u300d\uff08\u30b5\u30a4\u30d0\u30fc\u30b9\u65cf\u30fb\u98a8\u30fb\u661f\uff11\u30fb\u653b\uff0f\u5b88\uff10\uff09\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u51e6\u7406\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c\u30af\u30ed\u30c3\u30af\u30c8\u30fc\u30af\u30f3\u300d\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u6b8b\u3063\u305f\u307e\u307e\u3068\u306a\u308a\u307e\u3059\u3002",
+            "id": 21993,
+            "question": "\u81ea\u5206\u304c\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3057\u305f\u300c<<13888>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u30ab\u30fc\u30c9\u306e\u653b\u6483\u529b\u3092\u534a\u5206\u306b\u3057\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c\u30af\u30ed\u30c3\u30af\u30c8\u30fc\u30af\u30f3\u300d\uff08\u30b5\u30a4\u30d0\u30fc\u30b9\u65cf\u30fb\u98a8\u30fb\u661f\uff11\u30fb\u653b\uff0f\u5b88\uff10\uff09\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u300c\u30af\u30ed\u30c3\u30af\u30c8\u30fc\u30af\u30f3\u300d\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u5f8c\u3001\u300c<<5740>>\u300d\u304c\u767a\u52d5\u3057\u3001\u300c<<13888>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u3001\u65e2\u306b\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u52b9\u679c\u306e\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<13888>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u9069\u7528\u5f8c\u306b\u3001\u300c<<5740>>\u300d\u304c\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

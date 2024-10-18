@@ -1,0 +1,41 @@
+{
+    "cards": [
+        5560,
+        7687,
+        7696,
+        7734,
+        7743
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, you can apply the part of the effect of De-Synchro that Special Summons all the materials used for the returned Synchro Monster's Synchro Summon, so you can Special Summon Junk Synchron and Junk Warrior from your Graveyard.",
+            "id": 11372,
+            "question": "A Stardust Dragon that was Synchro Summoned using Junk Synchron and Junk Warrior as materials is banished by the effect of Interdimensional Matter Transporter until the End Phase, then returned to the field. Afterward, if I activate De-Synchro targeting that Stardust Dragon, can I Special Summon its materials from the Graveyard?",
+            "thisSrc": {
+                "date": "2019-09-02",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "A Stardust Dragon that was Synchro Summoned using Junk Synchron and Junk Warrior as materials is banished by the effect of Interdimensional Matter Transporter until the End Phase, then returned to the field. Afterward, if I activate De-Synchro targeting that Stardust Dragon, can I Special Summon its materials from the Graveyard?",
+            "tlSrc": {
+                "date": "2019-09-02",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<7743>>\u300d\u306e\u300e\u305d\u306e\u5f8c\u3001EX\u30c7\u30c3\u30ad\u306b\u623b\u3057\u305f\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306eS\u53ec\u559a\u306b\u4f7f\u7528\u3057\u305fS\u7d20\u6750\u30e2\u30f3\u30b9\u30bf\u30fc\u4e00\u7d44\u304c\u81ea\u5206\u306e\u5893\u5730\u306b\u63c3\u3063\u3066\u3044\u308c\u3070\u3001\u305d\u306e\u4e00\u7d44\u3092\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u7279\u6b8a\u53ec\u559a\u3067\u304d\u308b\u300f\u51e6\u7406\u3092\u9069\u7528\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u306e\u3067\u3001\u81ea\u5206\u306e\u5893\u5730\u304b\u3089\u300c<<7687>>\u300d\u3068\u300c<<7696>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 11372,
+            "question": "\u300c<<7687>>\u300d\u3068\u300c<<7696>>\u300d\u3092\u30b7\u30f3\u30af\u30ed\u7d20\u6750\u3068\u3057\u3066\u30b7\u30f3\u30af\u30ed\u53ec\u559a\u304c\u884c\u308f\u308c\u3066\u3044\u308b\u81ea\u5206\u306e\u300c<<7734>>\u300d\u304c\u3001\u300c<<5560>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u81ea\u5206\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u307e\u3067\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u9664\u5916\u3055\u308c\u3001\u30e1\u30a4\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u623b\u308a\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u5f8c\u3001\u305d\u306e\u300c<<7734>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<7743>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300e\u305d\u306e\u5f8c\u3001EX\u30c7\u30c3\u30ad\u306b\u623b\u3057\u305f\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306eS\u53ec\u559a\u306b\u4f7f\u7528\u3057\u305fS\u7d20\u6750\u30e2\u30f3\u30b9\u30bf\u30fc\u4e00\u7d44\u304c\u81ea\u5206\u306e\u5893\u5730\u306b\u63c3\u3063\u3066\u3044\u308c\u3070\u3001\u305d\u306e\u4e00\u7d44\u3092\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u7279\u6b8a\u53ec\u559a\u3067\u304d\u308b\u300f\u51e6\u7406\u3092\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2019-09-02",
+                "type": 0
+            },
+            "title": "\u300c<<5560>>\u300d\u306e\u52b9\u679c\u3067\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u623b\u3063\u305f\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u300c<<7743>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u30b7\u30f3\u30af\u30ed\u7d20\u6750\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

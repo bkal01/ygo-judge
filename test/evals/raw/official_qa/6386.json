@@ -1,0 +1,39 @@
+{
+    "cards": [
+        10570,
+        10660,
+        10666
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "<<10570>> can be activated by targeting a <<10660>> that was Special Summoned by the effect of <<10666>>.\n\nEven in that case, since the restriction of being unable to use the monster Special Summoned by the effect of <<10666>> as an Xyz Material, except for the Xyz Summon of a Beast, Beast-Warrior or Winged-Beast-Type Xyz Monster is applied, only Beast, Beast-Warrior or winged-Beast-Type monsters can be Xyz Summoned.",
+            "id": 6386,
+            "question": "Can <<10570>> be activated targeting a <<10660>> Special Summoned by the effect of <<10666>>?\n\nAlso, if it can be activated, Xyz Monsters of which Type can be Special Summoned?",
+            "thisSrc": {
+                "date": "2015-02-13",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can <<10570>> be activated targeting a <<10660>> Special Summoned by the effect of <<10666>>? Also, if it can be activated, Xyz Monsters of which Type can be Special Summoned?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<10666>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\uff62<<10660>>\uff63\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\uff62<<10570>>\uff63\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3067\u3082\u3001\u300e\u3053\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u306e\u7d20\u6750\u3068\u3059\u308b\u5834\u5408\u3001\u7363\u65cf\u30fb\u7363\u6226\u58eb\u65cf\u30fb\u9ce5\u7363\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u306b\u3057\u304b\u4f7f\u7528\u3067\u304d\u306a\u3044\u300f\u306f\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u7363\u65cf\u30fb\u7363\u6226\u58eb\u65cf\u30fb\u9ce5\u7363\u65cf\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304b\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 6386,
+            "question": "\u300c<<10666>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3057\u305f\u300c<<10660>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<10570>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u767a\u52d5\u3067\u304d\u308b\u5834\u5408\u3001\u3069\u306e\u7a2e\u65cf\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10666>>\u300d\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u300c<<10660>>\u300d\u3092\u5bfe\u8c61\u306b\u3001\u300c<<10570>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "cards": [
+        7858,
+        11243,
+        11539,
+        11707,
+        12106,
+        12849,
+        13203,
+        15570,
+        15593,
+        15775,
+        15851,
+        16228
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If one of the mentioned effects is applying when Gameciel, the Sea Turtle Kaiju's effect resolves,\u300enegate the activation\u300fresolves normally, but\u300ebanish that card\u300fis not applied.\n\nIf you negated the card activation of a Spell/Trap Card, the card will not be banished, and will be sent to the Graveyard. (It is not treated as being sent to the Graveyard by a card effect.)\n\nIf you negated the activation of a Spell/Trap Card's effect that was not a card activation, or the activation of a monster effect, that card will not be banished, and will remain in whatever location it is in.\n\nThis also applies to the following cards'\u300enegate the activation, and if you do, banish it\u300feffects: Myutant Ultimus, Myutant Beast, Shooting Majestic Star Dragon, Nekroz of Areadbhair, Dragunity Knight - Areadbhair, Tri-Gate Wizard, Invoked Mechaba, Infernoid Devyaty, and Infernoid Onuncu.",
+            "id": 10926,
+            "question": "I have activated Gameciel, the Sea Turtle Kaiju's\u300enegate the activation, and if you do, banish that card\u300feffect. If, by the time it resolves, the effect of either Imperial Iron Wall or Artifact Lancea is applying, preventing the card from being banished, what happens?",
+            "thisSrc": {
+                "date": "2023-12-13",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "What happens if a\u300enegate the activation, and if you do, banish it\u300feffect resolves while I cannot banish cards?",
+            "tlSrc": {
+                "date": "2023-12-13",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<12106>>\u300d\u306e\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u300c<<7858>>\u300d\u3084\u300c<<11243>>\u300d\u306e\u2462\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u300e\u305d\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u300f\u306e\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u307e\u3059\u304c\u3001\u300e\u9664\u5916\u3059\u308b\u300f\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\n\n\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u305f\u5834\u5408\u306f\u3001\u305d\u306e\u30ab\u30fc\u30c9\u306f\u9664\u5916\u3055\u308c\u305a\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u307e\u3059\u3002\uff08\u52b9\u679c\u306b\u3088\u3063\u3066\u5893\u5730\u306b\u9001\u3089\u308c\u305f\u6271\u3044\u306b\u306a\u308a\u307e\u305b\u3093\u3002\uff09\n\n\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u3092\u4f34\u308f\u306a\u3044\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u305f\u5834\u5408\u3084\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u305f\u5834\u5408\u306f\u3001\u305d\u306e\u30ab\u30fc\u30c9\u306f\u9664\u5916\u3055\u308c\u305a\u3001\u52b9\u679c\u51e6\u7406\u6642\u306b\u5b58\u5728\u3057\u3066\u3044\u305f\u5834\u6240\u306b\u3068\u3069\u307e\u308a\u307e\u3059\u3002\n\n\u4ee5\u4e0b\u306e\u300e\u305d\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u3092\u6301\u3064\u30ab\u30fc\u30c9\u306b\u3064\u3044\u3066\u3082\u540c\u69d8\u3067\u3059\u3002\n\u300c<<15775>>\u300d\n\u300c<<15570>>\u300d\n\u300c<<16228>>\u300d\n\u300c<<15851>>\u300d\n\u300c<<15593>>\u300d\n\u300c<<13203>>\u300d\n\u300c<<12849>>\u300d\n\u300c<<11707>>\u300d\n\u300c<<11539>>\u300d",
+            "id": 10926,
+            "question": "\u81ea\u5206\u304c\u300c<<12106>>\u300d\u306e\u300e\u2463\uff1a\u76f8\u624b\u304c\u300c<<12106>>\u300d\u4ee5\u5916\u306e\u9b54\u6cd5\u30fb\u7f60\u30fb\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u6642\u3001\u81ea\u5206\u30fb\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u58ca\u7363\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\uff12\u3064\u53d6\u308a\u9664\u3044\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u9664\u5916\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u300c<<7858>>\u300d\u3084\u300c<<11243>>\u300d\u306e\u2462\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-12-13",
+                "type": 0
+            },
+            "title": "\u300e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3057\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u300e\u9664\u5916\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

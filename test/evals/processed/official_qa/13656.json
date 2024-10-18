@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5544,
+        11202
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "You cannot.",
+            "id": 13656,
+            "question": "During the End Phase, I have 9 \"Noble Knight\" monsters in my Graveyard. I activate the \"\u25cf 9:\" effect of Noble Knights of the Round Table, adding 1 \"Noble Knight\" monster in my Graveyard to my hand, so that the number of \"Noble Knight\" monsters in my Graveyard is now 8. During that same End Phase, my opponent uses Raigeki Break to destroy a \"Noble Knight\" monster I control, so that the number of \"Noble Knight\" monsters in my Graveyard is 9 again. Can I activate the \"\u25cf 9:\" effect of Noble Knights of the Round Table again during that same End Phase?",
+            "thisSrc": {
+                "date": "2014-09-17",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "During the End Phase, I have 9 \"Noble Knight\" monsters in my Graveyard. I activate the \"\u25cf 9:\" effect of Noble Knights of the Round Table, adding 1 \"Noble Knight\" monster in my Graveyard to my hand, so that the number of \"Noble Knight\" monsters in my Graveyard is now 8. During that same End Phase, my opponent uses Raigeki Break to destroy a \"Noble Knight\" monster I control, so that the number of \"Noble Knight\" monsters in my Graveyard is 9 again. Can I activate the \"\u25cf 9:\" effect of Noble Knights of the Round Table again during that same End Phase?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 13656,
+            "question": "\u300c<<11202>>\u300d\u306e\u300e\u25cf\uff19\u7a2e\u985e\u4ee5\u4e0a\uff1a\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u8056\u9a0e\u58eb\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u52b9\u679c\u306e\u51e6\u7406\u3092\u884c\u3044\u3001\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u8056\u9a0e\u58eb\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\uff18\u7a2e\u985e\u306b\u306a\u308a\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u540c\u4e00\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u3066\u3001\u300c<<5544>>\u300d\u3092\u767a\u52d5\u3057\u3001\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u8056\u9a0e\u58eb\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u518d\u3073\uff19\u7a2e\u985e\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u300e\u25cf\uff19\u7a2e\u985e\u4ee5\u4e0a\uff1a\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u8056\u9a0e\u58eb\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u52b9\u679c\u3092\u3082\u3046\u4e00\u5ea6\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11202>>\u300d\u306e\u300e\u25cf\u300f\u306e\u52b9\u679c\u3092\u4e00\u5ea6\u767a\u52d5\u3057\u3001\u9069\u7528\u3057\u305f\u5f8c\u306b\u5893\u5730\u306e\u300c\u8056\u9a0e\u58eb\uff63\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6570\u304c\u5909\u5316\u3057\u305f\u5834\u5408\u3001\u518d\u5ea6\u767a\u52d5\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

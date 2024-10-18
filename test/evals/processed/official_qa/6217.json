@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4742,
+        4860,
+        4898
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in the given scenario, Blast Sphere will still be equipped to the attacking monster.\nAdditionally, Blast Sphere's effect will be activated normally during the Standby Phase of the next turn of the opponent of Blast Sphere's owner. Even if control of the monster is restored, Blast Sphere's effect will still destroy the equipped monster at that time, and will inflict damage to the opponent of its owner.",
+            "id": 6217,
+            "question": "If a monster that has had its controller changed by Change of Heart attacks a face-down Defense Position Blast Sphere, will Blast Sphere be equipped to that monster?\n\nIf yes, which player will take damage due to Blast Sphere's effect? Furthermore, during whose Standby Phase will the effect of that Blast Sphere be activated?",
+            "thisSrc": {
+                "date": "2021-05-01",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Please tell me what happens if a monster that has had its controller changed attacks Blast Sphere.",
+            "tlSrc": {
+                "date": "2021-05-01",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u79fb\u3063\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u300c<<4742>>\u300d\u306b\u653b\u6483\u3057\u305f\u5834\u5408\u3067\u3082\u3001\u653b\u6483\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u88c5\u5099\u3055\u308c\u307e\u3059\u3002\n\u307e\u305f\u3001\u300c<<4742>>\u300d\u306e\u52b9\u679c\u304c\u767a\u52d5\u3059\u308b\u30bf\u30a4\u30df\u30f3\u30b0\u306f\u3001\u5143\u3005\u306e\u6301\u3061\u4e3b\u304b\u3089\u898b\u3066\u3001\u6b21\u306e\u76f8\u624b\u30bf\u30fc\u30f3\u306e\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u6642\u306b\u767a\u52d5\u3057\u307e\u3059\u3002\n\u3088\u3063\u3066\u3001\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5f97\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u5143\u306b\u623b\u3063\u3066\u3082\u3001\u300c<<4742>>\u300d\u306e\u5143\u3005\u306e\u6301\u3061\u4e3b\u304b\u3089\u898b\u3066\u3001\u6b21\u306e\u76f8\u624b\u30bf\u30fc\u30f3\u306e\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u3068\u3044\u3046\u30bf\u30a4\u30df\u30f3\u30b0\u3067\u3001\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u3001\u653b\u6483\u529b\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u76f8\u624b\u306b\u4e0e\u3048\u307e\u3059\u3002",
+            "id": 6217,
+            "question": "\u300c<<4860>>\u300d\u3084\u300c<<4898>>\u300d\u7b49\u306b\u3088\u3063\u3066\u3001\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u79fb\u3063\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u300c<<4742>>\u300d\u3092\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5f97\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u88c5\u5099\u3055\u308c\u307e\u3059\u304b\uff1f\n\u88c5\u5099\u3055\u308c\u308b\u5834\u5408\u3001\u300c<<4742>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\u306e\u306f\u3069\u3061\u3089\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3067\u3059\u304b\uff1f\n\u307e\u305f\u3001\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u3001\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u52b9\u679c\u304c\u767a\u52d5\u3059\u308b\u30bf\u30a4\u30df\u30f3\u30b0\u306f\u3001\u3069\u3061\u3089\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u3067\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2021-05-01",
+                "type": 0
+            },
+            "title": "\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u79fb\u3063\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u300c\u30b9\u30d5\u30a3\u30a2\u30fb\u30dc\u30e0\u7403\u4f53\u6642\u9650\u7206\u5f3e\u300d\u306b\u653b\u6483\u3057\u305f\u6642\u306e\u51e6\u7406\u65b9\u6cd5\u3092\u6559\u3048\u3066\u4e0b\u3055\u3044\u3002"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

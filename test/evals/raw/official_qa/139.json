@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4340,
+        4909,
+        5069
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, a replay is triggered.\n\n<<5069>> can be chosen as the new attack target, or you can choose to stop the attack.",
+            "id": 139,
+            "question": "While <<4340>> is on the field, the only monster the opponent controls is a face-up <<5069>>.\n\nIn this case, your monsters cannot target <<5069>> for an attack and can attack the opponent directly, but if <<4340>> is destroyed at the attack declaration by <<4909>>, what happens with that attack?",
+            "thisSrc": {
+                "date": "2014-10-10",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "While <<4340>> is on the field, the only monster the opponent controls is a face-up <<5069>>.  In this case, your monsters cannot target <<5069>> for an attack and can attack the opponent directly, but if <<4340>> is destroyed at the attack declaration by <<4909>>, what happens with that attack?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u6226\u95d8\u306e\u5dfb\u304d\u623b\u3057\u304c\u767a\u751f\u3057\u307e\u3059\u3002\n\n\u300c<<5069>>\u300d\u3092\u653b\u6483\u5bfe\u8c61\u3068\u3057\u3066\u9078\u3073\u76f4\u3059\u304b\u3001\u653b\u6483\u3092\u53d6\u308a\u3084\u3081\u308b\u304b\u3092\u9078\u3076\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 139,
+            "question": "\u30d5\u30a3\u30fc\u30eb\u30c9\u9b54\u6cd5\u300c<<4340>>\u300d\u304c\u767a\u52d5\u3057\u3066\u304a\u308a\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<5069>>\u300d\u306e\u307f\u306e\u72b6\u6cc1\u3067\u3059\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u300c<<5069>>\u300d\u3092\u653b\u6483\u5bfe\u8c61\u306b\u3067\u304d\u305a\u3001\u30d7\u30ec\u30a4\u30e4\u30fc\u3092\u76f4\u63a5\u653b\u6483\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u304c\u3001\u305d\u306e\u653b\u6483\u5ba3\u8a00\u6642\u306b\u300c<<4909>>\u300d\u3067\u300c<<4340>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u653b\u6483\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c<<5069>>\u300d\u3068\u300c<<4340>>\u300d\u304c\u5b58\u5728\u3057\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f4\u63a5\u653b\u6483\u3057\u305f\u969b\u306b\u300c<<4340>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u653b\u6483\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Replay"
+    ]
+}

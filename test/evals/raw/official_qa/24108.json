@@ -1,0 +1,72 @@
+{
+    "cards": [
+        4340,
+        4837,
+        5012,
+        7184,
+        10355,
+        10713,
+        10928,
+        11295,
+        11296,
+        11660,
+        11880,
+        12086,
+        12196,
+        12222,
+        12234,
+        12325,
+        12541,
+        12548,
+        12698,
+        12777,
+        12938,
+        12939,
+        12955,
+        13140,
+        13163,
+        13176,
+        13456,
+        13852,
+        14751,
+        16943,
+        17160,
+        18188,
+        19468,
+        19500,
+        19518,
+        19936
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "They will remain in Attack Position.\n\n~~~\n\nSimilarly, if you Summon one of the following monsters in Attack Position while the effect of <<13163>> is applying, they will remain in Attack Position:\n\u25cf <<7184>>\n\u25cf <<12541>>\n\u25cf <<11295>>\n\u25cf <<10928>>\n\u25cf <<5012>>\n\u25cf <<12234>>\n\u25cf <<12777>>\n\u25cf <<12955>>\n\u25cf <<11660>>\n\u25cf <<13852>>\n\u25cf <<19936>>\n\u25cf <<13456>>\n\u25cf <<12086>>\n\u25cf <<12196>>\n\u25cf <<11880>>\n\u25cf <<10713>>\n\u25cf <<10355>>\n\u25cf <<12325>>\n\u25cf <<19500>>\n\u25cf <<12698>> (if it was Fusion Summoned with <<4837>>)\n\u25cf <<13176>> (if <<4340>> is on the field)\n\u25cf <<19468>> (if it was Special Summoned by <<19518>>)\n\u25cf <<16943>> (if it was Fusion Summoned)\n\u25cf <<14751>> (if it is in the Extra Monster Zone)\n\u25cf <<12548>> (if you control no other cards)\n\u25cf <<11296>> (if it has 3+ materials)\n\u25cf <<12222>> (if it has 4+ materials with different names)\n\u25cf <<18188>> (with <<9729>> as material)\n\u25cf <<13140>> (with a \"Raidraptor\" Xyz Monster as material)",
+            "id": 24108,
+            "question": "If the\u300echange all face-up monsters on the field to Defense Position\u300feffect of <<13163>>, or of <<17160>>, is applying, what happens if a <<12938>>, or a <<12939>>, is Tribute Summoned in face-up Attack Position by Tributing a monster?",
+            "thisSrc": {
+                "date": "2024-10-10",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If a monster, which is\u300eunaffected by monster effects\u300f, is Summoned in Attack Position while <<13163>>'s effect is applying, what happens?",
+            "tlSrc": {
+                "date": "2024-10-10",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u653b\u6483\u8868\u793a\u306e\u307e\u307e\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u300c<<13163>>\u300d\u306e\u2461\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u72b6\u6cc1\u3067\u3001\u4ee5\u4e0b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u653b\u6483\u8868\u793a\u3067\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5834\u5408\u306b\u3064\u3044\u3066\u3082\u653b\u6483\u8868\u793a\u306e\u307e\u307e\u3068\u306a\u308a\u307e\u3059\u3002\n\u300c<<7184>>\u300d\n\u300c<<12541>>\u300d\n\u300c<<11295>>\u300d\n\u300c<<10928>>\u300d\n\u300c<<5012>>\u300d\n\u300c<<12234>>\u300d\n\u300c<<12777>>\u300d\n\u300c<<12955>>\u300d\n\u300c<<11660>>\u300d\n\u300c<<13852>>\u300d\n\u300c<<19936>>\u300d\n\u300c<<13456>>\u300d\n\u300c<<12086>>\u300d\n\u300c<<12196>>\u300d\n\u300c<<11880>>\u300d\n\u300c<<10713>>\u300d\n\u300c<<10355>>\u300d\n\u300c<<12325>>\u300d\n\u300c<<19500>>\u300d\n\u300c<<4837>>\u300d\u306e\u52b9\u679c\u3067\u878d\u5408\u53ec\u559a\u3057\u305f\u300c<<12698>>\u300d\n\u300c<<4340>>\u300d\u304c\u5b58\u5728\u3059\u308b\u72b6\u6cc1\u3067\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3057\u305f\u300c<<13176>>\u300d\n\u300c<<19518>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u300c<<19468>>\u300d\n\u878d\u5408\u53ec\u559a\u3057\u305f\u300c<<16943>>\u300d\n\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u7279\u6b8a\u53ec\u559a\u3057\u305f\u300c<<14751>>\u300d\n\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3057\u306a\u3044\u72b6\u6cc1\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u300c<<12548>>\u300d\n\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u304c\uff14\u3064\u4ee5\u4e0a\u306e\u300c<<11296>>\u300d\n\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u304c\uff14\u7a2e\u985e\u4ee5\u4e0a\u306e\u300c<<12222>>\u300d\n\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u304c\u300c<<18188>>\u300d\u306e\u300c<<18188>>\u300d\n\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u304c\u300cRR\u300d\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u306e\u300c<<13140>>\u300d",
+            "id": 24108,
+            "question": "\u300c<<13163>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b88\u5099\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u5b88\u5099\u8868\u793a\u306b\u306a\u308a\u3001\u5b88\u5099\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u767a\u52d5\u3057\u305f\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u6c38\u7d9a\u52b9\u679c\u3084\u3001\u300c<<17160>>\u300d\u306e\u300e\u2460\uff1a\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u5b88\u5099\u8868\u793a\u306b\u306a\u308b\u300f\u6c38\u7d9a\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u72b6\u6cc1\u3067\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u653b\u6483\u8868\u793a\u3067\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u300c<<12938>>\u300d\u3084\u300c<<12939>>\u300d\u306e\u8868\u793a\u5f62\u5f0f\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-10-10",
+                "type": 0
+            },
+            "title": "\u300c<<13163>>\u300d\u306e\u2461\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u72b6\u6cc1\u3067\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u653b\u6483\u8868\u793a\u3067\u51fa\u3057\u305f\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

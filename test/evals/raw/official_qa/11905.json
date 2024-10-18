@@ -1,0 +1,38 @@
+{
+    "cards": [
+        8213,
+        9967
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If <<8213>> is activated after the effect of <<9967>> has already been applied, and the effects of <<9967>> are negated, all other face-up cards on the field will still have their effects negated until the end of this turn. (Applying the effect of <<8213>> will not return the effects of the other cards to a state in which they are not negated.)",
+            "id": 11905,
+            "question": "The effect of <<9967>> that negates the effects of all other cards on the field has been applied this turn. Then, if <<8213>> is activated, negating the effects of <<9967>>, will the effects of the other face-up cards on the field remain negated?",
+            "thisSrc": {
+                "date": "2016-01-28",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "The effect of <<9967>> that negates the effects of all other cards on the field has been applied this turn. Then, if <<8213>> is activated, negating the effects of <<9967>>, will the effects of the other face-up cards on the field remain negated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<9967>>\u300d\u306e\u52b9\u679c\u9069\u7528\u5f8c\u306b\u767a\u52d5\u3057\u305f\u300c<<8213>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<9967>>\u300d\u81ea\u8eab\u306e\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u3067\u3082\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u6642\u307e\u3067\u7121\u52b9\u306b\u3059\u308b\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u305f\u307e\u307e\u3068\u306a\u308a\u307e\u3059\u3002\n\uff08\u300c<<8213>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u4e8b\u306b\u3088\u3063\u3066\u3001\u4ed6\u306e\u8868\u5074\u8868\u793a\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u3063\u3066\u3044\u306a\u3044\u72b6\u614b\u306b\u623b\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002\uff09",
+            "id": 11905,
+            "question": "\u300c<<9967>>\u300d\u306e\u300e\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u6642\u307e\u3067\u7121\u52b9\u306b\u3059\u308b\u300f\u52b9\u679c\u304c\u65e2\u306b\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30bf\u30fc\u30f3\u3067\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u300c<<8213>>\u300d\u306e\u300e\u2460\uff1a\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u653b\u6483\u529b\u304c\uff14\uff10\uff10\u30a2\u30c3\u30d7\u3057\u3001\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u300c<<9967>>\u300d\u306e\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u4ed6\u306e\u8868\u5074\u8868\u793a\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9967>>\u300d\u306e\u52b9\u679c\u9069\u7528\u5f8c\u3001\u300c<<9967>>\u300d\u81ea\u8eab\u306e\u52b9\u679c\u304c\u300c<<8213>>\u300d\u3067\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u3001\u4ed6\u306e\u8868\u5074\u8868\u793a\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

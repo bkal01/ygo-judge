@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4007,
+        5533,
+        13845
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can. However, if <<5533>>'s effect is applying when <<13845>> resolves, and there is at least one card in your Graveyard, since <<13845>> is an effect that\u300eapplies to cards in the Graveyard,\u300fits effect will be negated by <<5533>>'s.",
+            "id": 12596,
+            "question": "<<5533>> is face-up in my Field Zone. Can I activate <<13845>>?",
+            "thisSrc": {
+                "date": "2024-01-25",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can I activate <<13845>> if the effect of <<5533>> is applying?",
+            "tlSrc": {
+                "date": "2024-01-25",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\u306a\u304a\u3001\u305d\u306e\u51e6\u7406\u6642\u306b\u300c<<5533>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u304a\u308a\u3001\u81ea\u5206\u306e\u5893\u5730\u306b\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u300c<<13845>>\u300d\u306e\u52b9\u679c\u306f\u300e\u5893\u5730\u306e\u30ab\u30fc\u30c9\u3078\u53ca\u3076\u52b9\u679c\u300f\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u305d\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u307e\u3059\u3002",
+            "id": 12596,
+            "question": "\u81ea\u5206\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u300c<<5533>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306f\u300c<<13845>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u3092\u542b\u3080\u3001\u81ea\u5206\u306e\u624b\u672d\u30fb\u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u5893\u5730\u306e\u30ab\u30fc\u30c9\u3092\u5168\u3066\u88cf\u5074\u8868\u793a\u3067\u9664\u5916\u3057\u3001\u30c7\u30c3\u30ad\u304b\u3089\u300c<<4007>>\u300d\u3092\uff13\u4f53\u307e\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-01-25",
+                "type": 0
+            },
+            "title": "\u300c<<5533>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u81ea\u5206\u306f\u300c<<13845>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4262,
+        11820
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, since the effect of <<11820>> is applied immediately as a result of Damage Calculation being performed and your Life Points becoming higher, the effect of <<4262>> that activates After Damage Calculation does not activate.",
+            "id": 15484,
+            "question": "An <<11820>> you control attacked a <<4262>> the opponent controls, and as a result of that attack battle damage was inflicted and the opponent's Life Points became lower than yours.\n\nIn this case, does the effect of <<4262>> activate?",
+            "thisSrc": {
+                "date": "2015-05-01",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "An <<11820>> you control attacked a <<4262>> the opponent controls, and as a result of that attack battle damage was inflicted and the opponent's Life Points became lower than yours. In this case, does the effect of <<4262>> activate?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u3092\u884c\u3063\u305f\u4e8b\u3067\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u304c\u591a\u304f\u306a\u3063\u305f\u4e8b\u306b\u3088\u308a\u3001\u300c<<11820>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u306eLP\u304c\u76f8\u624b\u3088\u308a\u591a\u304f\u3001\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u81ea\u5206\u306e\u690d\u7269\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u653b\u6483\u3059\u308b\u5834\u5408\u3001\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u7d42\u4e86\u6642\u307e\u3067\u76f8\u624b\u306f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u305f\u3060\u3061\u306b\u9069\u7528\u3055\u308c\u307e\u3059\u306e\u3067\u3001\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u5f8c\u306b\u767a\u52d5\u3059\u308b\u76f8\u624b\u306e\u300c<<4262>>\u300d\u306e\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u305b\u3093\u3002",
+            "id": 15484,
+            "question": "\u300c<<11820>>\u300d\u304c\u76f8\u624b\u306e\u300c<<4262>>\u300d\u3092\u653b\u6483\u3057\u3001\u305d\u306e\u653b\u6483\u3067\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u305f\u4e8b\u306b\u3088\u3063\u3066\u3001\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u304c\u76f8\u624b\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3088\u308a\u3082\u591a\u3044\u72b6\u614b\u306b\u306a\u308a\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u300c<<4262>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3063\u305f\u6642\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3053\u306e\u30ab\u30fc\u30c9\u3092\u30b2\u30fc\u30e0\u304b\u3089\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11820>>\u300d\u304c\u76f8\u624b\u306e\u300c<<4262>>\u300d\u3092\u653b\u6483\u3057\u3001\u305d\u306e\u7d50\u679c\u3001\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u304c\u76f8\u624b\u3088\u308a\u591a\u304f\u306a\u3063\u305f\u5834\u5408\u3001\u300c<<4262>>\u300d\u306e\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

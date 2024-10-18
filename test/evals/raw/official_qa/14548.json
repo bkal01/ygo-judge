@@ -1,0 +1,38 @@
+{
+    "cards": [
+        6747,
+        11640
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Because <<11640>> is a Machine-Type \"roid\" monster, you can activate <<6747>> in this scenario and draw 2 cards.",
+            "id": 14548,
+            "question": "If the only monster that exists in my Monster Zone is a face-up <<11640>>, when my opponent's monster declares an attack, can I activate <<6747>>?",
+            "thisSrc": {
+                "date": "2014-12-14",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the only monster that exists in my Monster Zone is a face-up <<11640>>, when my opponent's monster declares an attack, can I activate <<6747>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11640>>\u300d\u306f\u3001\u300c\u30ed\u30a4\u30c9\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u6a5f\u68b0\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u306e\u3067\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3067\u3042\u308c\u3070\u300c<<6747>>\u300d\u3092\u767a\u52d5\u3057\u3001\u30c9\u30ed\u30fc\u3059\u308b\u51e6\u7406\u3092\u9069\u7528\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 14548,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u8868\u5074\u8868\u793a\u306e\u300c<<11640>>\u300d\uff11\u4f53\u306e\u307f\u306e\u5834\u5408\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u5ba3\u8a00\u6642\u306b\u300c<<6747>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u300c<<11640>>\u300d\u306e\u307f\u306e\u5834\u5408\u3001\u300c<<6747>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

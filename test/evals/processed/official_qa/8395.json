@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6821,
+        8213
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Forbidden Chalice is activated by targeting a Light and Darkness Dragon with ATK 800 / DEF 400, and the effect of Light and Darkness Dragon is activated in response. Since its DEF cannot be lowered by exactly 500, the activation of Forbidden Chalice is not negated.\nAfterwards, Forbidden Chalice resolves, and the effects of Light and Darkness Dragon are negated. Its ATK returns to 2800 and its DEF returns to 2400. Its ATK is then further increased by 400.\nAfter the effect of Forbidden Chalice stops applying, Light and Darkness Dragon's ATK returns to 2800, and its DEF returns to 2400.",
+            "id": 8395,
+            "question": "If Forbidden Chalice is applied to a Light and Darkness Dragon whose ATK and DEF have been reduced by its own effect, what happens to that reduced ATK and DEF?",
+            "thisSrc": {
+                "date": "2021-02-01",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If Forbidden Chalice is applied to Light and Darkness Dragon, how do its ATK and DEF change?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u653b\u6483\u529b800\u30fb\u5b88\u5099\u529b400\u306b\u306a\u3063\u3066\u3044\u308b\u300c<<6821>>\u300d\u3092\u5bfe\u8c61\u306b\u9078\u629e\u3057\u3066\u300c<<8213>>\u300d\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u3001\u300c<<6821>>\u300d\u306e\u52b9\u679c\u304c\u767a\u52d5\u3057\u307e\u3059\u304c\u3001\u5b88\u5099\u529b\u3092500\u30dd\u30a4\u30f3\u30c8\u4e0b\u3052\u308b\u4e8b\u304c\u3067\u304d\u306a\u3044\u305f\u3081\u3001\u300c<<8213>>\u300d\u306e\u767a\u52d5\u3092\u7121\u52b9\u306b\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u3002\n\u307e\u305f\u3001\u305d\u306e\u5f8c\u300c<<8213>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u3092\u884c\u3046\u5834\u5408\u3001\u300c<<6821>>\u300d\u306e\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u308b\u4e8b\u306b\u3088\u3063\u3066\u3001\u653b\u6483\u529b2800\u30fb\u5b88\u5099\u529b2400\u306b\u623b\u308a\u3001\u653b\u6483\u529b\u304c400\u30dd\u30a4\u30f3\u30c8\u30a2\u30c3\u30d7\u3057\u307e\u3059\u3002\n\u306a\u304a\u3001\u300c<<8213>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u306a\u304f\u306a\u308b\u5834\u5408\u3001\u300c<<6821>>\u300d\u306e\u653b\u6483\u529b\u306f2800\u3001\u5b88\u5099\u529b\u306f2400\u306b\u623b\u308a\u307e\u3059\u3002",
+            "id": 8395,
+            "question": "\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u304c\u4e0b\u304c\u3063\u3066\u3044\u308b\u300c<<6821>>\u300d\u304c\u3001\u300c<<8213>>\u300d\u306e\u52b9\u679c\u3092\u53d7\u3051\u308b\u5834\u5408\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306e\u6570\u5024\u306f\u3001\u3069\u306e\u3088\u3046\u306b\u5909\u5316\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<6821>>\u300d\u304c\u3001\u300c<<8213>>\u300d\u306e\u52b9\u679c\u3092\u53d7\u3051\u308b\u5834\u5408\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306e\u6570\u5024\u306f\u3069\u306e\u3088\u3046\u306b\u5909\u5316\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Spell"
+    ]
+}

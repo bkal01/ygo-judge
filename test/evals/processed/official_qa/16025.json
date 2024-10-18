@@ -1,0 +1,38 @@
+{
+    "cards": [
+        6682,
+        11880
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If Timaeus the Knight of Destiny is destroyed by battle, its Continuous Effect which makes it unaffected by other card effects will no longer apply, so it will be banished instead of being sent to the Graveyard. Note that even in this case, its effect that Special Summons 3 \"Legendary Knight\" monsters can still be activated.",
+            "id": 16025,
+            "question": "If Timaeus the Knight of Destiny is destroyed by battle while the effect of Macro Cosmos is applying, is Timaeus the Knight of Destiny banished? Also, can its effect that Special Summons 3 \"Legendary Knight\" monsters be activated?",
+            "thisSrc": {
+                "date": "2015-05-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Timaeus the Knight of Destiny is destroyed by battle while the effect of Macro Cosmos is applying, is Timaeus the Knight of Destiny banished? Also, can its effect that Special Summons 3 \"Legendary Knight\" monsters be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11880>>\u300d\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u6c38\u7d9a\u52b9\u679c\u3067\u3042\u308b\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306f\u4ed6\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300f\u52b9\u679c\u306e\u9069\u7528\u306f\u306a\u304f\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u300c<<11880>>\u300d\u306f\u5893\u5730\u3078\u9001\u3089\u308c\u305a\u3001\u9664\u5916\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u306a\u304a\u3001\u305d\u306e\u5834\u5408\u3067\u3082\u3001\u300c<<11880>>\u300d\u306e\u300e\u81ea\u5206\u306e\u624b\u672d\u30fb\u30c7\u30c3\u30ad\u30fb\u5893\u5730\u306e\u300c\u4f1d\u8aac\u306e\u9a0e\u58eb\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff13\u4f53\u3092\u9078\u3073\u3001\u53ec\u559a\u6761\u4ef6\u3092\u7121\u8996\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 16025,
+            "question": "\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<11880>>\u300d\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u300c<<11880>>\u300d\u306f\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<11880>>\u300d\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u300c<<11880>>\u300d\u306e\u300e\u2462\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u306e\u624b\u672d\u30fb\u30c7\u30c3\u30ad\u30fb\u5893\u5730\u306e\u300c\u4f1d\u8aac\u306e\u9a0e\u58eb\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff13\u4f53\u3092\u9078\u3073\u3001\u53ec\u559a\u6761\u4ef6\u3092\u7121\u8996\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<11880>>\u300d\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

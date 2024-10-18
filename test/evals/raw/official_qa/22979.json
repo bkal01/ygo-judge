@@ -1,0 +1,39 @@
+{
+    "cards": [
+        15118,
+        15121,
+        15122
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, since you Tributed Plant monsters to activate both <<15121>> and <<15122>>, the effect of <<15118>> will activate twice in a new Chain afterward, as Chain Link 1 and Chain Link 2. In this case, since 2 monsters were Tributed, <<15118>> gains 400 ATK.",
+            "id": 22979,
+            "question": "I activate <<15121>> and <<15122>> in the same Chain, and a Tribute a Plant monster to activate each card. In this case, how does the second effect of <<15118>> activate?",
+            "thisSrc": {
+                "date": "2020-03-15",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I activate <<15121>> and <<15122>> in the same Chain, and a Tribute a Plant monster to activate each card. In this case, how does the second effect of <<15118>> activate?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<15122>>\u300d\u3001\u300c<<15121>>\u300d\u3001\u305d\u308c\u305e\u308c\u306e\u767a\u52d5\u306e\u969b\u306b\u690d\u7269\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u4e00\u9023\u306e\u30c1\u30a7\u30fc\u30f3\u51e6\u7406\u5f8c\u306b\u3001\u81ea\u5206\u306e\u300c<<15118>>\u300d\u306e\u300e\u2461\u300f\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\uff12\u5ea6\u3001\u30c1\u30a7\u30fc\u30f3\uff11\u3068\u30c1\u30a7\u30fc\u30f3\uff12\u306b\u3066\u767a\u52d5\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u3053\u306e\u5834\u5408\u3001\uff12\u4f53\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u300c<<15118>>\u300d\u306e\u653b\u6483\u529b\u306f\uff14\uff10\uff10\u30a2\u30c3\u30d7\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 22979,
+            "question": "\u81ea\u5206\u304c\u300c<<15122>>\u300d\u3068\u300c<<15121>>\u300d\u3092\u30c1\u30a7\u30fc\u30f3\u306b\u3066\u767a\u52d5\u3057\u3001\u305d\u308c\u305e\u308c\u306e\u767a\u52d5\u306e\u969b\u306b\u690d\u7269\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u81ea\u5206\u306e\u300c<<15118>>\u300d\u306e\u300e\u2461\u300f\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3069\u306e\u3088\u3046\u306b\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u540c\u4e00\u30c1\u30a7\u30fc\u30f3\u4e0a\u3067\u305d\u308c\u305e\u308c\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<15118>>\u300d\u306e\u300e\u2461\u300f\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3069\u306e\u3088\u3046\u306b\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

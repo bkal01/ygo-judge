@@ -1,0 +1,38 @@
+{
+    "cards": [
+        6909,
+        11083
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, it can.\n\nHowever, only the targeted monster can be changed by <<11083>>'s effect, the chosen Monster Zone cannot be.\n\nFurthermore, when choosing a new target due to <<11083>>'s effect, you need to choose a monster that is an appropriate target for whatever targeting criteria <<6909>> has. Therefore, you must choose a monster that is adjacent to the chosen Monster Zone as the target.",
+            "id": 23651,
+            "question": "Can the effect of <<11083>> be activated in response to the activation of <<6909>>?",
+            "thisSrc": {
+                "date": "2022-05-02",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can the effect of <<11083>> be activated in response to the activation of <<6909>>?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\n\n\u305f\u3060\u3057\u3001\u300c<<11083>>\u300d\u3067\u79fb\u3057\u66ff\u3048\u3067\u304d\u308b\u306e\u306f\u5bfe\u8c61\u306e\u307f\u3067\u3059\u306e\u3067\u3001\u300c<<6909>>\u300d\u306e\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u79fb\u3057\u66ff\u3048\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u3059\u304c\u3001\u300c<<6909>>\u300d\u3067\u6307\u5b9a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u3092\u5909\u66f4\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u307e\u305f\u3001\u300c<<11083>>\u300d\u306e\u52b9\u679c\u3067\u5bfe\u8c61\u3092\u79fb\u3057\u66ff\u3048\u308b\u969b\u3001\u65b0\u3057\u3044\u5bfe\u8c61\u306e\u9078\u3073\u65b9\u306f\u300c<<6909>>\u300d\u306e\u5bfe\u8c61\u306e\u9078\u3073\u65b9\u3068\u3057\u3066\u9069\u5207\u306a\u3082\u306e\u3067\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002\u3064\u307e\u308a\u3001\u6307\u5b9a\u3057\u305f\u30be\u30fc\u30f3\u306e\u96a3\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u3057\u304b\u5bfe\u8c61\u3092\u79fb\u3057\u66ff\u3048\u3089\u308c\u307e\u305b\u3093\u3002",
+            "id": 23651,
+            "question": "\u300c<<6909>>\u300d\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<11083>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<6909>>\u300d\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<11083>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

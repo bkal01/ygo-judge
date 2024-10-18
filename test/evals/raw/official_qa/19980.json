@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4886,
+        12676
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "As in this scenario, even if the effect of <<4886>> is applying so that your opponent takes no battle damage from your monsters and their monsters cannot be destroyed by battle, since <<12676>> attacked, its effect that destroys 1 Spell/Trap Card on the field can be activated at the end of the Damage Step.",
+            "id": 19980,
+            "question": "During this turn, the effect of my opponent's <<4886>> is applying. In this situation, if my <<12676>> attacks but no battle damage is inflicted and no monsters are destroyed, can the effect of <<12676>> that destroys 1 Spell/Trap Card on the field be activated at the end of the Damage Step?",
+            "thisSrc": {
+                "date": "2016-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "During this turn, the effect of my opponent's <<4886>> is applying. In this situation, if my <<12676>> attacks but no battle damage is inflicted and no monsters are destroyed, can the effect of <<12676>> that destroys 1 Spell/Trap Card on the field be activated at the end of the Damage Step?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u76f8\u624b\u306e\u767a\u52d5\u3057\u305f\u300c<<4886>>\u300d\u306e\u52b9\u679c\u304c\u65e2\u306b\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u7b49\u3067\u3001\u76f8\u624b\u306b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u304c\u4e0e\u3048\u3089\u308c\u306a\u3044\u5834\u5408\u3084\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u306a\u3044\u5834\u5408\u3067\u3082\u3001\u81ea\u5206\u306e\u300c<<12676>>\u300d\u304c\u653b\u6483\u3092\u884c\u3063\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u7d42\u4e86\u6642\u306b\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 19980,
+            "question": "\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306b\u3001\u76f8\u624b\u306e\u767a\u52d5\u3057\u305f\u300c<<4886>>\u300d\u306e\u300e\u3053\u306e\u30bf\u30fc\u30f3\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u304b\u3089\u53d7\u3051\u308b\u5168\u3066\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\uff10\u306b\u306a\u308a\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u6226\u95d8\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306e\u300c<<12676>>\u300d\u304c\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u76f8\u624b\u306b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u4e0e\u3048\u3089\u308c\u305a\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u308b\u4e8b\u3082\u3042\u308a\u307e\u305b\u3093\u304c\u3001\u3053\u306e\u5834\u5408\u3001\u300c<<12676>>\u300d\u306e\u300e\u2463\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u653b\u6483\u3057\u305f\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u7d42\u4e86\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u7834\u58ca\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u7834\u58ca\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3001\u76f8\u624b\u306e\u767a\u52d5\u3057\u305f\u300c<<4886>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<12676>>\u300d\u304c\u653b\u6483\u3057\u305f\u5834\u5408\u306b\u3082\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Damage Step"
+    ]
+}

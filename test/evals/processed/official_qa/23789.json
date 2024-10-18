@@ -1,0 +1,40 @@
+{
+    "cards": [
+        7652,
+        11257,
+        16736,
+        17427
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can. If you do, the effect resolves normally. (This is treated as you having performed a single Special Summon, which Summoned two monsters at the same time.)\nThe same applies to a situation where you can only Special Summon once due to Summon Limit's effect.",
+            "id": 23789,
+            "question": "El Shaddoll Winda is applying its effect, prevent each player from Special Summoning more than once per turn.\n\nIn this situation, can I activate the effect of Exosister Martha that Special Summons itself from the hand, and Special Summons Exosister Elis from the Deck? If I can, what happens when it resolves?",
+            "thisSrc": {
+                "date": "2022-06-26",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can I activate Exosister Martha's effect while El Shaddoll Winda is applying its effect?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\u305d\u306e\u5834\u5408\u3001\u300e\u624b\u672d\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u7279\u6b8a\u53ec\u559a\u3057\u3001\u30c7\u30c3\u30ad\u304b\u3089\u300c<<16736>>\u300d\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u51e6\u7406\u304c\u901a\u5e38\u901a\u308a\u884c\u308f\u308c\u307e\u3059\u3002\uff08\u7279\u6b8a\u53ec\u559a\u306e\u56de\u6570\u306f\uff11\u5ea6\u3068\u3057\u3066\u6271\u308f\u308c\u3001\uff12\u4f53\u3092\u540c\u6642\u306b\u7279\u6b8a\u53ec\u559a\u3059\u308b\u51e6\u7406\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u3059\u3002\uff09\n\u306a\u304a\u3001\u300c<<7652>>\u300d\u306e\u52b9\u679c\u306b\u3088\u308a\u3042\u3068\uff11\u5ea6\u3057\u304b\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u72b6\u6cc1\u3067\u3082\u540c\u69d8\u3067\u3059\u3002",
+            "id": 23789,
+            "question": "\u300c<<11257>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u305d\u306e\u9593\u306f\u304a\u4e92\u3044\u306b\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3057\u304b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u300c<<17427>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u307e\u305f\u306fX\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u307f\u306e\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u624b\u672d\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u7279\u6b8a\u53ec\u559a\u3057\u3001\u30c7\u30c3\u30ad\u304b\u3089\u300c<<16736>>\u300d\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u767a\u52d5\u3067\u304d\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<11257>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u72b6\u6cc1\u3067\u3001\u300c<<17427>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

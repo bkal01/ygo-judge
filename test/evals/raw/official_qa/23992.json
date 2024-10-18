@@ -1,0 +1,40 @@
+{
+    "cards": [
+        6682,
+        6707,
+        14740,
+        16194
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the situation you describe, <<16194>> was banished by a card effect. Therefore, its \u2460st effect can be activated. (Even if the original reason for sending <<16194>> to the Graveyard was it being destroyed by battle, or you paying a cost, if it is banished by the effect of <<6682>>, <<6707>>, or <<14740>>, it was banished by a card effect.)",
+            "id": 23992,
+            "question": "My <<16194>> is sent to my Graveyard, but it is instead banished due to the\u300eany (cards/monsters) sent to the Graveyard are banished instead\u300feffect of my opponent's <<6682>>, <<6707>> or <<14740>>. Can I now activate <<16194>>'s \u2460st effect, which can be activated if it is banished by a card effect?",
+            "thisSrc": {
+                "date": "2023-07-15",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If a <<16194>> that is sent to my Graveyard is banished instead due to a\u300eany card sent to the Graveyard is banished instead\u300feffect, can its effect be activated?",
+            "tlSrc": {
+                "date": "2023-07-15",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u305d\u306e\u300c<<16194>>\u300d\u306f\u52b9\u679c\u306b\u3088\u3063\u3066\u9664\u5916\u3055\u308c\u305f\u3053\u3068\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u2460\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\n\uff08\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u539f\u56e0\u304c\u6226\u95d8\u7834\u58ca\u3084\u52b9\u679c\u306e\u30b3\u30b9\u30c8\u3067\u3042\u3063\u305f\u3068\u3057\u3066\u3082\u3001\u300c<<14740>>\u300d\u300c<<6682>>\u300d\u300c<<6707>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u9664\u5916\u3055\u308c\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u52b9\u679c\u3067\u9664\u5916\u3055\u308c\u305f\u3053\u3068\u306b\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 23992,
+            "question": "\u300c<<14740>>\u300d\u300c<<6682>>\u300d\u300c<<6707>>\u300d\u306a\u3069\u306e\u300e\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u30ab\u30fc\u30c9\uff08\u30e2\u30f3\u30b9\u30bf\u30fc\uff09\u306f\u5893\u5730\u3078\u306f\u884c\u304b\u305a\u9664\u5916\u3055\u308c\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u300c<<16194>>\u300d\u304c\u9664\u5916\u3055\u308c\u305f\u5834\u5408\u3001\u305d\u306e\u2460\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u52b9\u679c\u3067\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u307e\u305f\u306f\u52b9\u679c\u3067\u9664\u5916\u3055\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-07-15",
+                "type": 0
+            },
+            "title": "\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u300c<<16194>>\u300d\u304c\u300e\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u30ab\u30fc\u30c9\u306f\u5893\u5730\u3078\u306f\u884c\u304b\u305a\u9664\u5916\u3055\u308c\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u9664\u5916\u3055\u308c\u305f\u5834\u5408\u3001\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

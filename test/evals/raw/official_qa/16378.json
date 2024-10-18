@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6682,
+        11799,
+        11960
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, even if <<11799>> is destroyed and banished while <<6682>> is active, since a face-up \"Performage\" Monster you control was destroyed, the Pendulum Effect of <<11960>> can be activated.",
+            "id": 16378,
+            "question": "Can the Pendulum Effect of <<11960>> be activated when a face-up <<11799>> you control is destroyed and banished while <<6682>> is active?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can the Pendulum Effect of <<11960>> be activated when a face-up <<11799>> you control is destroyed and banished while <<6682>> is active?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u300c<<6682>>\u300d\u304c\u9069\u7528\u3055\u308c\u3001\u7834\u58ca\u3055\u308c\u305f\u300c<<11799>>\u300d\u304c\u9664\u5916\u3055\u308c\u308b\u3088\u3046\u306a\u5834\u5408\u3067\u3082\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u306e\u300cEm\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7834\u58ca\u3055\u308c\u305f\u6271\u3044\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300c<<11960>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 16378,
+            "question": "\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u306e\u300c<<11799>>\u300d\u304c\u7834\u58ca\u3055\u308c\u9664\u5916\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<11960>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u306e\u300cEm\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u30fb\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002P\u30be\u30fc\u30f3\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u3002\u305d\u306e\u5f8c\u3001\u81ea\u5206\u306f\uff15\uff10\uff10\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\u300f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u3001\u300c<<11799>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<11960>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Pendulum"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "cards": [
+        9729,
+        10261,
+        10339
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if the ATK of <<10339>> is less than 1000 when its effect resolves, its ATK will be still be reduced by 1000, and it will Special Summon the targeted <<9729>> from the Graveyard.",
+            "id": 12535,
+            "question": "If I activate the effect of <<10339>> after Summoning it without Tributing, and then an effect such as <<10261>> is chained to cause the ATK of <<10339>> to become less than 1000, what happens when it resolves?\n\n(T/L Note: The title asks whether the effect will activate, but the question asks about a situation in which it was already activated. We assume this is simply an oversight, and that the title should be the same as the question.)",
+            "thisSrc": {
+                "date": "2021-10-02",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "If the ATK of <<10339>> Summoned without Tributing is less than 1000, will its effect activate?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<10261>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<10339>>\u300d\u306e\u653b\u6483\u529b\u304c1000\u672a\u6e80\u306b\u306a\u3063\u305f\u5834\u5408\u3067\u3082\u3001\u300c<<10339>>\u300d\u81ea\u8eab\u306e\u653b\u6483\u529b\u30921000\u30dd\u30a4\u30f3\u30c8\u30c0\u30a6\u30f3\u3055\u305b\u3001\u81ea\u5206\u306e\u5893\u5730\u304b\u3089\u300c<<9729>>\u300d1\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3057\u307e\u3059\u3002",
+            "id": 12535,
+            "question": "\u30ea\u30ea\u30fc\u30b9\u7121\u3057\u3067\u53ec\u559a\u3057\u305f\u300c<<10339>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<10261>>\u300d\u7b49\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u300c<<10339>>\u300d\u306e\u653b\u6483\u529b\u304c1000\u672a\u6e80\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u300c<<10339>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u30ea\u30ea\u30fc\u30b9\u306a\u3057\u3067\u53ec\u559a\u3055\u308c\u305f\u300c<<10339>>\u300d\u306e\u653b\u6483\u529b\u304c1000\u672a\u6e80\u306e\u5834\u5408\u3001\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "o:Conjunction Success",
+        "o:Lingering current ATK/DEF addition/subtraction"
+    ]
+}

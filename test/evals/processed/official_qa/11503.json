@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4749,
+        5391,
+        13007
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot. (If you redo the coin toss due to the effect of Second Coin Toss, the previous coin tosses are no longer considered to have been performed.)",
+            "id": 11503,
+            "question": "Dueltaining is face-up in the Field Zone, and Second Coin Toss is face-up in my Spell & Trap Zone. In this situation, if I activate the effect of Barrel Dragon, but redo the coin tosses when it resolves by applying the effect of Second Coin Toss.\n\nWill I now draw 2 cards, since I have met the\u300e\u25cfRoll 1 six-sided die, or toss a coin, 5 times.\u300frequirement of Dueltaining?",
+            "thisSrc": {
+                "date": "2023-11-10",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If I activate Barrel Dragon's effect and apply Second Coin Toss, can I draw cards due to Dueltaining?",
+            "tlSrc": {
+                "date": "2023-11-10",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u305b\u3093\u3002\n\uff08\u30b3\u30a4\u30f3\u30c8\u30b9\u3092\u3084\u308a\u76f4\u3057\u305f\u5834\u5408\u3001\u3084\u308a\u76f4\u3059\u524d\u306e\u30b3\u30a4\u30f3\u30c8\u30b9\u306f\u884c\u308f\u306a\u304b\u3063\u305f\u3053\u3068\u306b\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 11503,
+            "question": "\u300c<<4749>>\u300d\u306e\u2460\u306e\u300e\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u30b3\u30a4\u30f3\u30c8\u30b9\u3092\uff13\u56de\u884c\u3044\u3001\u305d\u306e\u5185\uff12\u56de\u4ee5\u4e0a\u304c\u8868\u3060\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u300c<<5391>>\u300d\u306e\u300e\u30b3\u30a4\u30f3\u30c8\u30b9\u3092\u6700\u521d\u304b\u3089\u3084\u308a\u76f4\u3059\u4e8b\u304c\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u9069\u7528\u3057\u3001\u30b3\u30a4\u30f3\u30c8\u30b9\u3092\u3084\u308a\u76f4\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u300c<<13007>>\u300d\u306e\u300e\u25cf\u30b5\u30a4\u30b3\u30ed\u3092\u632f\u3063\u305f\u56de\u6570\u53ca\u3073\u30b3\u30a4\u30f3\u30c8\u30b9\u306e\u56de\u6570\u304c\u5408\u8a08\uff15\u56de\u306b\u306a\u3063\u305f\u300f\u6761\u4ef6\u3092\u6e80\u305f\u3057\u3001\u30c9\u30ed\u30fc\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-11-10",
+                "type": 0
+            },
+            "title": "\u300c<<4749>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u300c<<5391>>\u300d\u306e\u52b9\u679c\u3092\u9069\u7528\u3057\u305f\u5834\u5408\u3001\u300c<<13007>>\u300d\u306e\u52b9\u679c\u3067\u30c9\u30ed\u30fc\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        10787,
+        11544
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of Satellarknight Capella is not an effect that is considered to affect monsters.\n\nTherefore, you can treat that Level 4 or lower \"tellarknight\" monster as a Level 5 monster when using it as Xyz Material.",
+            "id": 14331,
+            "question": "The effect of Satellarknight Capella has resolved this turn. When Xyz Summoning, can I treat a Level 4 or lower \"tellarknight\" monster, which is unaffected by other cards' effects due to the effect of Divine Dragon Knight Felgrand, as a Level 5 monster?",
+            "thisSrc": {
+                "date": "2021-08-24",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Using the effect of Satellarknight Capella, can a Level 4 or lower \"tellarknight\" monster, to which the effect of Divine Dragon Knight Felgrand has been applied, be treated as Level 5 when using it as Xyz material?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<11544>>\u300d\u306e\u52b9\u679c\u306f\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u53d7\u3051\u308b\u52b9\u679c\u306e\u6271\u3044\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<10787>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30ec\u30d9\u30eb\uff14\u4ee5\u4e0b\u306e\u300c\u30c6\u30e9\u30ca\u30a4\u30c8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3082\u30ec\u30d9\u30eb\uff15\u306e\u7d20\u6750\u3068\u3057\u3066\u6271\u3044\u3001\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 14331,
+            "question": "\u300c<<11544>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u53ec\u559a\u30fb\u53cd\u8ee2\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u30bf\u30fc\u30f3\u81ea\u5206\u306f\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\uff13\u4f53\u4ee5\u4e0a\u3092\u7d20\u6750\u3068\u3057\u305fX\u53ec\u559a\u3092\u3059\u308b\u5834\u5408\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ec\u30d9\u30eb\uff14\u4ee5\u4e0b\u306e\u300c\u30c6\u30e9\u30ca\u30a4\u30c8\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30ec\u30d9\u30eb\uff15\u306e\u7d20\u6750\u3068\u3057\u3066\u6271\u3046\u4e8b\u304c\u3067\u304d\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u9069\u7528\u3057\u3066\u3044\u308b\u30bf\u30fc\u30f3\u3001\u300c<<10787>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u4ed6\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u72b6\u614b\u306b\u306a\u3063\u3066\u3044\u308b\u3001\u30ec\u30d9\u30eb\uff14\u4ee5\u4e0b\u306e\u300c\u30c6\u30e9\u30ca\u30a4\u30c8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3082\u30ec\u30d9\u30eb\uff15\u306e\u7d20\u6750\u3068\u3057\u3066\u6271\u3044\u3001\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3092\u884c\u3046\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10787>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30ec\u30d9\u30eb\uff14\u4ee5\u4e0b\u306e\u300c\u30c6\u30e9\u30ca\u30a4\u30c8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3082\u3001\u300c<<11544>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30ec\u30d9\u30eb\uff15\u306e\u7d20\u6750\u3068\u3057\u3066\u6271\u3048\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

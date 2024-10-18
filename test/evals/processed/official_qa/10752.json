@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4842,
+        5008
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Once Anti-Spell Fragrance starts applying, a player cannot activate a Spell Card unless Set it during their last turn. This effect does not negate the effects of Spell Cards that have already been activated, so in this situation, the effect of Monster Reborn will resolve normally.",
+            "id": 10752,
+            "question": "If Anti-Spell Fragrance is chained to a Spell Card, such as Monster Reborn, what will happen to the effect of that Spell Card?",
+            "thisSrc": {
+                "date": "2015-02-05",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Anti-Spell Fragrance is chained to a Spell Card, such as Monster Reborn, what will happen to the effect of that Spell Card?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<5008>>\u300d\u306f\u3001\u305d\u306e\u52b9\u679c\u306e\u9069\u7528\u4ee5\u964d\u306b\u300e\u304a\u4e92\u3044\u306b\u9b54\u6cd5\u30ab\u30fc\u30c9\u306f\u30bb\u30c3\u30c8\u3057\u306a\u3051\u308c\u3070\u767a\u52d5\u3067\u304d\u305a\u3001\u30bb\u30c3\u30c8\u3057\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u304b\u3089\u898b\u3066\u6b21\u306e\u81ea\u5206\u30bf\u30fc\u30f3\u304c\u6765\u308b\u307e\u3067\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u72b6\u614b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u65e2\u306b\u767a\u52d5\u304c\u5ba3\u8a00\u3055\u308c\u3066\u3044\u308b\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u3084\u52b9\u679c\u3092\u7121\u52b9\u306b\u3059\u308b\u52b9\u679c\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u306e\u3067\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u300c<<4842>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5008>>\u300d\u3092\u767a\u52d5\u3057\u305f\u3068\u3057\u3066\u3082\u3001\u300c<<4842>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u884c\u308f\u308c\u307e\u3059\u3002",
+            "id": 10752,
+            "question": "\u300c<<4842>>\u300d\u306a\u3069\u306e\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5008>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5008>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

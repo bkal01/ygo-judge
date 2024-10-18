@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5234,
+        5620
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "An <<5234>> treated as a monster after activation is also treated as a Trap Card, but it does not exist in the Spell & Trap Zone as a card and is treated as existing only in 1 Monster Zone.\n\nTherefore, in that case, if you activate <<5620>>, the damage inflicted is 200.",
+            "id": 13180,
+            "question": "If the opponent controls an <<5234>> treated as a monster after activation, when you activate <<5620>>, how much damage is inflicted?",
+            "thisSrc": {
+                "date": "2014-04-10",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the opponent controls an <<5234>> treated as a monster after activation, when you activate <<5620>>, how much damage is inflicted?",
+            "tlSrc": {
+                "date": "2021-11-23",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u5f8c\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u308b\u300c<<5234>>\u300d\u306f\u3001\u7f60\u30ab\u30fc\u30c9\u3068\u3057\u3066\u3082\u6271\u3044\u307e\u3059\u304c\u3001\u30ab\u30fc\u30c9\u3068\u3057\u3066\u306f\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u306f\u5b58\u5728\u305b\u305a\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b1\u679a\u306e\u307f\u5b58\u5728\u3057\u3066\u3044\u308b\u6271\u3044\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u30ab\u30fc\u30c9\u304c\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u308b\u300c<<5234>>\u300d1\u4f53\u306e\u307f\u306e\u72b6\u614b\u306b\u3066\u3001\u81ea\u5206\u304c\u300c<<5620>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u4e0e\u3048\u3089\u308c\u308b\u30c0\u30e1\u30fc\u30b8\u306f200\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 13180,
+            "question": "\u767a\u52d5\u5f8c\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u308b\u300c<<5234>>\u300d\u304c\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u81ea\u5206\u304c\u300c<<5620>>\u300d\u3092\u767a\u52d5\u3057\u305f\u969b\u306b\u3001\u4e0e\u3048\u308b\u30c0\u30e1\u30fc\u30b8\u306f\u3044\u304f\u3064\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2021-11-23",
+                "type": 0
+            },
+            "title": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u308b\u300c<<5234>>\u300d\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u300c<<5620>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u4e0e\u3048\u308b\u30c0\u30e1\u30fc\u30b8\u306f\u3044\u304f\u3064\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

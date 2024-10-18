@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5432,
+        5914,
+        11762
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in this case, the effect of <<11762>> will resolve normally. (You will add 1 \"Atlantean\" monster from your Deck to your hand, except <<11762>>.)",
+            "id": 14979,
+            "question": "If the first effect of <<11762>> is activated, but <<5432>> or <<5914>> are chained so that <<11762>> is no longer face-up on the field when its effect resolves, does its effect apply?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the first effect of <<11762>> is activated, but <<5432>> or <<5914>> are chained so that <<11762>> is no longer face-up on the field when its effect resolves, does its effect apply?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3067\u3082\u3001\u65e2\u306b\u767a\u52d5\u3057\u305f\u300c<<11762>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u884c\u308f\u308c\u307e\u3059\u3002\n\uff08\u30c7\u30c3\u30ad\u304b\u3089\u300c<<11762>>\u300d\u4ee5\u5916\u306e\u300c\u6d77\u7687\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\uff11\u679a\u3092\u624b\u672d\u306b\u52a0\u3048\u307e\u3059\u3002\uff09",
+            "id": 14979,
+            "question": "\u300c<<11762>>\u300d\u306e\u300e\u2460\uff1a\u30c7\u30c3\u30ad\u304b\u3089\u300c<<11762>>\u300d\u4ee5\u5916\u306e\u300c\u6d77\u7687\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5893\u5730\u3078\u9001\u3063\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u300c<<11762>>\u300d\u4ee5\u5916\u306e\u300c\u6d77\u7687\u300d\u30ab\u30fc\u30c9\uff11\u679a\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u300c<<5432>>\u300d\u3084\u300c<<5914>>\u300d\u304c\u767a\u52d5\u3057\u3001\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u300c<<11762>>\u300d\u81ea\u8eab\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11762>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u81ea\u8eab\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

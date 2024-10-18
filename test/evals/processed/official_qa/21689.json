@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4909,
+        13614
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When resolving the effect of Palace of the Elemental Lords, if Palace of the Elemental Lords itself has been destroyed, the effect is not applied. (You do not add an \"Elementsaber\" monster from your Deck to your hand, nor do you skip the Battle Phase of your next turn.)",
+            "id": 21689,
+            "question": "I activate the effect of Palace of the Elemental Lords that adds an \"Elementsaber\" monster from my Deck to my hand, then skips the Battle Phase of my next turn. If my opponent chains Mystical Space Typhoon and destroys Palace of the Elemental Lords, what happens?",
+            "thisSrc": {
+                "date": "2018-01-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I activate the effect of Palace of the Elemental Lords that adds an \"Elementsaber\" monster from my Deck to my hand, then skips the Battle Phase of my next turn. If my opponent chains Mystical Space Typhoon and destroys Palace of the Elemental Lords, what happens?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<13614>>\u300d\u306e\u300e\u30c7\u30c3\u30ad\u304b\u3089\u300c\u30a8\u30ec\u30e1\u30f3\u30c8\u30bb\u30a4\u30d0\u30fc\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u3002\u305d\u306e\u5f8c\u3001\u6b21\u306e\u81ea\u5206\u30bf\u30fc\u30f3\u306e\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u3092\u30b9\u30ad\u30c3\u30d7\u3059\u308b\u300f\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u300c<<13614>>\u300d\u81ea\u8eab\u304c\u7834\u58ca\u3055\u308c\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u306b\u306f\u3001\u52b9\u679c\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\n\n\uff08\u300e\u30c7\u30c3\u30ad\u304b\u3089\u300c\u30a8\u30ec\u30e1\u30f3\u30c8\u30bb\u30a4\u30d0\u30fc\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u51e6\u7406\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u306e\u3067\u3001\u300e\u305d\u306e\u5f8c\u3001\u6b21\u306e\u81ea\u5206\u30bf\u30fc\u30f3\u306e\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u3092\u30b9\u30ad\u30c3\u30d7\u3059\u308b\u300f\u51e6\u7406\u3082\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\uff09",
+            "id": 21689,
+            "question": "\u81ea\u5206\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<13614>>\u300d\u306e\u300e\u2461\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u300c\u30a8\u30ec\u30e1\u30f3\u30c8\u30bb\u30a4\u30d0\u30fc\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u3002\u305d\u306e\u5f8c\u3001\u6b21\u306e\u81ea\u5206\u30bf\u30fc\u30f3\u306e\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u3092\u30b9\u30ad\u30c3\u30d7\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u76f8\u624b\u304c\u300c<<4909>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300c<<13614>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<13614>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u300c<<4909>>\u300d\u304c\u767a\u52d5\u3057\u3001\u300c<<13614>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u6b21\u306e\u81ea\u5206\u30bf\u30fc\u30f3\u306e\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u306f\u30b9\u30ad\u30c3\u30d7\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

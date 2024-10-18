@@ -1,0 +1,38 @@
+{
+    "cards": [
+        10807,
+        12094
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, the effect of Pantheism of the Monarchs does not apply. (You do not even reveal any \"Monarch\" Spell/Trap Cards from your Deck.)",
+            "id": 16961,
+            "question": "If I activate the second effect of Pantheism of the Monarchs from my Graveyard, but Mistake is chained, how does the effect resolve?",
+            "thisSrc": {
+                "date": "2015-09-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If I activate the second effect of Pantheism of the Monarchs from my Graveyard, but Mistake is chained, how does the effect resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u300c<<12094>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u300c<<10807>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u304a\u4e92\u3044\u306b\u30c9\u30ed\u30fc\u4ee5\u5916\u306e\u65b9\u6cd5\u3067\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u4e8b\u306f\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u306b\u306f\u3001\u300c<<12094>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\n\uff08\u300e\u30c7\u30c3\u30ad\u304b\u3089\u300c\u5e1d\u738b\u300d\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\uff13\u679a\u3092\u76f8\u624b\u306b\u898b\u305b\u300f\u306e\u51e6\u7406\u3082\u884c\u3044\u307e\u305b\u3093\u3002\uff09",
+            "id": 16961,
+            "question": "\u300c<<12094>>\u300d\u306e\u300e\u2461\uff1a\u5893\u5730\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u300c\u5e1d\u738b\u300d\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\uff13\u679a\u3092\u76f8\u624b\u306b\u898b\u305b\u3001\u76f8\u624b\u306f\u305d\u306e\u4e2d\u304b\u3089\uff11\u679a\u9078\u3076\u3002\u305d\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u81ea\u5206\u306e\u624b\u672d\u306b\u52a0\u3048\u3001\u6b8b\u308a\u3092\u30c7\u30c3\u30ad\u306b\u623b\u3059\u300f\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u300c<<10807>>\u300d\u304c\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u5893\u5730\u306e\u300c<<12094>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u300c<<10807>>\u300d\u304c\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

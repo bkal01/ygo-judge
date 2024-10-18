@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5432,
+        11730
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If a monster is Special Summoned by the effect of <<11730>>, and is then changed to face-down Defense Position by <<5432>>, its effects are no longer negated. Once it has been changed face-down, as long as it is flipped face-up again, its effects can be activated and applied normally.",
+            "id": 15201,
+            "question": "If a monster is Special Summoned by the effect of <<11730>>, and is then changed to face-down Defense Position by <<5432>>, will its effects still be negated?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a monster is Special Summoned by the effect of <<11730>>, and is then changed to face-down Defense Position by <<5432>>, will its effects still be negated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11730>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u305d\u306e\u5f8c\u306b\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u3066\u3044\u306a\u3044\u72b6\u614b\u306b\u623b\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u4e00\u5ea6\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5f8c\u3001\u518d\u3073\u8868\u5074\u8868\u793a\u306b\u623b\u3063\u305f\u306e\u3067\u3042\u308c\u3070\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u3067\u767a\u52d5\u30fb\u9069\u7528\u3055\u308c\u308b\u52b9\u679c\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 15201,
+            "question": "\u300c<<11730>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u305d\u306e\u5f8c\u306b\u300c<<5432>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u7121\u52b9\u5316\u3055\u308c\u3066\u3044\u305f\u52b9\u679c\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11730>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u305d\u306e\u5f8c\u306b\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u7121\u52b9\u5316\u3055\u308c\u3066\u3044\u305f\u52b9\u679c\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

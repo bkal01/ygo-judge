@@ -1,0 +1,39 @@
+{
+    "cards": [
+        15756,
+        19892,
+        19895
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "You can activate Future Silence, even if you cannot draw cards, in any of the following scenarios:\n\u25cf It is not the Battle Phase.\n\u25cf You do not control Shining Sarcophagus.\n\u25cf You do not control a face-up monster that mentions \"Shining Sarcophagus\".\n\nHowever, if you cannot draw cards, it is the Battle Phase, and you control both Shining Sarcophagus and a monster that mentions it, you cannot activate Future Silence.",
+            "id": 24052,
+            "question": "I have previously activated Pot of Prosperity, and thus\u300ecannot draw cards by card effects the turn you activate this card.\u300fCan I now activate Future Silence?",
+            "thisSrc": {
+                "date": "2024-02-01",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can I activate Future Silence while I cannot draw cards?",
+            "tlSrc": {
+                "date": "2024-02-01",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u4ee5\u4e0b\u306e\u72b6\u6cc1\u3067\u3042\u308c\u3070\u304a\u4e92\u3044\u306b\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\n\u30fb\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u4e2d\u3067\u306a\u3044\u5834\u5408\n\u30fb\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u4e2d\u3067\u3042\u308a\u3001\u81ea\u8eab\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c<<19892>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\n\u30fb\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u4e2d\u3067\u3042\u308a\u3001\u81ea\u8eab\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<19892>>\u300d\u306e\u30ab\u30fc\u30c9\u540d\u304c\u8a18\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\n\n\u307e\u305f\u3001\u4ee5\u4e0b\u306e\u72b6\u6cc1\u3067\u306f\u304a\u4e92\u3044\u306b\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\n\u30fb\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u4e2d\u3067\u3042\u308a\u3001\u81ea\u8eab\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c<<19892>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u81ea\u8eab\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<19892>>\u300d\u306e\u30ab\u30fc\u30c9\u540d\u304c\u8a18\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u5834\u5408",
+            "id": 24052,
+            "question": "\u81ea\u5206\u306f\u300c<<15756>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u306e\u3067\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u767a\u52d5\u3059\u308b\u30bf\u30fc\u30f3\u3001\u81ea\u5206\u306f\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u30c9\u30ed\u30fc\u3067\u304d\u306a\u3044\u300f\u72b6\u614b\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u30bf\u30fc\u30f3\u4e2d\u3001\u304a\u4e92\u3044\u306b\u300c<<19895>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-02-01",
+                "type": 0
+            },
+            "title": "\u30ab\u30fc\u30c9\u3092\u30c9\u30ed\u30fc\u3067\u304d\u306a\u3044\u72b6\u6cc1\u3067\u3001\u300c<<19895>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

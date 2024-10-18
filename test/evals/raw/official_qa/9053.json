@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6478,
+        8498
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "After Special Summoning a monster, the effect of <<8498>> has already been applied. Thus, even if you Special Summon <<6478>>, it will return to its owner's hand during the End Phase despite being unaffected by Trap effects.",
+            "id": 9053,
+            "question": "If <<6478>> is Special Summoned by the effect of <<8498>>, how does the effect of returning the Special Summoned monster to the hand during the End Phase resolve?",
+            "thisSrc": {
+                "date": "2015-11-27",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<6478>> is Special Summoned by the effect of <<8498>>, how does the effect of returning the Special Summoned monster to the hand during the End Phase resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<8498>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u300e\u3053\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u6642\u306b\u6301\u3061\u4e3b\u306e\u624b\u672d\u306b\u623b\u308b\u300f\u52b9\u679c\u304c\u65e2\u306b\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<8498>>\u300d\u306e\u52b9\u679c\u3067\u300c<<6478>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5834\u5408\u3067\u3082\u3001\u300c<<6478>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306f\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300f\u52b9\u679c\u306e\u5f71\u97ff\u3092\u53d7\u3051\u308b\u4e8b\u306a\u304f\u3001\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u6301\u3061\u4e3b\u306e\u624b\u672d\u306b\u623b\u308b\u51e6\u7406\u304c\u884c\u308f\u308c\u307e\u3059\u3002",
+            "id": 9053,
+            "question": "\u300c<<8498>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<6478>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300e\u3053\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u6642\u306b\u6301\u3061\u4e3b\u306e\u624b\u672d\u306b\u623b\u308b\u300f\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8498>>\u300d\u306e\u52b9\u679c\u3067\u3001\u300c<<6478>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306e\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Trap"
+    ]
+}

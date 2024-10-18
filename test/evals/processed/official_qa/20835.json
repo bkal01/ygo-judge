@@ -1,0 +1,38 @@
+{
+    "cards": [
+        10884,
+        13098
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "You can activate March of the Dark Brigade by targeting a Michael, the Arch-Lightsworn in your Graveyard. (Since Michael, the Arch-Lightsworn is a Level 7 monster, it can only be targeted if you have 7 or more cards in your Deck.)\n\nIn this case, since Michael, the Arch-Lightsworn is a Synchro Monster, it returns to your Extra Deck instead of your hand, and you do not banish any cards from the top of your Deck afterward.",
+            "id": 20835,
+            "question": "Can I activate March of the Dark Brigade by targeting a Michael, the Arch-Lightsworn in my Graveyard?",
+            "thisSrc": {
+                "date": "2022-07-09",
+                "misc": "Redshift",
+                "type": 4
+            },
+            "title": "Can I activate March of the Dark Brigade by targeting a Michael, the Arch-Lightsworn in my Graveyard?",
+            "tlSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u306e\u5893\u5730\u306e\u300c<<10884>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<13098>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\uff08\u300c<<10884>>\u300d\u306e\u30ec\u30d9\u30eb\u306f7\u3067\u3059\u306e\u3067\u3001\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u304c7\u679a\u4ee5\u4e0a\u3042\u308b\u5834\u5408\u306e\u307f\u5bfe\u8c61\u3068\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\uff09\n\n\u305d\u306e\u5834\u5408\u3001\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u308b\u300c<<10884>>\u300d\u306f\u624b\u672d\u306b\u306f\u52a0\u308f\u3089\u305a\u3001\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u52a0\u308f\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300e\u305d\u306e\u5f8c\u3001\u624b\u672d\u306b\u52a0\u3048\u305f\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5143\u3005\u306e\u30ec\u30d9\u30eb\u306e\u6570\u3060\u3051\u3001\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u306e\u4e0a\u304b\u3089\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3059\u308b\u300f\u51e6\u7406\u306f\u7d50\u679c\u7684\u306b\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 20835,
+            "question": "\u81ea\u5206\u306e\u5893\u5730\u306e\u300c<<10884>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<13098>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u30e9\u30a4\u30c8\u30ed\u30fc\u30c9\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u3002\u305d\u306e\u5f8c\u3001\u624b\u672d\u306b\u52a0\u3048\u305f\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5143\u3005\u306e\u30ec\u30d9\u30eb\u306e\u6570\u3060\u3051\u3001\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u306e\u4e0a\u304b\u3089\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "title": "\u5893\u5730\u306e\u300c<<10884>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<13098>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

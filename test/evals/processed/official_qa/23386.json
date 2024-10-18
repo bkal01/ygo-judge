@@ -1,0 +1,40 @@
+{
+    "cards": [
+        11445,
+        13079,
+        15313,
+        16861
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect can be activated and it will resolve normally.\n\nIf the opponent Special Summons a monster of the same Type as a \"D/D/D\" monster on your field, that effect can be activated even if those monsters are no longer on the field by the time the effect is activated. The same is true even if the monsters are not on the field when the effect resolves.",
+            "id": 23386,
+            "question": "I control Dark Contract with Patent License and D/D/D Gust High King Alexander.\n\nIn this situation, my opponent activates Ice Dragon's Prison, Special Summoning D/D/D Gust King Alexander from my Graveyard, and then banishes both D/D/D Gust King Alexander and D/D/D Gust High King Alexander from the field.\n\nAfterward, can the effect of the Dark Contract with Patent License I control be activated?",
+            "thisSrc": {
+                "date": "2021-10-16",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "If my \"D/D/D\" monster, or my opponent's Special Summoned monster, no longer exists by the time Dark Contract with Patent License's effect could be activated, can I still activate that effect?",
+            "tlSrc": {
+                "date": "2023-12-13",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u3001\u51e6\u7406\u3082\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\n\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300cDDD\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u540c\u3058\u7a2e\u985e\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u76f8\u624b\u304c\u7279\u6b8a\u53ec\u559a\u3057\u305f\u306e\u3067\u3042\u308c\u3070\u3001\u3053\u306e\u52b9\u679c\u306e\u767a\u52d5\u6642\u307e\u3067\u306b\u305d\u308c\u3089\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u3067\u3082\u3053\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u3001\u3053\u306e\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u305d\u308c\u3089\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3067\u3082\u3053\u306e\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 23386,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u306f\u300c<<16861>>\u300d\u3068\u300c<<13079>>\u300d\u304c\u5b58\u5728\u3057\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u76f8\u624b\u304c\u300c<<15313>>\u300d\u3092\u767a\u52d5\u3057\u3001\u81ea\u5206\u306e\u5893\u5730\u304b\u3089\u300c<<11445>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c<<13079>>\u300d\u3068\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c<<11445>>\u300d\u3092\u9664\u5916\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u300c<<16861>>\u300d\u306e\u300e\u2460\u300f\u306e\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300cDDD\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u540c\u3058\u7a2e\u985e\uff08\u878d\u5408\u30fbS\u30fbX\u30fb\u30ea\u30f3\u30af\uff09\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u76f8\u624b\u304c\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-12-13",
+                "type": 0
+            },
+            "title": "\u300c<<16861>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u6642\u306b\u3001\u767a\u52d5\u306e\u304d\u3063\u304b\u3051\u3068\u306a\u3063\u305f\u81ea\u5206\u306e\u300cDDD\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3084\u76f8\u624b\u306e\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u2460\u306e\u52b9\u679c\u306f\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

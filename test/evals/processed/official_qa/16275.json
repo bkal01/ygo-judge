@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12042
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot. In this scenario, since each player controls 1 monster, it is not a situation in which your opponent controls more monsters than you.",
+            "id": 16275,
+            "question": "If my opponent and I both control 1 monster, can I Normal Summon Arisen Gaia the Fierce Knight without Tributing?",
+            "thisSrc": {
+                "date": "2015-07-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If my opponent and I both control 1 monster, can I Normal Summon Arisen Gaia the Fierce Knight without Tributing?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u81ea\u5206\u3068\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6570\u304c\u540c\u3058\u5834\u5408\u3001\u300e\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6570\u304c\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3088\u308a\u591a\u3044\u5834\u5408\u300f\u306b\u306a\u308a\u307e\u305b\u3093\u3002",
+            "id": 16275,
+            "question": "\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c1\u4f53\u5b58\u5728\u3057\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c1\u4f53\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u300c<<12042>>\u300d\u3092\u300e\u2460\uff1a\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6570\u304c\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3088\u308a\u591a\u3044\u5834\u5408\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306f\u30ea\u30ea\u30fc\u30b9\u306a\u3057\u3067\u53ec\u559a\u3067\u304d\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u30ea\u30ea\u30fc\u30b9\u306a\u3057\u3067\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6570\u304c\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6570\u3068\u540c\u3058\u5834\u5408\u3001\u300c<<12042>>\u300d\u3092\u30ea\u30ea\u30fc\u30b9\u306a\u3057\u3067\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

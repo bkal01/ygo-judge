@@ -1,0 +1,35 @@
+{
+    "cards": [],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if there is a face-up Attack Position monster in the turn player's Monster Zone, the turn player can choose arbitrarily whether or not to conduct their Battle Phase. That player can end their turn without conducting their Battle Phase, or also enter their Battle Phase without declaring any attacks with their monsters.",
+            "id": 260,
+            "question": "If a monster is Normal or Special Summoned in face-up Attack Position, or Flip Summoned to face-up Attack Position, does it have to attack?",
+            "thisSrc": {
+                "date": "2015-06-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a monster is Normal or Special Summoned in face-up Attack Position, or Flip Summoned to face-up Attack Position, does it have to attack?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u30bf\u30fc\u30f3\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u653b\u6483\u8868\u793a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u3092\u884c\u3046\u304b\u3069\u3046\u304b\u306f\u30bf\u30fc\u30f3\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u4efb\u610f\u306b\u9078\u3076\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u3092\u884c\u308f\u305a\u306b\u30bf\u30fc\u30f3\u3092\u7d42\u3048\u308b\u4e8b\u3082\u3067\u304d\u307e\u3059\u3057\u3001\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u3092\u884c\u3063\u305f\u5834\u5408\u3067\u3082\u3001\u5168\u3066\u306e\u8868\u5074\u653b\u6483\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u653b\u6483\u3092\u884c\u308f\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u3001\u3068\u3044\u3046\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+            "id": 260,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u8868\u5074\u653b\u6483\u8868\u793a\u3067\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5834\u5408\u3084\u3001\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u53cd\u8ee2\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u5fc5\u305a\u653b\u6483\u3092\u884c\u308f\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u653b\u6483\u8868\u793a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u5fc5\u305a\u653b\u6483\u3092\u884c\u308f\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Basic Rules"
+    ]
+}

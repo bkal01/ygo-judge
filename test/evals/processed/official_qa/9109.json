@@ -1,0 +1,38 @@
+{
+    "cards": [
+        7422,
+        8604
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "At the end of the turn, once Hundred Eyes Dragon no longer has Dark Crusader's effect, the ATK of Hundred Eyes Dragon will return to the original ATK printed on the card.",
+            "id": 9109,
+            "question": "My Hundred Eyes Dragon has obtained the effect of Dark Crusader, and I have activated and resolved that effect, making Hundred Eyes Dragon gain 400 ATK. Once the current turn ends, and Hundred Eyes Dragon loses the effects of Dark Crusader, will its ATK return to the original value, or will it remain increased?",
+            "thisSrc": {
+                "date": "2022-08-29",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If Hundred Eyes Dragon has gained the effect of Dark Crusader, will its ATK remain increased next turn?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u30bf\u30fc\u30f3\u304c\u7d42\u4e86\u3059\u308b\u6642\u306b\u3001\u300c<<8604>>\u300d\u304c\u5f97\u3066\u3044\u305f\u300c<<7422>>\u300d\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u3001\u5909\u5316\u3057\u3066\u3044\u305f\u300c<<8604>>\u300d\u306e\u653b\u6483\u529b\u306f\u3001\u30ab\u30fc\u30c9\u306b\u8a18\u8f09\u3055\u308c\u3066\u3044\u308b\u5143\u3005\u306e\u653b\u6483\u529b\u306b\u623b\u308a\u307e\u3059\u3002",
+            "id": 9109,
+            "question": "\u300c<<7422>>\u300d\u7b49\u306e\u52b9\u679c\u3092\u5f97\u305f\u300c<<8604>>\u300d\u306e\u3001\u81ea\u8eab\u306e\u653b\u6483\u529b\u3092\u30a2\u30c3\u30d7\u3059\u308b\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5f8c\u3001\u305d\u306e\u30bf\u30fc\u30f3\u304c\u7d42\u308f\u308b\u6642\u306b\u5f97\u3066\u3044\u305f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u306a\u304f\u306a\u308b\u5834\u5408\u3001\u52b9\u679c\u306b\u3088\u3063\u3066\u5909\u5316\u3057\u3066\u3044\u305f\u653b\u6483\u529b\u306f\u3001\u5909\u5316\u3057\u305f\u307e\u307e\u3067\u3059\u304b\uff1f\n\u305d\u308c\u3068\u3082\u3001\u300c<<8604>>\u300d\u306e\u30ab\u30fc\u30c9\u306b\u8a18\u8f09\u3055\u308c\u3066\u3044\u308b\u5143\u3005\u306e\u6570\u5024\u306b\u623b\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8604>>\u300d\u304c\u3001\u300c<<7422>>\u300d\u7b49\u306e\u52b9\u679c\u3092\u5f97\u305f\u5834\u5408\u3001\u6b21\u306e\u30bf\u30fc\u30f3\u4ee5\u964d\u3082\u653b\u6483\u529b\u304c\u30a2\u30c3\u30d7\u3057\u305f\u307e\u307e\u3067\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

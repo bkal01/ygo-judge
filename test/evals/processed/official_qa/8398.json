@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4054,
+        5323,
+        7413,
+        8213
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Forbidden Chalice can only negate the effects of effect monsters that either activate on the field, or Continuous Effects that apply while the monster is face-up on the field.\nTherefore, an effect such as Sangan's, which is activated in the Graveyard, will not be negated by Forbidden Chalice.\nHowever, even though the effects of Exiled Force and Cyber Valley are activated by removing them from the field, since these effects were activated on the field, they will be negated by Forbidden Chalice.",
+            "id": 8398,
+            "question": "If Forbidden Chalice has been applied to a card like Sangan, which activates its effect when it is sent to the Graveyard, will that effect be negated by Forbidden Chalice?\nFurthermore, if Forbidden Chalice has instead been applied to a card like Exiled Force or Cyber Valley, and they activate their effects on the field, will these effects be negated even though the cards are no longer on the field?",
+            "thisSrc": {
+                "date": "2022-08-28",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can Forbidden Chalice negate the effects of a monster that is not on the field?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<8213>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u306b\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u3066\u767a\u52d5\u3059\u308b\u52b9\u679c\u3068\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u9069\u7528\u3055\u308c\u308b\u6c38\u7d9a\u52b9\u679c\u306e\u307f\u3068\u306a\u308a\u307e\u3059\u3002\n\u3088\u3063\u3066\u3001\u5893\u5730\u306b\u3066\u52b9\u679c\u304c\u767a\u52d5\u3059\u308b\u300c<<4054>>\u300d\u7b49\u306e\u52b9\u679c\u306f\u3001\u300c<<8213>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u306b\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u3002\n\u307e\u305f\u3001\u300c<<5323>>\u300d\u3084\u300c<<7413>>\u300d\u7b49\u306e\u52b9\u679c\u306f\u3001\u767a\u52d5\u6642\u306b\u81ea\u8eab\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u305f\u308a\u9664\u5916\u3059\u308b\u4e8b\u306b\u3088\u308a\u3001\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u300c<<5323>>\u300d\u81ea\u8eab\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u308a\u307e\u3059\u304c\u3001\u52b9\u679c\u81ea\u4f53\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u3067\u767a\u52d5\u3057\u3066\u3044\u308b\u70ba\u3001\u300c<<8213>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 8398,
+            "question": "\u300c<<8213>>\u300d\u306e\u52b9\u679c\u3092\u53d7\u3051\u3066\u3044\u308b\u300c<<4054>>\u300d\u7b49\u304c\u3001\u5893\u5730\u306b\u9001\u3089\u308c\u305f\u6642\u306b\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u3001\u300c<<8213>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u304b\uff1f\n\u307e\u305f\u3001\u300c<<8213>>\u300d\u306e\u52b9\u679c\u3092\u53d7\u3051\u3066\u3044\u308b\u300c<<5323>>\u300d\u3084\u300c<<7413>>\u300d\u7b49\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u3067\u767a\u52d5\u3057\u3001\u305d\u306e\u52b9\u679c\u51e6\u7406\u3092\u884c\u3046\u6642\u306b\u3001\u81ea\u8eab\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3057\u306a\u3044\u300c<<5323>>\u300d\u7b49\u306e\u52b9\u679c\u306f\u3001\u300c<<8213>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8213>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3057\u306a\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u7121\u52b9\u306b\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

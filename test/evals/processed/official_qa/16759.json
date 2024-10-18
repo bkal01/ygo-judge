@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12074
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When the first effect of PSY-Framelord Omega resolves, randomly select 1 card from your opponent's hand, and banish it face-up. (PSY-Framelord Omega itself is also banished simultaneously.) Afterward, during your next Standby Phase, that banished card will be re-added to your opponent's hand. (PSY-Framelord Omega will return to the field simultaneously.)",
+            "id": 16759,
+            "question": "How do I apply the effect of PSY-Framelord Omega that banishes a random card from my opponent's hand?",
+            "thisSrc": {
+                "date": "2015-08-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "How do I apply the effect of PSY-Framelord Omega that banishes a random card from my opponent's hand?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12074>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u304c\u884c\u308f\u308c\u308b\u5834\u5408\u3001\u76f8\u624b\u306e\u624b\u672d\u3092\u30e9\u30f3\u30c0\u30e0\u306b1\u679a\u9078\u3073\u3001\u305d\u306e\u9078\u3093\u3060\u624b\u672d\u306f\u8868\u5074\u8868\u793a\u3067\u9664\u5916\u3055\u308c\u307e\u3059\u3002\n\uff08\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u300c<<12074>>\u300d\u81ea\u8eab\u3082\u540c\u6642\u306b\u9664\u5916\u3055\u308c\u307e\u3059\u3002\uff09\n\n\u305d\u306e\u5f8c\u3001\u6b21\u306e\u81ea\u5206\u306e\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u306b\u305d\u306e\u8868\u5074\u8868\u793a\u3067\u9664\u5916\u3055\u308c\u305f\u624b\u672d\u306e\u30ab\u30fc\u30c9\u306f\u624b\u672d\u3078\u3068\u623b\u308a\u307e\u3059\u3002\n\uff08\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u300c<<12074>>\u300d\u81ea\u8eab\u3082\u540c\u6642\u306b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u623b\u308a\u307e\u3059\u3002\uff09",
+            "id": 16759,
+            "question": "\u300c<<12074>>\u300d\u306e\u300e\u2460\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u30fb\u76f8\u624b\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u76f8\u624b\u306e\u624b\u672d\u3092\u30e9\u30f3\u30c0\u30e0\u306b\uff11\u679a\u9078\u3073\u3001\u305d\u306e\u30ab\u30fc\u30c9\u3068\u8868\u5074\u8868\u793a\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u6b21\u306e\u81ea\u5206\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u307e\u3067\u8868\u5074\u8868\u793a\u3067\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u3067\u3001\u9664\u5916\u3055\u308c\u308b\u624b\u672d\u306f\u3069\u306e\u3088\u3046\u306b\u51e6\u7406\u3092\u884c\u3044\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12074>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u9664\u5916\u3055\u308c\u308b\u624b\u672d\u306f\u3069\u306e\u3088\u3046\u306b\u51e6\u7406\u3092\u884c\u3044\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

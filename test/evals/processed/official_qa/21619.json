@@ -1,0 +1,40 @@
+{
+    "cards": [
+        5432,
+        11353,
+        11356,
+        13502
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, if one of the cards targeted by the effect of Qliphort Genius is changed to face-down Defense Position so that its effects cannot be negated, the effect does not apply. (In this case, the effects of your Qliphort Scout in the Pendulum Zone are also not negated.)",
+            "id": 21619,
+            "question": "I activate the effect of Qliphort Genius that negates the effects of a face-up card on each side of the field, targeting a Qliphort Scout in my Pendulum Zone and a Qliphort Disk on my opponent's field. If my opponent chains Book of Moon and changes that Qliphort Disk to face-down Defense Position, how does the effect of Qliphort Genius resolve?",
+            "thisSrc": {
+                "date": "2017-11-25",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I activate the effect of Qliphort Genius that negates the effects of a face-up card on each side of the field, targeting a Qliphort Scout in my Pendulum Zone and a Qliphort Disk on my opponent's field. If my opponent chains Book of Moon and changes that Qliphort Disk to face-down Defense Position, how does the effect of Qliphort Genius resolve?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<13502>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u306a\u3063\u305f2\u679a\u306e\u8868\u5074\u8868\u793a\u306e\u30ab\u30fc\u30c9\u306e\u5185\u30011\u679a\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u308a\u3001\u305d\u306e\u52b9\u679c\u3092\u7121\u52b9\u306b\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u306e\u3067\u3001\u52b9\u679c\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\n\uff08\u3053\u306e\u5834\u5408\u3001\u3082\u30461\u4f53\u306e\u5bfe\u8c61\u3067\u3042\u308b\u300c<<11353>>\u300d\u306e\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u308b\u4e8b\u3082\u3042\u308a\u307e\u305b\u3093\u3002\uff09",
+            "id": 21619,
+            "question": "\u81ea\u5206\u304c\u300c<<13502>>\u300d\u306e\u300e\u2461\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u3001\u81ea\u5206\u53ca\u3073\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u306e\u30ab\u30fc\u30c9\u3092\uff11\u679a\u305a\u3064\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30ab\u30fc\u30c9\uff12\u679a\u306e\u52b9\u679c\u3092\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u7121\u52b9\u306b\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<11356>>\u300d\u3068\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u300c<<11353>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u76f8\u624b\u304c\u300c<<5432>>\u300d\u3092\u767a\u52d5\u3057\u3001\u76f8\u624b\u306e\u300c<<11356>>\u300d\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<13502>>\u300d\u306e2\u679a\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u7121\u52b9\u306b\u3059\u308b\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u5bfe\u8c61\u306e\u30ab\u30fc\u30c9\u306e\u5185\u30011\u679a\u304c\u88cf\u5074\u8868\u793a\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

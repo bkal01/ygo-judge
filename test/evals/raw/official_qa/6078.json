@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4806,
+        13090
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "<<13090>> is a Machine-Type monster, so it can be equipped with <<4806>>. When activating <<4806>>, you normally choose to increase either the ATK or the DEF of the equipped monster by 700, but since <<13090>> is a Link Monster, it has no DEF. Therefore, if you equip <<4806>> to a Link Monster, you must select \"ATK\" for the effect.",
+            "id": 6078,
+            "question": "Can I equip <<13090>> with <<4806>>? If so, can I choose to increase the DEF by 700?",
+            "thisSrc": {
+                "date": "2017-08-05",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can I equip <<13090>> with <<4806>>? If so, can I choose to increase the DEF by 700?",
+            "tlSrc": {
+                "date": "2017-04-20",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<13090>>\u300d\u306f\u6a5f\u68b0\u65cf\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300c<<4806>>\u300d\u3092\u88c5\u5099\u3059\u308b\u5bfe\u8c61\u3068\u3057\u3066\u9078\u629e\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u300c<<4806>>\u300d\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u306f\u88c5\u5099\u3059\u308b\u5bfe\u8c61\u306e\u9078\u629e\u3068\u5408\u308f\u305b\u3066\u3001\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306e\u3069\u3061\u3089\u3092\u30a2\u30c3\u30d7\u3059\u308b\u52b9\u679c\u3059\u308b\u304b\u3092\u9078\u629e\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u304c\u3001\u300c<<13090>>\u300d\u306f\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u306e\u3067\u5b88\u5099\u529b\u3092\u6301\u3061\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<4806>>\u300d\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u306b\u306f\u3001\u653b\u6483\u529b\u3092\u30a2\u30c3\u30d7\u3059\u308b\u52b9\u679c\u3092\u9078\u629e\u3057\u3066\u767a\u52d5\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 6078,
+            "question": "\u300c<<13090>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<4806>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u767a\u52d5\u3067\u304d\u308b\u5834\u5408\u3001\u300e\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u307e\u305f\u306f\u5b88\u5099\u529b\u306f\uff17\uff10\uff10\u30dd\u30a4\u30f3\u30c8\u30a2\u30c3\u30d7\u3059\u308b\u300f\u52b9\u679c\u306f\u3069\u306e\u3088\u3046\u306b\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-04-20",
+                "type": 0
+            },
+            "title": "\u6a5f\u68b0\u65cf\u306e\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u300c<<4806>>\u300d\u3092\u88c5\u5099\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Link"
+    ]
+}

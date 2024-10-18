@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6217,
+        8575,
+        11644
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If the effect of your Ghost Charon, the Underworld Boatman is activated, but the activation is negated by Divine Wrath, you may Special Summon monsters other than Dragon-Type monsters this turn. If the effect is negated by The Fabled Unicore, you cannot Special Summon monsters other than Dragon-Type monsters this turn.",
+            "id": 14769,
+            "question": "If the effect of Ghost Charon, the Underworld Boatman, but the activation is negated by Divine Wrath, or the effect is negated by The Fabled Unicore, can I Special Summon monsters other than Dragon-Type monsters this turn?",
+            "thisSrc": {
+                "date": "2014-12-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the effect of Ghost Charon, the Underworld Boatman, but the activation is negated by Divine Wrath, or the effect is negated by The Fabled Unicore, can I Special Summon monsters other than Dragon-Type monsters this turn?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11644>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u304c\u300c<<6217>>\u300d\u306b\u3088\u3063\u3066\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u306b\u306f\u3001\u3053\u306e\u30bf\u30fc\u30f3\u306b\u81ea\u5206\u306f\u30c9\u30e9\u30b4\u30f3\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u307e\u305f\u3001\u300c<<11644>>\u300d\u306e\u52b9\u679c\u304c\u300c<<8575>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u306b\u306a\u308b\u5834\u5408\u306b\u306f\u3001\u3053\u306e\u30bf\u30fc\u30f3\u306b\u81ea\u5206\u306f\u30c9\u30e9\u30b4\u30f3\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 14769,
+            "question": "\u300c<<11644>>\u300d\u306e\u300e\u2460\uff1a\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u81ea\u5206\u306e\u5893\u5730\u306e\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u5893\u5730\u306e\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u3001\u305d\u306e\uff12\u4f53\u306e\u30ec\u30d9\u30eb\u306e\u5408\u8a08\u3068\u540c\u3058\u30ec\u30d9\u30eb\u3092\u6301\u3064\u30c9\u30e9\u30b4\u30f3\u65cfS\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u304c\u3001\u300c<<6217>>\u300d\u3084\u300c<<8575>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u3053\u306e\u30bf\u30fc\u30f3\u306b\u81ea\u5206\u306f\u30c9\u30e9\u30b4\u30f3\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11644>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u3084\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306b\u30c9\u30e9\u30b4\u30f3\u65cf\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

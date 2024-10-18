@@ -1,0 +1,39 @@
+{
+    "cards": [
+        7849,
+        10186,
+        11614
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Since Ultimaya Tzolkin must be Special Summoned by sending 2 Level 5 or higher monsters with the same Level (1 Tuner and 1 non-Tuner) to the Graveyard, it cannot be Special Summoned using a Plaguespreader Zombie that was Special Summoned by its own effect.",
+            "id": 14651,
+            "question": "Can Ultimaya Tzolkin be Special Summoned by sending a Plaguespreader Zombie to the Graveyard, after it was Special Summoned by its own effect, and treated as a Level 7 or higher monster with Galaxy Queen's Light?",
+            "thisSrc": {
+                "date": "2014-12-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can Ultimaya Tzolkin be Special Summoned by sending a Plaguespreader Zombie to the Graveyard, after it was Special Summoned by its own effect, and treated as a Level 7 or higher monster with Galaxy Queen's Light?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11614>>\u300d\u306f\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ec\u30d9\u30eb\uff15\u4ee5\u4e0a\u3067\u540c\u3058\u30ec\u30d9\u30eb\u306e\u3001\u30c1\u30e5\u30fc\u30ca\u30fc\u3068\u30c1\u30e5\u30fc\u30ca\u30fc\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\uff11\u4f53\u305a\u3064\u5893\u5730\u3078\u9001\u3063\u305f\u5834\u5408\u306e\u307f\u7279\u6b8a\u53ec\u559a\u3067\u304d\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u3002\n\n\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u3066\u3044\u308b\u300c<<7849>>\u300d\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u3092\u96e2\u308c\u305f\u5834\u5408\u306b\u9664\u5916\u3055\u308c\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u306e\u3067\u3001\u300c<<11614>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u969b\u306b\u5893\u5730\u3078\u9001\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 14651,
+            "question": "\u300c<<11614>>\u300d\u306e\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ec\u30d9\u30eb\uff15\u4ee5\u4e0a\u3067\u540c\u3058\u30ec\u30d9\u30eb\u306e\u3001\u30c1\u30e5\u30fc\u30ca\u30fc\u3068\u30c1\u30e5\u30fc\u30ca\u30fc\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\uff11\u4f53\u305a\u3064\u5893\u5730\u3078\u9001\u3063\u305f\u5834\u5408\u306e\u307f\u7279\u6b8a\u53ec\u559a\u3067\u304d\u308b\u300f\u306e\u7279\u6b8a\u53ec\u559a\u306e\u969b\u306b\u3001\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u5893\u5730\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u3001\u300c<<10186>>\u300d\u306e\u52b9\u679c\u3067\u30ec\u30d9\u30eb\uff17\u4ee5\u4e0a\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u300c<<7849>>\u300d\u3092\u5893\u5730\u3078\u9001\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c\u30a2\u30eb\u30c6\u30a3\u30de\u30e4\uff65\u30c4\u30a3\u30aa\u30eb\u30ad\u30f3\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u969b\u306b\u3001\u81ea\u8eab\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u3066\u3044\u308b\u300c<<7849>>\u300d\u3092\u9078\u3076\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

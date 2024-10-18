@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5645,
+        13168,
+        13175
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if your \"Amazoness\" monster destroyed the opponent's monster by battle, you can activate the effect of Amazoness Onslaught after damage calculation. In that case, the destroyed monster is banished after damage calculation and is never sent to the Graveyard.",
+            "id": 21091,
+            "question": "My Amazoness Paladin destroys my opponent's Red-Eyes Baby Dragon by battle. In this case, can I activate the effect of Amazoness Onslaught that banishes the opponent's battling monster after damage calculation?",
+            "thisSrc": {
+                "date": "2017-06-03",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "My Amazoness Paladin destroys my opponent's Red-Eyes Baby Dragon by battle. In this case, can I activate the effect of Amazoness Onslaught that banishes the opponent's battling monster after damage calculation?",
+            "tlSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "translationStatus": "outdated"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u306e\u300c\u30a2\u30de\u30be\u30cd\u30b9\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u6226\u95d8\u3067\u7834\u58ca\u3057\u305f\u5834\u5408\u3067\u3082\u3001\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u5f8c\u306b\u300c<<13175>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u305d\u306e\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u5f8c\u306b\u9664\u5916\u3055\u308c\u3001\u5893\u5730\u3078\u306f\u9001\u3089\u308c\u307e\u305b\u3093\u3002",
+            "id": 21091,
+            "question": "\u81ea\u5206\u306e\u300c<<5645>>\u300d\u304c\u76f8\u624b\u306e\u300c<<13168>>\u300d\u3092\u6226\u95d8\u3067\u7834\u58ca\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u81ea\u5206\u306f\u300c<<13175>>\u300d\u306e\u300e\u2461\uff1a\u81ea\u5206\u306e\u300c\u30a2\u30de\u30be\u30cd\u30b9\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3063\u305f\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u5f8c\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u300c\u30a2\u30de\u30be\u30cd\u30b9\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u6226\u95d8\u3067\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u5f8c\u306b\u300c<<13175>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Damage Step"
+    ]
+}

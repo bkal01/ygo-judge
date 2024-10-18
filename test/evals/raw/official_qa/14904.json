@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5740,
+        11677
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, since the effect of <<11677>> that prevents it from attacking unless you control another \"Performapal\" monster is negated, it can attack even if you do not control other \"Performapal\" monsters.",
+            "id": 14904,
+            "question": "If the effects of <<11677>> are negated by the effect of <<5740>>, can it attack even if you control no other \"Performapal\" monsters?",
+            "thisSrc": {
+                "date": "2015-02-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the effects of <<11677>> are negated by the effect of <<5740>>, can it attack even if you control no other \"Performapal\" monsters?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<5740>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<11677>>\u300d\u306e\u300e\u2461\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u4ed6\u306e\u300cEM\u300d\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306f\u653b\u6483\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u4ed6\u306e\u300c\uff25\uff2d\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3067\u3082\u3001\u300c<<11677>>\u300d\u306f\u653b\u6483\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 14904,
+            "question": "\u300c<<5740>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<11677>>\u300d\u306e\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u4ed6\u306e\u300cEM\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3057\u306a\u3044\u72b6\u6cc1\u3067\u3082\u3001\u300c<<11677>>\u300d\u306f\u653b\u6483\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5740>>\u300d\u306e\u9069\u7528\u4e2d\u3001\u300c<<11677>>\u300d\u306f\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u4ed6\u306e\u300cEM\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3057\u306a\u304f\u3066\u3082\u653b\u6483\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

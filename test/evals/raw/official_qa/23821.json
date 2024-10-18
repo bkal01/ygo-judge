@@ -1,0 +1,40 @@
+{
+    "cards": [
+        18003,
+        18004,
+        18005,
+        18006
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When you activate a \"<<18003>>\" Quick-Play Spell, and your opponent does not chain any card or effect, you can activate the \u2461nd effect of one of <<18004>>, <<18005>>, or <<18006>> in response. (If your opponent has chained a card effect to the Quick-Play Spell's activation, you cannot activate any of them.)\n\nEffects that can be activated \"when (something) is activated\" are effects that must be activated by directly chaining to an appropriate activation. If they cannot be activated in direct response (on the immediately following Chain Link), they cannot be activated at all.\n\nWhen you activate one \"<<18003>>\" Quick-Play Spell, you first need to check with your opponent whether they would like to chain a card or effect. If they do not wish to, you can then activate the \u2461nd effect of one of <<18004>>, <<18005>>, or <<18006>> in response.",
+            "id": 23821,
+            "question": "In response to a single \"<<18003>>\" Quick-Play Spell's activation, can I activate the \u2461nd effects of all three of <<18004>>, <<18005>>, and <<18006>>?",
+            "thisSrc": {
+                "date": "2022-08-23",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "When I activate a \"<<18003>>\" Quick-Play Spell, can I activate the effects of multiple <<18004>>, <<18005>>, <<18006>> etc.?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u304c\u300c<<18003>>\u300d\u901f\u653b\u9b54\u6cd5\u30ab\u30fc\u30c9\uff11\u679a\u3092\u767a\u52d5\u3057\u305f\u6642\u306b\u3001\u76f8\u624b\u304c\u30ab\u30fc\u30c9\u3084\u52b9\u679c\u3092\u30c1\u30a7\u30fc\u30f3\u3057\u306a\u304b\u3063\u305f\u306e\u3067\u3042\u308c\u3070\u3001\u300c<<18004>>\u300d\u300c<<18005>>\u300d\u300c<<18006>>\u300d\u306e\u3044\u305a\u308c\u304b\u306e\u2461\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\u76f8\u624b\u304c\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u30c1\u30a7\u30fc\u30f3\u3057\u305f\u306e\u3067\u3042\u308c\u3070\u3001\u3044\u305a\u308c\u306e\u2461\u306e\u52b9\u679c\u3082\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u300e\u767a\u52d5\u3057\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u300f\u52b9\u679c\u306f\u3001\u8a72\u5f53\u306e\u30ab\u30fc\u30c9\u3084\u52b9\u679c\u306e\u767a\u52d5\u306b\u76f4\u63a5\u30c1\u30a7\u30fc\u30f3\u3059\u308b\u3053\u3068\u3067\u767a\u52d5\u3067\u304d\u308b\u52b9\u679c\u3067\u3042\u308a\u3001\u76f4\u63a5\u30c1\u30a7\u30fc\u30f3\u3067\u304d\u306a\u3044\u72b6\u6cc1\u3067\u306f\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u81ea\u5206\u304c\u300c<<18003>>\u300d\u901f\u653b\u9b54\u6cd5\u30ab\u30fc\u30c9\uff11\u679a\u3092\u767a\u52d5\u3057\u305f\u6642\u306b\u306f\u307e\u305a\u76f8\u624b\u306b\u30ab\u30fc\u30c9\u3084\u52b9\u679c\u306e\u30c1\u30a7\u30fc\u30f3\u306e\u6709\u7121\u3092\u78ba\u8a8d\u3059\u308b\u5fc5\u8981\u304c\u3042\u308a\u3001\u30c1\u30a7\u30fc\u30f3\u304c\u306a\u304b\u3063\u305f\u6642\u306b\u521d\u3081\u3066\u300c<<18004>>\u300d\u300c<<18005>>\u300d\u300c<<18006>>\u300d\u306e\u2461\u306e\u52b9\u679c\u3092\u76f4\u63a5\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 23821,
+            "question": "\u81ea\u5206\u304c\u300c<<18003>>\u300d\u901f\u653b\u9b54\u6cd5\u30ab\u30fc\u30c9\uff11\u679a\u3092\u767a\u52d5\u3057\u305f\u6642\u306b\u3001\u300c<<18004>>\u300d\u300c<<18005>>\u300d\u300c<<18006>>\u300d\u306e\u2461\u306e\u300e\u81ea\u5206\u304c\u300c<<18003>>\u300d\u901f\u653b\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u767a\u52d5\u3057\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u304c\u300c<<18003>>\u300d\u901f\u653b\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u767a\u52d5\u3057\u305f\u6642\u306b\u3001\u8907\u6570\u4f53\u306e\u300c\u30a8\u30d4\u30e5\u30a2\u30ea\u30a3\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u305d\u308c\u305e\u308c\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

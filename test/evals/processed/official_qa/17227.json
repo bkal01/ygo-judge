@@ -1,0 +1,38 @@
+{
+    "cards": [
+        11320,
+        12023
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If the Xyz Summon of Dante, Traveler of the Burning Abyss is negated by your opponent's Grand Horn of Heaven, and Dante, Traveler of the Burning Abyss is sent to the Graveyard as a result, you can activate the third effect of Dante, Traveler of the Burning Abyss. In that case, the effect will activate after the parts of the effect of Grand Horn of Heaven that draw 1 card and end the Main Phase have finished resolving.",
+            "id": 17227,
+            "question": "If the Xyz Summon of Dante, Traveler of the Burning Abyss is negated by my opponent's Grand Horn of Heaven, can I activate the effect of Dante, Traveler of the Burning Abyss that adds a \"Burning Abyss\" card in the Graveyard to my hand?",
+            "thisSrc": {
+                "date": "2015-10-06",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the Xyz Summon of Dante, Traveler of the Burning Abyss is negated by my opponent's Grand Horn of Heaven, can I activate the effect of Dante, Traveler of the Burning Abyss that adds a \"Burning Abyss\" card in the Graveyard to my hand?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u76f8\u624b\u306e\u300c<<12023>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u304c\u7121\u52b9\u306b\u3055\u308c\u305f\u300c<<11320>>\u300d\u306f\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u307e\u3059\u306e\u3067\u3001\u305d\u306e\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u300c<<11320>>\u300d\u306e\u300e\u305d\u306e\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u305d\u306e\u300c<<11320>>\u300d\u306e\u52b9\u679c\u306f\u3001\u300c<<12023>>\u300d\u306e\u300e\u305d\u306e\u5f8c\u3001\u76f8\u624b\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff11\u679a\u30c9\u30ed\u30fc\u3057\u3001\u76f8\u624b\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u3092\u7d42\u4e86\u3059\u308b\u300f\u52b9\u679c\u51e6\u7406\u304c\u5b8c\u4e86\u3057\u305f\u5f8c\u306b\u767a\u52d5\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 17227,
+            "question": "\u76f8\u624b\u306e\u300c<<12023>>\u300d\u306e\u300e\u2460\uff1a\u76f8\u624b\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u76f8\u624b\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u969b\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u7279\u6b8a\u53ec\u559a\u3092\u7121\u52b9\u306b\u3057\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3059\u308b\u3002\u305d\u306e\u5f8c\u3001\u76f8\u624b\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff11\u679a\u30c9\u30ed\u30fc\u3057\u3001\u76f8\u624b\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u3092\u7d42\u4e86\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u81ea\u5206\u306e\u300c<<11320>>\u300d\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u304c\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u306b\u3001\u300e\u2462\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u5f7c\u5cb8\u300d\u30ab\u30fc\u30c9\uff11\u679a\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11320>>\u300d\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u304c\u3001\u76f8\u624b\u306e\u300c<<12023>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}
