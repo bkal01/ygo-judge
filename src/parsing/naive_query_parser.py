@@ -13,11 +13,10 @@ class NaiveQueryParser(QueryParser):
         self.names = super().load_names(card_name_dir)
     
     def parse(self, query: str) -> List[int]:
-        query_words = query.split()
         matched_ids = []
-        for i in range(len(query_words) - 1):
-            for j in range(i+1, len(query_words)):
-                substring = " ".join(query_words[i:j])
+        for i in range(len(query)):
+            for j in range(i + 1, len(query) + 1):
+                substring = query[i:j]
                 if substring in self.names:
                     matched_ids.append(self.names[substring])
         return matched_ids
