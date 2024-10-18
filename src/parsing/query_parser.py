@@ -2,18 +2,18 @@ import json
 import os
 
 from abc import ABC, abstractmethod
-from typing import List, Set
+from typing import Dict, List
 
 class QueryParser(ABC):
-    def load_names(self, dir: str) -> Set:
+    def load_names(self, dir: str) -> Dict:
         """
         Iterates through .json files to fetch all the card names.
         """
-        names = set()
+        names = {}
         for filename in os.listdir(dir):
             with open(f"{dir}/{filename}", "r") as f:
                 card_info = json.load(f)
-                names.add(card_info["name"])
+                names[card_info["name"]] = card_info["id"]
         print(f"Loaded {len(names)} names.")
         return names
     

@@ -12,22 +12,22 @@ class NaiveQueryParser(QueryParser):
     def __init__(self, card_name_dir: str) -> None:
         self.names = super().load_names(card_name_dir)
     
-    def parse(self, query: str) -> List[str]:
+    def parse(self, query: str) -> List[int]:
         query_words = query.split()
-        matched_names = []
+        matched_ids = []
         for i in range(len(query_words) - 1):
             for j in range(i+1, len(query_words)):
                 substring = " ".join(query_words[i:j])
                 if substring in self.names:
-                    matched_names.append(substring)
-        return matched_names
+                    matched_ids.append(self.names[substring])
+        return matched_ids
     
 if __name__ == "__main__":
     load_dotenv()
     parser = NaiveQueryParser(
         card_name_dir=os.getenv("YUGIOH_CARD_HISTORY_PATH"),
     )
-    matched_names = parser.parse(
+    matched_ids = parser.parse(
         query="Tour Guide From the Underworld testing testing Raigeki testing testing Infinite Impermanence testing testing."
     )
-    print(matched_names)
+    print(matched_ids)
