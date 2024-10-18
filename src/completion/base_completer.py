@@ -39,6 +39,5 @@ class BaseCompleter(Completer):
             json=data,
         )
         json_resp = resp.json()
-        print(json_resp)
         completion = json_resp["choices"][0]["message"]["content"]
         return completion
