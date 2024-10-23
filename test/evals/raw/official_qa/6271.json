@@ -1,0 +1,38 @@
+{
+    "cards": [
+        6472,
+        11166
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If your monster is able to attack directly due to the effect of <<11166>>, you do not have to attack directly with it. (It can also attack monsters normally.)",
+            "id": 6271,
+            "question": "When my <<6472>> is targeted for an attack by an opponent's monster, I activate <<11166>>. During my next turn, does <<6472>> have to attack my opponent directly?",
+            "thisSrc": {
+                "date": "2015-05-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When my <<6472>> is targeted for an attack by an opponent's monster, I activate <<11166>>. During my next turn, does <<6472>> have to attack my opponent directly?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11166>>\u300d\u306e\u300e\u305d\u306e\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u6b21\u306e\u81ea\u5206\u30bf\u30fc\u30f3\u306b\u76f4\u63a5\u653b\u6483\u3067\u304d\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u305d\u306e\u6b21\u306e\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306b\u5fc5\u305a\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u76f4\u63a5\u653b\u6483\u3092\u884c\u308f\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u3001\u3068\u3044\u3046\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\uff08\u901a\u5e38\u901a\u308a\u30e2\u30f3\u30b9\u30bf\u30fc\u3078\u306e\u653b\u6483\u3092\u884c\u3046\u4e8b\u3082\u3067\u304d\u307e\u3059\u3002\uff09",
+            "id": 6271,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u300c<<6472>>\u300d\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u5bfe\u8c61\u3068\u306a\u3063\u305f\u969b\u306b\u300c<<11166>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u6b21\u306e\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u3001\u305d\u306e\u300c<<6472>>\u300d\u306f\u300e\u305d\u306e\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u6b21\u306e\u81ea\u5206\u30bf\u30fc\u30f3\u306b\u76f4\u63a5\u653b\u6483\u3067\u304d\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u5fc5\u305a\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u76f4\u63a5\u653b\u6483\u3057\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11166>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u6b21\u306e\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306b\u5fc5\u305a\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u76f4\u63a5\u653b\u6483\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "cards": [
+        11441,
+        11442,
+        11458
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If <<11441>> and <<11442>> are in the Pendulum Zones, they are treated as Spell Cards and not \"D/D\" monsters. Therefore, in this case, the effect of <<11458>> that was Pendulum Summoned cannot be activated.",
+            "id": 13413,
+            "question": "If <<11441>> and <<11442>> are in the Pendulum Zones, and <<11458>> is Pendulum Summoned while no other \"D/D\" monsters exist in the Monster Zone, can the effect of <<11458>> be activated?",
+            "thisSrc": {
+                "date": "2014-08-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<11441>> and <<11442>> are in the Pendulum Zones, and <<11458>> is Pendulum Summoned while no other \"D/D\" monsters exist in the Monster Zone, can the effect of <<11458>> be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u3084\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u300cDD\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u306f\u3001\u9b54\u6cd5\u30ab\u30fc\u30c9\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u72b6\u614b\u3067\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300e\u300c<<11458>>\u300d\u4ee5\u5916\u306e\u300cDD\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3059\u308b\u300f\u72b6\u614b\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u306e\u3067\u3001\u300c<<11458>>\u300d\u306e\u52b9\u679c\u306f\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 13413,
+            "question": "\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u300c<<11441>>\u300d\u3068\u300c<<11442>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300cDD\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\uff11\u4f53\u3082\u5b58\u5728\u3057\u306a\u3044\u72b6\u614b\u3067\u3001\u624b\u672d\u306e\u300c<<11458>>\u300d\u3092\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u3084\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u300cDD\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u304c\u3042\u308b\u5834\u5408\u3001\u300c<<11458>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Pendulum"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4968,
+        6564
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If <<6564>> has been declared by <<4968>>, it cannot be Special Summoned. Thus, you cannot send <<4968>> to the Graveyard to Special Summon it.",
+            "id": 13586,
+            "question": "If <<6564>> has been declared by <<4968>>, can a <<6564>> be Special Summoned by sending 3 face-up Continuous Spell Cards you control to the Graveyard, including the active <<4968>>?",
+            "thisSrc": {
+                "date": "2014-09-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<6564>> has been declared by <<4968>>, can a <<6564>> be Special Summoned by sending 3 face-up Continuous Spell Cards you control to the Graveyard, including the active <<4968>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<4968>>\u300d\u3067\u300c<<6564>>\u300d\u304c\u5ba3\u8a00\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u300c<<6564>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u81ea\u4f53\u304c\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<4968>>\u300d\u3092\u542b\u3080\uff13\u679a\u306e\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u6c38\u7d9a\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u5893\u5730\u3078\u9001\u308b\u4e8b\u3082\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 13586,
+            "question": "\u300c<<4968>>\u300d\u3067\u300c<<6564>>\u300d\u306e\u30ab\u30fc\u30c9\u540d\u304c\u5ba3\u8a00\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\u305d\u306e\u72b6\u6cc1\u3067\u3001\u300c<<4968>>\u300d\u3092\u542b\u3080\uff13\u679a\u306e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u6c38\u7d9a\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u5893\u5730\u3078\u9001\u3063\u3066\u300c<<6564>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<4968>>\u300d\u3067\u300c<<6564>>\u300d\u304c\u5ba3\u8a00\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u300c<<4968>>\u300d\u3092\u542b\u3080\u6c38\u7d9a\u9b54\u6cd5\u30ab\u30fc\u30c9\uff13\u679a\u3092\u5893\u5730\u3078\u9001\u3063\u3066\u300c<<6564>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Special Summon Monster"
+    ]
+}

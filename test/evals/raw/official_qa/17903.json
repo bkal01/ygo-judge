@@ -1,0 +1,40 @@
+{
+    "cards": [
+        12078,
+        12079,
+        12080,
+        12272
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, the effect of the second <<12272>> changes the name and effects of <<12079>> to the banished monster's name and effects. (It will have the name and effects of <<12080>>. As a result, the effect of the first <<12272>> is no longer applied.)",
+            "id": 17903,
+            "question": "<<12272>> is activated by banishing <<12078>> from my Graveyard, targeting a <<12079>> on my side of the field. Afterward, if a second copy of <<12272>> is activated by banishing <<12080>>, targeting the same monster as the first copy, how does that <<12272>> resolve?",
+            "thisSrc": {
+                "date": "2015-12-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<12272>> is activated by banishing <<12078>> from my Graveyard, targeting a <<12079>> on my side of the field. Afterward, if a second copy of <<12272>> is activated by banishing <<12080>>, targeting the same monster as the first copy, how does that <<12272>> resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u5bfe\u8c61\u306e\u300c<<12079>>\u300d\u306f\u30012\u679a\u76ee\u306e\u300c<<12272>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u767a\u52d5\u3059\u308b\u305f\u3081\u306b\u9664\u5916\u3057\u305f\u300c\u30ec\u30c3\u30c9\u30fb\u30c7\u30fc\u30e2\u30f3\u300dS\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u540c\u540d\u30ab\u30fc\u30c9\u3068\u3057\u3066\u6271\u3044\u3001\u540c\u3058\u52b9\u679c\u306b\u306a\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u9069\u7528\u3055\u308c\u305f\u30ab\u30fc\u30c9\u540d\u3068\u52b9\u679c\u3092\u6301\u3064\u72b6\u614b\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u3059\u3002\n\uff08\u30ab\u30fc\u30c9\u540d\u306f\u300c<<12080>>\u300d\u3068\u306a\u308a\u3001\u300c<<12080>>\u300d\u306e\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u306e\u307f\u3092\u6301\u3063\u305f\u72b6\u614b\u3068\u306a\u308a\u307e\u3059\u3002\u3057\u305f\u304c\u3063\u3066\u3001\u7d50\u679c\u7684\u306b\u30011\u679a\u76ee\u306e\u300c<<12272>>\u300d\u306e\u52b9\u679c\u306e\u9069\u7528\u306f\u306a\u304f\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 17903,
+            "question": "\u81ea\u5206\u306e\u5893\u5730\u306e\u300c<<12078>>\u300d\u3092\u9664\u5916\u3057\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u300c<<12079>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<12272>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u5f8c\u306b\u81ea\u5206\u306e\u5893\u5730\u306e\u300c<<12080>>\u300d\u3092\u9664\u5916\u3057\u30011\u679a\u76ee\u306e\u300c<<12272>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u30012\u679a\u76ee\u306e\u300c<<12272>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12272>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u30012\u679a\u76ee\u306e\u300c<<12272>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u30ab\u30fc\u30c9\u540d\u3084\u52b9\u679c\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

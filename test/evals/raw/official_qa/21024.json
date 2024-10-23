@@ -1,0 +1,38 @@
+{
+    "cards": [
+        12038,
+        13149
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, the player who Special Summoned <<12038>> is the one who cannot Normal Summon during this turn due to the effect of <<13149>>. (The effect is not applied to your opponent, whose field <<12038>> was Special Summoned to.)",
+            "id": 21024,
+            "question": "<<13149>> is face-up in the Spell & Trap Zone. In this situation, I Special Summon a <<12038>> from my hand to my opponent's field with its effect. In this case, which player will the effect of <<13149>> be applied to?",
+            "thisSrc": {
+                "date": "2017-05-13",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<13149>> is face-up in the Spell & Trap Zone. In this situation, I Special Summon a <<12038>> from my hand to my opponent's field with its effect. In this case, which player will the effect of <<13149>> be applied to?",
+            "tlSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "translationStatus": "outdated"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<12038>>\u300d\u306e\u7279\u6b8a\u53ec\u559a\u3092\u884c\u3063\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u3067\u3042\u308b\u81ea\u5206\u306b\u3001\u300c<<13149>>\u300d\u306e\u300e\u25cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u3001\u305d\u306e\u30bf\u30fc\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u901a\u5e38\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\uff08\u300c<<12038>>\u300d\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\uff09",
+            "id": 21024,
+            "question": "\u76f8\u624b\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u300c<<13149>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u304c\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306f\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3001\u624b\u672d\u304b\u3089\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u653b\u6483\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3067\u304d\u308b\u300f\u65b9\u6cd5\u306b\u3088\u3063\u3066\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<12038>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u300c<<13149>>\u300d\u306e\u300e\u25cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u3001\u305d\u306e\u30bf\u30fc\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u901a\u5e38\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306f\u3069\u3061\u3089\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u304c\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c<<12038>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300c<<13149>>\u300d\u306e\u52b9\u679c\u306f\u3069\u3061\u3089\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

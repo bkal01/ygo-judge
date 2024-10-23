@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4987,
+        11727
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, it cannot.",
+            "id": 15193,
+            "question": "Can <<11727>> be activated while my hand is revealed by <<4987>>?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can <<11727>> be activated while my hand is revealed by <<4987>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 15193,
+            "question": "\u300c<<4987>>\u300d\u306e\u52b9\u679c\u9069\u7528\u4e2d\u306b\u3001\u81ea\u5206\u306e\u624b\u672d\u304c\u516c\u958b\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u300c<<11727>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<4987>>\u300d\u3067\u624b\u672d\u304c\u516c\u958b\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u306b\u3001\u300c<<11727>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

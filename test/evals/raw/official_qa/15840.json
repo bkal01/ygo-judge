@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4820,
+        9352
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When resolving <<4820>>, even if the attacking monster has become unaffected by Spell effects, you still roll a six-sided die for <<4820>>. Of the die results, the \"\u25cf 1:\" effect can be applied normally but the remaining effects will not be able to apply.",
+            "id": 15840,
+            "question": "If <<9352>> is activated in a chain to <<4820>>, and the attacking monster becomes unaffected by other Spell effects, how does <<4820>> resolve?",
+            "thisSrc": {
+                "date": "2015-05-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<9352>> is activated in a chain to <<4820>>, and the attacking monster becomes unaffected by other Spell effects, how does <<4820>> resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<4820>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u653b\u6483\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u300c<<9352>>\u300d\u304c\u9069\u7528\u3055\u308c\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u72b6\u614b\u306e\u5834\u5408\u3067\u3082\u3001\u30b5\u30a4\u30b3\u30ed\u3092\u632f\u308b\u51e6\u7406\u306f\u884c\u3044\u3001\u305d\u306e\u7d50\u679c\u3001\u52b9\u679c\u51e6\u7406\u3092\u884c\u3048\u308b\u5834\u5408\u306b\u306f\u3001\u51e6\u7406\u3092\u884c\u3044\u307e\u3059\u3002\n\n\u30b5\u30a4\u30b3\u30ed\u306e\u51fa\u305f\u76ee\u306e\u7d50\u679c\u3001\u300e\uff11\u30fb\u81ea\u5206\u306eLP\u3092\u534a\u5206\u306b\u3059\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u308b\u5834\u5408\u306f\u901a\u5e38\u901a\u308a\u51e6\u7406\u3055\u308c\u307e\u3059\u304c\u3001\u305d\u306e\u4ed6\u306e\u51e6\u7406\u304c\u884c\u308f\u308c\u308b\u5834\u5408\u306f\u3001\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 15840,
+            "question": "\u300c<<4820>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<9352>>\u300d\u304c\u767a\u52d5\u3057\u3001\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u76f8\u624b\u306e\u653b\u6483\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u72b6\u614b\u306e\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<4820>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u653b\u6483\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u300c<<9352>>\u300d\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain",
+        "o:Negating Attacks",
+        "o:Unaffected by Effects"
+    ]
+}

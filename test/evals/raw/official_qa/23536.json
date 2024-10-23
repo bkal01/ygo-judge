@@ -1,0 +1,39 @@
+{
+    "cards": [
+        11413,
+        14920,
+        15854
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, it can.\n\nIf it does, even if <<15854>>'s ATK is still 4000 by the time the effect resolves, the effect that <<11413>> gained will be applied to <<15854>> normally.",
+            "id": 23536,
+            "question": "<<11413>> has been Xyz Summoned using <<14920>> as material, and has gained the effect that changes a targeted Xyz monster's ATK to 4000 & negates its effects. Can this effect target <<15854>>, an Xyz monster with 4000 ATK?",
+            "thisSrc": {
+                "date": "2022-01-19",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If <<11413>> gains the \"\u25cf\" effect by using <<14920>> as material, can it target a monster with 4000 ATK?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u51e6\u7406\u6642\u306b\u300c<<15854>>\u300d\u306e\u653b\u6483\u529b\u304c\uff14\uff10\uff10\uff10\u306e\u307e\u307e\u3060\u3063\u305f\u5834\u5408\u3067\u3082\u3001\u300e\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\uff14\uff10\uff10\uff10\u306b\u306a\u308a\u3001\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 23536,
+            "question": "\u300c<<14920>>\u300d\u3092X\u7d20\u6750\u3068\u3057\u3066\u3044\u308b\u300c<<11413>>\u300d\u304c\u5f97\u3066\u3044\u308b\u300e\u25cf\u3053\u306e\u30ab\u30fc\u30c9\u306eX\u7d20\u6750\u3092\uff12\u3064\u53d6\u308a\u9664\u304d\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306eX\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\uff14\uff10\uff10\uff10\u306b\u306a\u308a\u3001\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u969b\u3001\u653b\u6483\u529b\uff14\uff10\uff10\uff10\u306eX\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u308b\u300c<<15854>>\u300d\u3092\u5bfe\u8c61\u306b\u9078\u629e\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<14920>>\u300d\u3092X\u7d20\u6750\u3068\u3057\u3066\u3044\u308b\u300c<<11413>>\u300d\u306f\u3001\u653b\u6483\u529b4000\u306eX\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300e\u25cf\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

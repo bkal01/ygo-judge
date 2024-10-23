@@ -1,0 +1,47 @@
+{
+    "cards": [
+        13335,
+        13336,
+        13337,
+        13338,
+        13339,
+        13340,
+        14323,
+        20595,
+        20598,
+        20599,
+        20600
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, the effect will apply normally.\n\n~~~\n\nThis also applies to the following cards; the effect they grant to other cards will still resolve normally, even if they themselves no longer exist in the Spell & Trap Zone at resolution:\n\u25cf <<20598>>\n\u25cf <<20600>>\n\u25cf <<13336>>\n\u25cf <<13337>>\n\u25cf <<13338>>\n\u25cf <<13335>>\n\u25cf <<13340>>\n\u25cf <<13339>>\n\u25cf <<14323>>",
+            "id": 9664,
+            "question": "While only <<20599>> is face-up in my Spell & Trap Zone, I activate the\u300e\u25cf You can place 1 face-up \"Apodrakosis\" Continuous Spell you control on the bottom of the Deck, then target 1 card on the field; return it to the hand.\u300feffect granted by <<20599>> to my <<20595>>, and do so by returning that same <<20599>> to the bottom of my Deck.\n\nAs a result, <<20599>> is no longer in my Spell & Trap Zone by the time the effect's activation resolves. Will the targeted card be returned to the hand?",
+            "thisSrc": {
+                "date": "2017-09-04",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the effect granted by <<20599>> to a monster has been activated, but <<20599>> is then removed, what happens to the effect?",
+            "tlSrc": {
+                "date": "2024-08-26",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u884c\u308f\u308c\u307e\u3059\u3002\n\n\u4ee5\u4e0b\u306e\u30ab\u30fc\u30c9\u306b\u8a18\u8f09\u3055\u308c\u3066\u3044\u308b\u25cf\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u51e6\u7406\u6642\u306b\u305d\u306e\u30ab\u30fc\u30c9\u304c\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3057\u3066\u3044\u306a\u3044\u5834\u5408\u3082\u540c\u69d8\u306b\u3001\u52b9\u679c\u51e6\u7406\u306f\u884c\u308f\u308c\u307e\u3059\u3002\n\u300c<<20598>>\u300d\n\u300c<<20600>>\u300d\n\u300c<<13336>>\u300d\n\u300c<<13337>>\u300d\n\u300c<<13338>>\u300d\n\u300c<<13335>>\u300d\n\u300c<<13340>>\u300d\n\u300c<<13339>>\u300d\n\u300c<<14323>>\u300d",
+            "id": 9664,
+            "question": "\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u300c<<20599>>\u300d\u304c\uff11\u679a\u5b58\u5728\u3057\u3066\u3044\u308b\u72b6\u6cc1\u3067\u3001\u300c<<20595>>\u300d\u306e\u300e\u25cf\u76f8\u624b\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u306e\u300c\u7adc\u83ef\u300d\u6c38\u7d9a\u9b54\u6cd5\u30ab\u30fc\u30c9\uff11\u679a\u3092\u30c7\u30c3\u30ad\u306e\u4e00\u756a\u4e0b\u306b\u623b\u3057\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u623b\u3059\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u969b\u306e\u30b3\u30b9\u30c8\u3068\u3057\u3066\u300c<<20599>>\u300d\u3092\u30c7\u30c3\u30ad\u306e\u4e0b\u306b\u623b\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u51e6\u7406\u6642\u306b\u300c<<20599>>\u300d\u304c\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3057\u3066\u3044\u307e\u305b\u3093\u304c\u3001\u25cf\u306e\u300e\u305d\u306e\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u623b\u3059\u300f\u51e6\u7406\u306f\u884c\u308f\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-08-26",
+                "type": 0
+            },
+            "title": "\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5f97\u3066\u3044\u308b\u300c<<20599>>\u300d\u306e\u25cf\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u51e6\u7406\u6642\u306b\u3001\u300c<<20599>>\u300d\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u96e2\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u884c\u308f\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

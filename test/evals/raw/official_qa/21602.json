@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6709,
+        12612,
+        13507
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of <<13507>> that draws 1 card is a Trigger Effect that activates on the field. In this scenario, if <<13507>> is destroyed at the same time as a card in your Pendulum Zone and is not on the field, its effect does not activate.",
+            "id": 21602,
+            "question": "My <<13507>> is in an Extra Monster Zone, and my <<12612>> is in a Pendulum Zone. In this situation, if my opponent activates <<6709>> and destroys both <<13507>> and <<12612>>, will the effect of <<13507>> that draws 1 card activate?",
+            "thisSrc": {
+                "date": "2017-11-25",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "My <<13507>> is in an Extra Monster Zone, and my <<12612>> is in a Pendulum Zone. In this situation, if my opponent activates <<6709>> and destroys both <<13507>> and <<12612>>, will the effect of <<13507>> that draws 1 card activate?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<13507>>\u300d\u306e\u300e\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff11\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u3066\u767a\u52d5\u3059\u308b\u8a98\u767a\u52b9\u679c\u3067\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\u3068\u540c\u6642\u306b\u300c<<13507>>\u300d\u81ea\u8eab\u304c\u7834\u58ca\u3055\u308c\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u306b\u306f\u3001\u305d\u306e\u300c<<13507>>\u300d\u306e\u300e\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff11\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u305b\u3093\u3002",
+            "id": 21602,
+            "question": "\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u81ea\u5206\u306e\u300c<<13507>>\u300d\u304c\u5b58\u5728\u3057\u3001\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u300c<<12612>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u76f8\u624b\u304c\u300c<<6709>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300c<<13507>>\u300d\u3068\u300c<<12612>>\u300d\u304c\u540c\u6642\u306b\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<13507>>\u300d\u306e\u300e\u2462\uff1a\u81ea\u5206\u306eP\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u96e2\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3059\u308b\u3002\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff11\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\u3068\u300c<<13507>>\u300d\u304c\u540c\u6642\u306b\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<13507>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Link"
+    ]
+}

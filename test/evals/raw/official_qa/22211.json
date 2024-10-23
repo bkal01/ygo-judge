@@ -1,0 +1,40 @@
+{
+    "cards": [
+        7076,
+        7078,
+        10214,
+        14154
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "While the effect of <<10214>> is applying, if you send <<7076>> from your hand to the Graveyard with the effect of <<14154>>, you must add an EARTH Flip Monster from your Deck to your hand. Also, while the effect of <<10214>> is applying, if you send a face-up <<7078>> from your Monster Zone to the Graveyard with the effect of <<14154>>, you must add a DARK Flip Monster from your Deck to your hand.",
+            "id": 22211,
+            "question": "<<10214>> is face-up in the Field Zone, and its effect that treats \"Crystal Beast\" monsters on the field and in the Graveyard as DARK is applying. In this situation, if I activate <<14154>> and send a \"Crystal Beast\" monster to the Graveyard, what happens?",
+            "thisSrc": {
+                "date": "2018-11-09",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<10214>> is face-up in the Field Zone, and its effect that treats \"Crystal Beast\" monsters on the field and in the Graveyard as DARK is applying. In this situation, if I activate <<14154>> and send a \"Crystal Beast\" monster to the Graveyard, what happens?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<10214>>\u300d\u306e\u9069\u7528\u4e2d\u3001\u300c<<14154>>\u300d\u306e\u52b9\u679c\u3067\u624b\u672d\u306e\u300c<<7076>>\u300d\u3092\u5893\u5730\u3078\u9001\u308b\u5834\u5408\u3001\u5730\u5c5e\u6027\u306e\u30ea\u30d0\u30fc\u30b9\u30e2\u30f3\u30b9\u30bf\u30fc1\u4f53\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u307e\u305f\u3001\u300c<<10214>>\u300d\u306e\u9069\u7528\u4e2d\u3001\u300c<<14154>>\u300d\u306e\u52b9\u679c\u3067\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<7078>>\u300d\u3092\u5893\u5730\u3078\u9001\u308b\u5834\u5408\u3001\u95c7\u5c5e\u6027\u306e\u30ea\u30d0\u30fc\u30b9\u30e2\u30f3\u30b9\u30bf\u30fc1\u4f53\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 22211,
+            "question": "\u300c<<10214>>\u300d\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u300e\u304a\u4e92\u3044\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u30fb\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u300c\u5b9d\u7389\u7363\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u95c7\u5c5e\u6027\u3068\u3057\u3066\u6271\u3046\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u300c<<14154>>\u300d\u306e\u300e\u25cf\u624b\u672d\u53ca\u3073\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u4e2d\u304b\u3089\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u3093\u3067\u5893\u5730\u3078\u9001\u308a\u3001\u540c\u3058\u5c5e\u6027\u3067\u30ab\u30fc\u30c9\u540d\u304c\u7570\u306a\u308b\u30ea\u30d0\u30fc\u30b9\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u30c7\u30c3\u30ad\u304b\u3089\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c\u5b9d\u7389\u7363\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u3093\u3067\u5893\u5730\u3078\u9001\u308b\u5834\u5408\u3001\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<10214>>\u300d\u306e\u9069\u7528\u4e2d\u3001\u300c<<14154>>\u300d\u306e\u52b9\u679c\u3067\u300c\u5b9d\u7389\u7363\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5893\u5730\u3078\u9001\u308b\u5834\u5408\u3001\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

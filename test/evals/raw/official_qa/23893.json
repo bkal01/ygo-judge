@@ -1,0 +1,37 @@
+{
+    "cards": [
+        17032
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot.\n\nFor any Spell/Trap that will be sent to the Graveyard after use, such as a Normal Spell/Trap, that card cannot be used as a cost to activate the card itself. This applies not only to sending cards to the Graveyard as a cost, but also to banishing them, or returning them to the Deck.",
+            "id": 23893,
+            "question": "Can I send <<17032>> itself to the Graveyard as the cost to activate it?",
+            "thisSrc": {
+                "date": "2022-09-10",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can I send <<17032>> itself to the Graveyard as the cost to activate it?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u901a\u5e38\u9b54\u6cd5\u30fb\u901a\u5e38\u7f60\u306a\u3069\u306e\u4f7f\u7528\u5f8c\u306b\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306b\u3064\u3044\u3066\u3001\u305d\u306e\u30ab\u30fc\u30c9\u3092\u767a\u52d5\u3059\u308b\u30b3\u30b9\u30c8\u3068\u3057\u3066\u3001\u305d\u306e\u30ab\u30fc\u30c9\u81ea\u8eab\u3092\u4f7f\u7528\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002\u30b3\u30b9\u30c8\u3068\u3057\u3066\u5893\u5730\u3078\u9001\u308b\u5834\u5408\u3060\u3051\u3067\u306a\u304f\u3001\u9664\u5916\u3059\u308b\u5834\u5408\u3084\u30c7\u30c3\u30ad\u306b\u623b\u3059\u5834\u5408\u3067\u3082\u540c\u69d8\u3067\u3059\u3002",
+            "id": 23893,
+            "question": "\u300c<<17032>>\u300d\u3092\u767a\u52d5\u3059\u308b\u30b3\u30b9\u30c8\u3068\u3057\u3066\u3001\u3053\u306e\u30ab\u30fc\u30c9\u81ea\u8eab\u3092\u5893\u5730\u3078\u9001\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<17032>>\u300d\u3092\u767a\u52d5\u3059\u308b\u30b3\u30b9\u30c8\u3068\u3057\u3066\u3001\u3053\u306e\u30ab\u30fc\u30c9\u81ea\u8eab\u3092\u5893\u5730\u3078\u9001\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

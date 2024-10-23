@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4842,
+        7484
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "There can only be 1 face-up <<7484>> on the field. Therefore, if a player controls a <<7484>>, their opponent cannot Summon their own copy, including by its own effect or by the effect of <<4842>>, etc.",
+            "id": 12926,
+            "question": "If a player controls <<7484>>, can their opponent Summon <<7484>>?",
+            "thisSrc": {
+                "date": "2013-10-10",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a player controls <<7484>>, can their opponent Summon <<7484>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<7484>>\u300d\u306f\u81ea\u5206\u30fb\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u3092\u542b\u3081\u3066\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b1\u4f53\u306e\u307f\u5b58\u5728\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u300c<<7484>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u76f8\u624b\u306f\u300c<<7484>>\u300d\u3092\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\u540c\u69d8\u306b\u3001\u300c<<7484>>\u300d\u81ea\u8eab\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u3084\u3001\u300c<<4842>>\u300d\u7b49\u306e\u5bfe\u8c61\u3068\u3057\u3066\u300c<<7484>>\u300d\u3092\u9078\u629e\u3057\u3001\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u3082\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 12926,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u300c<<7484>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u76f8\u624b\u306f\u300c<<7484>>\u300d\u3092\u53ec\u559a\u3084\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<7484>>\u300d\u304c\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u76f8\u624b\u306f\u300c<<7484>>\u300d\u3092\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

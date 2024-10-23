@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12077
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in this scenario, you can activate the effect of <<12077>>. In that case, although the destroyed monster was sent from your opponent's side of the field to your Graveyard, it will still be Special Summoned to your side of the field.",
+            "id": 16845,
+            "question": "If a monster that I own is currently on my opponent's side of the field, and I attack and destroy it with <<12077>>, can I activate the effect of <<12077>>?",
+            "thisSrc": {
+                "date": "2015-08-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a monster that I own is currently on my opponent's side of the field, and I attack and destroy it with <<12077>>, can I activate the effect of <<12077>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3067\u3082\u3001\u300c<<12077>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u81ea\u5206\u306e\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u3001\u81ea\u5206\u306e\u5893\u5730\u304b\u3089\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 16845,
+            "question": "\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u3001\u5143\u3005\u306e\u6301\u3061\u4e3b\u304c\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u3001\u81ea\u5206\u306e\u300c<<12077>>\u300d\u3067\u653b\u6483\u3057\u3001\u6226\u95d8\u3067\u7834\u58ca\u3057\u5893\u5730\u3078\u9001\u3063\u305f\u5834\u5408\u3001\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3067\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u5893\u5730\u3078\u9001\u3063\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u3092\u534a\u5206\u306b\u3057\u3066\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12077>>\u300d\u304c\u5143\u3005\u306e\u6301\u3061\u4e3b\u304c\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u6226\u95d8\u3067\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

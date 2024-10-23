@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5124,
+        11166
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this case, if <<5124>> is chained to <<11166>>, the attack is negated, which means the attacking monster and the attack target cease to exist as such. Therefore, you cannot inflict damage to your opponent equal to the attack target's ATK, and the attack does not become a direct attack. Note however that the monster that was attacked can still attack directly during your next turn.",
+            "id": 13261,
+            "question": "When an opponent's monster declares an attack on a face-up Attack Position monster you control, and you activate <<11166>>. If you also then chain <<5124>>, how would <<11166>> resolve?",
+            "thisSrc": {
+                "date": "2014-05-30",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When an opponent's monster declares an attack on a face-up Attack Position monster you control, and you activate <<11166>>. If you also then chain <<5124>>, how would <<11166>> resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<11166>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u305f\u300c<<5124>>\u300d\u306b\u3088\u3063\u3066\u653b\u6483\u306f\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u305d\u308c\u306b\u3088\u3063\u3066\u3001\u653b\u6483\u306f\u884c\u308f\u308c\u305a\u3001\u307e\u305f\u3001\u653b\u6483\u30e2\u30f3\u30b9\u30bf\u30fc\u3082\u653b\u6483\u5bfe\u8c61\u30e2\u30f3\u30b9\u30bf\u30fc\u3082\u5b58\u5728\u3057\u306a\u3044\u72b6\u614b\u3068\u306a\u308a\u307e\u3059\u3002\n\u3057\u305f\u304c\u3063\u3066\u3001\u300e\u653b\u6483\u5bfe\u8c61\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u76f8\u624b\u30e9\u30a4\u30d5\u306b\u4e0e\u3048\u3001\u305d\u306e\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u3092\u81ea\u5206\u3078\u306e\u76f4\u63a5\u653b\u6483\u306b\u3059\u308b\u300f\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\n\n\u306a\u304a\u3001\u305d\u306e\u5834\u5408\u3067\u3082\u3001\u300e\u305d\u306e\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u6b21\u306e\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u306b\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u76f4\u63a5\u653b\u6483\u3067\u304d\u308b\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 13261,
+            "question": "\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u653b\u6483\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u653b\u6483\u3092\u5ba3\u8a00\u3057\u305f\u6642\u306b\u300c<<11166>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u308c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5124>>\u300d\u304c\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c<<11166>>\u300d\u306e\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11166>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5124>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

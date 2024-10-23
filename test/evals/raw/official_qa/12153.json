@@ -1,0 +1,85 @@
+{
+    "cards": [
+        4999,
+        7571,
+        8100,
+        8449,
+        8569,
+        9486,
+        9554,
+        9653,
+        10909,
+        11340,
+        11444,
+        11445,
+        11638,
+        12039,
+        12152,
+        12309,
+        12355,
+        13016,
+        13062,
+        13079,
+        13085,
+        13604,
+        13933,
+        14064,
+        14126,
+        14666,
+        14948,
+        15017,
+        15251,
+        15252,
+        15253,
+        15254,
+        15967,
+        15995,
+        16078,
+        16196,
+        16198,
+        16526,
+        16846,
+        17243,
+        17424,
+        17447,
+        17777,
+        17996,
+        18149,
+        18186,
+        18498,
+        19470,
+        19619
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, it will not. That effect of <<4999>> will only activate if another monster is Special Summoned in Attack Position while <<4999>> is already face-up in the Monster Zone.\n\n~~~\n\nSimilarly, the following monsters' effects also can only be activated if another monster is Special Summoned while they are already face-up in the Monster Zone, and cannot be activated if they are Special Summoned simultaneously:\n\u25cf <<17243>>'s \u2461nd effect\n\u25cf <<15967>>'s \u2461nd effect\n\u25cf <<16198>>'s \u2461nd effect\n\u25cf <<12355>>'s \u2461nd effect\n\u25cf <<8449>>'s effect\n\u25cf <<15017>>'s \u2462rd effect\n\u25cf <<9486>>'s \u2461nd effect\n\u25cf <<19470>>'s \u2461nd effect\n\u25cf <<14064>>'s \u2460st effect\n\u25cf <<18149>>'s \u2461nd effect\n\u25cf <<13062>>'s \u2460st effect\n\u25cf <<11340>>'s \u2460st effect\n\u25cf <<11444>>'s \u2460st effect\n\u25cf <<13016>>'s \u2460st effect\n\u25cf <<11445>>'s \u2460st effect\n\u25cf <<13079>>'s \u2461nd effect\n\u25cf <<16196>>'s \u2460st effect\n\u25cf <<13085>>'s \u2460st effect\n\u25cf <<16078>>'s \u2461nd effect\n\u25cf <<17996>>'s \u2461nd effect\n\u25cf <<11638>>'s \u2461nd effect\n\u25cf <<8100>>'s effect\n\u25cf <<17777>>'s \u2462rd effect\n\u25cf <<8569>>'s effect\n\u25cf Naturia Horneedle's effect\n\u25cf <<12039>>'s \u2463th effect\n\u25cf <<9653>>'s effect\n\u25cf <<17447>>'s \u2461nd effect\n\u25cf <<15252>>'s \u2460st effect\n\u25cf <<15253>>'s \u2460st effect\n\u25cf <<15251>>'s \u2460st effect\n\u25cf <<15254>>'s \u2460st effect\n\u25cf <<17424>>'s \u2460st effect\n\u25cf <<16526>>'s \u2460st effect\n\u25cf <<15995>>'s \u2461nd effect\n\u25cf <<19619>>'s \u2460st effect\n\u25cf <<16846>>'s \u2461nd effect\n\u25cf <<18186>>'s \u2460st effect\n\u25cf <<13604>>'s \u2461nd effect\n\u25cf <<13933>>'s \u2462rd effect\n\u25cf <<14666>>'s \u2462rd effect\n\u25cf <<14126>>'s \u2462rd effect\n\u25cf <<14948>>'s \u2462rd effect\n\u25cf <<12309>>'s effect\n\u25cf <<12152>>'s \u2461nd effect",
+            "id": 12153,
+            "question": "Both <<4999>> and an opponent's monster are Special Summoned simultaneously in Attack Position by the effect of, e.g., <<18498>>. Will the effect of <<4999>> now activate to reduce the opponent's monster's ATK?",
+            "thisSrc": {
+                "date": "2024-01-25",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If both <<4999>> and an opponent's monster are Special Summoned at the same time, will <<4999>>'s effect be activated?",
+            "tlSrc": {
+                "date": "2024-07-26",
+                "type": 0
+            },
+            "translationStatus": "outdated"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3057\u307e\u305b\u3093\u3002\n\n\u300c<<4999>>\u300d\u306e\u2463\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u306b\u306f\u3001\u300c<<4999>>\u300d\u304c\u65e2\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u72b6\u614b\u3067\u3001\u4ed6\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u653b\u6483\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002\n\n\u4ee5\u4e0b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u3082\u540c\u69d8\u306b\u3001\u65e2\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u72b6\u614b\u3067\u3001\u4ed6\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3059\u308b\uff08\u3067\u304d\u308b\uff09\u6761\u4ef6\u3092\u6e80\u305f\u3057\u307e\u3059\u3002\uff08\u540c\u6642\u306b\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u5834\u5408\u306f\u767a\u52d5\u3057\u307e\u305b\u3093\u3002\uff09\n\u300c<<17243>>\u300d\u2461\n\u300c<<15967>>\u300d\u2461\n\u300c<<16198>>\u300d\u2461\n\u300c<<12355>>\u300d\u2461\n\u300c<<8449>>\u300d\n\u300c<<15017>>\u300d\u2462\n\u300c<<9486>>\u300d\u2461\n\u300c<<19470>>\u300d\u2461\n\u300c<<14064>>\u300d\u2460\n\u300c<<18149>>\u300d\u2461\n\u300c<<13062>>\u300d\u2460\n\u300c<<11340>>\u300d\u2460\n\u300c<<11444>>\u300d\u2460\n\u300c<<13016>>\u300d\u2460\n\u300c<<11445>>\u300d\u2460\n\u300c<<13079>>\u300d\u2461\n\u300c<<16196>>\u300d\u2460\n\u300c<<13085>>\u300d\u2460\n\u300c<<16078>>\u300d\u2461\n\u300c<<17996>>\u300d\u2461\n\u300c<<11638>>\u300d\u2461\n\u300c<<8100>>\u300d\n\u300c<<17777>>\u300d\u2462\n\u300c<<8569>>\u300d\n\u300c<<12039>>\u300d\u2463\n\u300c<<9653>>\u300d\n\u300c<<17447>>\u300d\u2461\n\u300c<<15252>>\u300d\u2460\n\u300c<<15253>>\u300d\u2460\n\u300c<<15251>>\u300d\u2460\n\u300c<<15254>>\u300d\u2460\n\u300c<<17424>>\u300d\u2460\n\u300c<<16526>>\u300d\u2460\n\u300c<<15995>>\u300d\u2461\n\u300c<<19619>>\u300d\u2460\n\u300c<<16846>>\u300d\u2461\n\u300c<<18186>>\u300d\u2460\n\u300c<<13604>>\u300d\u2461\n\u300c<<13933>>\u300d\u2462\n\u300c<<14666>>\u300d\u2462\n\u300c<<14126>>\u300d\u2462\n\u300c<<14948>>\u300d\u2462\n\u300c<<12309>>\u300d\n\u300c<<12152>>\u300d\u2461\n\u300c<<7571>>\u300d\u2460\n\u300c<<10909>>\u300d\n\u300c<<9554>>\u300d\u2460",
+            "id": 12153,
+            "question": "\u300c<<18498>>\u300d\u306e\u300e\u2461\uff1a\u76f8\u624b\u30bf\u30fc\u30f3\u306b\u3001\u81ea\u5206\u30fb\u76f8\u624b\u306e\u5893\u5730\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5408\u8a08\uff12\u4f53\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u304a\u4e92\u3044\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\uff11\u4f53\u305a\u3064\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c<<4999>>\u300d\u3068\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u540c\u6642\u306b\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u5834\u5408\u3001\u7279\u6b8a\u53ec\u559a\u3057\u305f\u300c<<4999>>\u300d\u306e\u300e\u2463\uff1a\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u653b\u6483\u8868\u793a\u3067\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3055\u308c\u308b\u5ea6\u306b\u767a\u52d5\u3059\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\uff12\uff10\uff10\uff10\u30c0\u30a6\u30f3\u3059\u308b\u3002\uff10\u306b\u306a\u3063\u305f\u5834\u5408\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-07-26",
+                "type": 0
+            },
+            "title": "\u300c<<4999>>\u300d\u3068\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u540c\u6642\u306b\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<4999>>\u300d\u306e\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

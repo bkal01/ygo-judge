@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4386,
+        4837,
+        9139
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even while the effect of <<9139>> is applying, <<4837>> can be activated in order to Special Summon a non-Effect Fusion Monster such as <<4386>>. (And when resolving <<4837>>, you must Fusion Summon a non-Effect Fusion Monster.) Therefore, if you only have Fusion Materials available for a Fusion/Effect Monster, you cannot activate <<4837>>.",
+            "id": 9147,
+            "question": "While the effect of <<9139>> is applying, can <<4837>> be activated?",
+            "thisSrc": {
+                "date": "2015-08-05",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "While the effect of <<9139>> is applying, can <<4837>> be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<9139>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u300c<<4386>>\u300d\u306a\u3069\u306e\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u306e\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u305f\u3081\u306b\u300c<<4837>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\uff08\u52b9\u679c\u51e6\u7406\u306e\u969b\u306b\u5b9f\u969b\u306b\u878d\u5408\u53ec\u559a\u3059\u308b\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u3082\u3001\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u306e\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002\uff09\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u308b\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u878d\u5408\u7d20\u6750\u30e2\u30f3\u30b9\u30bf\u30fc\u4e00\u7d44\u3057\u304b\u63c3\u3063\u3066\u3044\u306a\u3044\u3088\u3046\u306a\u5834\u5408\u306b\u306f\u3001\u300c<<4837>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 9147,
+            "question": "\u300c<<9139>>\u300d\u306e\u300e\u6b21\u306e\u81ea\u5206\u306e\u30c9\u30ed\u30fc\u30d5\u30a7\u30a4\u30ba\u6642\u307e\u3067\u3001\u304a\u4e92\u3044\u306b\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306e\u9069\u7528\u4e2d\u306b\u300c<<4837>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9139>>\u300d\u306e\u52b9\u679c\u9069\u7528\u4e2d\u306b\u300c<<4837>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5505,
+        7903,
+        8109
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this situation, you can return the equipped <<7903>> to your hand when declaring an attack with <<8109>>.\n\nHowever, when <<7903>> is returned to the hand, control of <<8109>> returns to your opponent, so it is not possible to select the attack target for <<8109>>, and the attack declaration is not successful as a result.\n\nAdditionally, even if you regain control of that <<8109>> during the same Battle Phase with the effect of <<5505>>, etc. after control was returned to your opponent without successfully declaring an attack, you cannot declare an attack again with that <<8109>>.",
+            "id": 8726,
+            "question": "A <<8109>> owned by my opponent is equipped with my <<7903>>.\n\nWhen I take control of that <<8109>> and declare an attack with it, can I return the equipped <<7903>> to my hand?",
+            "thisSrc": {
+                "date": "2021-12-29",
+                "misc": "Redshift",
+                "type": 4
+            },
+            "title": "When declaring an attack with <<8109>>, can I return a <<7903>> equipped to it to my hand?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u81ea\u8eab\u306b\u88c5\u5099\u3055\u308c\u3066\u3044\u308b\u300c<<7903>>\u300d\u3092\u624b\u672d\u306b\u623b\u3057\u3001\u300c<<8109>>\u300d\u3067\u653b\u6483\u5ba3\u8a00\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\u3067\u3059\u304c\u3001\u300c<<7903>>\u300d\u3092\u624b\u672d\u306b\u623b\u3057\u305f\u6642\u70b9\u3067\u300c<<8109>>\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u5143\u306e\u76f8\u624b\u306b\u623b\u3063\u3066\u3044\u308b\u305f\u3081\u3001\u300c<<8109>>\u300d\u306e\u653b\u6483\u5bfe\u8c61\u3092\u9078\u629e\u3059\u308b\u4e8b\u304c\u3067\u304d\u305a\u3001\u7d50\u679c\u7684\u306b\u653b\u6483\u5ba3\u8a00\u306f\u884c\u308f\u308c\u307e\u305b\u3093\u3002\n\n\u306a\u304a\u3001\u7d50\u679c\u7684\u306b\u653b\u6483\u5ba3\u8a00\u304c\u884c\u308f\u308c\u305a\u306b\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u76f8\u624b\u306b\u623b\u3063\u305f\u300c<<8109>>\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u300c<<5505>>\u300d\u7b49\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u540c\u4e00\u306e\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u4e2d\u306b\u518d\u3073\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5f97\u305f\u3068\u3057\u3066\u3082\u3001\u305d\u306e\u300c<<8109>>\u300d\u3067\u518d\u3073\u653b\u6483\u5ba3\u8a00\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 8726,
+            "question": "\u5143\u3005\u306e\u6301\u3061\u4e3b\u304c\u76f8\u624b\u306e\u300c<<8109>>\u300d\u306b\u3001\u81ea\u5206\u304c\u767a\u52d5\u3057\u305f\u300c<<7903>>\u300d\u304c\u88c5\u5099\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u300c<<8109>>\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3092\u5f97\u3066\u81ea\u5206\u304c\u653b\u6483\u5ba3\u8a00\u3092\u3059\u308b\u969b\u306b\u3001\u88c5\u5099\u3055\u308c\u3066\u3044\u308b\u300c<<7903>>\u300d\u3092\u624b\u672d\u306b\u623b\u3059\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8109>>\u300d\u3067\u653b\u6483\u5ba3\u8a00\u3059\u308b\u969b\u306b\u3001\u81ea\u8eab\u306b\u88c5\u5099\u3055\u308c\u3066\u3044\u308b\u300c<<7903>>\u300d\u3092\u624b\u672d\u306b\u623b\u305b\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11639
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If you have 2 or more \"U.A.\" monsters on your side of the field, even if your opponent does not have any monsters on their side of the field, you can still activate <<11639>>. (In that case, after you Special Summon monsters from your Deck, the effect finishes resolving.)",
+            "id": 17114,
+            "question": "Can I activate <<11639>> even if there are no monsters on my opponent's side of the field?",
+            "thisSrc": {
+                "date": "2015-10-06",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can I activate <<11639>> even if there are no monsters on my opponent's side of the field?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u30ab\u30fc\u30c9\u540d\u306e\u7570\u306a\u308b\u300cU.A.\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c2\u7a2e\u985e\u4ee5\u4e0a\u5b58\u5728\u3059\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c1\u4f53\u3082\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3067\u3082\u3001\u300c<<11639>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\uff08\u305d\u306e\u5834\u5408\u3001\u300e\u305d\u306e\u5f8c\u3001\u81ea\u5206\u306f\u3053\u306e\u52b9\u679c\u3067\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u306b\u623b\u3063\u305f\u30ab\u30fc\u30c9\u306e\u6570\u307e\u3067\u3001\u30c7\u30c3\u30ad\u304b\u3089\u300cU.A.\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\uff08\u540c\u540d\u30ab\u30fc\u30c9\u306f\uff11\u679a\u307e\u3067\uff09\u300f\u51e6\u7406\u306b\u3066\u3001\u51e6\u7406\u304c\u5b8c\u4e86\u3057\u305f\u6271\u3044\u3068\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 17114,
+            "question": "\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3067\u3082\u3001\u300c<<11639>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3067\u3082\u3001\u300c<<11639>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

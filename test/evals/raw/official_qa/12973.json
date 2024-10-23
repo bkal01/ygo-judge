@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5249,
+        6881
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in that case, the FLIP Effect of <<5249>> activates, and the part of the effect that tributes 1 other monster is still performed, but the part of the effect that Special Summons 1 Fusion Monster from your Extra Deck is not performed.\n\nFurthermore, if during that resolution <<6881>> is tributed, and as a result, the effect that prevents monsters from being Special Summoned is no longer applied, the part of the effect of <<5249>> that Special Summons 1 Fusion Monster from your Extra Deck is performed.",
+            "id": 12973,
+            "question": "If <<5249>> is flipped face-up while you control a <<6881>>, how does its FLIP Effect resolve?",
+            "thisSrc": {
+                "date": "2013-11-07",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<5249>> is flipped face-up while you control a <<6881>>, how does its FLIP Effect resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<5249>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u300c<<6881>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u300c<<5249>>\u300d\u306e\u8a98\u767a\u52b9\u679c\u306f\u767a\u52d5\u3057\u3001\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u300c<<5249>>\u300d\u81ea\u8eab\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u30ea\u30ea\u30fc\u30b9\u3059\u308b\u51e6\u7406\u306f\u884c\u3044\u307e\u3059\u304c\u3001\u300e\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc1\u4f53\u3092\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u51e6\u7406\u306f\u884c\u308f\u308c\u307e\u305b\u3093\u3002\n\n\u306a\u304a\u3001\u305d\u306e\u52b9\u679c\u51e6\u7406\u306b\u3066\u3001\u300c<<6881>>\u300d\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3001\u305d\u306e\u7d50\u679c\u3001\u300e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u306a\u3044\u72b6\u614b\u3068\u306a\u308b\u5834\u5408\u306b\u306f\u3001\u300e\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc1\u4f53\u3092\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u51e6\u7406\u306f\u884c\u308f\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 12973,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u300c<<6881>>\u300d\u304c\u5b58\u5728\u3059\u308b\u72b6\u614b\u306b\u3066\u3001\u300c<<5249>>\u300d\u304c\u30ea\u30d0\u30fc\u30b9\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u8a98\u767a\u52b9\u679c\u306e\u51e6\u7406\u306f\u3069\u306e\u3088\u3046\u306b\u884c\u3044\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<6881>>\u300d\u304c\u5b58\u5728\u3059\u308b\u72b6\u6cc1\u306b\u3066\u3001\u300c<<5249>>\u300d\u306e\u8a98\u767a\u52b9\u679c\u306e\u51e6\u7406\u306f\u3069\u306e\u3088\u3046\u306b\u884c\u3044\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Flip"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "cards": [
+        5234,
+        5935,
+        6682,
+        8200
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If the effect of <<6682>> is applied, you cannot activate <<8200>> because you cannot send a Continuous Trap Card to the Graveyard as an activation cost.\nTherefore, it is not possible to send <<6682>> to the Graveyard as a cost.\n\nAdditionally, you can activate <<8200>> by sending <<5234>>, etc., that is currently a treated as a monster due to its own effect to the Graveyard as an activation cost.",
+            "id": 8451,
+            "question": "Is it possible to send a face-up <<6682>>, or a face-up <<5234>> in the Monster Zone that is currently treated as a monster to the Graveyard as a cost to activate <<8200>>?",
+            "thisSrc": {
+                "date": "2020-11-05",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "Can I send <<6682>> or <<5935>> to the Graveyard as a cost to activate <<8200>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<6682>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u767a\u52d5\u30b3\u30b9\u30c8\u3068\u3057\u3066\u6c38\u7d9a\u7f60\u30ab\u30fc\u30c9\u3092\u5893\u5730\u306b\u9001\u308b\u4e8b\u304c\u3067\u304d\u306a\u3044\u70ba\u3001\u300c<<8200>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u3002\n\u3088\u3063\u3066\u3001\u30b3\u30b9\u30c8\u3068\u3057\u3066\u300c<<6682>>\u300d\u3092\u5893\u5730\u306b\u9001\u308b\u4e8b\u3082\u3067\u304d\u307e\u305b\u3093\u3002\n\u307e\u305f\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u6271\u3044\u3067\u5b58\u5728\u3059\u308b\u300c<<5234>>\u300d\u7b49\u3092\u3001\u767a\u52d5\u30b3\u30b9\u30c8\u3068\u3057\u3066\u5893\u5730\u306b\u9001\u308a\u300c<<8200>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 8451,
+            "question": "\u300c<<8200>>\u300d\u3092\u767a\u52d5\u3059\u308b\u70ba\u306e\u30b3\u30b9\u30c8\u3068\u3057\u3066\u3001\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<6682>>\u300d\u3084\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u6271\u3044\u306e\u300c<<5234>>\u300d\u7b49\u3092\u5893\u5730\u306b\u9001\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8200>>\u300d\u306e\u767a\u52d5\u30b3\u30b9\u30c8\u3068\u3057\u3066\u3001\u300c<<6682>>\u300d\u3084\u300c<<5935>>\u300d\u3092\u5893\u5730\u3078\u9001\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell",
+        "k:Trap",
+        "o:Activation Legality",
+        "o:Banishing",
+        "o:Card Movement Redirection",
+        "o:Costs",
+        "o:Sending to the GY",
+        "o:Trap Monster"
+    ]
+}

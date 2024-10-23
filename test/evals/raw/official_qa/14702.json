@@ -1,0 +1,38 @@
+{
+    "cards": [
+        9778,
+        11650
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if it is not possible to inflict damage to your opponent, you can activate this effect. In that case, the effect will only halve the ATK of the targeted monster, and the damage inflicted will be 0.",
+            "id": 14702,
+            "question": "If the effect of <<9778>> is applying, so that it is not possible to inflict damage to my opponent, can I activate the last effect of <<11650>> during my Standby Phase?",
+            "thisSrc": {
+                "date": "2014-12-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the effect of <<9778>> is applying, so that it is not possible to inflict damage to my opponent, can I activate the last effect of <<11650>> during my Standby Phase?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u76f8\u624b\u306b\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u4e8b\u304c\u3067\u304d\u306a\u3044\u5834\u5408\u3067\u3082\u3001\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u306b\u300c<<11650>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u3092\u534a\u5206\u306b\u3059\u308b\u51e6\u7406\u306e\u307f\u9069\u7528\u3055\u308c\u3001\u7d50\u679c\u7684\u306b\u76f8\u624b\u306b\u4e0e\u3048\u308b\u30c0\u30e1\u30fc\u30b8\u306f\uff10\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 14702,
+            "question": "\u300c<<9778>>\u300d\u304c\u9069\u7528\u3055\u308c\u3001\u76f8\u624b\u306b\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u4e8b\u304c\u3067\u304d\u306a\u3044\u5834\u5408\u3001\u300c<<11650>>\u300d\u306e\u300e\u2462\uff1a\u81ea\u5206\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u306b\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u3092\u534a\u5206\u306b\u3057\u3001\u305d\u306e\u6570\u5024\u5206\u3060\u3051\u76f8\u624b\u306b\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11650>>\u300d\u306e\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u306e\u52b9\u679c\u3067\u3001\u76f8\u624b\u306b\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u3089\u308c\u306a\u3044\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

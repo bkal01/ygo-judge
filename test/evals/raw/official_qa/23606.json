@@ -1,0 +1,42 @@
+{
+    "cards": [
+        6453,
+        8222,
+        8606,
+        17371,
+        18315,
+        19049
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "You cannot activate any of the listed cards.\n\nFurthermore, you also cannot activate <<19049>>'s \u2461nd effect by targeting <<18315>>, and cannot banish <<18315>> to activate <<8606>>'s effect.",
+            "id": 23606,
+            "question": "Can I activate <<6453>>, <<8222>>, or <<19049>> by targeting a Normal Trap such as <<18315>>, which Special Summons itself as a monster (and is no longer treated as a Trap)?\n\nFurthermore, can I activate <<17371>> in response to such a Normal Trap's activation?",
+            "thisSrc": {
+                "date": "2024-01-15",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "Using a\u300ethis effect becomes that Normal Trap's effect when that card is activated\u300feffect, can I apply the effect of a Normal Trap that Special Summons itself as a monster?",
+            "tlSrc": {
+                "date": "2023-06-14",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3044\u305a\u308c\u306e\u30ab\u30fc\u30c9\u3082\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u306a\u304a\u3001\u300c<<18315>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<19049>>\u300d\u306e\u2461\u306e\u52b9\u679c\u3082\u767a\u52d5\u3067\u304d\u305a\u3001\u300c<<18315>>\u300d\u3092\u9664\u5916\u3057\u3066\u300c<<8606>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u3053\u3068\u3082\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 23606,
+            "question": "\u300c<<18315>>\u300d\u306a\u3069\u306e\u3001\u767a\u52d5\u5f8c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u7279\u6b8a\u53ec\u559a\u3055\u308c\u308b\u901a\u5e38\u7f60\u30ab\u30fc\u30c9\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<6453>>\u300d\u300c<<8222>>\u300d\u300c<<19049>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<18315>>\u300d\u306a\u3069\u306e\u901a\u5e38\u7f60\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<17371>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-06-14",
+                "type": 0
+            },
+            "title": "\u767a\u52d5\u5f8c\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u308b\u901a\u5e38\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u51e6\u7406\u3092\u3001\u300e\u3053\u306e\u52b9\u679c\u306f\u3001\u305d\u306e\u901a\u5e38\u7f60\u30ab\u30fc\u30c9\u767a\u52d5\u6642\u306e\u52b9\u679c\u3068\u540c\u3058\u306b\u306a\u308b\u300f\u51e6\u7406\u3068\u3057\u3066\u9069\u7528\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

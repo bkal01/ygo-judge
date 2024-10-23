@@ -1,0 +1,39 @@
+{
+    "cards": [
+        11213,
+        11835,
+        11989
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When <<11989>> is Fusion Summoned, it requires 1 \"Odd-Eyes\" Monster and 1 Pendulum Monster.\n\n<<11213>> and <<11835>> are both \"Odd-Eyes\" Monsters and Pendulum Monsters.\n\nTherefore, <<11989>> can be Fusion Summoned using <<11213>> and <<11835>>.",
+            "id": 16413,
+            "question": "Can <<11989>> be Fusion Summoned using <<11213>> and <<11835>> as Fusion Materials?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can <<11989>> be Fusion Summoned using <<11213>> and <<11835>> as Fusion Materials?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11989>>\u300d\u3092\u878d\u5408\u53ec\u559a\u3059\u308b\u969b\u306b\u306f\u3001\u300c\u30aa\u30c3\u30c9\u30a2\u30a4\u30ba\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc1\u4f53\u3068\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc1\u4f53\u304c\u3001\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u5fc5\u8981\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u300c<<11213>>\u300d\u3068\u300c<<11835>>\u300d\u306f\u3069\u3061\u3089\u3082\u3001\u300c\u30aa\u30c3\u30c9\u30a2\u30a4\u30ba\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u308a\u3001\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3082\u3042\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<11213>>\u300d\u3068\u300c<<11835>>\u300d\u3092\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u300c<<11989>>\u300d\u3092\u878d\u5408\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 16413,
+            "question": "\u300c<<11213>>\u300d\u3068\u300c<<11835>>\u300d\u3092\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u300c<<11989>>\u300d\u3092\u878d\u5408\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11213>>\u300d\u3068\u300c<<11835>>\u300d\u3092\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u300c<<11989>>\u300d\u3092\u878d\u5408\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

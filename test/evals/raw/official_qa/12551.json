@@ -1,0 +1,57 @@
+{
+    "cards": [
+        4968,
+        5551,
+        5789,
+        5843,
+        6147,
+        9283,
+        9561,
+        9644,
+        9968,
+        10938,
+        12149,
+        12239,
+        13267,
+        14001,
+        14313,
+        16746,
+        16868,
+        19533,
+        20534,
+        20535,
+        20552
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "A Token's name cannot be declared as a \"card name\". Therefore, you cannot activate <<4968>> by declaring \"Adventurer Token\" or \"Primal Being Token\".\n\n~~~\n\nThis also applies to the following cards or their effects, which you cannot activate by declaring a Token's name:\n\u25cf <<9283>>\n\u25cf <<9968>>\n\u25cf <<9644>>\n\u25cf <<12149>>\n\u25cf <<9561>>\n\u25cf <<10938>>\n\u25cf <<13267>>\n\u25cf <<14001>>\n\u25cf <<12239>>\n\u25cf <<5789>>\n\u25cf <<5843>>\n\u25cf <<5551>>\n\u25cf <<16746>>\n\u25cf <<16868>>\n\u25cf <<14313>>\n\u25cf <<19533>>\n\u25cf <<6147>>\n\u25cf <<20534>>\n\u25cf <<20552>>\n\u25cf <<20535>>",
+            "id": 12551,
+            "question": "Can I declare the name of a Token with <<4968>>, such as \"Adventurer Token\" or \"Primal Being Token\"?",
+            "thisSrc": {
+                "date": "2024-02-23",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can the name of a Token be declared with <<4968>>?",
+            "tlSrc": {
+                "date": "2024-08-25",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30c8\u30fc\u30af\u30f3\u3092\u300e\u30ab\u30fc\u30c9\u540d\u300f\u3068\u3057\u3066\u5ba3\u8a00\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u3088\u3063\u3066\u3001\u300c\u52c7\u8005\u30c8\u30fc\u30af\u30f3\u300d\u3084\u300c\u539f\u59cb\u751f\u547d\u614b\u30c8\u30fc\u30af\u30f3\u300d\u3092\u5ba3\u8a00\u3057\u3066\u300c<<4968>>\u300d\u3092\u767a\u52d5\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u4ee5\u4e0b\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u3082\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30c8\u30fc\u30af\u30f3\u3067\u3042\u308b\u30ab\u30fc\u30c9\u540d\u3092\u5ba3\u8a00\u3067\u304d\u307e\u305b\u3093\u3002\n\u300c<<9283>>\u300d\n\u300c<<9968>>\u300d\n\u300c<<9644>>\u300d\n\u300c<<12149>>\u300d\n\u300c<<9561>>\u300d\n\u300c<<10938>>\u300d\n\u300c<<13267>>\u300d\n\u300c<<14001>>\u300d\n\u300c<<12239>>\u300d\n\u300c<<5789>>\u300d\n\u300c<<5843>>\u300d\n\u300c<<5551>>\u300d\n\u300c<<16746>>\u300d\n\u300c<<16868>>\u300d\n\u300c<<14313>>\u300d\n\u300c<<19533>>\u300d\n\u300c<<6147>>\u300d\n\u300c<<20534>>\u300d\u2462\n\u300c<<20552>>\u300d\u2460\n\u300c<<20535>>\u300d\u2460",
+            "id": 12551,
+            "question": "\u300c<<4968>>\u300d\u3067\u30ab\u30fc\u30c9\u540d\u3092\u5ba3\u8a00\u3059\u308b\u969b\u306b\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30c8\u30fc\u30af\u30f3\u3067\u3042\u308b\u3001\u300c\u52c7\u8005\u30c8\u30fc\u30af\u30f3\u300d\u3084\u300c\u539f\u59cb\u751f\u547d\u614b\u30c8\u30fc\u30af\u30f3\u300d\u3092\u5ba3\u8a00\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-08-25",
+                "type": 0
+            },
+            "title": "\u300c<<4968>>\u300d\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30c8\u30fc\u30af\u30f3\u3092\u5ba3\u8a00\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

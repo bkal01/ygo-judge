@@ -1,0 +1,37 @@
+{
+    "cards": [
+        16401
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "That effect is a Spell Speed 1 effect that can be activated during your Main or Battle Phase. Since it is an effect that Special Summons 5 monsters, you can only activate it if 5 Main Monster Zones are available after returning <<16401>> to the hand.\n\nIn your Main Phase, you can activate this effect of <<16401>> in any situation where you can activate monsters' Ignition Effects.\n\nDuring your Battle Phase, you can activate this effect of <<16401>> in any situation where you could activate monsters' Trigger Effects. However, it cannot be activated during the Damage Step.",
+            "id": 23282,
+            "question": "When can the effect of <<16401>> that is activated during the Main or Battle Phase be activated?",
+            "thisSrc": {
+                "date": "2021-06-12",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "When can the effect of <<16401>> be activated?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<16401>>\u300d\u306e\u300e\u2462\u300f\u306e\u52b9\u679c\u306f\u81ea\u5206\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u304b\u81ea\u5206\u306e\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u306b\u767a\u52d5\u3067\u304d\u308b\u3001\u30b9\u30da\u30eb\u30b9\u30d4\u30fc\u30c9\uff11\u306e\u52b9\u679c\u3067\u3059\u3002\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\uff15\u4f53\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u3067\u3059\u306e\u3067\u3001\u300c<<16401>>\u300d\u3092\u624b\u672d\u306b\u623b\u3057\u305f\u3053\u3068\u3067\u4f7f\u7528\u53ef\u80fd\u306a\u81ea\u5206\u306e\u30e1\u30a4\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u304c\uff15\u304b\u6240\u3067\u304d\u308b\u72b6\u6cc1\u3067\u306a\u3051\u308c\u3070\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u81ea\u5206\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u306f\u3001\u81ea\u5206\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u8d77\u52d5\u52b9\u679c\u3092\u767a\u52d5\u53ef\u80fd\u306a\u72b6\u6cc1\u3067\u300c<<16401>>\u300d\u306e\u300e\u2462\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\n\n\u81ea\u5206\u306e\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u306b\u306f\u3001\u81ea\u5206\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u8a98\u767a\u52b9\u679c\u3092\u767a\u52d5\u53ef\u80fd\u306a\u72b6\u6cc1\u3067\u300c<<16401>>\u300d\u306e\u300e\u2462\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\u305f\u3060\u3057\u3001\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u306b\u306f\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 23282,
+            "question": "\u300c<<16401>>\u300d\u306e\u300e\u2462\u300f\u306e\u300e\u81ea\u5206\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u53ca\u3073\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u306b\u767a\u52d5\u3067\u304d\u308b\u300f\u52b9\u679c\u306f\u3001\u3069\u306e\u3088\u3046\u306a\u72b6\u6cc1\u3067\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<16401>>\u300d\u306e\u52b9\u679c\u306f\u3069\u306e\u3088\u3046\u306a\u72b6\u6cc1\u3067\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "cards": [
+        13084,
+        13564,
+        13591
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, when the opponent's <<13591>> with 1200 ATK attacks your <<13084>> with 2600 ATK, it is not a situation in which you would take battle damage, so you cannot activate the effect of <<13564>> in your hand.",
+            "id": 21736,
+            "question": "If an opponent's <<13591>> attacks a <<13084>> on my field, can I activate the effect of <<13564>> during damage calculation?",
+            "thisSrc": {
+                "date": "2018-01-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If an opponent's <<13591>> attacks a <<13084>> on my field, can I activate the effect of <<13564>> during damage calculation?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u76f8\u624b\u306e\u300c<<13591>>\u300d\u306e\u653b\u6483\u529b\u306f1200\u3001\u81ea\u5206\u306e\u300c<<13084>>\u300d\u306f2600\u3067\u3001\u81ea\u5206\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\u72b6\u6cc1\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u306e\u3067\u3001\u624b\u672d\u306e\u300c<<13564>>\u300d\u306e\u300e\u305d\u306e\u6226\u95d8\u3067\u767a\u751f\u3059\u308b\u81ea\u5206\u3078\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u534a\u5206\u306b\u306a\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 21736,
+            "question": "\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u76f8\u624b\u306e\u300c<<13591>>\u300d\u3068\u3001\u81ea\u5206\u306e\u300c<<13084>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u76f8\u624b\u306e\u300c<<13591>>\u300d\u304c\u300c<<13084>>\u300d\u3092\u653b\u6483\u3057\u305f\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306b\u3001\u81ea\u5206\u306f\u624b\u672d\u306e\u300c<<13564>>\u300d\u306e\u300e\u2460\uff1a\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306b\u3053\u306e\u30ab\u30fc\u30c9\u3092\u624b\u672d\u304b\u3089\u6368\u3066\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u6226\u95d8\u3067\u767a\u751f\u3059\u308b\u81ea\u5206\u3078\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\u534a\u5206\u306b\u306a\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u624b\u672d\u306e\u300c<<13564>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u3092\u4e0a\u56de\u3063\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4904,
+        11883
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, it cannot.",
+            "id": 16011,
+            "question": "If <<11883>> equips itself to a monster using its second effect, can it be moved to a different target using <<4904>>?",
+            "thisSrc": {
+                "date": "2015-05-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<11883>> equips itself to a monster using its second effect, can it be moved to a different target using <<4904>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 16011,
+            "question": "\u300e\u2461\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u30ab\u30fc\u30c9\u3092\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\uff14\uff10\uff10\u30a2\u30c3\u30d7\u306e\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u305d\u306e\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u88c5\u5099\u3059\u308b\u3002\u3053\u306e\u52b9\u679c\u3067\u88c5\u5099\u3057\u305f\u5834\u5408\u3001\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\uff11\u5ea6\u306e\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u4e2d\u306b\uff13\u56de\u653b\u6483\u3067\u304d\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u88c5\u5099\u3055\u308c\u3066\u3044\u308b\u300c<<11883>>\u300d\u3092\u3001\u300c<<4904>>\u300d\u306e\u52b9\u679c\u3067\u4ed6\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u79fb\u3057\u66ff\u3048\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u8eab\u306e\u52b9\u679c\u3067\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u308b\u300c<<11883>>\u300d\u3092\u300c<<4904>>\u300d\u306e\u52b9\u679c\u3067\u79fb\u3057\u66ff\u3048\u3089\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

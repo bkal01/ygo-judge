@@ -1,0 +1,41 @@
+{
+    "cards": [
+        4865,
+        5620,
+        6904,
+        11890
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this situation, the <<6904>> that was activated as Chain Link 3 is negated by <<11890>>. The effect of <<11890>> is mandatory, so you do not choose which effect is negated. (Only 1 effect can be negated.)",
+            "id": 15857,
+            "question": "<<11890>> is in my Spell & Trap Zone as an Equip Card equipped by its effect. During the Battle Phase, if my opponent activates <<4865>>, <<5620>>, and <<6904>> on the same chain in that order, which effect will be negated by <<11890>>?",
+            "thisSrc": {
+                "date": "2015-05-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<11890>> is in my Spell & Trap Zone as an Equip Card equipped by its effect. During the Battle Phase, if my opponent activates <<4865>>, <<5620>>, and <<6904>> on the same chain in that order, which effect will be negated by <<11890>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u30c1\u30a7\u30fc\u30f33\u306b\u3066\u767a\u52d5\u3057\u3066\u3044\u308b\u300c<<6904>>\u300d\u306e\u52b9\u679c\u304c\u300c<<11890>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u306a\u304a\u3001\u300c<<11890>>\u300d\u306e\u52b9\u679c\u306f\u5fc5\u305a\u9069\u7528\u3055\u308c\u308b\u52b9\u679c\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u3069\u306e\u52b9\u679c\u3092\u7121\u52b9\u306b\u3059\u308b\u304b\u3092\u9078\u3076\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\uff081\u5ea6\u3060\u3051\u3001\u305d\u306e\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 15857,
+            "question": "\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u308b\u300c<<11890>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u76f8\u624b\u304c\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u4e2d\u306b\u30c1\u30a7\u30fc\u30f31\u304b\u3089\u9806\u306b\u300c<<4865>>\u300d\u3001\u300c<<5620>>\u300d\u3001\u300c<<6904>>\u300d\u3068\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c<<11890>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u3053\u306e\u30ab\u30fc\u30c9\u304c\u88c5\u5099\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u81ea\u5206\u30fb\u76f8\u624b\u306e\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u4e2d\u306b\uff11\u5ea6\u3060\u3051\u3001\u76f8\u624b\u304c\u767a\u52d5\u3057\u305f\u9b54\u6cd5\u30fb\u7f60\u30fb\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u7121\u52b9\u306b\u3059\u308b\u3002\u3053\u306e\u52b9\u679c\u3092\u9069\u7528\u3057\u305f\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u4e2d\u3001\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\uff12\u56de\u653b\u6483\u3067\u304d\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u7121\u52b9\u306b\u306a\u308b\u52b9\u679c\u306f\u3069\u308c\u3067\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u306e\u300c<<11890>>\u300d\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u76f8\u624b\u304c\u8907\u6570\u679a\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u30c1\u30a7\u30fc\u30f3\u3067\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u3069\u306e\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain",
+        "k:Fusion"
+    ]
+}

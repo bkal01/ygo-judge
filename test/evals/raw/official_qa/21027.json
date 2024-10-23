@@ -1,0 +1,39 @@
+{
+    "cards": [
+        9074,
+        9229,
+        10801
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "You cannot activate the effect of <<9074>> during the turn you Special Summon a monster in face-down Defense Position. (Even if the monster that you Special Summoned in face-down Defense Position was a \"HERO\" monster, you cannot activate the effect of <<9074>>.)",
+            "id": 21027,
+            "question": "Previously this turn, I Special Summoned a <<9229>> from my Graveyard in face-down Defense Position with the effect of <<10801>>. During the same turn, if I Normal Summon <<9074>>, can I activate its effect that destroys all Spell/Trap Cards on my opponent's field?",
+            "thisSrc": {
+                "date": "2017-05-13",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Previously this turn, I Special Summoned a <<9229>> from my Graveyard in face-down Defense Position with the effect of <<10801>>. During the same turn, if I Normal Summon <<9074>>, can I activate its effect that destroys all Spell/Trap Cards on my opponent's field?",
+            "tlSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "translationStatus": "outdated"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3057\u3066\u3044\u308b\u30bf\u30fc\u30f3\u306b\u306f\u3001\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u300c<<9074>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\uff08\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306b\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u300cHERO\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u3063\u305f\u3068\u3057\u3066\u3082\u3001\u3053\u306e\u30bf\u30fc\u30f3\u306b\u3001\u300c<<9074>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 21027,
+            "question": "\u300c<<10801>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<9229>>\u300d\u3092\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3057\u3066\u3044\u308b\u81ea\u5206\u306e\u30bf\u30fc\u30f3\u3067\u3059\u3002\n\n\u3053\u306e\u30bf\u30fc\u30f3\u306b\u3001\u300c<<9074>>\u300d\u3092\u8868\u5074\u8868\u793a\u3067\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300c<<9074>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u3092\u5168\u3066\u7834\u58ca\u3059\u308b\u3002\u3053\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u30bf\u30fc\u30f3\u3001\u81ea\u5206\u306f\u300cHERO\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3057\u304b\u7279\u6b8a\u53ec\u559a\u3067\u304d\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "title": "\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u300cHERO\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3057\u3066\u3044\u308b\u30bf\u30fc\u30f3\u306b\u3001\u81ea\u5206\u306f\u300c<<9074>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

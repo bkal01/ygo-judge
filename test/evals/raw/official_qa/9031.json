@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5740,
+        6939,
+        8475
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If the effect of <<5740>> is applied after <<8475>> has increased its ATK by activating the effect of <<6939>> as its own, the ATK of <<8475>> will not remain increased, and will return to normal.",
+            "id": 9031,
+            "question": "My <<8475>> negated the effects of <<6939>>, and then activated the effect of <<6939>> as its own, increasing its ATK. Afterwards, the effect of <<5740>> is applied to it. When this happens, does the ATK of <<8475>> remain increased?",
+            "thisSrc": {
+                "date": "2021-09-15",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If <<5740>> applies after <<8475>>'s ATK is increased by an effect it activated as its own, will the ATK be returned to the original value?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<8475>>\u300d\u306e\u52b9\u679c\u3068\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<6939>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u653b\u6483\u529b\u304c\u30a2\u30c3\u30d7\u3057\u305f\u5f8c\u306b\u3001\u300c<<5740>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u30a2\u30c3\u30d7\u3057\u305f\u653b\u6483\u529b\u306f\u9069\u7528\u3055\u308c\u306a\u304f\u306a\u308a\u5143\u306b\u623b\u308a\u307e\u3059\u3002",
+            "id": 9031,
+            "question": "\u300c<<8475>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u306b\u3057\u305f\u300c<<6939>>\u300d\u306e\u52b9\u679c\u3092\u3001\u300c<<8475>>\u300d\u306e\u52b9\u679c\u3068\u3057\u3066\u767a\u52d5\u3057\u3001\u81ea\u8eab\u306e\u653b\u6483\u529b\u3092\u30a2\u30c3\u30d7\u3055\u305b\u305f\u5f8c\u306b\u3001\u300c<<5740>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u30a2\u30c3\u30d7\u3057\u3066\u3044\u305f\u300c<<8475>>\u300d\u306e\u653b\u6483\u529b\u306f\u5143\u306b\u623b\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8475>>\u300d\u306e\u52b9\u679c\u3068\u3057\u3066\u767a\u52d5\u3057\u305f\u52b9\u679c\u3067\u653b\u6483\u529b\u304c\u30a2\u30c3\u30d7\u3057\u305f\u5f8c\u306b\u3001\u300c<<5740>>\u300d\u3092\u767a\u52d5\u3059\u308b\u3068\u3001\u5143\u306b\u623b\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

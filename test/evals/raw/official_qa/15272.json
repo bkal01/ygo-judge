@@ -1,0 +1,40 @@
+{
+    "cards": [
+        5544,
+        7491,
+        11348,
+        11743
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this case, <<7491>> is not treated as a \"Fluffal\" monster when it is sent to the Graveyard, so you cannot activate <<11743>>.",
+            "id": 15272,
+            "question": "If <<7491>> has changed its name to <<11348>> by its own effect, and is then destroyed by my opponent's <<5544>>, can I activate <<11743>>?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<7491>> has changed its name to <<11348>> by its own effect, and is then destroyed by my opponent's <<5544>>, can I activate <<11743>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<7491>>\u300d\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u6271\u3044\u3068\u306a\u308a\u3001\u300c<<11348>>\u300d\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u6271\u3044\u306b\u306f\u306a\u308a\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<11743>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 15272,
+            "question": "\u300c<<7491>>\u300d\u304c\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u300c<<11348>>\u300d\u306e\u30ab\u30fc\u30c9\u540d\u3092\u5f97\u3066\u3044\u308b\u72b6\u614b\u3067\u3001\u76f8\u624b\u306e\u300c<<5544>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u305d\u306e\u300c<<7491>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<11743>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11348>>\u300d\u306e\u30ab\u30fc\u30c9\u540d\u3092\u5f97\u3066\u3044\u308b\u300c<<7491>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<11743>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

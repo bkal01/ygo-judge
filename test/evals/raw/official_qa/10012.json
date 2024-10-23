@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5914,
+        10805
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in that case, the effect resolves.\n\nThe remaining target is flipped to face-up Defense Position, and face-up monsters the opponent controls up to the number of \"Ghostrick\" monsters among those flipped cards are chosen and flipped to face-down Defense Position.",
+            "id": 10012,
+            "question": "<<10805>> was activated targeting two face-down Defense Position monsters.\n\nIf <<5914>> is activated in a chain to that activation, so that at the time of the resolution of the effect of <<10805>> 1 of the targets has left the field, how does this resolve?",
+            "thisSrc": {
+                "date": "2015-02-13",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<10805>> was activated targeting two face-down Defense Position monsters.  If <<5914>> is activated in a chain to that activation, so that at the time of the resolution of the effect of <<10805>> 1 of the targets has left the field, how does this resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u30012\u4f53\u306e\u88cf\u5074\u5b88\u5099\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<10805>>\u300d\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u305d\u306e\u5185\u306e1\u4f53\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u96e2\u308c\u3066\u3044\u308b\u3088\u3046\u306a\u5834\u5408\u3067\u3082\u3001\u52b9\u679c\u51e6\u7406\u3092\u884c\u308f\u308c\u307e\u3059\u3002\n\n\u305d\u306e\u6b8b\u308a\u306e1\u4f53\u3092\u8868\u5074\u5b88\u5099\u8868\u793a\u306b\u3057\u3001\u305d\u306e\u4e2d\u306e\u300c\u30b4\u30fc\u30b9\u30c8\u30ea\u30c3\u30af\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6570\u307e\u3067\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u3073\u3001\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u3057\u307e\u3059\u3002",
+            "id": 10012,
+            "question": "2\u4f53\u306e\u88cf\u5074\u5b88\u5099\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<10805>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5914>>\u300d\u304c\u767a\u52d5\u3057\u3001\u300c<<10805>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u305d\u306e\u5185\u306e1\u4f53\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u96e2\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10805>>\u300d\u306e\u5bfe\u8c61\u3068\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5185\u3001\u305d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b1\u4f53\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

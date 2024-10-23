@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5740,
+        7074
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If the effects of <<7074>> are being negated, the effect that places it face-up in the Spell & Trap Zone as a Continuous Spell Card when it is destroyed cannot be applied. (A <<7074>> that is destroyed by battle or card effect is sent to the Graveyard normally.)",
+            "id": 6629,
+            "question": "<<5740>> is face-up on the field, and its effect that negates the effects of all face-up monsters on the field is applying. In this situation, if a face-up <<7074>> on my field is destroyed by battle or card effect, can I place it in my Spell & Trap Zone as a Continuous Spell Card instead of sending it to the Graveyard?",
+            "thisSrc": {
+                "date": "2017-04-14",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<5740>> is face-up on the field, and its effect that negates the effects of all face-up monsters on the field is applying. In this situation, if a face-up <<7074>> on my field is destroyed by battle or card effect, can I place it in my Spell & Trap Zone as a Continuous Spell Card instead of sending it to the Graveyard?",
+            "tlSrc": {
+                "date": "2017-04-13",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<7074>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u300c<<5740>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u30be\u30fc\u30f3\u4e0a\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u5893\u5730\u3078\u9001\u3089\u305a\u306b\u6c38\u7d9a\u9b54\u6cd5\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30ab\u30fc\u30c9\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u7f6e\u304f\u4e8b\u304c\u3067\u304d\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\uff08\u6226\u95d8\u3084\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u305f\u300c<<7074>>\u300d\u306f\u901a\u5e38\u901a\u308a\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 6629,
+            "question": "\u76f8\u624b\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u300c<<5740>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u5168\u3066\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<7074>>\u300d\u304c\u6226\u95d8\u3084\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u30be\u30fc\u30f3\u4e0a\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u5893\u5730\u3078\u9001\u3089\u305a\u306b\u6c38\u7d9a\u9b54\u6cd5\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30ab\u30fc\u30c9\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u7f6e\u304f\u4e8b\u304c\u3067\u304d\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-04-13",
+                "type": 0
+            },
+            "title": "\u300c<<5740>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<7074>>\u300d\u304c\u6226\u95d8\u3084\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<7074>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u9069\u7528\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Trap"
+    ]
+}

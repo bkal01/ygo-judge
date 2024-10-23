@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12207
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The part of the effect that causes the targeted monster to gain 500 ATK will remain applied for as long as that monster is face-up in the Monster Zone, but part that prevents the targeted monster from being destroyed by battle or card effect once will only remain applied until the end of the turn <<12207>> was activated.",
+            "id": 17610,
+            "question": "How long will the effect of <<12207>> that increases a monster's ATK by 500 and prevents its destruction by battle or card effect once this turn be applied?",
+            "thisSrc": {
+                "date": "2020-10-29",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "How long will the effect of <<12207>> that increases a monster's ATK by 500 and prevents its destruction by battle or card effect once this turn be applied?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<12207>>\u300d\u306e\u300e\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\uff15\uff10\uff10\u30a2\u30c3\u30d7\u3057\u300f\u306e\u52b9\u679c\u306f\u3001\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u9650\u308a\u9069\u7528\u3055\u308c\u308b\u52b9\u679c\u3067\u3059\u304c\u3001\u300e\u3053\u306e\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3060\u3051\u6226\u95d8\u30fb\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u306f\u300c<<12207>>\u300d\u3092\u767a\u52d5\u3057\u305f\u30bf\u30fc\u30f3\u306e\u9593\u306e\u307f\u9069\u7528\u3055\u308c\u308b\u52b9\u679c\u3067\u3059\u3002",
+            "id": 17610,
+            "question": "\u300c<<12207>>\u300d\u306e\u300e\u2460\uff1a\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\uff15\uff10\uff10\u30a2\u30c3\u30d7\u3057\u3001\u3053\u306e\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3060\u3051\u6226\u95d8\u30fb\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u306f\u3001\u3044\u3064\u307e\u3067\u9069\u7528\u3055\u308c\u308b\u52b9\u679c\u3067\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12207>>\u300d\u306e\u300e\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\uff15\uff10\uff10\u30a2\u30c3\u30d7\u3057\u3001\u3053\u306e\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3060\u3051\u6226\u95d8\u30fb\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u306f\u3044\u3064\u307e\u3067\u9069\u7528\u3055\u308c\u308b\u52b9\u679c\u3067\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

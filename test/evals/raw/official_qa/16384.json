@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4909,
+        11951,
+        11952
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, since the <<11951>> or <<11952>> that activated its effect is destroyed and sent to the Graveyard by <<4909>>, they are not Special Summoned.",
+            "id": 16384,
+            "question": "If <<4909>> is activated in a chain to the activation of the effect of <<11951>> or <<11952>> to Special Summon itself while treated as an Equip Card, destroying them, how does this resolve?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<4909>> is activated in a chain to the activation of the effect of <<11951>> or <<11952>> to Special Summon itself while treated as an Equip Card, destroying them, how does this resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u300c<<11951>>\u300d\u3084\u300c<<11952>>\u300d\u304c\u300c<<4909>>\u300d\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u7279\u6b8a\u53ec\u559a\u3059\u308b\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 16384,
+            "question": "\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u308b\u300c<<11951>>\u300d\u3084\u300c<<11952>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u3053\u306e\u30ab\u30fc\u30c9\u304c\u88c5\u5099\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u88c5\u5099\u3055\u308c\u3066\u3044\u308b\u3053\u306e\u30ab\u30fc\u30c9\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3057\u305f\u76f8\u624b\u306e\u300c<<4909>>\u300d\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11951>>\u300d\u3084\u300c<<11952>>\u300d\u306e\u7279\u6b8a\u53ec\u559a\u3059\u308b\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u300c<<4909>>\u300d\u3067\u7834\u58ca\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

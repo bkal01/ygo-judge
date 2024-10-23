@@ -1,0 +1,40 @@
+{
+    "cards": [
+        11210,
+        11211,
+        11585,
+        11738
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this case, the Pendulum Scales of the cards targeted by <<11738>> are 2 and 7 when it resolves, but then the Pendulum Scale of <<11210>> is changed to 4 by the effect of <<11585>>. This means that if you Pendulum Summon using the scales of those monsters, which will be 2 and 4, you can only Special Summon Level 3 monsters from your Extra Deck.",
+            "id": 15247,
+            "question": "<<11738>> is activated, targeting my opponent's <<11210>> and <<11211>>. Afterward, <<11585>> is activated, changing the Pendulum Scale of <<11210>> to 4. If I want to Pendulum Summon using my opponent's scales, which Level monsters can I Summon?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<11738>> is activated, targeting my opponent's <<11210>> and <<11211>>. Afterward, <<11585>> is activated, changing the Pendulum Scale of <<11210>> to 4. If I want to Pendulum Summon using my opponent's scales, which Level monsters can I Summon?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<11738>>\u300d\u3092\u9069\u7528\u3057\u305f\u969b\u306e\u5bfe\u8c61\u306e\u30ab\u30fc\u30c9\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30b9\u30b1\u30fc\u30eb\u4e00\u7d44\u306f\u300c<<11211>>\u300d\u306e\uff12\u3068\u3001\u300c<<11210>>\u300d\u306e\uff17\u306e\u72b6\u614b\u3067\u3057\u305f\u304c\u3001\u305d\u306e\u5f8c\u306b\u300c<<11585>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<11210>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30b9\u30b1\u30fc\u30eb\u304c\uff14\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u76f8\u624b\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30b9\u30b1\u30fc\u30eb\u4e00\u7d44\u3092\u4f7f\u7528\u3057\u3066\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3092\u884c\u3046\u5834\u5408\u3001\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30b9\u30b1\u30fc\u30eb\uff12\u3068\uff14\u3067\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u7d50\u679c\u7684\u306b\u30ec\u30d9\u30eb\uff13\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 15247,
+            "question": "\u76f8\u624b\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306e\u300c<<11211>>\u300d\u3068\u300c<<11210>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u81ea\u5206\u304c\u300c<<11738>>\u300d\u3092\u767a\u52d5\u3057\u3066\u3044\u308b\u30bf\u30fc\u30f3\u3067\u3059\u3002\n\n\u305d\u306e\u5f8c\u3001\u76f8\u624b\u304c\u300c<<11585>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300c<<11210>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30b9\u30b1\u30fc\u30eb\u3092\uff14\u306b\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u76f8\u624b\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30b9\u30b1\u30fc\u30eb\u3092\u4f7f\u7528\u3057\u3066\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3059\u308b\u5834\u5408\u3001\u3069\u306e\u30ec\u30d9\u30eb\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11738>>\u300d\u306e\u767a\u52d5\u5f8c\u3001\u300c<<11585>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30b9\u30b1\u30fc\u30eb\u304c\u5909\u5316\u3057\u305f\u5834\u5408\u3001\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u306f\u884c\u3048\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Pendulum"
+    ]
+}

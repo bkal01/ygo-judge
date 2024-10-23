@@ -1,0 +1,38 @@
+{
+    "cards": [
+        6980,
+        13039
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even though <<13039>> no longer exists in the Graveyard by the time its effect resolves, you will still Special Summon a \"Gadget Token\".",
+            "id": 20698,
+            "question": "My <<13039>> is sent to the Graveyard, and I activate its\u300eSpecial Summon 1 \"Gadget Token\"\u300feffect. In response, the effect of my opponent's <<6980>> resolves, banishing <<13039>>. What happens next?",
+            "thisSrc": {
+                "date": "2024-05-12",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Will a \"Gadget Token\" be Summoned if <<13039>> is no longer in the Graveyard by the time its effect resolves?",
+            "tlSrc": {
+                "date": "2024-05-10",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u300c<<13039>>\u300d\u306e\u2461\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u300c<<13039>>\u300d\u81ea\u8eab\u304c\u5893\u5730\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u300c\u30ac\u30b8\u30a7\u30c3\u30c8\u30fb\u30c8\u30fc\u30af\u30f3\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u307e\u3059\u3002",
+            "id": 20698,
+            "question": "\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u300c<<13039>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c\u30ac\u30b8\u30a7\u30c3\u30c8\u30fb\u30c8\u30fc\u30af\u30f3\u300d\uff08\u30b5\u30a4\u30d0\u30fc\u30b9\u65cf\u30fb\u5149\u30fb\u661f\uff12\u30fb\u653b\uff0f\u5b88\uff10\uff09\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u76f8\u624b\u304c\u300c<<6980>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u300c<<13039>>\u300d\u3092\u5893\u5730\u304b\u3089\u9664\u5916\u3057\u305f\u5834\u5408\u3001\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-05-10",
+                "type": 0
+            },
+            "title": "\u300c\u30b5\u30a4\u30d0\u30fc\u30b9\uff65\u30ac\u30b8\u30a7\u30c3\u30c8\u300d\u306e\u2461\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u81ea\u8eab\u304c\u5893\u5730\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u300c\u30ac\u30b8\u30a7\u30c3\u30c8\u30fb\u30c8\u30fc\u30af\u30f3\u300d\u306f\u7279\u6b8a\u53ec\u559a\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

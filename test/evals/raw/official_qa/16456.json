@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5432,
+        11946
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in the proposed scenario, the Monster Effect of <<11946>> resolves normally, the monsters listed as Fusion Materials are sent to the Graveyard and the Fusion Monster is Fusion Summoned.\n\n(Even if the <<11946>> itself would be used as a Fusion Material, the result is the same and the effect resolves normally)",
+            "id": 16456,
+            "question": "If <<5432>> is activated in a chain to the activation of the Monster Effect of <<11946>>, so that <<11946>> is changed to face-down Defense Position, how does the effect resolve?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<5432>> is activated in a chain to the activation of the Monster Effect of <<11946>>, so that <<11946>> is changed to face-down Defense Position, how does the effect resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3067\u3082\u3001\u300c<<11946>> \u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u3001\u6c7a\u3081\u3089\u308c\u305f\u878d\u5408\u7d20\u6750\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5893\u5730\u3078\u9001\u308a\u3001\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u878d\u5408\u53ec\u559a\u3057\u307e\u3059\u3002\n\uff08\u878d\u5408\u7d20\u6750\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u300c<<11946>> \u300d\u81ea\u8eab\u3092\u4f7f\u7528\u3059\u308b\u5834\u5408\u3067\u3082\u3001\u540c\u69d8\u306b\u3001\u52b9\u679c\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u307e\u3059\u3002\uff09",
+            "id": 16456,
+            "question": "\u300c<<11946>> \u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u3001\u30c9\u30e9\u30b4\u30f3\u65cf\u306e\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u306b\u3088\u3063\u3066\u6c7a\u3081\u3089\u308c\u305f\u878d\u5408\u7d20\u6750\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5893\u5730\u3078\u9001\u308a\u3001\u305d\u306e\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u878d\u5408\u53ec\u559a\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5432>>\u300d\u304c\u767a\u52d5\u3057\u3001\u300c<<11946>> \u300d\u81ea\u8eab\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300cEM\u30de\u30f3\u30e2\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5 \u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u300cEM\u30de\u30f3\u30e2\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5 \u300d\u81ea\u8eab\u304c\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

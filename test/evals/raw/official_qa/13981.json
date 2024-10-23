@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6682,
+        11480
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "While <<6682>> is active, even if <<11480>> is Tributed by a card effect and banished, its effect to add a Warrior-Type \"Nekroz\" Ritual Monster from the Deck to the hand can still be activated.",
+            "id": 13981,
+            "question": "While <<6682>> is active, if <<11480>> is Tributed by a card effect, can its effect to add a Warrior-Type \"Nekroz\" Ritual Monster from the Deck to the hand still be activated?",
+            "thisSrc": {
+                "date": "2014-10-15",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "While <<6682>> is active, if <<11480>> is Tributed by a card effect, can its effect to add a Warrior-Type \"Nekroz\" Ritual Monster from the Deck to the hand still be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<11480>>\u300d\u304c\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u9664\u5916\u3055\u308c\u305f\u5834\u5408\u3067\u3082\u3001\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u52b9\u679c\u3067\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u6226\u58eb\u65cf\u306e\u300c\u5f71\u970a\u8863\u300d\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 13981,
+            "question": "\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<11480>>\u300d\u304c\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u305f\u5834\u5408\u3001\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u52b9\u679c\u3067\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u6226\u58eb\u65cf\u306e\u300c\u5f71\u970a\u8863\u300d\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<11480>>\u300d\u304c\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u305f\u5834\u5408\u3001\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Trap"
+    ]
+}

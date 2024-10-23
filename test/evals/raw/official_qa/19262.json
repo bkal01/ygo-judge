@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12545
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, after <<12545>> is changed to face-down Defense Position by its own effect, it is no longer treated as a monster that was Special Summoned from the Extra Deck. Therefore, even if it is flipped face-up again, it cannot be targeted by its own effect that changes a monster to face-down Defense Position.",
+            "id": 19262,
+            "question": "The first effect of <<12545>> was activated by targeting itself, and it was changed to face-down Defense Position. Afterward, if <<12545>> is flipped face-up again, can it be changed to face-down Defense Position by its own effect once more?",
+            "thisSrc": {
+                "date": "2016-05-16",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "The first effect of <<12545>> was activated by targeting itself, and it was changed to face-down Defense Position. Afterward, if <<12545>> is flipped face-up again, can it be changed to face-down Defense Position by its own effect once more?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u81ea\u8eab\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u300c<<12545>>\u300d\u306f\u3001\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u306f\u6271\u308f\u308c\u306a\u304f\u306a\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u305d\u306e\u5f8c\u306b\u30ea\u30d0\u30fc\u30b9\u3057\u8868\u5074\u8868\u793a\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u300c<<12545>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<12545>>\u300d\u81ea\u8eab\u3092\u9078\u629e\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 19262,
+            "question": "\u300c<<12545>>\u300d\u304c\u81ea\u8eab\u306e\u300e\u2460\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306eX\u7d20\u6750\u3092\uff11\u3064\u53d6\u308a\u9664\u304d\u3001\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u3059\u308b\u3002\u3053\u306e\u52b9\u679c\u306f\u76f8\u624b\u30bf\u30fc\u30f3\u3067\u3082\u767a\u52d5\u3067\u304d\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u5f8c\u3001\u305d\u306e\u300c<<12545>>\u300d\u304c\u30ea\u30d0\u30fc\u30b9\u3057\u305f\u5834\u5408\u3001\u81ea\u8eab\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u518d\u3073\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u8eab\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306a\u3063\u305f\u300c<<12545>>\u300d\u304c\u30ea\u30d0\u30fc\u30b9\u3057\u305f\u5834\u5408\u3001\u81ea\u8eab\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3067\u518d\u3073\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

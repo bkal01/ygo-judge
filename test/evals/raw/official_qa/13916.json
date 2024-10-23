@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4842,
+        11497
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "You can only Special Summon <<11497>> once per turn. Even if you Special Summoned one from your opponent's Graveyard, you were the one that performed the Special Summon, so you cannot Special Summon another <<11497>> this turn. (Incidentally, your opponent would still be able to Special Summon another <<11497>> this turn.)",
+            "id": 13916,
+            "question": "If I use <<4842>> to Special Summon a <<11497>> from my opponent's Graveyard, can I still Special Summon my own <<11497>> that turn?",
+            "thisSrc": {
+                "date": "2014-10-15",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If I use <<4842>> to Special Summon a <<11497>> from my opponent's Graveyard, can I still Special Summon my own <<11497>> that turn?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u306f\u300c<<11497>>\u300d\u3092\u3001\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3057\u304b\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u81ea\u5206\u304c\u300c<<4842>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u76f8\u624b\u306e\u5893\u5730\u304b\u3089\u300c<<11497>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u81ea\u5206\u306f\u4ed6\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306a\u3069\u306b\u3088\u3063\u3066\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306b\u300c<<11497>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\uff08\u306a\u304a\u3001\u76f8\u624b\u306f\u3053\u306e\u30bf\u30fc\u30f3\u306b\u300c<<11497>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u3066\u3044\u307e\u305b\u3093\u306e\u3067\u3001\u76f8\u624b\u306f\u4ed6\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306a\u3069\u306b\u3088\u3063\u3066\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306b\u300c<<11497>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\uff09",
+            "id": 13916,
+            "question": "\u81ea\u5206\u304c\u300c<<4842>>\u300d\u3092\u767a\u52d5\u3057\u3001\u76f8\u624b\u306e\u5893\u5730\u304b\u3089\u300c<<11497>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u30bf\u30fc\u30f3\u306b\u81ea\u5206\u306f\u300c<<11497>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u306e\u5893\u5730\u306e\u300c<<11497>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u81ea\u5206\u304c\u300c<<4842>>\u300d\u3092\u767a\u52d5\u3057\u305f\u30bf\u30fc\u30f3\u3001\u81ea\u5206\u306f\u4ed6\u306e\u300c<<11497>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

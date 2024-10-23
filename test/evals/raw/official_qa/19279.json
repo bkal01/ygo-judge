@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4198,
+        12541
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, as long as you have 2 copies of <<12541>> in your hand, you can activate the effect of each copy during the same turn. (In this scenario, each copy will place 1 Zushin Counter on <<4198>>.)",
+            "id": 19279,
+            "question": "<<4198>> is face-up on my field, and there are 2 copies of <<12541>> in my hand. In this situation, can I activate the effects of each <<12541>> that place a Zushin Counter on a Level 1 Normal Monster on my field?",
+            "thisSrc": {
+                "date": "2016-05-16",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<4198>> is face-up on my field, and there are 2 copies of <<12541>> in my hand. In this situation, can I activate the effects of each <<12541>> that place a Zushin Counter on a Level 1 Normal Monster on my field?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u3001\u624b\u672d\u306b2\u679a\u306e\u300c<<12541>>\u300d\u304c\u5b58\u5728\u3059\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u540c\u4e00\u30bf\u30fc\u30f3\u306b\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\uff08\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<4198>>\u300d\u306b\u30ba\u30b7\u30f3\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\u7f6e\u304f\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\uff09",
+            "id": 19279,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u306e\u300c<<4198>>\u300d\u304c\u5b58\u5728\u3057\u3001\u81ea\u5206\u306e\u624b\u672d\u306b2\u679a\u306e\u300c<<12541>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u300c<<12541>>\u300d\u306e\u300e\u2460\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u624b\u672d\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u76f8\u624b\u306b\u898b\u305b\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ec\u30d9\u30eb\uff11\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u30ba\u30b7\u30f3\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\uff11\u3064\u7f6e\u304f\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u624b\u672d\u306b2\u679a\u306e\u300c<<12541>>\u300d\u304c\u3042\u308b\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

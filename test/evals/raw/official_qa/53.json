@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4835,
+        4923,
+        4956
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of <<4923>> is a Trigger Effect that activates in the Graveyard when it is sent to the Graveyard after being flipped face-up.\n\nEven if it is flipped face-up by the effect of <<4956>>, providing it is sent to the Graveyard afterwards, the effect of <<4923>> activates normally.",
+            "id": 53,
+            "question": "If a face-down Defense Position <<4923>> is changed to face-up Defense Position by the effect of <<4956>>, and it is then destroyed and sent to the Graveyard by the effect of <<4835>>, etc., will the effect of <<4923>> activate?",
+            "thisSrc": {
+                "date": "2022-07-16",
+                "misc": "Redshift",
+                "type": 4
+            },
+            "title": "Will the effect of <<4923>> activate if it was flipped face-up by the effect of <<4956>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<4923>>\u300d\u306e\u52b9\u679c\u306f\u30ea\u30d0\u30fc\u30b9\u3057\u305f\u5f8c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u969b\u306b\u5893\u5730\u306b\u3066\u767a\u52d5\u3059\u308b\u8a98\u767a\u52b9\u679c\u3067\u3059\u3002\n\n\u300c<<4956>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30ea\u30d0\u30fc\u30b9\u3057\u305f\u5f8c\u3067\u3082\u3001\u305d\u306e\u5f8c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u306e\u3067\u3042\u308c\u3070\u3001\u300c<<4923>>\u300d\u306e\u52b9\u679c\u306f\u901a\u5e38\u901a\u308a\u767a\u52d5\u3057\u307e\u3059\u3002",
+            "id": 53,
+            "question": "\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u300c<<4923>>\u300d\u304c\u3001\u300c<<4956>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u8868\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5f8c\u3001\u300c<<4835>>\u300d\u7b49\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u300c<<4923>>\u300d\u306e\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<4956>>\u300d\u306b\u3088\u3063\u3066\u8868\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u300c<<4923>>\u300d\u306e\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Flip"
+    ]
+}

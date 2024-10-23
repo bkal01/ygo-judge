@@ -1,0 +1,38 @@
+{
+    "cards": [
+        7478,
+        9550
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "<<9550>> can still be activated while the effect of <<7478>> is applying. In this case, the effect of <<7478>> banishes any card that would be returned to the Deck from the Graveyard, so when resolving <<9550>>, any card in your Graveyard is banished instead of returning to the Deck. Note that cards in your hand are shuffled into the Deck by the effect of <<9550>> normally.",
+            "id": 9435,
+            "question": "Can <<9550>> be activated while the effect of <<7478>> is applying?",
+            "thisSrc": {
+                "date": "2015-04-30",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can <<9550>> be activated while the effect of <<7478>> is applying?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<7478>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<9550>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u300c<<7478>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u5893\u5730\u304b\u3089\u30c7\u30c3\u30ad\u306b\u623b\u308b\u30ab\u30fc\u30c9\u306f\u30c7\u30c3\u30ad\u306b\u623b\u3089\u305a\u30b2\u30fc\u30e0\u304b\u3089\u9664\u5916\u3055\u308c\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u300c<<9550>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306e\u969b\u306b\u3001\u81ea\u5206\u306e\u5893\u5730\u306e\u30ab\u30fc\u30c9\u306f\u30c7\u30c3\u30ad\u306b\u623b\u3089\u305a\u9664\u5916\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u306a\u304a\u3001\u81ea\u5206\u306e\u624b\u672d\u306e\u30ab\u30fc\u30c9\u306f\u300c<<9550>>\u300d\u306e\u51e6\u7406\u306b\u3088\u3063\u3066\u901a\u5e38\u901a\u308a\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306b\u623b\u308a\u307e\u3059\u3002",
+            "id": 9435,
+            "question": "\u300c<<7478>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<9550>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<7478>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<9550>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

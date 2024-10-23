@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4310,
+        6219
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In that case, as <<4310>> was activated by targeting the monster, the effect of the Chain Link formed by <<4310>>'s activation will be negated by <<6219>>'s effect.\n\nHowever, the effect of <<4310>> that increases the equipped monster's ATK by 1000 will be applied as usual.",
+            "id": 23203,
+            "question": "A Machine-type monster on my field is being targeted by <<6219>>. <<6219>>'s effect would negate the first Spell effect that targets that monster.\n\nWhat happens if I then try to activate <<4310>> and equip it to that monster?",
+            "thisSrc": {
+                "date": "2021-03-05",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If I activate <<4310>> on a monster targeted by <<6219>>, will that <<4310>> be negated?",
+            "tlSrc": {
+                "date": "2021-03-05",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u305d\u306e\u5834\u5408\u3001\u300c<<4310>>\u300d\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u306e\u969b\u306e\u52b9\u679c\u51e6\u7406\u306f\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u304c\u3001\u305d\u306e\u5834\u5408\u3067\u3082\u305d\u306e\u300c<<4310>>\u300d\u306f\u901a\u5e38\u901a\u308a\u88c5\u5099\u3055\u308c\u3001\u305d\u306e\u300e\u2460\uff1a\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\uff11\uff10\uff10\uff10\u30a2\u30c3\u30d7\u3059\u308b\u300f\u52b9\u679c\u3082\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 23203,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u6a5f\u68b0\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3059\u308b\u3001\u300c<<6219>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u305d\u306e\u6a5f\u68b0\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\uff15\uff10\uff10\u30dd\u30a4\u30f3\u30c8\u30a2\u30c3\u30d7\u3057\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u3059\u308b\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\uff11\u5ea6\u3060\u3051\u7121\u52b9\u306b\u3059\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u300c<<4310>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2021-03-05",
+                "type": 0
+            },
+            "title": "\u300c<<6219>>\u300d\u306e\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u300c<<4310>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u300c<<4310>>\u300d\u306f\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

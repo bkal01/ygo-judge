@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4909,
+        11212,
+        13291
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, if <<13291>> is destroyed after <<11212>> was already Special Summoned by its effect, it is banished during the End Phase of the next turn as usual.",
+            "id": 21269,
+            "question": "I Special Summoned a <<11212>> with the effect of <<13291>> this turn. Afterward, if my opponent activates <<4909>> and destroys <<13291>>, is <<11212>> still banished during the End Phase of the next turn?",
+            "thisSrc": {
+                "date": "2017-07-15",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I Special Summoned a <<11212>> with the effect of <<13291>> this turn. Afterward, if my opponent activates <<4909>> and destroys <<13291>>, is <<11212>> still banished during the End Phase of the next turn?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u65e2\u306b\u300c<<13291>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<11212>>\u300d\u306e\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u305d\u306e\u5f8c\u306b\u300c<<13291>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3067\u3082\u3001\u300e\u3053\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u6b21\u306e\u30bf\u30fc\u30f3\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u9664\u5916\u3055\u308c\u308b\u300f\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 21269,
+            "question": "\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<13291>>\u300d\u306e\u300e\u2460\uff1a\u76f8\u624b\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u5834\u5408\u3001\u9664\u5916\u3055\u308c\u3066\u3044\u308b\u81ea\u5206\u306e\u300c\u30e1\u30bf\u30d5\u30a1\u30a4\u30ba\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3053\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u3002\u3053\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u6b21\u306e\u30bf\u30fc\u30f3\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u9664\u5916\u3055\u308c\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<11212>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u3066\u3044\u308b\u30bf\u30fc\u30f3\u3067\u3059\u3002\n\n\u305d\u306e\u5f8c\u306b\u3001\u76f8\u624b\u304c\u300c<<4909>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300c<<13291>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u6b21\u306e\u30bf\u30fc\u30f3\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u300c<<11212>>\u300d\u306f\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<13291>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u305d\u306e\u5f8c\u306b\u300c<<13291>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u306b\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

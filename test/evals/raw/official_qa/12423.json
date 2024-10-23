@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4798,
+        4891,
+        5476,
+        5740
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If, due to the effect of <<4891>>, <<4798>> and <<5740>> are destroyed at the same time, the mentioned Toon monsters' effect will apply immediately afterwards, and <<5476>> etc. will be destroyed as a result.",
+            "id": 12423,
+            "question": "<<4798>> and <<5740>> on the field are destroyed simultaneously by the effect of <<4891>>. If there are Toon monsters whose effect destroys them when <<4798>> is destroyed, such as <<5476>>, are those monsters destroyed?",
+            "thisSrc": {
+                "date": "2021-07-10",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "if <<4798>> and <<5740>> are destroyed by the effect of <<4891>>, will Toon monsters be destroyed?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<4891>>\u300d\u7b49\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<4798>>\u300d\u3068\u300c<<5740>>\u300d\u304c\u540c\u6642\u306b\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u305f\u3060\u3061\u306b\u30c8\u30a5\u30fc\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u300c<<4798>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u6642\u3001\u3053\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3059\u308b\u3002\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u308b\u305f\u3081\u3001\u300c<<5476>>\u300d\u7b49\u306e\u30c8\u30a5\u30fc\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u7834\u58ca\u3055\u308c\u307e\u3059\u3002",
+            "id": 12423,
+            "question": "\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u306e\u300c<<5740>>\u300d\u3068\u300c<<4798>>\u300d\u3068\u3001\u300c<<5476>>\u300d\u7b49\u306e\u300e\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u300c<<4798>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u6642\u3001\u3053\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3059\u308b\u3002\u300f\u3068\u30c6\u30ad\u30b9\u30c8\u306b\u8a18\u8f09\u306e\u3042\u308b\u30c8\u30a5\u30fc\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u3066\u3044\u308b\u6642\u306b\u3001\u300c<<4891>>\u300d\u7b49\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u300c<<5740>>\u300d\u3068\u300c<<4798>>\u300d\u304c\u540c\u6642\u306b\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<5476>>\u300d\u7b49\u306e\u30c8\u30a5\u30fc\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<4798>>\u300d\u3068\u300c<<5740>>\u300d\u304c\u3001\u300c<<4891>>\u300d\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u30c8\u30a5\u30fc\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Toon"
+    ]
+}

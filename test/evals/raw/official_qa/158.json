@@ -1,0 +1,37 @@
+{
+    "cards": [
+        4908
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "While <<4908>> is being applied, 500 Life Points must be paid when a monster is Normal or Special Summoned from the hand for each monster.\n\nTherefore, in the proposed scenario, since 2 monsters are Pendulum Summoned from the hand, the Pendulum Summon is performed by paying 1000 Life Points beforehand. (No Life Points are paid for the monsters that are Pendulum Summoned from the Extra Deck.)",
+            "id": 158,
+            "question": "While the effect of <<4908>> is being applied, 2 monsters from the hand and 1 monsters from the Extra Deck are Pendulum Summoned.\n\nIn this case, how many Life Points do I have to pay?",
+            "thisSrc": {
+                "date": "2020-04-01",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "How many Life Points must be paid if you Pendulum Summon while the effect of <<4908>> is being applied?",
+            "tlSrc": {
+                "date": "2020-04-01",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<4908>>\u300d\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u624b\u672d\u304b\u3089\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3059\u308b\u969b\u306b\u3001\uff11\u4f53\u306b\u3064\u304d\uff15\uff10\uff10\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u6255\u3046\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u624b\u672d\u304b\u3089\uff12\u4f53\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3057\u3088\u3046\u3068\u3057\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u5148\u306b\uff11\uff10\uff10\uff10\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u6255\u3063\u3066\u304b\u3089\u3001\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3092\u884c\u3046\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002 (\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u6255\u3046\u5fc5\u8981\u306f\u3042\u308a\u307e\u305b\u3093\u3002)",
+            "id": 158,
+            "question": "\u300c<<4908>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u624b\u672d\u304b\u3089\uff12\u4f53\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\uff11\u4f53\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3057\u307e\u3059\u3002  \u3053\u306e\u5834\u5408\u3001\u6255\u308f\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u306f\u3044\u304f\u3064\u3067\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2020-04-01",
+                "type": 0
+            },
+            "title": "\u300c<<4908>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3059\u308b\u5834\u5408\u3001\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u3044\u304f\u3064\u6255\u3044\u307e\u3059\u304b?"
+        }
+    },
+    "tags": [
+        "k:Pendulum"
+    ]
+}

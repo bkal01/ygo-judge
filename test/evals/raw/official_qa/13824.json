@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5023,
+        8272,
+        9036
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, since the effect of <<5023>> is activated before the <<8272>> destroyed in battle is sent to the Graveyard, <<9036>> can be activated even if the only face-up Attack Position monster you control is the <<8272>> that was destroyed in battle.",
+            "id": 13824,
+            "question": "You only control 1 <<8272>>, it battled with an <<5023>> of the opponent and you took battle damage.\n\nIn this case, your <<8272>> is destroyed in battle, but can you activate <<9036>> in a chain to the activation of the effect of <<5023>> that draws a card that activates After Damage Calculation?",
+            "thisSrc": {
+                "date": "2014-10-03",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "You only control 1 <<8272>>, it battled with an <<5023>> of the opponent and you took battle damage.  In this case, your <<8272>> is destroyed in battle, but can you activate <<9036>> in a chain to the activation of the effect of <<5023>> that draws a card that activates After Damage Calculation?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u300c<<8272>>\u300d\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u524d\u306b\u3001\u300c<<5023>>\u300d\u306e\u52b9\u679c\u304c\u767a\u52d5\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u8868\u5074\u653b\u6483\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u6226\u95d8\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u300c<<8272>>\u300d1\u4f53\u306e\u307f\u3001\u3068\u3044\u3046\u3088\u3046\u306a\u5834\u5408\u3067\u3082\u3001\u300c<<9036>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 13824,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u300c<<8272>>\u300d1\u4f53\u306e\u307f\u306e\u72b6\u6cc1\u306b\u3066\u3001\u76f8\u624b\u306e\u300c<<5023>>\u300d\u3068\u6226\u95d8\u3092\u884c\u3044\u3001\u81ea\u5206\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u81ea\u5206\u306e\u300c<<8272>>\u300d\u306f\u6226\u95d8\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u3066\u3044\u307e\u3059\u304c\u3001\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u5f8c\u306b\u767a\u52d5\u3059\u308b\u76f8\u624b\u306e\u300c<<5023>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u76f8\u624b\u30e9\u30a4\u30d5\u306b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u305f\u6642\u3001\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\uff11\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u52b9\u679c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u81ea\u5206\u306f\u300c<<9036>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u3001\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u300c\u30a4\u30f3\u30d5\u30a7\u30eb\u30cb\u30c6\u30a3\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u306e\u307f\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u4e2d\u306b\u300c<<9036>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Damage Step"
+    ]
+}

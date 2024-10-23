@@ -1,0 +1,37 @@
+{
+    "cards": [
+        15063
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can.\n\nIn that case, the targeted monster is returned to the Extra Deck instead and you add a \"Witchcrafter\" Spell from your Deck to your hand as usual.",
+            "id": 22939,
+            "question": "Can I target a \"Witchcrafter\" Fusion, Synchro, Xyz, or Link Monster with the first effect of <<15063>>?",
+            "thisSrc": {
+                "date": "2020-03-17",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "Can I target a \"Witchcrafter\" Fusion, Synchro, Xyz, or Link Monster with the first effect of <<15063>>?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<15063>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u9b54\u6cd5\u4f7f\u3044\u65cf\u306e\u878d\u5408\u30fb\u30b7\u30f3\u30af\u30ed\u30fb\u30a8\u30af\u30b7\u30fc\u30ba\u30fb\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u629e\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u623b\u3057\u3001\u30c7\u30c3\u30ad\u304b\u3089\u300c\u30a6\u30a3\u30c3\u30c1\u30af\u30e9\u30d5\u30c8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u51e6\u7406\u3092\u884c\u3044\u307e\u3059\u3002",
+            "id": 22939,
+            "question": "\u300c<<15063>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u9b54\u6cd5\u4f7f\u3044\u65cf\u306e\u878d\u5408\u30fb\u30b7\u30f3\u30af\u30ed\u30fb\u30a8\u30af\u30b7\u30fc\u30ba\u30fb\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u629e\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<15063>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u9b54\u6cd5\u4f7f\u3044\u65cf\u306e\u878d\u5408\u30fb\u30b7\u30f3\u30af\u30ed\u30fb\u30a8\u30af\u30b7\u30fc\u30ba\u30fb\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u629e\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

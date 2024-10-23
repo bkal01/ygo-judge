@@ -1,0 +1,39 @@
+{
+    "cards": [
+        6772,
+        7351,
+        15475
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can.",
+            "id": 23092,
+            "question": "If I Special Summoned <<7351>> or <<6772>> from my hand and used its effect to gain the effect of <<15475>>, can I activate that effect?",
+            "thisSrc": {
+                "date": "2024-01-25",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can <<7351>> that gained the name and effect of <<15475>> activate this effect?",
+            "tlSrc": {
+                "date": "2024-01-25",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u3059\u3002",
+            "id": 23092,
+            "question": "\u624b\u672d\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<7351>>\u300d\u3084\u3001\u624b\u672d\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<6772>>\u300d\u304c\u300c<<15475>>\u300d\u306e\u52b9\u679c\u3092\u5f97\u305f\u5834\u5408\u3001\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-01-25",
+                "type": 0
+            },
+            "title": "\u300c<<15475>>\u300d\u306e\u52b9\u679c\u3092\u5f97\u305f\u300c<<7351>>\u300d\u306f\u3001\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}
