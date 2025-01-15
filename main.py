@@ -9,6 +9,7 @@ from src.completion.base_completer import BaseCompleter
 from src.completion.in_context_cards_completer import InContextCardsCompleter
 from src.completion.in_context_rules_and_cards_completer import InContextRulesAndCardsCompleter
 from src.parsing.naive_query_parser import NaiveQueryParser
+from src.store.store import load_documents, process_documents
 
 def base(query: str) -> str:
     with open(os.getenv("BASE_MODEL_PROMPT_PATH"), "r") as f:
@@ -74,11 +75,44 @@ def in_context_rules_and_cards(query: str) -> str:
 
     return completion
 
+def rag(query: str) -> str:
+    with open(os.getenv("IN_CONTEXT_CARDS_MODEL_PROMPT_PATH"), "r") as f:
+        prompt_prefix = str(f.read())
+    # Load and process rules documents
+    docs = load_documents(os.getenv("RULES_PATH"))
+    vector_store = process_documents(docs)
+    
+    rules_chunks = vector_store.similarity_search(
+        query=query,
+        k=3,
+    )
+
+    print([doc.page_content for doc in rules_chunks])
+    rules_context = "\nHere is some additional context from the game's rules to aid your answer generation:\n" \
+        .join([doc.page_content for doc in rules_chunks])
+
+    parser = NaiveQueryParser(
+        card_name_dir=os.getenv("YUGIOH_CARD_HISTORY_PATH"),
+    )
+
+    completer = InContextCardsCompleter(
+        model=os.getenv("MODEL_NAME"),
+        endpoint=os.getenv("CHAT_COMPLETIONS_ENDPOINT"),
+        prompt_prefix=prompt_prefix + "\n\nRelevant rules:\n" + rules_context,
+        context_source=os.getenv("YUGIOH_CARD_HISTORY_PATH"),
+        parser=parser,
+    )
+    completion = completer.complete(
+        query=query,
+    )
+
+    return completion
+
 def parse_arguments() -> Namespace:
     parser = ArgumentParser()
     parser.add_argument(
         "--method",
-        choices=["base", "in_context_cards", "in_context_rules_and_cards"],
+        choices=["base", "in_context_cards", "in_context_rules_and_cards", "rag"],
         required=True,
         help="Specify the method to use: 'base': feed the query directly into an LLM, 'in_context_cards': provide relevant cards in context, or 'in_context_rules_and_cards': provide official rulebook + relevant cards in context"
     )
@@ -96,6 +130,8 @@ def main(args: Namespace) -> None:
         resp = in_context_cards(args.query)
     elif args.method == "in_context_rules_and_cards":
         resp = in_context_rules_and_cards(args.query)
+    elif args.method == "rag":
+        resp = rag(args.query)
     else:
         resp = "Unknown method."
     print(resp)
