@@ -1,0 +1,40 @@
+{
+    "cards": [
+        5914,
+        12762,
+        12944,
+        12991
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When resolving Zefra War, even if one of the two targeted cards is no longer on the field, the remaining targeted card is destroyed normally.",
+            "id": 20516,
+            "question": "I activate Zefra War, targeting a Zefraath on my field and a Tierra, Source of Destruction on my opponent's field. If Compulsory Evacuation Device is chained, and either of the two targeted cards leaves the field, how does the effect of Zefra War resolve?",
+            "thisSrc": {
+                "date": "2017-01-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I activate Zefra War, targeting a Zefraath on my field and a Tierra, Source of Destruction on my opponent's field. If Compulsory Evacuation Device is chained, and either of the two targeted cards leaves the field, how does the effect of Zefra War resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12991>>\u300d\u306e\u5bfe\u8c61\u3068\u3057\u3066\u9078\u629e\u3057\u305f2\u679a\u306e\u30ab\u30fc\u30c9\u306e\u51851\u679a\u304c\u3001\u52b9\u679c\u51e6\u7406\u6642\u306b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u6b8b\u308a1\u679a\u306e\u5bfe\u8c61\u306e\u30ab\u30fc\u30c9\u306f\u7834\u58ca\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 20516,
+            "question": "\u300c<<12991>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c\u30bb\u30d5\u30a3\u30e9\u300d\u30ab\u30fc\u30c9\uff11\u679a\u3068\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c<<12944>>\u300d\u3068\u3001\u76f8\u624b\u306e\u300c<<12762>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5914>>\u300d\u304c\u767a\u52d5\u3057\u3001\u5bfe\u8c61\u3068\u3057\u305f2\u679a\u306e\u30ab\u30fc\u30c9\u306e\u51851\u679a\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u3001\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12991>>\u300d\u306e\u5bfe\u8c61\u3068\u3057\u3066\u9078\u629e\u3057\u305f2\u679a\u306e\u30ab\u30fc\u30c9\u306e\u51851\u679a\u304c\u3001\u52b9\u679c\u51e6\u7406\u6642\u306b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

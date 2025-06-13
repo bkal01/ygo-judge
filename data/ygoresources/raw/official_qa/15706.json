@@ -1,0 +1,45 @@
+{
+    "cards": [
+        10479,
+        11810,
+        11811,
+        11812,
+        11813,
+        11814,
+        11815
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If the Pendulum Effect of <<11810>> and similar cards is unable to destroy both the card that activated the effect and the \"Igknight\" card in the other Pendulum Zone, the part of the effect that adds a FIRE Warrior-Type monster from the Deck or Graveyard to the hand cannot be applied.\n\nIn the proposed scenario, the card in the Pendulum Zone targeted by the effect of <<10479>> is not destroyed and remains in the Pendulum Zone, but the card in the other Pendulum Zone is destroyed.\n\n(As a result, since only 1 card in the Pendulum Zones was destroyed, the part of the effect that adds a FIRE Warrior-Type Monster from the Deck or Graveyard to the hand cannot be applied)",
+            "id": 15706,
+            "question": "The effect of <<10479>> was activated in a chain to the activation of the Pendulum Effect of <<11810>>, <<11811>>, <<11812>>, <<11813>>, <<11814>> or <<11815>>.\n\nIf the activated effect of <<11810>> and similar cards is unable to destroy either card in the Pendulum Zones as a result of the effect of <<10479>>, how does this resolve?",
+            "thisSrc": {
+                "date": "2015-05-01",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "The effect of <<10479>> was activated in a chain to the activation of the Pendulum Effect of <<11810>>, <<11811>>, <<11812>>, <<11813>>, <<11814>> or <<11815>>.  If the activated effect of <<11810>> and similar cards is unable to destroy either card in the Pendulum Zones as a result of the effect of <<10479>>, how does this resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11810>>\u300d\u7b49\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306f\u3001\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u81ea\u8eab\u3068\u3001\u3082\u3046\u7247\u65b9\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u300c\u30a4\u30b0\u30ca\u30a4\u30c8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\u306e\u4e21\u65b9\u3092\u7834\u58ca\u3059\u308b\u4e8b\u304c\u3067\u304d\u306a\u304b\u3063\u305f\u5834\u5408\u306b\u306f\u3001\u300e\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u30fb\u5893\u5730\u304b\u3089\u6226\u58eb\u65cf\u30fb\u708e\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u3093\u3067\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u51e6\u7406\u3092\u9069\u7528\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<10479>>\u300d\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u306a\u3063\u305f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\u306f\u7834\u58ca\u3055\u308c\u305a\u3001\u305d\u306e\u307e\u307e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u6b8b\u308a\u307e\u3059\u304c\u3001\u3082\u30461\u679a\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\u306f\u7834\u58ca\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\uff08\u7d50\u679c\u7684\u306b\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\u304c1\u679a\u3057\u304b\u7834\u58ca\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u306e\u3067\u3001\u300e\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u30fb\u5893\u5730\u304b\u3089\u6226\u58eb\u65cf\u30fb\u708e\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u3093\u3067\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u51e6\u7406\u3092\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\uff09",
+            "id": 15706,
+            "question": "\u300c<<11810>>\u300d\u3001\u300c<<11811>>\u300d\u3001\u300c<<11812>>\u300d\u3001\u300c<<11813>>\u300d\u3001\u300c<<11814>>\u300d\u3001\u300c<<11815>>\u300d\u306e\u300e\u2460\uff1a\u3082\u3046\u7247\u65b9\u306e\u81ea\u5206\u306eP\u30be\u30fc\u30f3\u306b\u300c\u30a4\u30b0\u30ca\u30a4\u30c8\u300d\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u306eP\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\u3092\u5168\u3066\u7834\u58ca\u3057\u3001\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u30fb\u5893\u5730\u304b\u3089\u6226\u58eb\u65cf\u30fb\u708e\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u3093\u3067\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<10479>>\u300d\u306e\u52b9\u679c\u304c\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u300c<<10479>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u300c<<11810>>\u300d\u7b49\u81ea\u8eab\u3082\u3057\u304f\u306f\u3001\u3082\u3046\u7247\u65b9\u306e\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u300c\u30a4\u30b0\u30ca\u30a4\u30c8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\u306e\u3069\u3061\u3089\u304b\u304c\u7834\u58ca\u3055\u308c\u306a\u3044\u5834\u5408\u3001\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11810>>\u300d\u7b49\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u300c<<10479>>\u300d\u306e\u52b9\u679c\u304c\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain",
+        "k:Pendulum",
+        "k:Synchro"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "cards": [
+        5099,
+        8472,
+        8473,
+        8648,
+        8649
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Once <<5099>> has resolved targeting an opponent's monster, if you activate or resolve an effect that Tributes monsters, that monster must always be Tributed.\nTherefore, if a Ritual Summon can be performed using only that targeted monster, you cannot banish <<8472>> etc. from your Graveyard.\nNote that, if the monster targeted by <<5099>> has a Level lower than that of the Ritual Monster you're looking to Summon, you can then also banish a <<8472>> etc. from your Graveyard for the Ritual Summon.",
+            "id": 9470,
+            "question": "When I perform a Ritual Summon after having resolved <<5099>>, while <<8472>> etc. is in my Graveyard, can I banish only the <<8472>> without Tributing any monsters?",
+            "thisSrc": {
+                "date": "2022-08-29",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "After resolving <<5099>>, can I still banish <<8472>> etc. for a Ritual Summon without Tributing at all?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<5099>>\u300d\u306e\u5bfe\u8c61\u306b\u9078\u629e\u3057\u305f\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u6642\u306b\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30ea\u30ea\u30fc\u30b9\u3059\u308b\u30ab\u30fc\u30c9\u3084\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u3001\u5fc5\u305a\u300c<<5099>>\u300d\u306e\u5bfe\u8c61\u306b\u9078\u629e\u3057\u305f\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u307e\u3059\u3002\n\u3088\u3063\u3066\u3001\u300c<<5099>>\u300d\u306e\u5bfe\u8c61\u306b\u9078\u629e\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u307f\u3067\u5100\u5f0f\u53ec\u559a\u3092\u884c\u3046\u4e8b\u304c\u3067\u304d\u308b\u5834\u5408\u3001\u300c<<8472>>\u300d\u3092\u5893\u5730\u304b\u3089\u9664\u5916\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\u307e\u305f\u3001\u300c<<5099>>\u300d\u306e\u5bfe\u8c61\u306b\u9078\u629e\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u5100\u5f0f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ec\u30d9\u30eb\u3088\u308a\u4f4e\u3044\u5834\u5408\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u3001\u3055\u3089\u306b\u5893\u5730\u304b\u3089\u300c<<8472>>\u300d\u3092\u9664\u5916\u3057\u3066\u5100\u5f0f\u53ec\u559a\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 9470,
+            "question": "\u300c<<8472>>\u300d\u3001\u300c<<8473>>\u300d\u3001\u300c<<8648>>\u300d\u3001\u300c<<8649>>\u300d\u304c\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u969b\u306b\u300c<<5099>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5f8c\u306b\u5100\u5f0f\u53ec\u559a\u3092\u884c\u3046\u5834\u5408\u3001\u300c<<5099>>\u300d\u306e\u5bfe\u8c61\u306b\u9078\u629e\u3057\u305f\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30ea\u30ea\u30fc\u30b9\u305b\u305a\u306b\u3001\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u300c<<8472>>\u300d\u7b49\u3092\u9664\u5916\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5099>>\u300d\u3092\u767a\u52d5\u5f8c\u3001\u30ea\u30ea\u30fc\u30b9\u305b\u305a\u306b\u5893\u5730\u306e\u300c<<8472>>\u300d\u7b49\u3092\u9664\u5916\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Ritual"
+    ]
+}

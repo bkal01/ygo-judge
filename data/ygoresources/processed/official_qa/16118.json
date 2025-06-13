@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4734,
+        4798,
+        4862,
+        11901
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "A Spell Card that has its activation negated by Magic Jammer is not treated as being destroyed on the field. Therefore, even if the activation of Toon World is negated, Toon Mermaid and similar monsters are not destroyed by their own effects. (Note that when the activation of Toon Kingdom is negated, its name is not treated as Toon World, so Toon Mermaid and similar monsters are not destroyed by their own effects.)",
+            "id": 16118,
+            "question": "If the activation of Toon World or Toon Kingdom is negated by Magic Jammer, will Toon Mermaid and similar monsters be destroyed by their effects?",
+            "thisSrc": {
+                "date": "2015-06-06",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the activation of Toon World or Toon Kingdom is negated by Magic Jammer, will Toon Mermaid and similar monsters be destroyed by their effects?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<4862>>\u300d\u306b\u3088\u3063\u3066\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u304c\u7121\u52b9\u306b\u306a\u308a\u7834\u58ca\u3055\u308c\u305f\u9b54\u6cd5\u30ab\u30fc\u30c9\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u3067\u7834\u58ca\u3055\u308c\u305f\u6271\u3044\u3068\u306f\u306a\u3089\u305a\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<4798>>\u300d\u306e\u767a\u52d5\u304c\u7121\u52b9\u306b\u306a\u308a\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3067\u3082\u3001\u300c<<4734>>\u300d\u7b49\u304c\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\uff08\u306a\u304a\u3001\u300c<<11901>>\u300d\u306e\u5834\u5408\u3001\u305d\u306e\u767a\u52d5\u304c\u7121\u52b9\u306b\u306a\u308a\u7834\u58ca\u3055\u308c\u305f\u969b\u306b\u306f\u3001\u30ab\u30fc\u30c9\u540d\u306f\u300c<<4798>>\u300d\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u307e\u305b\u3093\u306e\u3067\u3001\u300c<<4734>>\u300d\u7b49\u304c\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002\uff09",
+            "id": 16118,
+            "question": "\u300c<<4798>>\u300d\u3084\u300c<<11901>>\u300d\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u304c\u300c<<4862>>\u300d\u3067\u7121\u52b9\u306b\u306a\u308a\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<4734>>\u300d\u7b49\u306e\u300e\u2463\uff1a\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c<<4798>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u6642\u306b\u3053\u306e\u30ab\u30fc\u30c9\u306f\u7834\u58ca\u3055\u308c\u308b\u300f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<4798>>\u300d\u3084\u300c<<11901>>\u300d\u306e\u767a\u52d5\u304c\u300c<<4862>>\u300d\u3067\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u300c<<4734>>\u300d\u7b49\u306f\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Toon"
+    ]
+}

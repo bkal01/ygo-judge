@@ -1,0 +1,37 @@
+{
+    "cards": [
+        6834
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When the effect of Power Wall is applied, the battle damage you would take becomes 0, but your monster can still be destroyed by battle and sent to the Graveyard normally.",
+            "id": 20331,
+            "question": "When a monster on my field battles an opponent's monster, if I activate Power Wall during damage calculation, will my monster still be destroyed by battle?",
+            "thisSrc": {
+                "date": "2016-12-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When a monster on my field battles an opponent's monster, if I activate Power Wall during damage calculation, will my monster still be destroyed by battle?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<6834>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u308b\u5834\u5408\u3001\u300c<<6834>>\u300d\u3092\u767a\u52d5\u3057\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u53d7\u3051\u308b\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u306f\uff10\u306b\u306a\u308a\u307e\u3059\u304c\u3001\u305d\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u306e\u7d50\u679c\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u308b\u969b\u306b\u306f\u3001\u901a\u5e38\u901a\u308a\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 20331,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3046\u969b\u306b\u3001\u300c<<6834>>\u300d\u306e\u300e\u2460\uff1a\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u306b\u3088\u3063\u3066\u81ea\u5206\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u6226\u95d8\u3067\u767a\u751f\u3059\u308b\u81ea\u5206\u3078\u306e\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u304c\uff10\u306b\u306a\u308b\u3088\u3046\u306b\uff15\uff10\uff10\u30c0\u30e1\u30fc\u30b8\u306b\u3064\u304d\uff11\u679a\u3001\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u306e\u4e0a\u304b\u3089\u30ab\u30fc\u30c9\u3092\u5893\u5730\u3078\u9001\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<6834>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Damage Step"
+    ]
+}

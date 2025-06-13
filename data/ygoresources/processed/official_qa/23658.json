@@ -1,0 +1,38 @@
+{
+    "cards": [
+        6446,
+        17480
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can.",
+            "id": 23658,
+            "question": "Can I activate D.D. Trap Hole when a monster in my Graveyard is Set to my field by the effect of my opponent's Terrors of the Overroot?",
+            "thisSrc": {
+                "date": "2022-05-16",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can I activate D.D. Trap Hole after Terrors of the Overroot resolves?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u3059\u3002",
+            "id": 23658,
+            "question": "\u76f8\u624b\u306e\u300c<<17480>>\u300d\u306e\u52b9\u679c\u306b\u3088\u308a\u81ea\u5206\u306e\u5893\u5730\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30bb\u30c3\u30c8\u3055\u308c\u305f\u6642\u3001\u81ea\u5206\u306f\u300c<<6446>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u306e\u300c<<17480>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u5f8c\u3001\u81ea\u5206\u306f\u300c<<6446>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        8609,
+        15462
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If there are 2 or more monsters in your Monster Zone, you can chain Starlight Road to the effect of your opponent's Time Wizard of Tomorrow.",
+            "id": 23045,
+            "question": "When my opponent activates the effect of Time Wizard of Tomorrow, can I chain Starlight Road?",
+            "thisSrc": {
+                "date": "2020-07-21",
+                "misc": "Redshift",
+                "type": 4
+            },
+            "title": "Can I chain Starlight Road to the effect of Time Wizard of Tomorrow?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\uff12\u4f53\u4ee5\u4e0a\u5b58\u5728\u3059\u308b\u72b6\u614b\u3067\u3042\u308c\u3070\u3001\u76f8\u624b\u306e\u300c<<15462>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u81ea\u5206\u306f\u300c<<8609>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 23045,
+            "question": "\u76f8\u624b\u306e\u300c<<15462>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u81ea\u5206\u306f\u300c<<8609>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<15462>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u300c<<8609>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

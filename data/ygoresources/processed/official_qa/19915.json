@@ -1,0 +1,39 @@
+{
+    "cards": [
+        9352,
+        12248,
+        12391
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Since the effect of Super Anti-Kaiju War Machine Mecha-Dogoran that increases its ATK is a monster effect, even if it becomes unaffected by Spell/Trap effects due to the effect of Forbidden Lance, it will still gain ATK. (In this scenario, Super Anti-Kaiju War Machine Mecha-Dogoran gains 2700 ATK as a result of being equipped with Gadarla, the Mystery Dust Kaiju, but since it also loses 800 ATK due to the effect of Forbidden Lance, its ATK will be 1900.)",
+            "id": 19915,
+            "question": "A Super Anti-Kaiju War Machine Mecha-Dogoran equipped with Gadarla, the Mystery Dust Kaiju is face-up on my field. In this situation, if Forbidden Lance is activated targeting Super Anti-Kaiju War Machine Mecha-Dogoran, what happens to its ATK?",
+            "thisSrc": {
+                "date": "2016-09-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "A Super Anti-Kaiju War Machine Mecha-Dogoran equipped with Gadarla, the Mystery Dust Kaiju is face-up on my field. In this situation, if Forbidden Lance is activated targeting Super Anti-Kaiju War Machine Mecha-Dogoran, what happens to its ATK?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12391>>\u300d\u304c\u81ea\u8eab\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u88c5\u5099\u3057\u3066\u3044\u308b\u5834\u5408\u3001\u300e\u2462\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306e\u653b\u6483\u529b\u306f\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u88c5\u5099\u3057\u305f\u300c\u58ca\u7363\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5143\u3005\u306e\u653b\u6483\u529b\u5206\u30a2\u30c3\u30d7\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u653b\u6483\u529b\u304c\u30a2\u30c3\u30d7\u3057\u307e\u3059\u306e\u3067\u3001\u300c<<9352>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u653b\u6483\u529b\u306f\u901a\u5e38\u901a\u308a\u30a2\u30c3\u30d7\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\uff08\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<12391>>\u300d\u306f\u300c<<12248>>\u300d\u3092\u88c5\u5099\u3057\u653b\u6483\u529b\u304c2700\u3068\u306a\u3063\u3066\u3044\u307e\u3059\u304c\u3001\u300c<<9352>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u653b\u6483\u529b\u304c800\u30c0\u30a6\u30f3\u3057\u307e\u3059\u306e\u3067\u3001\u653b\u6483\u529b\u306f1900\u306e\u72b6\u614b\u3068\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 19915,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u3001\u81ea\u8eab\u306e\u300e\u2461\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u30fb\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u58ca\u7363\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\uff12\u3064\u53d6\u308a\u9664\u3044\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u306e\u624b\u672d\u30fb\u5893\u5730\u304b\u3089\u300c\u58ca\u7363\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u3093\u3067\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u3053\u306e\u30ab\u30fc\u30c9\u306b\u88c5\u5099\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<12248>>\u300d\u3092\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u88c5\u5099\u3057\u3066\u3044\u308b\u300c<<12391>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u305d\u306e\u300c<<12391>>\u300d\u3092\u5bfe\u8c61\u306b\u300c<<9352>>\u300d\u304c\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c\u58ca\u7363\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u88c5\u5099\u3057\u3066\u3044\u308b\u300c<<12391>>\u300d\u306b\u300c<<9352>>\u300d\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u653b\u6483\u529b\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

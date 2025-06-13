@@ -1,0 +1,40 @@
+{
+    "cards": [
+        5581,
+        5947,
+        9352,
+        11771
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, firstly, the effect of Forbidden Lance makes Warrior of Zera lose 800 ATK, so its ATK is currently 800 and its DEF is 1600. Also, since the effect of Moon Mirror Shield is not one that affects the opponent's monster that the equipped monster is battling, even if that opponent's monster is unaffected by Spell effects, the effect of Moon Mirror Shield applies normally. Therefore, in this situation, if Dark Blade and Warrior of Zera battle, the effect of Moon Mirror Shield makes the ATK and DEF of Dark Blade become 1700, and damage calculation is performed.",
+            "id": 17196,
+            "question": "A Dark Blade (ATK 1800/DEF 1500) equipped with Moon Mirror Shield is face-up on my side of the field, whereas a Warrior of Zera (ATK 1600/DEF 1600) affected by Forbidden Lance is face-up on my opponent's side of the field. In this case, if these two monsters battle, how is the effect of Moon Mirror Shield applied?",
+            "thisSrc": {
+                "date": "2015-10-06",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "A Dark Blade (ATK 1800/DEF 1500) equipped with Moon Mirror Shield is face-up on my side of the field, whereas a Warrior of Zera (ATK 1600/DEF 1600) affected by Forbidden Lance is face-up on my opponent's side of the field. In this case, if these two monsters battle, how is the effect of Moon Mirror Shield applied?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u307e\u305a\u300c<<5947>>\u300d\u306f\u300c<<9352>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u653b\u6483\u529b\u304c800\u30c0\u30a6\u30f3\u3057\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u653b\u6483\u529b800\u30fb\u5b88\u5099\u529b1600\u306e\u72b6\u614b\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u307e\u305f\u3001\u300c<<11771>>\u300d\u306e\u52b9\u679c\u306f\u3001\u6226\u95d8\u3092\u884c\u3046\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u9069\u7528\u3055\u308c\u308b\u52b9\u679c\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u306e\u3067\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u3063\u3066\u3082\u3001\u52b9\u679c\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u3053\u306e\u72b6\u6cc1\u3067\u3001\u300c<<5581>>\u300d\u304c\u300c<<5947>>\u300d\u3092\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306b\u767a\u52d5\u3057\u305f\u300c<<11771>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u300c<<5581>>\u300d\u306f\u653b\u6483\u529b1700\u30fb\u5b88\u5099\u529b1700\u306e\u72b6\u614b\u306b\u306a\u308a\u3001\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u3092\u884c\u3046\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 17196,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<11771>>\u300d\u3092\u88c5\u5099\u3057\u305f\u8868\u5074\u653b\u6483\u8868\u793a\u306e\u300c<<5581>>\u300d\uff08ATK1800/DEF1500\uff09\u304c\u5b58\u5728\u3057\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<9352>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u8868\u5074\u5b88\u5099\u8868\u793a\u306e\u300c<<5947>>\u300d\uff08ATK1600/DEF1600\uff09\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u300c<<5581>>\u300d\u304c\u300c<<5947>>\u300d\u306b\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u300c<<11771>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306e\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3046\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306b\u767a\u52d5\u3059\u308b\u3002\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u30fb\u5b88\u5099\u529b\u306f\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u6642\u306e\u307f\u3001\u6226\u95d8\u3092\u884c\u3046\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u3068\u5b88\u5099\u529b\u306e\u5185\u3001\u9ad8\u3044\u65b9\u306e\u6570\u5024\uff0b\uff11\uff10\uff10\u306b\u306a\u308b\u300f\u52b9\u679c\u306e\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11771>>\u300d\u3092\u88c5\u5099\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3001\u300c<<9352>>\u300d\u304c\u9069\u7528\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u3092\u884c\u3046\u5834\u5408\u3001\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

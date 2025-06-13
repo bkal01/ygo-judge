@@ -1,0 +1,43 @@
+{
+    "cards": [
+        4733,
+        4734,
+        4735,
+        4773,
+        4798,
+        5450,
+        6361
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Since Toon Mermaid, etc. are Special Summoned, even if the monster's Level is changed in your hand by Level Conversion Lab, the required number of Tributes is fixed for each monster. Toon Mermaid does not require a Tribute to Special Summon. Toon Summoned Skull and Toon Dark Magician Girl each require 1 Tribute to Special Summon. Manga Ryu-Ran and Blue-Eyes Toon Dragon each require 2 Tributes to Special Summon.",
+            "id": 16175,
+            "question": "Toon World is face-up on my side of the field. In this situation, if Toon Mermaid becomes Level 5 in my hand due to the effect of Level Conversion Lab, do I need to Tribute a monster to Special Summon it? Similarly, if Manga Ryu-Ran, Toon Summoned Skull, Blue-Eyes Toon Dragon, or Toon Dark Magician Girl become Level 4 in my hand due to the effect of Level Conversion Lab, do I need to Tribute monsters to Special Summon them?",
+            "thisSrc": {
+                "date": "2015-06-06",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Toon World is face-up on my side of the field. In this situation, if Toon Mermaid becomes Level 5 in my hand due to the effect of Level Conversion Lab, do I need to Tribute a monster to Special Summon it? Similarly, if Manga Ryu-Ran, Toon Summoned Skull, Blue-Eyes Toon Dragon, or Toon Dark Magician Girl become Level 4 in my hand due to the effect of Level Conversion Lab, do I need to Tribute monsters to Special Summon them?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<4734>>\u300d\u7b49\u306f\u7279\u6b8a\u53ec\u559a\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u306e\u3067\u3001\u300c<<6361>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u624b\u672d\u3067\u306e\u30ec\u30d9\u30eb\u304c\u5909\u5316\u3057\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u305d\u308c\u305e\u308c\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u5b9a\u3081\u3089\u308c\u3066\u3044\u308b\u6570\u306e\u30ea\u30ea\u30fc\u30b9\u304c\u7279\u6b8a\u53ec\u559a\u306e\u969b\u306b\u306f\u5fc5\u8981\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u300c<<4734>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u969b\u306b\u306f\u30ea\u30ea\u30fc\u30b9\u306f\u5fc5\u8981\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u300c<<4735>>\u300d\u3084\u300c<<5450>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u969b\u306b\u306f\u30011\u4f53\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ea\u30ea\u30fc\u30b9\u304c\u5fc5\u8981\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u300c<<4733>>\u300d\u3084\u300c<<4773>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u969b\u306b\u306f\u30012\u4f53\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ea\u30ea\u30fc\u30b9\u304c\u5fc5\u8981\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 16175,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c<<4798>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u300c<<6361>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30ec\u30d9\u30eb\u304c5\u306b\u306a\u3063\u3066\u3044\u308b\u624b\u672d\u306e\u300c<<4734>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u5834\u5408\u306b\u3001\u30ea\u30ea\u30fc\u30b9\u306f\u5fc5\u8981\u306b\u306a\u308a\u307e\u3059\u304b\uff1f\n\n\u540c\u69d8\u306b\u3001\u3053\u306e\u72b6\u6cc1\u3067\u3001\u300c<<6361>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30ec\u30d9\u30eb\u304c4\u306b\u306a\u3063\u3066\u3044\u308b\u624b\u672d\u306e\u300c<<4733>>\u300d\u3001\u300c<<4735>>\u300d\u3001\u300c<<4773>>\u300d\u3001\u300c<<5450>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u5834\u5408\u306b\u3001\u30ea\u30ea\u30fc\u30b9\u306f\u5fc5\u8981\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u624b\u672d\u306e\u300c<<4734>>\u300d\u7b49\u306e\u30ec\u30d9\u30eb\u304c\u300c<<6361>>\u300d\u306e\u52b9\u679c\u3067\u5909\u5316\u3057\u3066\u3044\u308b\u5834\u5408\u3001\u7279\u6b8a\u53ec\u559a\u3059\u308b\u969b\u306b\u30ea\u30ea\u30fc\u30b9\u306f\u5fc5\u8981\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Toon"
+    ]
+}

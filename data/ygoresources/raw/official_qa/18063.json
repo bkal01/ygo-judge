@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12340
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "That effect of <<12340>> can be activated as long as there are any cards in your opponent's hand, or on their field, or in their Graveyard.\n\n(It cannot be activated if there are no cards in their hand, and there are no cards on their field, and there are no cards in their Graveyard.)",
+            "id": 18063,
+            "question": "My opponent has no cards in their hand, or no cards on their field, or no cards in their Graveyard. In these situations, can I activate the effect of <<12340>> that shuffles their cards into the Deck?",
+            "thisSrc": {
+                "date": "2021-02-04",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If there are no cards in my opponent's hand, or on their field, or in their Graveyard, can the effect of <<12340>> be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<12340>>\u300d\u306e\u76f8\u624b\u306e\u30ab\u30fc\u30c9\u3092\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306b\u623b\u3059\u52b9\u679c\u306f\u3001\u76f8\u624b\u306e\u624b\u672d\u30fb\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u76f8\u624b\u306e\u5893\u5730\u306e\u3044\u305a\u308c\u304b\u306b\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3057\u3066\u3044\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\uff08\u76f8\u624b\u306e\u624b\u672d\u30fb\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u76f8\u624b\u306e\u5893\u5730\u306e\u3044\u305a\u308c\u306b\u3082\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u306b\u306f\u3001\u300c<<12340>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\uff09",
+            "id": 18063,
+            "question": "\u300c<<12340>>\u300d\u306e\u300e\u2462\uff1a\u300c<<12340>>\u300d\u4ee5\u5916\u306e\u81ea\u5206\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u5893\u5730\u306e\u300c\u30d6\u30f3\u30dc\u30fc\u30b0\u300d\u30ab\u30fc\u30c9\uff19\u7a2e\u985e\u3092\uff11\u679a\u305a\u3064\u9664\u5916\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u76f8\u624b\u306e\u624b\u672d\u30fb\u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u5893\u5730\u306e\u30ab\u30fc\u30c9\u3092\u5168\u3066\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306b\u623b\u3059\u300f\u52b9\u679c\u306f\u3001\u76f8\u624b\u306e\u624b\u672d\u30fb\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u76f8\u624b\u306e\u5893\u5730\u306e\u5168\u3066\u306b\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3057\u3066\u3044\u306a\u3051\u308c\u3070\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12340>>\u300d\u306e\u76f8\u624b\u306e\u30ab\u30fc\u30c9\u3092\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306b\u623b\u3059\u52b9\u679c\u306f\u3001\u76f8\u624b\u306e\u624b\u672d\u30fb\u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u5893\u5730\u306e\u5168\u3066\u306b\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3057\u3066\u3044\u306a\u3051\u308c\u3070\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5880,
+        13971
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in this situation, the effect of Dark Magician of Chaos will apply when it leaves the field, and it will be banished. (It is not returned to the bottom of the Deck.)",
+            "id": 23417,
+            "question": "Dark Magician of Chaos is Special Summoned by the effect of Darkness Metal, the Dragon of Dark Steel, negating its effects and causing it to be placed at the bottom of the Deck when it leaves the field.\n\nWhat happens if this Dark Magician of Chaos now leaves the field?",
+            "thisSrc": {
+                "date": "2021-11-06",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "What happens if Dark Magician of Chaos leaves the field after it was Special Summoned by the effect of Darkness Metal, the Dragon of Dark Steel?",
+            "tlSrc": {
+                "date": "2021-11-06",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u305d\u306e\u5834\u5408\u3001\u300c<<5880>>\u300d\u306e\u300e\u2462\u300f\u306e\u300e\u8868\u5074\u8868\u793a\u306e\u3053\u306e\u30ab\u30fc\u30c9\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u96e2\u308c\u305f\u5834\u5408\u306b\u9664\u5916\u3055\u308c\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u9664\u5916\u3055\u308c\u307e\u3059\u3002\uff08\u30c7\u30c3\u30ad\u306e\u4e00\u756a\u4e0b\u306b\u623b\u308b\u3053\u3068\u306f\u3042\u308a\u307e\u305b\u3093\u3002\uff09",
+            "id": 23417,
+            "question": "\u300c<<13971>>\u300d\u306e\u300e\u2460\u300f\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u300c<<5880>>\u300d\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u3001\u300e\u3053\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u96e2\u308c\u305f\u5834\u5408\u306b\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306e\u4e00\u756a\u4e0b\u306b\u623b\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u300c<<5880>>\u300d\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u3092\u96e2\u308c\u308b\u5834\u5408\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2021-11-06",
+                "type": 0
+            },
+            "title": "\u300c<<13971>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<5880>>\u300d\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u3092\u96e2\u308c\u308b\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Link"
+    ]
+}

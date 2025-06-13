@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4842,
+        12222,
+        12223
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The <<12222>> Special Summoned by the effect of <<12223>> is not considered to be properly Special Summoned.\n\nTherefore, even if it is later sent to the Graveyard, it cannot be targeted to activate <<4842>>.",
+            "id": 17656,
+            "question": "A <<12222>> Special Summoned by the effect of <<12223>> was later sent to the Graveyard.\n\nCan that <<12222>> be targeted to activate <<4842>>?",
+            "thisSrc": {
+                "date": "2015-11-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "A <<12222>> Special Summoned by the effect of <<12223>> was later sent to the Graveyard.  Can that <<12222>> be targeted to activate <<4842>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12223>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<12222>>\u300d\u306f\u6b63\u898f\u306e\u624b\u9806\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u6271\u3044\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u305d\u306e\u5f8c\u306b\u5893\u5730\u3078\u9001\u3089\u308c\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u305d\u306e\u300c<<12222>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<4842>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 17656,
+            "question": "\u300c<<12223>>\u300d\u306e\u300e\u2461\uff1a\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u5893\u5730\u3078\u9001\u308a\u3001\u81ea\u5206\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u5893\u5730\u306e\u300c\u8d85\u91cf\u6a5f\u7363\u300dX\u30e2\u30f3\u30b9\u30bf\u30fc\uff13\u7a2e\u985e\u3092\uff11\u4f53\u305a\u3064\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u300c<<12222>>\u300d\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3057\u3001\u305d\u306e\u4e0b\u306b\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u305d\u306eX\u7d20\u6750\u3092\u5168\u3066\u91cd\u306d\u3066X\u7d20\u6750\u3068\u3059\u308b\u300f\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<12222>>\u300d\u304c\u3001\u305d\u306e\u5f8c\u306b\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u5893\u5730\u3078\u9001\u3089\u308c\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u300c<<12222>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<4842>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12223>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u5f8c\u306b\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u300c<<12222>>\u300d\u3092\u300c<<4842>>\u300d\u3067\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

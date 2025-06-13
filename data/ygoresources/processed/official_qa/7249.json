@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4989,
+        8028,
+        9381
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "While the effect of Dimension Fortress Weapon is applying, the effect of Gishki Noellia cannot be activated. Also, if the effect of Gishki Noellia is activated, but Call of the Haunted is chained, targeting and Special Summoning Dimension Fortress Weapon, the effect of Gishki Noellia is not applied. (You do not excavate any cards from your Deck.)",
+            "id": 7249,
+            "question": "While the effect of Dimension Fortress Weapon is applying, can the effect of Gishki Noellia be activated? Also, if the effect of Gishki Noellia is activated, but Call of the Haunted is chained, targeting and Special Summoning Dimension Fortress Weapon, how does the effect resolve?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "While the effect of Dimension Fortress Weapon is applying, can the effect of Gishki Noellia be activated? Also, if the effect of Gishki Noellia is activated, but Call of the Haunted is chained, targeting and Special Summoning Dimension Fortress Weapon, how does the effect resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<8028>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u306b\u306f\u3001\u300c<<9381>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u307e\u305f\u3001\u300c<<9381>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u305f\u300c<<4989>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u300c<<8028>>\u300d\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u5834\u5408\u306b\u306f\u3001\u300c<<9381>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\n\uff08\u30c7\u30c3\u30ad\u306e\u30ab\u30fc\u30c9\u3092\u3081\u304f\u308b\u51e6\u7406\u3082\u884c\u3044\u307e\u305b\u3093\u3002\uff09",
+            "id": 7249,
+            "question": "\u300c<<8028>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u304a\u4e92\u3044\u306b\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\u5893\u5730\u3078\u9001\u308b\u4e8b\u306f\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u300c<<9381>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u3001\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u306e\u4e0a\u304b\u3089\u30ab\u30fc\u30c9\u3092\uff15\u679a\u3081\u304f\u308b\u4e8b\u304c\u3067\u304d\u308b\u3002\u3081\u304f\u3063\u305f\u30ab\u30fc\u30c9\u306e\u4e2d\u306b\u5100\u5f0f\u9b54\u6cd5\u30ab\u30fc\u30c9\u307e\u305f\u306f\u300c\u30ea\u30c1\u30e5\u30a2\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u304c\u3042\u3063\u305f\u5834\u5408\u3001\u305d\u308c\u3089\u306e\u30ab\u30fc\u30c9\u3092\u5168\u3066\u5893\u5730\u3078\u9001\u308b\u3002\u6b8b\u308a\u306e\u30ab\u30fc\u30c9\u306f\u597d\u304d\u306a\u9806\u756a\u3067\u30c7\u30c3\u30ad\u306e\u4e00\u756a\u4e0b\u306b\u623b\u3059\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<9381>>\u300d\u306e\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<4989>>\u300d\u304c\u767a\u52d5\u3057\u3001\u300c<<8028>>\u300d\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8028>>\u300d\u306e\u52b9\u679c\u9069\u7528\u4e2d\u306b\u3001\u300c<<9381>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

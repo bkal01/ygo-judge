@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5919,
+        17263
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "It will only be the Attribute declared by DNA Transplant, and not be treated as any other Attribute.\n\nAfterward, if the effect of DNA Transplant is no longer applied, Firewall Dragon Darkfluid - Neo Tempest Terahertz will once again be treated as DARK, WATER, and WIND Attributes.",
+            "id": 23566,
+            "question": "If Firewall Dragon Darkfluid - Neo Tempest Terahertz has activated its effect and is treated as three Attributes (DARK, WATER, and WIND), and then the effect of DNA Transplant begins applying, what is its Attribute(s) treated as?",
+            "thisSrc": {
+                "date": "2022-02-19",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "If Firewall Dragon Darkfluid - Neo Tempest Terahertz is treated as multiple Attributes and the effect of DNA Transplant is applied, what happens?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<5919>>\u300d\u3067\u5ba3\u8a00\u3057\u305f\u5c5e\u6027\u306b\u306a\u308a\u3001\u4ed6\u306e\u5c5e\u6027\u3068\u3057\u3066\u306f\u6271\u308f\u308c\u306a\u304f\u306a\u308a\u307e\u3059\u3002\n\n\u307e\u305f\u305d\u306e\u5f8c\u3001\u300c<<5919>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u3001\u300c<<17263>>\u300d\u306f\u3001\u95c7\u5c5e\u6027\u30fb\u6c34\u5c5e\u6027\u30fb\u98a8\u5c5e\u6027\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u3059\u3002",
+            "id": 23566,
+            "question": "\u300c<<17263>>\u300d\u304c\u300e\u2461\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u95c7\u30fb\u6c34\u30fb\u98a8\u306e\uff13\u3064\u306e\u5c5e\u6027\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u72b6\u6cc1\u3067\u300c<<5919>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u5c5e\u6027\u306f\u3069\u306e\u3088\u3046\u306b\u6271\u3044\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u8907\u6570\u306e\u5c5e\u6027\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u300c<<17263>>\u300d\u306b\u300c<<5919>>\u300d\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u5c5e\u6027\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

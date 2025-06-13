@@ -1,0 +1,38 @@
+{
+    "cards": [
+        11038,
+        11818
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, at the time LP is gained by the effect of Battlin' Boxer Veil after Damage Calculation, the Aromage Jasmine that was destroyed in battle has not been sent to the Graveyard and remains in a Monster Zone.\n\nIn this case, the effect of Aromage Jasmine activates and a card is drawn.",
+            "id": 15488,
+            "question": "Aromage Jasmine was destroyed in battle by an opponent's monster and battle damage was taken.\n\nIf the effect of Battlin' Boxer Veil is activated, so that LP is gained, does the effect of Aromage Jasmine activate?",
+            "thisSrc": {
+                "date": "2015-05-01",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Aromage Jasmine was destroyed in battle by an opponent's monster and battle damage was taken.  If the effect of Battlin' Boxer Veil is activated, so that LP is gained, does the effect of Aromage Jasmine activate?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<11038>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u56de\u5fa9\u3057\u305f\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u5f8c\u306e\u6642\u70b9\u3067\u306f\u3001\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u300c<<11818>>\u300d\u306f\u5893\u5730\u3078\u306f\u9001\u3089\u308c\u3066\u304a\u3089\u305a\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3057\u3066\u3044\u308b\u72b6\u614b\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u300c<<11818>>\u300d\u306e\u52b9\u679c\u306f\u767a\u52d5\u3057\u3001\u81ea\u5206\u306f\u30c9\u30ed\u30fc\u3059\u308b\u51e6\u7406\u3092\u884c\u3046\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 15488,
+            "question": "\u300c<<11818>>\u300d\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u306b\u3088\u3063\u3066\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u3001\u81ea\u5206\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u969b\u306b\u3001\u300c<<11038>>\u300d\u306e\u300e\u81ea\u5206\u304c\u6226\u95d8\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u30ab\u30fc\u30c9\u3092\u624b\u672d\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3057\u3001\u53d7\u3051\u305f\u30c0\u30e1\u30fc\u30b8\u306e\u6570\u5024\u5206\u3060\u3051\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u56de\u5fa9\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u81ea\u5206\u306e\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u56de\u5fa9\u3057\u305f\u5834\u5408\u3001\u300c<<11818>>\u300d\u306e\u300e\u2461\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u306eLP\u304c\u56de\u5fa9\u3057\u305f\u5834\u5408\u306b\u767a\u52d5\u3059\u308b\u3002\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff11\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11818>>\u300d\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u5f8c\u306b\u3001\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u304c\u56de\u5fa9\u3057\u305f\u5834\u5408\u3067\u3082\u30c9\u30ed\u30fc\u3059\u308b\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Damage Step"
+    ]
+}

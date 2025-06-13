@@ -1,0 +1,40 @@
+{
+    "cards": [
+        5682,
+        7904
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The original owner of the \"Rose Token\" Special Summoned by the effect of Black Garden is considered to be the controller of the monster that was Normal/Special Summoned when that effect was activated, and they are the player that chooses where it is placed.\n\nAlso, if you activate Remove Brainwashing as in the example, control of a \"Rose Token\" on your opponent's field will return to you, the original owner.",
+            "id": 7625,
+            "question": "When the effect of Black Garden Special Summons a \"Rose Token\", which player chooses the Monster Zone it is placed in?\n\nAlso, which player is considered the original owner of the \"Rose Token\"? For example, if I activate Remove Brainwashing, does control of the \"Rose Token\" change?",
+            "thisSrc": {
+                "date": "2021-10-04",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "Which player is considered the original owner of the \"Rose Token\"?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<7904>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u308b\u300c\u30ed\u30fc\u30ba\u30fb\u30c8\u30fc\u30af\u30f3\u300d\u306f\u3001\u300c<<7904>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30e9\u30fc\u3068\u306a\u308a\u3001\u300c\u30ed\u30fc\u30ba\u30fb\u30c8\u30fc\u30af\u30f3\u300d\u3092\u7f6e\u304f\u4f4d\u7f6e\u3082\u3001\u305d\u306e\u5143\u3005\u306e\u6301\u3061\u4e3b\u3067\u3042\u308b\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u9078\u629e\u3057\u307e\u3059\u3002\n\u307e\u305f\u3001\u4f8b\u306e\u3088\u3046\u306b\u300c<<5682>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c\u30ed\u30fc\u30ba\u30fb\u30c8\u30fc\u30af\u30f3\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u306f\u3001\u5143\u3005\u306e\u6301\u3061\u4e3b\u3067\u3042\u308b\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u79fb\u308a\u307e\u3059\u3002",
+            "id": 7625,
+            "question": "\u300c<<7904>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3055\u308c\u308b\u300c\u30ed\u30fc\u30ba\u30fb\u30c8\u30fc\u30af\u30f3\u300d\u3092\u7f6e\u304f\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u4f4d\u7f6e\u306f\u3069\u3061\u3089\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u9078\u3073\u307e\u3059\u304b\uff1f\n\u307e\u305f\u3001\u300c\u30ed\u30fc\u30ba\u30fb\u30c8\u30fc\u30af\u30f3\u300d\u306e\u201c\u5143\u3005\u306e\u6301\u3061\u4e3b\u201d\u306f\u3069\u3061\u3089\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u6271\u3044\u306b\u306a\u308a\u307e\u3059\u304b\uff1f\n\u4f8b\uff09\n\u300c<<5682>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c\u30ed\u30fc\u30ba\u30fb\u30c8\u30fc\u30af\u30f3\u300d\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u306f\u3001\u5909\u5316\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c\u30ed\u30fc\u30ba\u30fb\u30c8\u30fc\u30af\u30f3\u300d\u306e\u5143\u3005\u306e\u6301\u3061\u4e3b\u306f\u3001\u3069\u3061\u3089\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3067\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Normal/Token",
+        "o:Ownership",
+        "o:Token"
+    ]
+}

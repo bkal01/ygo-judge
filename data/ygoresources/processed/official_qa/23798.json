@@ -1,0 +1,49 @@
+{
+    "cards": [
+        11796,
+        17423
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "Archetype inclusion/exclusion clauses apply to a particular card name, not to a particular card",
+                "date": "2022-07-04",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "Yes, it is also treated as a \"Gem-Knight\" card.",
+            "id": 23798,
+            "question": "I activate the effect of Crystal Rose, and when it resolves, I send Brilliant Rose to the Graveyard.\nAs a result, the name of Crystal Rose is now treated as \"Brilliant Rose\". Will it also be treated as a \"Gem-Knight\" card due to Brilliant Rose's text?",
+            "thisSrc": {
+                "date": "2022-07-04",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Is a monster with Brilliant Rose's name also treated as a \"Gem-Knight\"?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c\u30b8\u30a7\u30e0\u30ca\u30a4\u30c8\u300d\u30ab\u30fc\u30c9\u3068\u3057\u3066\u3082\u6271\u308f\u308c\u307e\u3059\u3002",
+            "id": 23798,
+            "question": "\u300c<<11796>>\u300d\u306e\u2460\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u300c<<17423>>\u300d\u3092\u5893\u5730\u3078\u9001\u308a\u307e\u3057\u305f\u3002\n\u3053\u306e\u5834\u5408\u3001\u300c<<11796>>\u300d\u306f\u30ab\u30fc\u30c9\u540d\u3092\u300c<<17423>>\u300d\u3068\u3057\u3066\u6271\u308f\u308c\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u304c\u3001\u300c\u30b8\u30a7\u30e0\u30ca\u30a4\u30c8\u300d\u30ab\u30fc\u30c9\u3068\u3057\u3066\u3082\u6271\u308f\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<17423>>\u300d\u3068\u540c\u540d\u30ab\u30fc\u30c9\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u30eb\u30fc\u30eb\u4e0a\u300c\u30b8\u30a7\u30e0\u30ca\u30a4\u30c8\u300d\u30ab\u30fc\u30c9\u3068\u3057\u3066\u3082\u6271\u3044\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "o:Important Precedent"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        6682,
+        9949
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if the effect of Macro Cosmos is applied, you can still activate Ninjitsu Art of Super-Transformation.\nAlso, if you activate Ninjitsu Art of Super-Transformation while the effect of Macro Cosmos applies, the monsters targeted will be banished instead of being sent to the Graveyard, so you cannot Special Summon a monster from the Deck afterwards.",
+            "id": 11922,
+            "question": "Is it possible to activate Ninjitsu Art of Super-Transformation while the effect of Macro Cosmos is applied?\n\nAlso, if you can activate Ninjitsu Art of Super-Transformation, if the monsters targeted are banished instead of being sent to the Graveyard, can I still Special Summon a monster from my Deck?",
+            "thisSrc": {
+                "date": "2020-12-08",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "Can I activate Ninjitsu Art of Super-Transformation while applying Macro Cosmos?",
+            "tlSrc": {
+                "date": "2020-12-07",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<6682>>\u300d\u304c\u767a\u52d5\u3057\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u300c<<9949>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\u307e\u305f\u3001\u300c<<6682>>\u300d\u304c\u767a\u52d5\u3057\u3066\u3044\u308b\u6642\u306b\u300c<<9949>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u300c\u5fcd\u8005\u300d\u3068\u540d\u306e\u3064\u304f\u30e2\u30f3\u30b9\u30bf\u30fc1\u4f53\u3068\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc1\u4f53\u306f\u5893\u5730\u3078\u9001\u3089\u308c\u305a\u306b\u30b2\u30fc\u30e0\u304b\u3089\u9664\u5916\u3055\u308c\u308b\u305f\u3081\u3001\u305d\u306e\u5f8c\u3001\u30c7\u30c3\u30ad\u304b\u3089\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 11922,
+            "question": "\u300c<<6682>>\u300d\u304c\u767a\u52d5\u3057\u3066\u3044\u308b\u6642\u306b\u300c<<9949>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\n\u307e\u305f\u3001\u300c<<9949>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u5834\u5408\u3001\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u9078\u629e\u3057\u305f\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u300c\u5fcd\u8005\u300d\u3068\u540d\u306e\u3064\u304f\u30e2\u30f3\u30b9\u30bf\u30fc1\u4f53\u3068\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc1\u4f53\u306f\u5893\u5730\u3078\u9001\u3089\u308c\u305a\u306b\u9664\u5916\u3055\u308c\u307e\u3059\u304c\u3001\u305d\u306e\u5f8c\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2020-12-07",
+                "type": 0
+            },
+            "title": "\u300c<<6682>>\u300d\u9069\u7528\u4e2d\u306b\u300c<<9949>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4678,
+        12543
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If the effect of Harpie's Feather Duster would destroy all cards in your Spell & Trap Zone including Scrum Force, the effect of Scrum Force cannot be applied.",
+            "id": 19314,
+            "question": "If my opponent activates Harpie's Feather Duster, can I apply the second effect of Scrum Force?",
+            "thisSrc": {
+                "date": "2016-05-16",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If my opponent activates Harpie's Feather Duster, can I apply the second effect of Scrum Force?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<4678>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<12543>>\u300d\u3092\u542b\u3080\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\u304c\u5168\u3066\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u306b\u3001\u300c<<12543>>\u300d\u306e\u300e\u4ee3\u308f\u308a\u306b\u4ed6\u306e\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u7834\u58ca\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 19314,
+            "question": "\u76f8\u624b\u306e\u767a\u52d5\u3057\u305f\u300c<<4678>>\u300d\u306e\u300e\u2460\uff1a\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u3092\u5168\u3066\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u308b\u5834\u5408\u3001\u300c<<12543>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3001\u4ee3\u308f\u308a\u306b\u4ed6\u306e\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u7834\u58ca\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u306e\u300c<<4678>>\u300d\u306e\u52b9\u679c\u3067\u3001\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\u304c\u5168\u3066\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3001\u300c<<12543>>\u300d\u306e\u52b9\u679c\u3092\u9069\u7528\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

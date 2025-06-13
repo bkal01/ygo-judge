@@ -1,0 +1,37 @@
+{
+    "cards": [
+        10945
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Rank-Up-Magic Astral Force can Special Summon any Xyz Monster as long as its Rank is 2 higher than the targeted monster's, and its Type and Attribute are the same, even if it is not a \"Number C\" or \"CXyz\" monster.",
+            "id": 234,
+            "question": "Can the effect of Rank-Up-Magic Astral Force Special Summon monsters other than \"Number C\" and \"CXyz\" monsters?",
+            "thisSrc": {
+                "date": "2014-12-18",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can the effect of Rank-Up-Magic Astral Force Special Summon monsters other than \"Number C\" and \"CXyz\" monsters?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<10945>>\u300d\u306e\u52b9\u679c\u3067\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3059\u308b\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u9078\u629e\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u540c\u3058\u7a2e\u65cf\u30fb\u5c5e\u6027\u3067\u30e9\u30f3\u30af\u304c2\u3064\u9ad8\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u308c\u3070\u3001\u300cCX\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3084\u3001\u300cCNo.\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u306f\u306a\u3044\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u3082\u3067\u304d\u307e\u3059\u3002",
+            "id": 234,
+            "question": "\u300c<<10945>>\u300d\u306e\u52b9\u679c\u3067\u3001\u300cCNo.\u300d\u3084\u300cCX\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10945>>\u300d\u306e\u52b9\u679c\u3067\u3001\u300cCNo.\u300d\u3084\u300cCX\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

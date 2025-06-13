@@ -1,0 +1,58 @@
+{
+    "cards": [
+        10870,
+        11765,
+        12786,
+        12787,
+        12788,
+        12961,
+        12962,
+        13974,
+        14180,
+        14288,
+        14960,
+        15281,
+        15524,
+        15770,
+        15854,
+        18190,
+        18191,
+        19182,
+        19183,
+        19721,
+        20223,
+        20519
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can.\n\nIf your attempt to Xyz Summon Cyber Dragon Infinity using the\u300eonce per turn, you can also Xyz Summon \"Cyber Dragon Infinity\" by using \"Cyber Dragon Nova\" you control as material\u300fprocedure is negated, you can attempt to Xyz Summon Cyber Dragon Infinity this way again during this turn.\n\n~~~\n\nThe same applies to:\n\u25cf Poseidra Abyss, the Atlantean Dragon Lord\n\u25cf Madolche Queen Tiarafraise\n\u25cf Full Armored Utopic Ray Lancer\n\u25cf Xyz Armor Fortress\n\u25cf Full Armored Dark Knight Lancer\n\u25cf Gigantic \"Champion\" Sargas\n\u25cf Kashtira Arise-Heart\n\u25cf Galaxy-Eyes Cipher X Dragon\n\u25cf Divine Arsenal AA-ZEUS - Sky Thunder\n\u25cf Drill Driver Vespenato\n\u25cf Odd-Eyes Rebellion Dragon Overlord\n\u25cf Dingirsu, the Orcust of the Evening Star\n\u25cf Superdreadnought Rail Cannon Juggernaut Liebe\n\u25cf Dark Armed, the Dragon of Annihilation\n\u25cf Zoodiac Hammerkong\n\u25cf Zoodiac Chakanine\n\u25cf Zoodiac Tigermortar\n\u25cf Zoodiac Drident\n\u25cf Zoodiac Broadbull",
+            "id": 15005,
+            "question": "I attempt to Xyz Summon Cyber Dragon Infinity by using my Cyber Dragon Nova as material, but that Xyz Summon is negated by the effect of Angel Statue - Azurune.\n\nIf I Special Summon a second Cyber Dragon Nova during this turn, can I use it to Xyz Summon Cyber Dragon Infinity?",
+            "thisSrc": {
+                "date": "2024-09-26",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If I attempt to Xyz Summon Cyber Dragon Infinity, but that Xyz Summon is negated, can I Xyz Summon Cyber Dragon Infinity again?",
+            "tlSrc": {
+                "date": "2024-09-26",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u3059\u3002\n\n\u300e\u300c<<11765>>\u300d\u306f\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c<<10870>>\u300d\u306e\u4e0a\u306b\u91cd\u306d\u3066X\u53ec\u559a\u3059\u308b\u4e8b\u3082\u3067\u304d\u308b\u300f\u306e\u65b9\u6cd5\u306b\u3088\u308b\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u304c\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u306b\u306f\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306b\u540c\u3058\u65b9\u6cd5\u3067\u3082\u3046\uff11\u5ea6\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3067\u304d\u307e\u3059\u3002\n\n\u4ee5\u4e0b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5834\u5408\u3082\u540c\u69d8\u3067\u3059\u3002\n\u300c<<20519>>\u300d\n\u300c<<20223>>\u300d\n\u300c<<19721>>\u300d\n\u300c<<19182>>\u300d\n\u300c<<19183>>\u300d\n\u300c<<18190>>\u300d\n\u300c<<18191>>\u300d\n\u300c<<15854>>\u300d\n\u300c<<15524>>\u300d\n\u300c<<15281>>\u300d\n\u300c<<14960>>\u300d\n\u300c<<14288>>\u300d\n\u300c<<14180>>\u300d\n\u300c<<13974>>\u300d\n\u300c<<12961>>\u300d\n\u300c<<12962>>\u300d\n\u300c<<12787>>\u300d\n\u300c<<12788>>\u300d\n\u300c<<12786>>\u300d",
+            "id": 15005,
+            "question": "\u300c<<10870>>\u300d\u306e\u4e0a\u306b\u91cd\u306d\u3066\u300c<<11765>>\u300d\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3059\u308b\u969b\u306b\u3001\u305d\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u304c\u300c<<15770>>\u300d\u7b49\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7121\u52b9\u306b\u306a\u308a\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u30bf\u30fc\u30f3\u306b\u3001\u300c<<10870>>\u300d\u3092\u518d\u3073\u7279\u6b8a\u53ec\u559a\u3057\u3066\u3044\u308b\u5834\u5408\u3001\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u5b58\u5728\u3059\u308b\uff12\u4f53\u76ee\u306e\u300c<<11765>>\u300d\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-09-26",
+                "type": 0
+            },
+            "title": "\u300c<<11765>>\u300d\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u304c\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306b\u3082\u3046\uff11\u5ea6\u300c<<11765>>\u300d\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

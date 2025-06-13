@@ -1,0 +1,19 @@
+{
+    "cards": [],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In that case, that effect is no longer applied.",
+            "id": 10195,
+            "question": "If a Fusion Monster Special Summoned by the effect of <<7262>> is later flipped to face-down Defense Position by the effect of <<7752>>, what happens with the applied effect that prevents it from being targeted by the opponent's card effects?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "What happens if the monster Fusion Summoned using <<7262>> is flipped face-down?",
+            "translationStatus": "zombie"
+        }
+    },
+    "tags": []
+}

@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12225
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, they can.",
+            "id": 17816,
+            "question": "You control 2 copies of D/D/D Chaos King Apocalypse in your Pendulum Zones.\n\nCan the Pendulum Effects of each copy of D/D/D Chaos King Apocalypse be activated during the same turn?",
+            "thisSrc": {
+                "date": "2015-12-14",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "You control 2 copies of D/D/D Chaos King Apocalypse in your Pendulum Zones.  Can the Pendulum Effects of each copy of D/D/D Chaos King Apocalypse be activated during the same turn?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u3059\u3002",
+            "id": 17816,
+            "question": "\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u300c<<12225>>\u300d\u304c2\u679a\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u540c\u4e00\u30bf\u30fc\u30f3\u306b\u305d\u308c\u305e\u308c\u306e\u300c<<12225>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u306e\u5893\u5730\u306e\u300cDD\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff12\u4f53\u3092\u9664\u5916\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002P\u30be\u30fc\u30f3\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u300c<<12225>>\u300d\u304c2\u679a\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u540c\u4e00\u30bf\u30fc\u30f3\u306b\u305d\u308c\u305e\u308c\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Pendulum"
+    ]
+}

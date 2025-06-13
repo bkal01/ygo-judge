@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4810,
+        4908
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if you Special Summon a monster from your hand using a card effect, the effect of Chain Energy will apply, and you will need to pay 500 Life Points.\n\nTherefore, you need to pay 500 Life Points when activating The Flute of Summoning Dragon, and pay another 500 Life Points per Dragon monster(s) Summoned when you resolve it.",
+            "id": 6258,
+            "question": "I use The Flute of Summoning Dragon to Special Summon a Dragon monster from my hand while Chain Energy is applying.\n\nWill I only need to pay 500 Life Points for The Flute of Summoning Dragon's activation, or will I pay additional Life Points to Special Summon the Dragon monster(s)?",
+            "thisSrc": {
+                "date": "2023-10-28",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If I activate The Flute of Summoning Dragon while Chain Energy is applying, how many Life Points do I pay?",
+            "tlSrc": {
+                "date": "2023-10-28",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u624b\u672d\u304b\u3089\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u308b\u5834\u5408\u3067\u3082\u3001\u300c<<4908>>\u300d\u306e\u52b9\u679c\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\uff15\uff10\uff10\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u6255\u308f\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002\n\n\u3088\u3063\u3066\u3001\uff15\uff10\uff10\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u6255\u3044\u3001\u300c<<4810>>\u300d\u3092\u767a\u52d5\u3057\u3001\u52b9\u679c\u51e6\u7406\u6642\u306b\u30c9\u30e9\u30b4\u30f3\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u624b\u672d\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3059\u308b\u6642\u306b\u3082\u3001\uff11\u4f53\u306b\u3064\u304d\uff15\uff10\uff10\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u6255\u3044\u307e\u3059\u3002",
+            "id": 6258,
+            "question": "\u300c<<4908>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u72b6\u6cc1\u3067\u3001\u300c<<4810>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u624b\u672d\u304b\u3089\u30c9\u30e9\u30b4\u30f3\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u5834\u5408\u3001\u6255\u3046\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u306f\u300c<<4810>>\u300d\u3092\u767a\u52d5\u3059\u308b\u305f\u3081\u306e\u3001\uff15\uff10\uff10\u30dd\u30a4\u30f3\u30c8\u306e\u307f\u3067\u3059\u304b\uff1f\n\n\u305d\u308c\u3068\u3082\u3001\u7279\u6b8a\u53ec\u559a\u3059\u308b\u30c9\u30e9\u30b4\u30f3\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5206\u3082\u6255\u3044\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2023-10-28",
+                "type": 0
+            },
+            "title": "\u300c<<4908>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u6642\u306b\u300c<<4810>>\u300d\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u3001\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u3092\u3044\u304f\u3064\u6255\u3044\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

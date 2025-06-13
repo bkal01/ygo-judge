@@ -1,0 +1,38 @@
+{
+    "cards": [
+        6400,
+        11000
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Felis, Lightsworn Archer is a Special Summon monster, but as long as it is a card effect, it can be Special Summoned.\n\nTherefore, in the proposed scenario, Felis, Lightsworn Archer can be Special Summoned by the effect of Summoner Monk.",
+            "id": 13039,
+            "question": "Can Felis, Lightsworn Archer be Special Summoned from the Deck by the effect of Summoner Monk?",
+            "thisSrc": {
+                "date": "2014-01-27",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can Felis, Lightsworn Archer be Special Summoned from the Deck by the effect of Summoner Monk?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11000>>\u300d\u306f\u7279\u6b8a\u53ec\u559a\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u304c\u3001\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u3082\u3067\u304d\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u8cea\u554f\u306e\u4f8b\u306e\u5834\u5408\u3001\u300c<<6400>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30c7\u30c3\u30ad\u304b\u3089\u300c<<11000>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 13039,
+            "question": "\u300c<<11000>>\u300d\u3092\u3001\u300c<<6400>>\u300d\u306e\u52b9\u679c\u3067\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11000>>\u300d\u3092\u3001\u300c<<6400>>\u300d\u306e\u52b9\u679c\u3067\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Special Summon Monster"
+    ]
+}

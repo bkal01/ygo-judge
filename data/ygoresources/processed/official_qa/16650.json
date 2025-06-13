@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4703,
+        5106,
+        11895,
+        12021
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "While the effect of Mask of Restrict is being applied, monsters cannot be tributed.\n\nTherefore, Urgent Ritual Art\u200e\u200e cannot be activated by banishing a Ritual Spell Card that performs a Ritual Summon by tributing monsters like Garma Sword Oath.\n\nFurthermore, Urgent Ritual Art\u200e\u200e can be activated by banishing a Ritual Spell Card providing it performs a Ritual Monster with a method that does not tribute monsters like Red-Eyes Transmigration banishing monsters from the Graveyard.",
+            "id": 16650,
+            "question": "Can Urgent Ritual Art\u200e\u200e be activated while Mask of Restrict is active?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can Urgent Ritual Art\u200e\u200e be activated while Mask of Restrict is active?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<5106>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30ea\u30ea\u30fc\u30b9\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<4703>>\u300d\u306e\u3088\u3046\u306a\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u5100\u5f0f\u53ec\u559a\u3092\u884c\u3046\u5100\u5f0f\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u3066\u300c<<12021>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u306a\u304a\u3001\u300c<<11895>>\u300d\u306e\u3088\u3046\u306b\u3001\u300e\u30ea\u30ea\u30fc\u30b9\u306e\u4ee3\u308f\u308a\u306b\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u30ec\u30c3\u30c9\u30a2\u30a4\u30ba\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9664\u5916\u300f\u3059\u308b\u306a\u3069\u3001\u30ea\u30ea\u30fc\u30b9\u4ee5\u5916\u306e\u65b9\u6cd5\u306b\u3088\u3063\u3066\u5100\u5f0f\u53ec\u559a\u3092\u884c\u3046\u306e\u3067\u3042\u308c\u3070\u3001\u305d\u306e\u5100\u5f0f\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u3066\u300c<<12021>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 16650,
+            "question": "\u300c<<5106>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<12021>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5106>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<12021>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

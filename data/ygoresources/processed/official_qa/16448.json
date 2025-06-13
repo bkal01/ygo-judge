@@ -1,0 +1,38 @@
+{
+    "cards": [
+        6682,
+        11948
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If the effect of Superheavy Samurai Thief is activated while Macro Cosmos is active, the Spell or Trap Card destroyed during that resolution is not sent to the Graveyard and is banished instead, but the destroyed and banished Spell or Trap Card is set on your side of the Field.",
+            "id": 16448,
+            "question": "While an opponent's Macro Cosmos is active, if another of the opponent's cards in their Spell & Trap Zone is destroyed by the effect of Superheavy Samurai Thief, how does this resolve?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "While an opponent's Macro Cosmos is active, if another of the opponent's cards in their Spell & Trap Zone is destroyed by the effect of Superheavy Samurai Thief, how does this resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u300c<<11948>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u52b9\u679c\u51e6\u7406\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u306f\u5893\u5730\u3078\u9001\u3089\u308c\u305a\u9664\u5916\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u304c\u3001\u305d\u306e\u7834\u58ca\u3055\u308c\u9664\u5916\u3055\u308c\u305f\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u304c\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30bb\u30c3\u30c8\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 16448,
+            "question": "\u76f8\u624b\u306e\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<11948>>\u300d\u306e\u300e\u25cf\u76f8\u624b\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u7834\u58ca\u3059\u308b\u3002\u305d\u306e\u5f8c\u3001\u7834\u58ca\u3057\u305f\u305d\u306e\u9b54\u6cd5\u30fb\u7f60\u30ab\u30fc\u30c9\u3092\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30bb\u30c3\u30c8\u3067\u304d\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u4ed6\u306e\u76f8\u624b\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<6682>>\u300d\u306e\u9069\u7528\u4e2d\u306b\u3001\u300c<<11948>>\u300d\u306e\u52b9\u679c\u3067\u4ed6\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306e\u30ab\u30fc\u30c9\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

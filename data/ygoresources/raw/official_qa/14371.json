@@ -1,0 +1,56 @@
+{
+    "cards": [
+        5880,
+        6687,
+        10508,
+        11472,
+        11531,
+        11546,
+        11691,
+        11692,
+        11767,
+        11957,
+        12400,
+        12530,
+        12531,
+        13582,
+        13990,
+        14925,
+        18151,
+        19381,
+        19382,
+        19459
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If you Normal Set <<11531>> from your hand, this is not considered a Normal Summon. Even if it is flipped face-up this turn, you cannot activate its effect.\n\nIf <<11531>> is Special Summoned in face-down Defense Position, it was Special Sumoned. If it is flipped face-up this turn, you can activate its effect.\n\n~~~\n\nSimilarly, if any of the following monsters are Special Summoned in face-down Defense Position, then flipped face-up during the same turn, their effects can still be activated:\n\u25cf <<10508>>\n\u25cf <<11691>>\n\u25cf <<11692>>\n\u25cf <<11767>>\n\u25cf <<11957>>\n\u25cf <<19459>>\n\u25cf <<12400>>\n\u25cf <<12530>>\n\u25cf <<12531>>\n\u25cf <<14925>>\n\u25cf <<18151>>\n\u25cf <<19381>>\n\u25cf <<19382>>\n\u25cf <<5880>>\n\u25cf <<6687>>\n\u25cf <<11472>>\n\u25cf <<11546>>\n\u25cf <<13990>>\n\u25cf <<13582>>",
+            "id": 14371,
+            "question": "I Normal Set <<11531>>, and it is then flipped face-up during the same turn by some effect. Can I now activate its\u300eonce per turn, during your Main Phase, if this card was Normal or Special Summoned this turn\u300feffect?\n\nAlso, if <<11531>> is instead Special Summoned in face-down Defense Position, then flipped face-up during the same turn, can I activate that same effect?",
+            "thisSrc": {
+                "date": "2024-09-05",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If my <<11531>> was Normal Set this turn, and has since been flipped face-up, can I activate its effect?",
+            "tlSrc": {
+                "date": "2024-09-12",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<11531>>\u300d\u3092\u901a\u5e38\u53ec\u559a\u3068\u3057\u3066\u624b\u672d\u304b\u3089\u30bb\u30c3\u30c8\u3057\u3066\u3044\u308b\u5834\u5408\u3001\u53ec\u559a\u3057\u305f\u3053\u3068\u306b\u306f\u306a\u308a\u307e\u305b\u3093\u306e\u3067\u3001\u305d\u306e\u30bf\u30fc\u30f3\u4e2d\u306b\u30ea\u30d0\u30fc\u30b9\u3057\u3066\u3082\u3001\u2460\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\uff08\u53ec\u559a\u3068\u306f\u3001\u901a\u5e38\u53ec\u559a\u306e\u3046\u3061\u624b\u672d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u653b\u6483\u8868\u793a\u3067\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u51fa\u3059\u3053\u3068\u3092\u6307\u3057\u307e\u3059\u3002\uff09\n\n\u307e\u305f\u3001\u300c<<11531>>\u300d\u3092\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3057\u3066\u3044\u308b\u5834\u5408\u3001\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u3053\u3068\u306b\u306f\u306a\u3063\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u305d\u306e\u30bf\u30fc\u30f3\u4e2d\u306b\u30ea\u30d0\u30fc\u30b9\u3057\u3066\u3044\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u2460\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\n\n\u4ee5\u4e0b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5834\u5408\u3082\u540c\u69d8\u306b\u3001\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30bf\u30fc\u30f3\u306b\u30ea\u30d0\u30fc\u30b9\u3057\u3001\u305d\u306e\u307e\u307e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u6b8b\u308a\u7d9a\u3051\u305f\u306e\u3067\u3042\u308c\u3070\u767a\u52d5\u3057\u307e\u3059\u3002\uff08\u3067\u304d\u307e\u3059\u3002\uff09\n\n\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u30bf\u30fc\u30f3\u306e\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u767a\u52d5\u3067\u304d\u308b\u52b9\u679c\n\u300c<<10508>>\u300d\n\u300c<<11691>>\u300d\n\u300c<<11692>>\u300d\n\u300c<<11767>>\u300d\n\u300c<<11957>>\u300d\n\u300c<<19459>>\u300d\n\u300c<<12400>>\u300d\n\u300c<<12530>>\u300d\n\u300c<<12531>>\u300d\n\u300c<<14925>>\u300d\n\u300c<<18151>>\u300d\n\u300c<<19381>>\u300d\n\u300c<<19382>>\u300d\n\n\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u30bf\u30fc\u30f3\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u767a\u52d5\u3059\u308b\u30fb\u3067\u304d\u308b\u52b9\u679c\n\u300c<<5880>>\u300d\n\u300c<<6687>>\u300d\n\u300c<<11472>>\u300d\n\u300c<<11546>>\u300d\n\u300c<<13990>>\u300d\n\u300c<<13582>>\u300d",
+            "id": 14371,
+            "question": "\u300c<<11531>>\u300d\u3092\u901a\u5e38\u53ec\u559a\u3068\u3057\u3066\u624b\u672d\u304b\u3089\u30bb\u30c3\u30c8\u3057\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306b\u4ed6\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30ea\u30d0\u30fc\u30b9\u3057\u3066\u3044\u308b\u5834\u5408\u3001\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u30bf\u30fc\u30f3\u306e\u81ea\u5206\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\uff11\u5ea6\u3060\u3051\u767a\u52d5\u3067\u304d\u308b\u3002\u624b\u672d\u304b\u3089\u30ec\u30d9\u30eb\uff14\u4ee5\u4e0b\u306e\u300cRR\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u4ed6\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u300c<<11531>>\u300d\u3092\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u7279\u6b8a\u53ec\u559a\u3057\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306b\u4ed6\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u30ea\u30d0\u30fc\u30b9\u3057\u3066\u3044\u308b\u5834\u5408\u3001\u2460\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-09-12",
+                "type": 0
+            },
+            "title": "\u30bb\u30c3\u30c8\u3057\u305f\u300c<<11531>>\u300d\u304c\u305d\u306e\u30bf\u30fc\u30f3\u306b\u30ea\u30d0\u30fc\u30b9\u3057\u3066\u3044\u308b\u5834\u5408\u3001\u2460\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

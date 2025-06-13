@@ -1,0 +1,38 @@
+{
+    "cards": [
+        17730,
+        17732
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot.\n\nEffects that can be activated in the Graveyard upon meeting some activation condition, such as the respective effects in the Graveyard of Crystal Aegis and Crystal Miracle, can only be activated if the activation condition is met while the card is already in the Graveyard.\n\nIn the situation given, the activation of Crystal Aegis respectively Crystal Miracle resolves while that card is in the Spell & Trap Zone, and the \"Crystal Beast\" is placed in the Spell & Trap Zone at that time. When the chain is finished resolving, Crystal Aegis/Crystal Miracle will then be sent to the Graveyard. Therefore, a \"Crystal Beast\" is not placed in the Spell & Trap Zone while Crystal Aegis/Crystal Miracle is already in the Graveyard.",
+            "id": 23791,
+            "question": "When I destroy a \"Crystal Beast\" in my Monster Zone using Crystal Aegis or Crystal Miracle, I apply the effect of that \"Crystal Beast\" and place it in my Spell & Trap Zone as a Continuous Spell.\n\nThat copy of Crystal Aegis or Crystal Miracle is then sent to the Graveyard, as it has finished resolving. Can I now activate that copy's respective effect in the Graveyard, which meets its activation condition when a \"Crystal Beast\" is placed in the Spell & Trap Zone?",
+            "thisSrc": {
+                "date": "2022-06-26",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If Crystal Aegis destroys a \"Crystal Beast\", and it is placed in the Spell & Trap Zone, can I then activate the effect in the Graveyard of that same copy of Crystal Aegis once it is sent there?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u300c<<17730>>\u300d\u300c<<17732>>\u300d\u306e\u2461\u306e\u52b9\u679c\u306e\u3088\u3046\u306a\u3001\u6761\u4ef6\u3092\u6e80\u305f\u3057\u305f\u5834\u5408\u306b\u5893\u5730\u3067\u767a\u52d5\u3067\u304d\u308b\u52b9\u679c\u306f\u3001\u305d\u306e\u30ab\u30fc\u30c9\u304c\u3042\u3089\u304b\u3058\u3081\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u72b6\u614b\u3067\u6761\u4ef6\u3092\u6e80\u305f\u3057\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\n\n\u4e0a\u8a18\u306e\u72b6\u6cc1\u3067\u306f\u3001\u307e\u305a\u767a\u52d5\u3057\u305f\u300c<<17730>>\u300d\u300c<<17732>>\u300d\u304c\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u72b6\u614b\u3067\u2460\u306e\u52b9\u679c\u306e\u51e6\u7406\u304c\u884c\u308f\u308c\u300c\u5b9d\u7389\u7363\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u9b54\u6cd5\uff06\u7f60\u306b\u7f6e\u304b\u308c\u307e\u3059\u3002\u305d\u306e\u5f8c\u3001\u4e00\u9023\u306e\u30c1\u30a7\u30fc\u30f3\u51e6\u7406\u304c\u5b8c\u4e86\u3057\u305f\u306e\u3061\u300c<<17730>>\u300d\u300c<<17732>>\u300d\u306f\u5893\u5730\u3078\u9001\u3089\u308c\u307e\u3059\u3002\u305d\u306e\u305f\u3081\u3001\u300c<<17730>>\u300d\u300c<<17732>>\u300d\u304c\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u72b6\u614b\u3067\u300c\u5b9d\u7389\u7363\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u7f6e\u304b\u308c\u305f\u3053\u3068\u306b\u306a\u308a\u307e\u305b\u3093\u3002",
+            "id": 23791,
+            "question": "\u300c<<17730>>\u300d\u3084\u300c<<17732>>\u300d\u306e\u2460\u306e\u52b9\u679c\u306e\u51e6\u7406\u3067\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u300c\u5b9d\u7389\u7363\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3059\u308b\u969b\u306b\u3001\u305d\u306e\u300c\u5b9d\u7389\u7363\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u9069\u7528\u3057\u3066\u305d\u308c\u3092\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u6c38\u7d9a\u9b54\u6cd5\u30ab\u30fc\u30c9\u3068\u3057\u3066\u7f6e\u304d\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u5f8c\u300c<<17730>>\u300d\u3084\u300c<<17732>>\u300d\u306f\u5893\u5730\u3078\u9001\u3089\u308c\u307e\u3059\u304c\u3001\u2460\u306e\u52b9\u679c\u3067\u300c\u5b9d\u7389\u7363\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u7f6e\u304b\u308c\u305f\u3053\u3068\u3092\u304d\u3063\u304b\u3051\u3068\u3057\u3066\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u305d\u306e\u300c<<17730>>\u300d\u3084\u300c<<17732>>\u300d\u306e\u2461\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<17730>>\u300d\u306e\u2460\u306e\u52b9\u679c\u3067\u300c\u5b9d\u7389\u7363\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u7f6e\u3044\u305f\u306e\u3061\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u305d\u306e\u300c<<17730>>\u300d\u306e\u2461\u306e\u52b9\u679c\u3092\u9069\u7528\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

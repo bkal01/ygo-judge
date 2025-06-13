@@ -1,0 +1,38 @@
+{
+    "cards": [
+        6027,
+        14178
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In both situations, you can activate Frozen Rose by Tributing a Plant. When it resolves, the\u300eDuring the End Phase of this turn, draw 2 cards, then discard 1 card.\u300feffect will be applied normally.\n\nWhen you apply this effect during the End Phase, if you do not have two cards in your Deck, you will be unable to draw two cards, and will lose the Duel.\n\nWhen you apply this effect during the End Phase, if your opponent's Protector of the Sanctuary is applying its effect, you will not draw any cards, nor discard cards.",
+            "id": 23814,
+            "question": "If I have one or fewer cards in my Deck, or while my opponent's Protector of the Sanctuary is applying its effect, can I activate Frozen Rose by Tributing a Plant?",
+            "thisSrc": {
+                "date": "2022-07-25",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can I activate Frozen Rose by Tributing a Plant while I cannot draw cards?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\u305d\u306e\u30c1\u30a7\u30fc\u30f3\u30d6\u30ed\u30c3\u30af\u306e\u51e6\u7406\u6642\u306b\u3001\u81ea\u5206\u306f\u300e\u3053\u306e\u30bf\u30fc\u30f3\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u3001\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff12\u679a\u30c9\u30ed\u30fc\u3057\u3001\u305d\u306e\u5f8c\u624b\u672d\u3092\uff11\u679a\u9078\u3093\u3067\u6368\u3066\u308b\u300f\u72b6\u614b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u3053\u306e\u51e6\u7406\u3092\u884c\u3046\u969b\u306b\u3001\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u304c\uff11\u679a\u4ee5\u4e0b\u3067\u3042\u308b\u5834\u5408\u3001\u81ea\u5206\u306f\u30c9\u30ed\u30fc\u3067\u304d\u305a\u306b\u6557\u5317\u3057\u307e\u3059\u3002\n\n\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u3053\u306e\u51e6\u7406\u3092\u884c\u3046\u969b\u306b\u3001\u76f8\u624b\u306e\u300c<<6027>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u30c9\u30ed\u30fc\u3059\u308b\u3053\u3068\u3082\u624b\u672d\u3092\u6368\u3066\u308b\u3053\u3068\u3082\u3042\u308a\u307e\u305b\u3093\u3002",
+            "id": 23814,
+            "question": "\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u304c\uff11\u679a\u4ee5\u4e0b\u306e\u72b6\u6cc1\u3084\u3001\u76f8\u624b\u306e\u300c<<6027>>\u300d\u306e\u300e\u76f8\u624b\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u30c9\u30ed\u30fc\u30d5\u30a7\u30a4\u30ba\u4ee5\u5916\u3067\u306f\u30ab\u30fc\u30c9\u3092\u30c9\u30ed\u30fc\u3059\u308b\u4e8b\u304c\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306f\u300c<<14178>>\u300d\u306e\u300e\u25cf\u690d\u7269\u65cf\uff1a\u3053\u306e\u30bf\u30fc\u30f3\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u3001\u81ea\u5206\u306f\u30c7\u30c3\u30ad\u304b\u3089\uff12\u679a\u30c9\u30ed\u30fc\u3057\u3001\u305d\u306e\u5f8c\u624b\u672d\u3092\uff11\u679a\u9078\u3093\u3067\u6368\u3066\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u30ab\u30fc\u30c9\u3092\u30c9\u30ed\u30fc\u3067\u304d\u306a\u3044\u72b6\u6cc1\u3067\u3001\u690d\u7269\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u300c<<14178>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

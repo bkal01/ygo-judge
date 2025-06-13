@@ -42,7 +42,7 @@ def generate_eval_responses(completer: Completer) -> None:
     for filename in tqdm(os.listdir(os.environ["TEST_QA_PATH"])):
         if os.path.isfile(f"{os.environ['TEST_RESPONSES_PATH']}{completer.method}/{filename}"):
             continue
-        with open(f"{os.environ['TEST_QA_PATH']}{filename}", "r") as f:
+        with open(f"{os.environ['TEST_QA_PATH']}/{filename}", "r") as f:
             qa_test_data = json.load(f)
             question = qa_test_data["qaData"]["en"]["question"]
             llm_answer = completer.complete(question)
@@ -53,7 +53,7 @@ def generate_eval_responses(completer: Completer) -> None:
             "answer": qa_test_data["qaData"]["en"]["answer"],
             "llm_answer": llm_answer,
         }
-        with open(f"{os.environ['TEST_RESPONSES_PATH']}{completer.method}/{filename}", "w") as f:
+        with open(f"{os.environ['TEST_RESPONSES_PATH']}/{filename}", "w") as f:
             json.dump(eval_json, f, indent=4)
 
 def eval_base() -> None:

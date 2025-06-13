@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11625
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of <<11625>> that returns cards to the owner's Deck is a mandatory effect.\n\nEven if the opponent controls no cards, providing that effect is activated, a card you control must be targeted and that effect must be activated and resolved.",
+            "id": 14494,
+            "question": "The opponent does not control any cards.\n\nAt this time, when the effect of <<11625>> that returns a card on the field to the owner's Deck is activated, do you must target a card you control?",
+            "thisSrc": {
+                "date": "2014-12-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "The opponent does not control any cards.  At this time, when the effect of <<11625>> that returns a card on the field to the owner's Deck is activated, do you must target a card you control?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11625>>\u300d\u306e\u300e\u305d\u306e\u30ab\u30fc\u30c9\u3092\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306b\u623b\u3059\u300f\u52b9\u679c\u306f\u3001\u5fc5\u305a\u767a\u52d5\u3059\u308b\u52b9\u679c\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30ab\u30fc\u30c9\u304c\uff11\u679a\u3082\u306a\u3044\u5834\u5408\u3067\u3082\u3001\u305d\u306e\u52b9\u679c\u304c\u767a\u52d5\u3057\u305f\u306e\u3067\u3042\u308c\u3070\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u305d\u306e\u52b9\u679c\u306e\u767a\u52d5\u3068\u51e6\u7406\u3092\u884c\u308f\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002",
+            "id": 14494,
+            "question": "\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30ab\u30fc\u30c9\u304c\uff11\u679a\u3082\u5b58\u5728\u3057\u306a\u3044\u72b6\u614b\u3067\u3059\u3002\n\n\u305d\u306e\u72b6\u6cc1\u3067\u3001\u300c<<11625>>\u300d\u306e\u300e\u2461\uff1a\u76f8\u624b\u30bf\u30fc\u30f3\u306b\u81ea\u5206\u304c\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089S\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3059\u308b\u3002\u305d\u306e\u30ab\u30fc\u30c9\u3092\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306b\u623b\u3059\u300f\u52b9\u679c\u304c\u767a\u52d5\u3057\u305f\u969b\u306b\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\u3092\u5bfe\u8c61\u306b\u9078\u629e\u3057\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30ab\u30fc\u30c9\u304c\uff11\u679a\u3082\u306a\u3044\u5834\u5408\u3001\u300c<<11625>>\u300d\u306e\u52b9\u679c\u3067\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306b\u623b\u3059\u30ab\u30fc\u30c9\u306b\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\u3092\u9078\u629e\u3057\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

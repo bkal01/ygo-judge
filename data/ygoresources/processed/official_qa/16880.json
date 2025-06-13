@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12055
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of Hi-Speedroid Chanbara that makes it gain 200 ATK can be activated whether it attacks directly or battles a monster.",
+            "id": 16880,
+            "question": "Can the second effect of Hi-Speedroid Chanbara be activated when it attacks directly, when it battles a monster, or either?",
+            "thisSrc": {
+                "date": "2015-08-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can the second effect of Hi-Speedroid Chanbara be activated when it attacks directly, when it battles a monster, or either?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12055>>\u300d\u306e\u52b9\u679c\u306f\u3001\u30d7\u30ec\u30a4\u30e4\u30fc\u3092\u76f4\u63a5\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u3044\u305a\u308c\u306e\u5834\u5408\u3067\u3082\u767a\u52d5\u3057\u3001\u300c<<12055>>\u300d\u81ea\u8eab\u306e\u653b\u6483\u529b\u304c\u30a2\u30c3\u30d7\u3057\u307e\u3059\u3002",
+            "id": 16880,
+            "question": "\u300c<<12055>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3092\u884c\u3046\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u958b\u59cb\u6642\u306b\u767a\u52d5\u3059\u308b\u3002\u3053\u306e\u30ab\u30fc\u30c9\u306e\u653b\u6483\u529b\u306f\uff12\uff10\uff10\u30a2\u30c3\u30d7\u3059\u308b\u300f\u52b9\u679c\u306f\u3001\u30d7\u30ec\u30a4\u30e4\u30fc\u3092\u76f4\u63a5\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u3069\u3061\u3089\u306e\u5834\u5408\u3067\u3082\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12055>>\u300d\u306e\u653b\u6483\u529b\u306f\u30d7\u30ec\u30a4\u30e4\u30fc\u3092\u76f4\u63a5\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u653b\u6483\u3057\u305f\u5834\u5408\u3001\u3069\u3061\u3089\u306e\u5834\u5408\u3067\u3082\u30a2\u30c3\u30d7\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

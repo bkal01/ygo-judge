@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12782
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of Shiranui Sunsaga, which allows you to banish a \"Shiranui\" monster from your Graveyard instead if a Zombie-Type monster on your field would be destroyed by battle or card effect, is a Continuous Effect. Even if Shiranui Sunsaga itself would be destroyed by battle or card effect, you can apply this effect and banish a \"Shiranui\" monster from your Graveyard instead.",
+            "id": 6272,
+            "question": "If Shiranui Sunsaga would be destroyed by battle or card effect, can I apply its effect that banishes a \"Shiranui\" monster from my Graveyard instead?",
+            "thisSrc": {
+                "date": "2016-10-13",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Shiranui Sunsaga would be destroyed by battle or card effect, can I apply its effect that banishes a \"Shiranui\" monster from my Graveyard instead?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300e\u2461\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30a2\u30f3\u30c7\u30c3\u30c8\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u30fb\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3001\u4ee3\u308f\u308a\u306b\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u4e0d\u77e5\u706b\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9664\u5916\u3067\u304d\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3001\u300c<<12782>>\u300d\u81ea\u8eab\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u3067\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u9593\u306b\u9069\u7528\u3055\u308c\u308b\u6c38\u7d9a\u52b9\u679c\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u300c<<12782>>\u300d\u81ea\u8eab\u304c\u6226\u95d8\u3084\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3067\u3082\u3001\u52b9\u679c\u3092\u9069\u7528\u3057\u3001\u4ee3\u308f\u308a\u306b\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u4e0d\u77e5\u706b\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9664\u5916\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 6272,
+            "question": "\u300c<<12782>>\u300d\u81ea\u8eab\u304c\u6226\u95d8\u3084\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3067\u3082\u3001\u81ea\u8eab\u306e\u300e\u2461\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30a2\u30f3\u30c7\u30c3\u30c8\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u30fb\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3001\u4ee3\u308f\u308a\u306b\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u4e0d\u77e5\u706b\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9664\u5916\u3067\u304d\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12782>>\u300d\u81ea\u8eab\u304c\u6226\u95d8\u3084\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3067\u3082\u3001\u81ea\u8eab\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u9069\u7528\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

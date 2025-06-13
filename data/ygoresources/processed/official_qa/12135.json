@@ -1,0 +1,44 @@
+{
+    "cards": [
+        4163,
+        4174,
+        4206,
+        5502,
+        7445,
+        9838,
+        10006
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of Evilswarm Ophion prevents Level 5 or higher monsters from being Special Summoned.\nTherefore, if only Elemental HERO Escuridao exists in your Extra Deck, and your opponent controls Evilswarm Ophion, you cannot activate Super Polymerization.\nAdditionally, if you activate Super Polymerization in your second described scenario, you can only Fusion Summon Darkfire Dragon (Level 4) using Firegrass and Petit Dragon. You cannot Fusion Summon Five-Headed Dragon (Level 12), as it is a Level 5 or higher monster.",
+            "id": 12135,
+            "question": "If only Elemental HERO Escuridao (Level 8) exists in my Extra Deck, and my opponent controls Evilswarm Ophion, can I use Super Polymerization to Special Summon that Elemental HERO Escuridao using Evilswarm Ophion as material?\nFurthermore, if I control Petit Dragon, and my opponent controls Firegrass, Evilswarm Ophion, and three other Dragon monsters, and I activate Super Polymerization, can I now only Fusion Summon Darkfire Dragon (Level 4) using Firegrass + Petit Dragon, or is it possible to Fusion Summon Five-Headed Dragon (Level 12) using Petit Dragon, Evilswarm Ophion, and my opponent's other Dragon monsters?",
+            "thisSrc": {
+                "date": "2022-06-29",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Is it possible to activate Super Polymerization while Evilswarm Ophion is on the field?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<10006>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30ec\u30d9\u30eb5\u4ee5\u4e0a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u304c\u3067\u304d\u306a\u3044\u72b6\u614b\u3067\u3042\u308b\u305f\u3081\u3001\u81ea\u5206\u306e\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u300c<<9838>>\u300d\u306e\u307f\u304c\u5b58\u5728\u3057\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u300c<<10006>>\u300d\u304c\u5b58\u5728\u3059\u308b\u72b6\u6cc1\u306b\u304a\u3044\u3066\u3001\u81ea\u5206\u306f\u300c<<7445>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u3002\n\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u300c<<4206>>\u300d\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u300c<<4163>>\u300d\u3068\u300c<<10006>>\u300d\u3068\u30c9\u30e9\u30b4\u30f3\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc3\u4f53\u304c\u5b58\u5728\u3059\u308b\u6642\u306b\u300c<<7445>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u7279\u6b8a\u53ec\u559a\u3067\u304d\u308b\u306e\u306f\u300c<<4206>>\u300d\u3068\u300c<<4163>>\u300d\u3092\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u306e\u300c<<4174>>\u300d\u306e\u307f\u3068\u306a\u308a\u3001\u30ec\u30d9\u30eb5\u4ee5\u4e0a\u306e\u300c<<5502>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 12135,
+            "question": "\u81ea\u5206\u306e\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u306f\u300c<<9838>>\u300d\u306e\u307f\u304c\u5b58\u5728\u3057\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u306f\u300c<<10006>>\u300d\u304c\u5b58\u5728\u3059\u308b\u72b6\u6cc1\u306b\u304a\u3044\u3066\u3001\u81ea\u5206\u306f\u300c<<7445>>\u300d\u3092\u767a\u52d5\u3057\u3066\u3001\u300c<<10006>>\u300d\u3092\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u4f7f\u7528\u3057\u3001\u30ec\u30d9\u30eb8\u306e\u300c<<9838>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\n\u307e\u305f\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u300c<<4206>>\u300d\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u300c<<4163>>\u300d\u3068\u300c<<10006>>\u300d\u3068\u30c9\u30e9\u30b4\u30f3\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc3\u4f53\u304c\u5b58\u5728\u3059\u308b\u6642\u306b\u300c<<7445>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u81ea\u5206\u306f\u878d\u5408\u7d20\u6750\u304c\u300c<<4163>>\u300d\u3068\u300c<<4206>>\u300d\u3067\u3042\u308b\u300c<<4174>>\u300d\u3057\u304b\u878d\u5408\u53ec\u559a\u3067\u304d\u307e\u305b\u3093\u304b\uff1f\n\u305d\u308c\u3068\u3082\u3001\u300c<<10006>>\u300d\u3092\u542b\u3080\u30c9\u30e9\u30b4\u30f3\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc5\u4f53\u3092\u5893\u5730\u3078\u9001\u308a\u300c<<5502>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10006>>\u300d\u304c\u5b58\u5728\u3059\u308b\u6642\u306b\u300c<<7445>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion",
+        "k:Xyz"
+    ]
+}

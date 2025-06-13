@@ -1,0 +1,41 @@
+{
+    "cards": [
+        4909,
+        13031,
+        13033,
+        13042,
+        13167
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, you can choose which of your 2 Proxy Dragons' effects to apply. (Both copies of Proxy Dragon cannot apply their effects at the same time.) For example, if you apply the effect of your rightmost Proxy Dragon, Stack Reviver will be destroyed instead, and Cynet Universe is not destroyed by the effect of Mystical Space Typhoon.)",
+            "id": 20947,
+            "question": "A Proxy Dragon is in my leftmost Main Monster Zone with RAM Clouder in the Monster Zone adjacent to it, while another copy of Proxy Dragon is in my rightmost Main Monster Zone with Stack Reviver in the Monster Zone adjacent to it. In this situation, if Mystical Space Typhoon is activated and a Cynet Universe in my Field Zone would be destroyed, how can the effect of each Proxy Dragon be applied?",
+            "thisSrc": {
+                "date": "2017-04-28",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "A Proxy Dragon is in my leftmost Main Monster Zone with RAM Clouder in the Monster Zone adjacent to it, while another copy of Proxy Dragon is in my rightmost Main Monster Zone with Stack Reviver in the Monster Zone adjacent to it. In this situation, if Mystical Space Typhoon is activated and a Cynet Universe in my Field Zone would be destroyed, how can the effect of each Proxy Dragon be applied?",
+            "tlSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "translationStatus": "outdated"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u30012\u4f53\u306e\u300c<<13167>>\u300d\u306e\u3069\u3061\u3089\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u304b\u3092\u9078\u3076\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\uff082\u4f53\u306e\u300c<<13167>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u540c\u6642\u306b\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\uff09\n\n\u4f8b\u3048\u3070\u3001\u53f3\u7aef\u306e\u30e1\u30a4\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u300c<<13167>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u9069\u7528\u3057\u305f\u5834\u5408\u306b\u306f\u30ea\u30f3\u30af\u5148\u306e\u300c<<13042>>\u300d\u3092\u4ee3\u308f\u308a\u306b\u7834\u58ca\u3059\u308b\u4e8b\u3067\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306e\u300c<<13033>>\u300d\u306f\u300c<<4909>>\u300d\u306e\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 20947,
+            "question": "\u81ea\u5206\u306e\u5de6\u7aef\u306e\u30e1\u30a4\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<13167>>\u300d\u3001\u305d\u306e\u53f3\u96a3\u306e\u30be\u30fc\u30f3\u306b\u300c<<13031>>\u300d\u3001\u81ea\u5206\u306e\u53f3\u7aef\u306e\u30e1\u30a4\u30f3\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<13167>>\u300d\u3001\u305d\u306e\u5de6\u96a3\u306e\u30be\u30fc\u30f3\u306b\u300c<<13042>>\u300d\u3068\u3044\u3046\u3088\u3046\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u300c<<4909>>\u300d\u304c\u767a\u52d5\u3057\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u30be\u30fc\u30f3\u306e\u300c<<13033>>\u300d\u304c\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u30012\u4f53\u306e\u300c<<13167>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u30fb\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3001\u4ee3\u308f\u308a\u306b\u3053\u306e\u30ab\u30fc\u30c9\u306e\u30ea\u30f3\u30af\u5148\u306e\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u7834\u58ca\u3067\u304d\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u3069\u306e\u3088\u3046\u306b\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c\u30d7\u30ed\u30ad\u30b7\u30fc\uff65\u30c9\u30e9\u30b4\u30f3\u300d\u304c2\u4f53\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u3069\u3061\u3089\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Link"
+    ]
+}

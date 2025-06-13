@@ -1,0 +1,38 @@
+{
+    "cards": [
+        12891
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of <<12891>> that increases its ATK and Rank can be activated at the end of the Damage Step when it attacks, not only when it attacks a monster but also when it attacks directly.",
+            "id": 20374,
+            "question": "If <<12891>> attacks my opponent directly, can I still activate its effect at the end of the Damage Step that increases its ATK and Rank?",
+            "thisSrc": {
+                "date": "2016-12-17",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<12891>> attacks my opponent directly, can I still activate its effect at the end of the Damage Step that increases its ATK and Rank?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12891>>\u300d\u304c\u653b\u6483\u3092\u884c\u3044\u3001\u305d\u306e\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u7d42\u4e86\u6642\u3092\u8fce\u3048\u305f\u306e\u3067\u3042\u308c\u3070\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u3078\u306e\u653b\u6483\u3092\u884c\u3063\u305f\u5834\u5408\u3060\u3051\u3067\u306a\u304f\u3001\u76f4\u63a5\u653b\u6483\u3092\u884c\u3063\u305f\u5834\u5408\u3067\u3082\u3001\u81ea\u8eab\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306e\u653b\u6483\u529b\u306f\uff13\uff10\uff10\u30a2\u30c3\u30d7\u3057\u3001\u30e9\u30f3\u30af\u306f\uff13\u4e0a\u304c\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 20374,
+            "question": "\u300c<<12891>>\u300d\u304c\u76f4\u63a5\u653b\u6483\u3092\u884c\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u7d42\u4e86\u6642\u306b\u3001\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u653b\u6483\u3057\u305f\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u7d42\u4e86\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u30ab\u30fc\u30c9\u306e\u653b\u6483\u529b\u306f\uff13\uff10\uff10\u30a2\u30c3\u30d7\u3057\u3001\u30e9\u30f3\u30af\u306f\uff13\u4e0a\u304c\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12891>>\u300d\u304c\u76f4\u63a5\u653b\u6483\u3092\u884c\u3063\u305f\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u7d42\u4e86\u6642\u306b\u3001\u81ea\u8eab\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Damage Step",
+        "k:Xyz"
+    ]
+}

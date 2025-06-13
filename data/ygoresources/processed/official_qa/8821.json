@@ -1,0 +1,52 @@
+{
+    "cards": [
+        8005
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "Normal Summoning a negated Gemini Monster",
+                "date": "2022-03-17",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "If a Gemini monster is Special Summoned by Debris Dragon's effect, its\u300eThis card is treated as a Normal Monster while face-up on the field or in the Graveyard.\u300feffect is negated. (It is not treated as a Normal Monster.) As it is not treated as a Normal Monster, it also cannot be Normal Summoned again.",
+            "id": 8821,
+            "question": "If a Gemini monster is Special Summoned by Debris Dragon's effect, its effects are negated. Will it still be treated as a Normal Monster? Additionally, can it be Normal Summoned again?",
+            "thisSrc": {
+                "date": "2022-03-17",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If a Gemini monster's effects are negated, can it be Normal Summoned again?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<8005>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u300e\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u3046\u3002\u300f\u3068\u3044\u3046\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u3001\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u306a\u3044\u305f\u3081\u3001\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u3066\u3044\u308b\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u3082\u3046\u4e00\u5ea6\u53ec\u559a\u3059\u308b\u4e8b\u3082\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 8821,
+            "question": "\u300c<<8005>>\u300d\u7b49\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u307e\u3059\u304c\u3001\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u307e\u3059\u304b\uff1f\n\u307e\u305f\u3001\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u3063\u3066\u3044\u308b\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u3001\u3082\u3046\u4e00\u5ea6\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u3063\u3066\u3044\u308b\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u3001\u3082\u30461\u5ea6\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Gemini",
+        "o:Attempt Legality",
+        "o:Gemini Monster",
+        "o:Important Precedent",
+        "o:Negating a card's effects",
+        "o:Normal Summoning again (Gemini)"
+    ]
+}

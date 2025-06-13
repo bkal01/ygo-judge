@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4842,
+        5647,
+        13173
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "<<5647>> has an effect stating that you can only have 1 face-up <<5647>> on your field. <<13173>> is treated as <<5647>> while face-up on the field or in the Graveyard, which means there is already an <<5647>> on your field in this situation. Therefore, in this scenario, you cannot target an <<5647>> in your Graveyard with <<4842>>.",
+            "id": 21097,
+            "question": "<<13173>> is face-up on my field. In this situation, can I activate <<4842>> and Special Summon an <<5647>> from my Graveyard?",
+            "thisSrc": {
+                "date": "2017-06-03",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<13173>> is face-up on my field. In this situation, can I activate <<4842>> and Special Summon an <<5647>> from my Graveyard?",
+            "tlSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "translationStatus": "outdated"
+        },
+        "ja": {
+            "answer": "\u300c<<5647>>\u300d\u306f\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b1\u679a\u3057\u304b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3067\u304d\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u300c<<13173>>\u300d\u306f\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306e\u30ab\u30fc\u30c9\u540d\u306f\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u300c<<5647>>\u300d\u3068\u3057\u3066\u6271\u3046\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u6301\u3064\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3059\u306e\u3067\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u306f\u65e2\u306b\u300c<<5647>>\u300d\u304c1\u4f53\u5b58\u5728\u3057\u3066\u3044\u308b\u72b6\u614b\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<4842>>\u300d\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u5893\u5730\u306e\u300c<<5647>>\u300d\u3092\u9078\u629e\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 21097,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<13173>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u300c<<4842>>\u300d\u3092\u767a\u52d5\u3057\u3001\u81ea\u5206\u306e\u5893\u5730\u306e\u300c<<5647>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<13173>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u300c<<4842>>\u300d\u3092\u767a\u52d5\u3057\u3001\u5893\u5730\u306e\u300c<<5647>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

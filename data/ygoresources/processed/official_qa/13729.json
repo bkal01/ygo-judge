@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4737,
+        4909,
+        10816
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in this case, Cockadoodledoo is banished.",
+            "id": 13729,
+            "question": "Cockadoodledoo is equipped to Relinquished by its effect. If Cockadoodledoo is destroyed by Mystical Space Typhoon, is it sent to the Graveyard or is it banished?",
+            "thisSrc": {
+                "date": "2014-09-17",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Cockadoodledoo is equipped to Relinquished by its effect. If Cockadoodledoo is destroyed by Mystical Space Typhoon, is it sent to the Graveyard or is it banished?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u305d\u306e\u5834\u5408\u3067\u3082\u3001\u300c<<10816>>\u300d\u306e\u300e\u2462\uff1a\u8868\u5074\u8868\u793a\u306e\u3053\u306e\u30ab\u30fc\u30c9\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u96e2\u308c\u305f\u5834\u5408\u306b\u9664\u5916\u3055\u308c\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u9664\u5916\u3055\u308c\u307e\u3059\u3002",
+            "id": 13729,
+            "question": "\u300c<<4737>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<10816>>\u300d\u304c\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u72b6\u6cc1\u306b\u3066\u300c<<4909>>\u300d\u304c\u767a\u52d5\u3057\u300c<<10816>>\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<10816>>\u300d\u306f\u5893\u5730\u3078\u9001\u3089\u308c\u307e\u3059\u304b\uff1f\n\u305d\u308c\u3068\u3082\u3001\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<4737>>\u300d\u306e\u88c5\u5099\u30ab\u30fc\u30c9\u3068\u306a\u3063\u3066\u3044\u308b\u300c<<10816>>\u300d\u304c\u300c<<4909>>\u300d\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Ritual"
+    ]
+}

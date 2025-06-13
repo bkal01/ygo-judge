@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4342,
+        6341,
+        15726
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "You cannot apply the effect of Wightbaking.\n\nThat effect can only be applied if a face-up Level 3 or lower Zombie monster(s) you control would be destroyed.",
+            "id": 23107,
+            "question": "A King of the Skull Servants in face-down Defense Position on my field would be destroyed by the effect of Dark Hole. Can I apply the effect of Wightbaking and discard it instead?",
+            "thisSrc": {
+                "date": "2020-10-31",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If my face-down King of the Skull Servants would be destroyed by a card effect, can I discard Wightbaking instead?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ec\u30d9\u30eb\uff13\u4ee5\u4e0b\u306e\u30a2\u30f3\u30c7\u30c3\u30c8\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u8868\u5074\u8868\u793a\u3067\u7834\u58ca\u3055\u308c\u308b\u969b\u306b\u3001\u3053\u306e\u52b9\u679c\u3092\u9069\u7528\u3067\u304d\u307e\u3059\u3002",
+            "id": 23107,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u300c<<6341>>\u300d\u304c\u300c<<4342>>\u300d\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u306b\u3001\u300c<<15726>>\u300d\u306e\u300e\u2461\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ec\u30d9\u30eb\uff13\u4ee5\u4e0b\u306e\u30a2\u30f3\u30c7\u30c3\u30c8\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u30fb\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3001\u4ee3\u308f\u308a\u306b\u624b\u672d\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u6368\u3066\u308b\u4e8b\u304c\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u9069\u7528\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u300c<<6341>>\u300d\u304c\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u306b\u3001\u4ee3\u308f\u308a\u306b\u624b\u672d\u306e\u300c<<15726>>\u300d\u3092\u6368\u3066\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

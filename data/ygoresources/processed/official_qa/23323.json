@@ -1,0 +1,38 @@
+{
+    "cards": [
+        16728,
+        16732
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "It cannot.\n\nIf the opponent's monster ceases to exist after you reach the Damage Step, no replay will occur, and the attacking monster will not be able to attack again.",
+            "id": 23323,
+            "question": "My Noh-P.U.N.K. Foxy Tune attacks, and at the start of the Damage Step, I resolve the effect of Gagaku-P.U.N.K. Wild Picking and destroy my opponent's monster. Can my Noh-P.U.N.K. Foxy Tune attack again this Battle Phase?",
+            "thisSrc": {
+                "date": "2021-08-28",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If my monster attacks, and I use the effect of Gagaku-P.U.N.K. Wild Picking, can that same monster attack again?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u653b\u6483\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u306b\u5165\u3063\u3066\u304b\u3089\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u307e\u3067\u306e\u9593\u306b\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u306b\u306f\u3001\u6226\u95d8\u306e\u5dfb\u304d\u623b\u3057\u306f\u767a\u751f\u305b\u305a\u3001\u653b\u6483\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u518d\u5ea6\u653b\u6483\u3059\u308b\u3053\u3068\u3082\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 23323,
+            "question": "\u81ea\u5206\u306e\u300c<<16728>>\u300d\u304c\u653b\u6483\u3057\u305f\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u958b\u59cb\u6642\u306b\u3001\u300c<<16732>>\u300d\u306e\u300e\u2460\u300f\u306e\u300e\u81ea\u5206\u306e\u300cP.U.N.K.\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3046\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u958b\u59cb\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u300c<<16728>>\u300d\u306f\u3053\u306e\u30d0\u30c8\u30eb\u30d5\u30a7\u30a4\u30ba\u306b\u518d\u5ea6\u653b\u6483\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u300cP.U.N.K.\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u6642\u306b\u300c<<16732>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u518d\u5ea6\u653b\u6483\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5730,
+        11927
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this situation, even though The Winged Dragon of Ra - Sphere Mode is Tribute Summoned to your opponent's side of the field, the controller of Precious Cards from Beyond was the one who performed the Tribute Summon, so the effect of Precious Cards from Beyond will activate.",
+            "id": 16177,
+            "question": "I have Precious Cards from Beyond face-up on my side of the field. If I Tribute Summon The Winged Dragon of Ra - Sphere Mode by Tributing 3 of my opponent's monsters, will the effect of Precious Cards from Beyond activate?",
+            "thisSrc": {
+                "date": "2015-06-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I have Precious Cards from Beyond face-up on my side of the field. If I Tribute Summon The Winged Dragon of Ra - Sphere Mode by Tributing 3 of my opponent's monsters, will the effect of Precious Cards from Beyond activate?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<11927>>\u300d\u306f\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3055\u308c\u3066\u3044\u307e\u3059\u304c\u3001\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u306e\u306f\u3001\u300c<<5730>>\u300d\u3092\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3057\u3066\u3044\u308b\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300c<<5730>>\u300d\u306e\u300e\uff12\u4f53\u4ee5\u4e0a\u306e\u751f\u3051\u8d04\u3092\u5fc5\u8981\u3068\u3059\u308b\u751f\u3051\u8d04\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u3001\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\uff12\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u3002",
+            "id": 16177,
+            "question": "\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u300c<<5730>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u81ea\u5206\u304c\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u30e2\u30f3\u30b9\u30bf\u30fc3\u4f53\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<11927>>\u300d\u3092\u30a2\u30c9\u30d0\u30f3\u30b9\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300c<<5730>>\u300d\u306e\u300e\uff12\u4f53\u4ee5\u4e0a\u306e\u751f\u3051\u8d04\u3092\u5fc5\u8981\u3068\u3059\u308b\u751f\u3051\u8d04\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u6642\u3001\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\uff12\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u304c\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<11927>>\u300d\u3092\u53ec\u559a\u3057\u305f\u6642\u3001\u300c<<5730>>\u300d\u306e\u52b9\u679c\u306f\u767a\u52d5\u3057\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

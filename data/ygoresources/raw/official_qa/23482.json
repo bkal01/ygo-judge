@@ -1,0 +1,38 @@
+{
+    "cards": [
+        12548,
+        16383
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the situation described, <<16383>> will be Special Summoned from the hand first, and the Continuous Effect of <<12548>> will immediately stop applying. Therefore, the effect of <<16383>> will destroy both <<12548>> and your opponent's Set card.",
+            "id": 23482,
+            "question": "I control a <<12548>>, which is unaffected by other cards' effects due to being the only card I control. Additionally, my opponent controls a Set card.\n\nIn this situation, I activate the effect of a <<16383>> in my hand, targeting that <<12548>> and my opponent's Set card. What happens when the effect resolves?",
+            "thisSrc": {
+                "date": "2021-12-17",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "What happens if the effect of <<16383>> targets <<12548>>?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u305d\u306e\u5834\u5408\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u624b\u672d\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3057\u300f\u306e\u51e6\u7406\u306b\u3088\u3063\u3066\u300c<<16383>>\u300d\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u3001\u305f\u3060\u3061\u306b\u300c<<12548>>\u300d\u306e\u300e\u2460\u300f\u306e\u6c38\u7d9a\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u306a\u304f\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300e\u5bfe\u8c61\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3059\u308b\u300f\u51e6\u7406\u306b\u3088\u3063\u3066\u5bfe\u8c61\u306e\u300c<<12548>>\u300d\u3068\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30bb\u30c3\u30c8\u3055\u308c\u305f\u30ab\u30fc\u30c9\u306f\u7834\u58ca\u3055\u308c\u307e\u3059\u3002",
+            "id": 23482,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u306f\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\u304c\u3053\u306e\u30ab\u30fc\u30c9\u306e\u307f\u306e\u5834\u5408\u3001\u3053\u306e\u30ab\u30fc\u30c9\u306f\u4ed6\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300f\u52b9\u679c\u3092\u9069\u7528\u3057\u3066\u3044\u308b\u300c<<12548>>\u300d\u304c\u5b58\u5728\u3057\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u306f\u30bb\u30c3\u30c8\u3055\u308c\u305f\u30ab\u30fc\u30c9\u304c\u5b58\u5728\u3057\u307e\u3059\u3002\n\n\u81ea\u5206\u306f\u300c<<12548>>\u300d\u3068\u76f8\u624b\u306e\u30bb\u30c3\u30c8\u3055\u308c\u305f\u30ab\u30fc\u30c9\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<16383>>\u300d\u306e\u300e\u2460\u300f\u306e\u300e\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3068\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u3053\u306e\u30ab\u30fc\u30c9\u3092\u624b\u672d\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3057\u3001\u5bfe\u8c61\u306e\u30ab\u30fc\u30c9\u3092\u7834\u58ca\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<12548>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<16383>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

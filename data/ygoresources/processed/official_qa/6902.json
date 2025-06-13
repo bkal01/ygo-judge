@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11632
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "A face-down Defense Position monster can be targeted with the effect of Farfa, Malebranche of the Burning Abyss. In that case, the monster is banished face-down, and returns to the field in face-down Defense Position.",
+            "id": 6902,
+            "question": "Can a face-down Defense Position monster be targeted with the effect of Farfa, Malebranche of the Burning Abyss?",
+            "thisSrc": {
+                "date": "2015-10-22",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can a face-down Defense Position monster be targeted with the effect of Farfa, Malebranche of the Burning Abyss?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<11632>>\u300d\u306e\u300e\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u307e\u3067\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u88cf\u5074\u8868\u793a\u306e\u307e\u307e\u9664\u5916\u3055\u308c\u3001\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u623b\u308b\u969b\u306b\u306f\u3001\u88cf\u5074\u5b88\u5099\u8868\u793a\u3067\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u623b\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 6902,
+            "question": "\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<11632>>\u300d\u306e\u300e\u2462\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u307e\u3067\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11632>>\u300d\u306e\u52b9\u679c\u3067\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u9078\u629e\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

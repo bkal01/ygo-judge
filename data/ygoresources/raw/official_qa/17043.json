@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11504
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "A face-down monster can be used as Fusion Material when resolving <<11504>>, as long as it is an appropriate Fusion Material monster for the Fusion Monster you wish to Special Summon.",
+            "id": 17043,
+            "question": "When resolving the effect of <<11504>>, can I use a face-down Defense Position monster on my side of the field as Fusion Material?",
+            "thisSrc": {
+                "date": "2015-10-06",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When resolving the effect of <<11504>>, can I use a face-down Defense Position monster on my side of the field as Fusion Material?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u306b\u3088\u3063\u3066\u6c7a\u3081\u3089\u308c\u305f\u878d\u5408\u7d20\u6750\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u9069\u5207\u306a\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u308c\u3070\u3001\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u3076\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 17043,
+            "question": "\u300c<<11504>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9\u306b\u3088\u3063\u3066\u6c7a\u3081\u3089\u308c\u305f\u878d\u5408\u7d20\u6750\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5893\u5730\u3078\u9001\u308a\u3001\u305d\u306e\u878d\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u878d\u5408\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3067\u878d\u5408\u7d20\u6750\u3068\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u3076\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11504>>\u300d\u306e\u52b9\u679c\u3067\u878d\u5408\u7d20\u6750\u3068\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u3001\u88cf\u5074\u5b88\u5099\u8868\u793a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u3079\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

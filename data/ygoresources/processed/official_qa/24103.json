@@ -1,0 +1,44 @@
+{
+    "cards": [
+        19153,
+        19154,
+        19155,
+        19156,
+        19200,
+        19473,
+        19520,
+        20060
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "No, you cannot. (Similarly, you also cannot Special Summon Imsety, Glory of Horus, Qebehsenuef, Protection of Horus, Duamutef, Blessing of Horus, or Hapi, Guidance of Horus.)\n\n\"King's Sarcophagus\" is the name of a Continuous Spell, not the name of a Field Spell.",
+            "id": 24103,
+            "question": "When I activate the \u2461nd or \u2462rd effect of Walls of the Imperial Tomb whose name is treated as King's Sarcophagus, I chain the\u300eYou can shuffle 1 of your monsters that is banished or in your Graveyard into the Deck, or if that monster mentions that Field Spell, you can Special Summon it instead\u300feffect of Krishnerd Witch.\n\nCan I then Special Summon Horus the Black Flame Deity that mentions King's Sarcophagus in its text instead of return into the Deck?",
+            "thisSrc": {
+                "date": "2024-09-28",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "Can I use the effect of Krishnerd Witch to Special Summon Horus the Black Flame Deity?",
+            "tlSrc": {
+                "date": "2024-09-28",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u305b\u3093\u3002\n\uff08\u540c\u69d8\u306b\u3001\u300c<<19153>>\u300d\u300c<<19156>>\u300d\u300c<<19154>>\u300d\u300c<<19155>>\u300d\u3082\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u305b\u3093\u3002\uff09\n\n\u300c<<19200>>\u300d\u306f\u6c38\u7d9a\u9b54\u6cd5\u30ab\u30fc\u30c9\u3067\u3042\u308a\u3001\"\u30d5\u30a3\u30fc\u30eb\u30c9\u9b54\u6cd5\u306e\u30ab\u30fc\u30c9\u540d\"\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+            "id": 24103,
+            "question": "\u30ab\u30fc\u30c9\u540d\u3092\u300c<<19200>>\u300d\u3068\u3057\u3066\u6271\u3063\u3066\u3044\u308b\u300c<<19520>>\u300d\u306e\u2461\u307e\u305f\u306f\u2462\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u6642\u3001\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<20060>>\u300d\u306e\u300e\u2462\uff1a\u65e2\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u308b\u30d5\u30a3\u30fc\u30eb\u30c9\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u304c\u767a\u52d5\u3057\u305f\u6642\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u81ea\u5206\u306e\u5893\u5730\u30fb\u9664\u5916\u72b6\u614b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u30c7\u30c3\u30ad\u306b\u623b\u3059\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u305d\u306e\u767a\u52d5\u3057\u305f\u30d5\u30a3\u30fc\u30eb\u30c9\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u30ab\u30fc\u30c9\u540d\u304c\u8a18\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u30c7\u30c3\u30ad\u306b\u623b\u3055\u305a\u7279\u6b8a\u53ec\u559a\u3067\u304d\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u51e6\u7406\u306b\u3088\u3063\u3066\u3001\u30ab\u30fc\u30c9\u30c6\u30ad\u30b9\u30c8\u306b\u300c<<19200>>\u300d\u304c\u8a18\u3055\u308c\u3066\u3044\u308b\u300c<<19473>>\u300d\u3092\u30c7\u30c3\u30ad\u306b\u623b\u3055\u305a\u306b\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-09-28",
+                "type": 0
+            },
+            "title": "\u300c<<20060>>\u300d\u306e\u52b9\u679c\u3067\u300c<<19473>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

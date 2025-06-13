@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4837,
+        6783,
+        12777
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "While Ancient Gear Howitzer is face-up in the Monster Zone, it is unaffected by the effects of other cards, and because of this, it will be unaffected by the effects of cards such as Polymerization that perform a Fusion Summon. Note that if Ancient Gear Howitzer is sent to the Graveyard, its effect is no longer applied, so it can be banished from the Graveyard as Fusion Material for effects such as Overload Fusion.",
+            "id": 20031,
+            "question": "Can Ancient Gear Howitzer be used as Fusion Material?",
+            "thisSrc": {
+                "date": "2016-10-13",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can Ancient Gear Howitzer be used as Fusion Material?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<12777>>\u300d\u306f\u81ea\u8eab\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306f\u4ed6\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u4ed6\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u307e\u305b\u3093\u306e\u3067\u3001\u300c<<4837>>\u300d\u7b49\u306e\u52b9\u679c\u3082\u53d7\u3051\u305a\u3001\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u4f7f\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u306a\u304a\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u300c<<12777>>\u300d\u306f\u901a\u5e38\u901a\u308a\u4ed6\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u308b\u72b6\u614b\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300c<<6783>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u300c<<12777>>\u300d\u3092\u5893\u5730\u304b\u3089\u9664\u5916\u3057\u3001\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u4f7f\u7528\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 20031,
+            "question": "\u300c<<12777>>\u300d\u306f\u878d\u5408\u7d20\u6750\u3068\u3057\u3066\u4f7f\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12777>>\u300d\u306f\u878d\u5408\u7d20\u6750\u306b\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

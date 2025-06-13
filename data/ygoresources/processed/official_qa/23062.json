@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5740,
+        8414,
+        15589
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect can be activated. Dragunity Knight - Gae Bulg can activate its effect from the start of the Damage Step to before damage calculation, and since the effect of Dragunity Draft is applying, the effect of Skill Drain is not applied to it.",
+            "id": 23062,
+            "question": "Skill Drain is face-up in my opponent's Spell & Trap Zone, and Dragunity Draft is face-up in my Spell & Trap Zone. During the Damage Step when I attack with Dragunity Knight - Gae Bulg, can I activate its effect?",
+            "thisSrc": {
+                "date": "2020-08-31",
+                "misc": "Redshift",
+                "type": 4
+            },
+            "title": "Skill Drain is face-up in my opponent's Spell & Trap Zone, and Dragunity Draft is face-up in my Spell & Trap Zone. During the Damage Step when I attack with Dragunity Knight - Gae Bulg, can I activate its effect?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\n\n\u300c<<8414>>\u300d\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u308b\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u958b\u59cb\u6642\u304b\u3089\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u524d\u306b\u306f\u3001\u300c<<15589>>\u300d\u306e\u300e\u2461\u300f\u306e\u300e\u5143\u3005\u306e\u30ec\u30d9\u30eb\u304c\uff15\u4ee5\u4e0a\u306e\u81ea\u5206\u306e\u300c\u30c9\u30e9\u30b0\u30cb\u30c6\u30a3\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u653b\u6483\u3059\u308b\u5834\u5408\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u7d42\u4e86\u6642\u307e\u3067\u76f8\u624b\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u307e\u3059\u306e\u3067\u3001\u300c<<5740>>\u300d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 23062,
+            "question": "\u300c<<5740>>\u300d\u304c\u76f8\u624b\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3057\u3001\u300c<<15589>>\u300d\u304c\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u72b6\u614b\u3067\u3059\u3002\n\n\u81ea\u5206\u306e\u300c<<8414>>\u300d\u304c\u653b\u6483\u3059\u308b\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u306b\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3092\u884c\u3046\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u958b\u59cb\u6642\u304b\u3089\u30c0\u30e1\u30fc\u30b8\u8a08\u7b97\u524d\u307e\u3067\u306b\uff11\u5ea6\u3001\u81ea\u5206\u306e\u5893\u5730\u304b\u3089\u9ce5\u7363\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9664\u5916\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u300c<<5740>>\u300d\u3068\u300c<<15589>>\u300d\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u300c<<8414>>\u300d\u306f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

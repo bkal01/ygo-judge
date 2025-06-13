@@ -1,0 +1,37 @@
+{
+    "cards": [
+        13551
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "You can activate White Howling even if there are no face-up Spell Cards on your opponent's field. The targeted Spell Card in your opponent's Graveyard will be banished, and all Spell effects on your opponent's field will be negated this turn. (Effects of Spells that your opponent plays after this card resolves are also negated.)",
+            "id": 21648,
+            "question": "Can I activate White Howling if there are no face-up Spell Cards on my opponent's field?",
+            "thisSrc": {
+                "date": "2017-12-16",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can I activate White Howling if there are no face-up Spell Cards on my opponent's field?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u8868\u5074\u8868\u793a\u306e\u9b54\u6cd5\u30ab\u30fc\u30c9\u304c\u306a\u3044\u5834\u5408\u3067\u3082\u3001\u300c<<13551>>\u300d\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u5bfe\u8c61\u3068\u3057\u3066\u9078\u629e\u3057\u305f\u76f8\u624b\u306e\u5893\u5730\u306e\u9b54\u6cd5\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u3001\u305d\u306e\u30bf\u30fc\u30f3\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\uff08\u305d\u306e\u5f8c\u306b\u76f8\u624b\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u51fa\u3057\u305f\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3082\u7121\u52b9\u5316\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 21648,
+            "question": "\u300c<<13551>>\u300d\u306e\u300e\u2460\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u6c34\u5c5e\u6027\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u76f8\u624b\u306e\u5893\u5730\u306e\u9b54\u6cd5\u30ab\u30fc\u30c9\uff11\u679a\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u3001\u3053\u306e\u30bf\u30fc\u30f3\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u9b54\u6cd5\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u52b9\u679c\u306f\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u8868\u5074\u8868\u793a\u306e\u9b54\u6cd5\u30ab\u30fc\u30c9\u304c\u306a\u3044\u5834\u5408\u3067\u3082\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u8868\u5074\u8868\u793a\u306e\u9b54\u6cd5\u30ab\u30fc\u30c9\u304c\u306a\u3044\u5834\u5408\u3001\u300c<<13551>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

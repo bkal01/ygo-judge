@@ -164,3 +164,5 @@ cython_debug/
 # macOS system files
 .DS_Store
 **/.DS_Store
+
+.cursorignore

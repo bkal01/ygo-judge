@@ -1,0 +1,38 @@
+{
+    "cards": [
+        7617,
+        10964
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in that case, the effect of Skill Prisoner is applied and the effect of that Gladiator Beast Gyzarus is negated.\n\n(As a result, neither of the 2 cards targeted for the effect of Gladiator Beast Gyzarus are destroyed.)",
+            "id": 13012,
+            "question": "If one or more cards affected by the effect of Skill Prisoner are targeted among the 2 targets for the effect of Gladiator Beast Gyzarus, how does the effect resolve?\n\n(Are the cards destroyed?)",
+            "thisSrc": {
+                "date": "2013-12-26",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If one or more cards affected by the effect of Skill Prisoner are targeted among the 2 targets for the effect of Gladiator Beast Gyzarus, how does the effect resolve?  (Are the cards destroyed?)",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<10964>>\u300d\u306e\u5bfe\u8c61\u3068\u306a\u3063\u3066\u3044\u308b\u30ab\u30fc\u30c9\u3092\u542b\u3080\u30012\u679a\u306e\u30ab\u30fc\u30c9\u3092\u5bfe\u8c61\u3068\u3057\u305f\u300c<<7617>>\u300d\u306e\u52b9\u679c\u304c\u767a\u52d5\u3057\u305f\u5834\u5408\u3067\u3082\u3001\u300c<<10964>>\u300d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u3001\u305d\u306e\u300c<<7617>>\u300d\u306e\u52b9\u679c\u306f\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u3002\n\uff08\u7d50\u679c\u3068\u3057\u3066\u3001\u300c<<7617>>\u300d\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u306b\u306a\u3063\u305f2\u679a\u306e\u30ab\u30fc\u30c9\u306f\u3069\u3061\u3089\u3082\u7834\u58ca\u3055\u308c\u306a\u3044\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 13012,
+            "question": "\u300c<<7617>>\u300d\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<10964>>\u300d\u306e\u5bfe\u8c61\u3068\u306a\u3063\u3066\u3044\u308b\u30ab\u30fc\u30c9\u3092\u542b\u30802\u679a\u306e\u30ab\u30fc\u30c9\u304c\u9078\u629e\u3055\u308c\u305f\u5834\u5408\u3001\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f\n\uff08\u7834\u58ca\u3059\u308b\u51e6\u7406\u306f\u884c\u308f\u308c\u307e\u3059\u304b\uff1f\uff09",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<7617>>\u300d\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<10964>>\u300d\u306e\u5bfe\u8c61\u3068\u306a\u3063\u3066\u3044\u308b\u30ab\u30fc\u30c9\u3092\u542b\u30802\u679a\u306e\u30ab\u30fc\u30c9\u304c\u9078\u629e\u3055\u308c\u305f\u5834\u5408\u3001\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

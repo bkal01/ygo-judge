@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4842,
+        4968
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "A monster declared by Prohibition cannot be placed on the field, such as by Monster Reborn or any other card effect.",
+            "id": 13584,
+            "question": "Can a monster that was declared by Prohibition be Special Summoned with Monster Reborn?",
+            "thisSrc": {
+                "date": "2014-09-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can a monster that was declared by Prohibition be Special Summoned with Monster Reborn?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<4968>>\u300d\u3067\u30ab\u30fc\u30c9\u540d\u304c\u5ba3\u8a00\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u300c<<4842>>\u300d\u306a\u3069\u3001\u4ed6\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3082\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u51fa\u3059\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 13584,
+            "question": "\u300c<<4968>>\u300d\u3067\u30ab\u30fc\u30c9\u540d\u3092\u5ba3\u8a00\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u300c<<4842>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<4968>>\u300d\u3067\u30ab\u30fc\u30c9\u540d\u3092\u5ba3\u8a00\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u300c<<4842>>\u300d\u306e\u52b9\u679c\u3067\u7279\u6b8a\u53ec\u559a\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

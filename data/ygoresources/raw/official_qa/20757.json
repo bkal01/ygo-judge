@@ -1,0 +1,38 @@
+{
+    "cards": [
+        13034,
+        13036
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "A Token can be used as Link Material for a Link Summon, if it meets the requirements listed in the Link Monster's text. For example, in the case of <<13036>>, since its Link Materials must be 2 or more Effect Monsters, you cannot use Tokens. In the case of <<13034>>, since its Link Material must be a Normal Monster, you can use a Token.",
+            "id": 20757,
+            "question": "Is it possible to use Tokens as Link Materials for a Link Summon?",
+            "thisSrc": {
+                "date": "2017-03-25",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Is it possible to use Tokens as Link Materials for a Link Summon?",
+            "tlSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "translationStatus": "outdated"
+        },
+        "ja": {
+            "answer": "\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u8a18\u3055\u308c\u305f\u30ea\u30f3\u30af\u7d20\u6750\u306e\u6761\u4ef6\u3068\u3057\u3066\u9069\u5207\u306a\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u308c\u3070\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30c8\u30fc\u30af\u30f3\u3082\u7d20\u6750\u3068\u3057\u3066\u4f7f\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u4f8b\u3048\u3070\u3001\u300c<<13036>>\u300d\u306e\u5834\u5408\u3001\u30ea\u30f3\u30af\u7d20\u6750\u3068\u3057\u3066\u4f7f\u7528\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u300e\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\uff12\u4f53\u4ee5\u4e0a\u300f\u3067\u3059\u306e\u3067\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30c8\u30fc\u30af\u30f3\u3092\u4f7f\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u304c\u3001\u300c<<13034>>\u300d\u306e\u5834\u5408\u3001\u30ea\u30f3\u30af\u7d20\u6750\u3068\u3057\u3066\u4f7f\u7528\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u300e\u901a\u5e38\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u300f\u3067\u3059\u306e\u3067\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30c8\u30fc\u30af\u30f3\u3092\u4f7f\u7528\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 20757,
+            "question": "\u30ea\u30f3\u30af\u53ec\u559a\u3092\u884c\u3046\u969b\u306e\u30ea\u30f3\u30af\u7d20\u6750\u3068\u3057\u3066\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30c8\u30fc\u30af\u30f3\u3092\u4f7f\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "title": "\u30ea\u30f3\u30af\u53ec\u559a\u306e\u7d20\u6750\u3068\u3057\u3066\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30c8\u30fc\u30af\u30f3\u3092\u4f7f\u7528\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Link"
+    ]
+}

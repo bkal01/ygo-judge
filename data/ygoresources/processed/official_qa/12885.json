@@ -1,0 +1,37 @@
+{
+    "cards": [
+        10709
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In that case, the effect is no longer applied and the monster can be destroyed by battle and card effects. Also, even if that monster becomes face-up again, the effect of Mechquipped Angineer is not reapplied.",
+            "id": 12885,
+            "question": "After the effect of Mechquipped Angineer resolves, if the monster affected by it is then flipped face-down, can that monster be destroyed by battle or card effects that turn?",
+            "thisSrc": {
+                "date": "2013-08-22",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "After the effect of Mechquipped Angineer resolves, if the monster affected by it is then flipped face-down, can that monster be destroyed by battle or card effects that turn?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<10709>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u305d\u306e\u5f8c\u3001\u88cf\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u300e\u305d\u306e\u30bf\u30fc\u30f3\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u6226\u95d8\u53ca\u3073\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u306e\u9069\u7528\u306f\u306a\u304f\u306a\u308a\u3001\u6226\u95d8\u3084\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u308b\u72b6\u614b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u307e\u305f\u3001\u305d\u306e\u5f8c\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u518d\u3073\u8868\u5074\u8868\u793a\u306b\u623b\u3063\u305f\u5834\u5408\u3067\u3082\u300c<<10709>>\u300d\u306e\u52b9\u679c\u306e\u9069\u7528\u306f\u306a\u304f\u306a\u3063\u305f\u307e\u307e\u3067\u3059\u3002",
+            "id": 12885,
+            "question": "\u300c<<10709>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u305d\u306e\u5f8c\u3001\u88cf\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u300e\u305d\u306e\u30bf\u30fc\u30f3\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u6226\u95d8\u53ca\u3073\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u306e\u9069\u7528\u306f\u306a\u304f\u306a\u308a\u3001\u6226\u95d8\u3084\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10709>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u305d\u306e\u5f8c\u3001\u88cf\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u6226\u95d8\u3084\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

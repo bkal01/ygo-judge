@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11933
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The monster effect of Dharma-Eye Magician is a Continuous Effect that only applies during the turn it is Pendulum Summoned. The effect will be applied to a \"Magician\" Pendulum Monster that is Summoned afterward during the same turn.",
+            "id": 16050,
+            "question": "After Dharma-Eye Magician is Pendulum Summoned, will its effect be applied to \"Magician\" Pendulum Monsters that are Summoned afterward?",
+            "thisSrc": {
+                "date": "2015-05-26",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "After Dharma-Eye Magician is Pendulum Summoned, will its effect be applied to \"Magician\" Pendulum Monsters that are Summoned afterward?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11933>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u300c<<11933>>\u300d\u81ea\u8eab\u304c\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u53ec\u559a\u3055\u308c\u305f\u30bf\u30fc\u30f3\u306b\u306e\u307f\u9069\u7528\u3055\u308c\u308b\u6c38\u7d9a\u52b9\u679c\u3067\u3059\u3002\n\n\u305d\u306e\u30bf\u30fc\u30f3\u3067\u3042\u308c\u3070\u3001\u5f8c\u304b\u3089\u53ec\u559a\u3055\u308c\u308b\u7b49\u306b\u3088\u3063\u3066\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u51fa\u305f\u300c\u9b54\u8853\u5e2b\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u3082\u305d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 16050,
+            "question": "\u300c<<11933>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30bf\u30fc\u30f3\u306bP\u53ec\u559a\u3057\u305f\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u300c\u9b54\u8853\u5e2b\u300dP\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u76f8\u624b\u306e\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u5f8c\u304b\u3089\u53ec\u559a\u3055\u308c\u305f\u300c\u9b54\u8853\u5e2b\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u3082\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11933>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306f\u5f8c\u304b\u3089\u53ec\u559a\u3055\u308c\u305f\u300c\u9b54\u8853\u5e2b\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u3082\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

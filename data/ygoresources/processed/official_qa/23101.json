@@ -1,0 +1,39 @@
+{
+    "cards": [
+        13625,
+        14676,
+        15741
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, you can.",
+            "id": 23101,
+            "question": "Can I use my opponent's monster as Link Material even if I perform the Link Summon of Underworld Goddess of the Closed World due to a card effect, such as those of World Legacy Awakens or I:P Masquerena?",
+            "thisSrc": {
+                "date": "2020-10-31",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can I use my opponent's monster as Link Material when Link Summoning Underworld Goddess of the Closed World due to a card effect?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u3067\u304d\u307e\u3059\u3002",
+            "id": 23101,
+            "question": "\u300c<<13625>>\u300d\u3084\u300c<<14676>>\u300d\u306e\u52b9\u679c\u306b\u3088\u308a\u3001\u76f8\u624b\u30bf\u30fc\u30f3\u306b\u300c<<15741>>\u300d\u306e\u30ea\u30f3\u30af\u53ec\u559a\u3092\u884c\u3046\u5834\u5408\u3067\u3082\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7d20\u6750\u306b\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u76f8\u624b\u30bf\u30fc\u30f3\u306b\u300c<<15741>>\u300d\u3092\u30ea\u30f3\u30af\u53ec\u559a\u3059\u308b\u5834\u5408\u3067\u3082\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30ea\u30f3\u30af\u7d20\u6750\u306b\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Link"
+    ]
+}

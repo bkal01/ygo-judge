@@ -1,0 +1,19 @@
+{
+    "cards": [],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of <<13461>> that Special Summons it from the Graveyard can only be activated if it is destroyed by the opponent's card effect while controlled by its owner. Therefore, in this scenario, the effect of <<13461>> cannot be activated.",
+            "id": 7817,
+            "question": "Due to the effect of <<5162>>, my opponent has gained control of my <<13461>>. In this situation, if that <<13461>> is destroyed by a card effect and sent to the Graveyard, can its effect that Special Summons it be activated?",
+            "thisSrc": {
+                "date": "2017-10-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Due to the effect of <<5162>>, my opponent has gained control of my <<13461>>. In this situation, if that <<13461>> is destroyed by a card effect and sent to the Graveyard, can its effect that Special Summons it be activated?",
+            "translationStatus": "zombie"
+        }
+    },
+    "tags": []
+}

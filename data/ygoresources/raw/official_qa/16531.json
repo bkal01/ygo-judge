@@ -1,0 +1,40 @@
+{
+    "cards": [
+        4370,
+        4676,
+        5914,
+        11967
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in that case, the effect resolves normally.\n\n(The banished card returns to the hand during the opponent's next End Phase)",
+            "id": 16531,
+            "question": "<<4676>> was activated, tributing <<11967>> and other monsters, and <<4370>> was Ritual Summoned.\n\nAfter that <<4370>> uses its effect that banishes a card from the opponent's hand, if it is returned to the hand by the effect of <<5914>>, what happens with the banished card?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<4676>> was activated, tributing <<11967>> and other monsters, and <<4370>> was Ritual Summoned.  After that <<4370>> uses its effect that banishes a card from the opponent's hand, if it is returned to the hand by the effect of <<5914>>, what happens with the banished card?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300e\u25cf\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u76f8\u624b\u306e\u624b\u672d\u3092\u30e9\u30f3\u30c0\u30e0\u306b\uff11\u679a\u9078\u3073\u3001\u6b21\u306e\u76f8\u624b\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u307e\u3067\u88cf\u5074\u8868\u793a\u3067\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u306e\u9069\u7528\u5f8c\u3001\u305d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u300c<<4370>>\u300d\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\uff08\u300e\u6b21\u306e\u76f8\u624b\u306e\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u300f\u306b\u9664\u5916\u3055\u308c\u305f\u30ab\u30fc\u30c9\u306f\u624b\u672d\u306b\u623b\u308a\u307e\u3059\u3002\uff09",
+            "id": 16531,
+            "question": "\u300c<<4676>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300c<<11967>>\u300d\u3092\u542b\u3081\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u300c<<4370>>\u300d\u3092\u5100\u5f0f\u53ec\u559a\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u300c<<4370>>\u300d\u304c\u300e\u25cf\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u76f8\u624b\u306e\u624b\u672d\u3092\u30e9\u30f3\u30c0\u30e0\u306b\uff11\u679a\u9078\u3073\u3001\u6b21\u306e\u76f8\u624b\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u307e\u3067\u88cf\u5074\u8868\u793a\u3067\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u3092\u9069\u7528\u3057\u305f\u5f8c\u3001\u300c<<5914>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u624b\u672d\u306b\u623b\u3063\u305f\u5834\u5408\u3001\u9664\u5916\u3055\u308c\u305f\u624b\u672d\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11967>>\u300d\u306e\u52b9\u679c\u3067\u52b9\u679c\u3092\u5f97\u305f\u300c\u30ab\u30aa\u30b9\uff65\u30bd\u30eb\u30b8\u30e3\u30fc\u300d\u304c\u3001\u624b\u672d\u3092\u9664\u5916\u3059\u308b\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5f8c\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u3092\u96e2\u308c\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Ritual"
+    ]
+}

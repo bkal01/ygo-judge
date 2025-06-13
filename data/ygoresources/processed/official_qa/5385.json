@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4909,
+        6268
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of Swords of Concealing Light that changes your opponent's monsters to face-down Defense Position is only applied when the card first resolves, but since Swords of Concealing Light is a Continuous Spell Card, this effect is not applied if Swords of Concealing Light is destroyed by a chained Mystical Space Typhoon. (Your opponent's monsters are not changed to face-down Defense Position.) Note that the effect of Swords of Concealing Light that prevents your opponent's monsters from changing their battle positions is only applied while it remains face-up on the field, and will not be applied if Swords of Concealing Light is destroyed.",
+            "id": 5385,
+            "question": "Mystical Space Typhoon is chained to the activation of Swords of Concealing Light, and Swords of Concealing Light is destroyed. In that case, which effects of Swords of Concealing Light are applied?",
+            "thisSrc": {
+                "date": "2016-06-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Mystical Space Typhoon is chained to the activation of Swords of Concealing Light, and Swords of Concealing Light is destroyed. In that case, which effects of Swords of Concealing Light are applied?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<6268>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u6642\u306b\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u5168\u3066\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u3059\u308b\u300f\u52b9\u679c\u306f\u3001\u300c<<6268>>\u300d\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u6642\u306e\u52b9\u679c\u51e6\u7406\u3068\u306a\u308a\u307e\u3059\u304c\u3001\u300c<<6268>>\u300d\u306f\u6c38\u7d9a\u9b54\u6cd5\u30ab\u30fc\u30c9\u3067\u3059\u306e\u3067\u3001\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<4909>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u306b\u306f\u3001\u52b9\u679c\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\uff08\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u88cf\u5074\u5b88\u5099\u8868\u793a\u306b\u306f\u306a\u308a\u307e\u305b\u3093\u3002\uff09\n\n\u306a\u304a\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u8868\u793a\u5f62\u5f0f\u3092\u5909\u66f4\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u306f\u3001\u300c<<6268>>\u300d\u304c\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u9593\u306e\u307f\u9069\u7528\u3055\u308c\u308b\u52b9\u679c\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u300c<<6268>>\u300d\u304c\u7834\u58ca\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u306b\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 5385,
+            "question": "\u300c<<6268>>\u300d\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<4909>>\u300d\u304c\u767a\u52d5\u3057\u3001\u305d\u306e\u300c<<6268>>\u300d\u304c\u7834\u58ca\u3055\u308c\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u300c<<6268>>\u300d\u306e\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<6268>>\u300d\u304c\u3001\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u305f\u300c<<4909>>\u300d\u306e\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

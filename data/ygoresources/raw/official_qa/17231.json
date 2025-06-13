@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11772
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If you have 0 or 1 card left in your Deck, you cannot activate that effect of <<11772>>. If you have 1 card left in your Deck when the effect of <<11772>> is resolving, reveal that card and then place it back in the Deck.",
+            "id": 17231,
+            "question": "If I only have 1 card left in my Deck, can I activate the effect of <<11772>> that places a \"Burning Abyss\" card on top of my Deck?",
+            "thisSrc": {
+                "date": "2015-10-06",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If I only have 1 card left in my Deck, can I activate the effect of <<11772>> that places a \"Burning Abyss\" card on top of my Deck?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u304c1\u679a\u307e\u305f\u306f0\u679a\u306e\u6642\u306b\u3001\u300c<<11772>>\u300d\u306e\u300e\u30c7\u30c3\u30ad\u304b\u3089\u300c\u5f7c\u5cb8\u300d\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u30c7\u30c3\u30ad\u306e\u4e00\u756a\u4e0a\u306b\u7f6e\u304f\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u306a\u304a\u3001\u300c<<11772>>\u300d\u306e\u300e\u30c7\u30c3\u30ad\u304b\u3089\u300c\u5f7c\u5cb8\u300d\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u30c7\u30c3\u30ad\u306e\u4e00\u756a\u4e0a\u306b\u7f6e\u304f\u300f\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u304c\u300c\u5f7c\u5cb8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c91\u679a\u306e\u307f\u306e\u5834\u5408\u306b\u306f\u3001\u305d\u306e\u30ab\u30fc\u30c9\u3092\u78ba\u8a8d\u3057\u30c7\u30c3\u30ad\u306b\u623b\u3059\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 17231,
+            "question": "\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u304c1\u679a\u4ee5\u4e0b\u306e\u6642\u3001\u300c<<11772>>\u300d\u306e\u300e\u2462\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u300c\u5f7c\u5cb8\u300d\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9078\u3093\u3067\u30c7\u30c3\u30ad\u306e\u4e00\u756a\u4e0a\u306b\u7f6e\u304f\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u30c7\u30c3\u30ad\u304c1\u679a\u4ee5\u4e0b\u306e\u6642\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u300c<<11772>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

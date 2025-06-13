@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4909,
+        5231,
+        10437
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Temple of the Kings only allows you to activate a Trap Card that has been Set this turn. If Breakthrough Skill is Set and then destroyed and sent to the Graveyard this turn, you cannot activate its effect during the same turn with Temple of the Kings.",
+            "id": 14556,
+            "question": "If a Breakthrough Skill is destroyed by Mystical Space Typhoon during the same turn it is Set, and Temple of the Kings is applying its effect, can the effect of Breakthrough Skill be activated in the Graveyard this turn?",
+            "thisSrc": {
+                "date": "2014-12-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If a Breakthrough Skill is destroyed by Mystical Space Typhoon during the same turn it is Set, and Temple of the Kings is applying its effect, can the effect of Breakthrough Skill be activated in the Graveyard this turn?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\uff1c\u4ee5\u4e0b\u306e\u30eb\u30fc\u30eb\u306f\u30012015\u5e741\u67081\u65e5\u3088\u308a\u9069\u7528\u3055\u308c\u307e\u3059\uff1e\n\n\u300c<<5231>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u767a\u52d5\u3092\u884c\u3048\u308b\u306e\u306f\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306b\u30bb\u30c3\u30c8\u3055\u308c\u305f\u7f60\u30ab\u30fc\u30c9\u306e\u30ab\u30fc\u30c9\u306e\u767a\u52d5\u306e\u307f\u3067\u3059\u3002\n\n\u305d\u306e\u30bf\u30fc\u30f3\u306b\u30bb\u30c3\u30c8\u3055\u308c\u305f\u5f8c\u306b\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u300c<<10437>>\u300d\u306e\u52b9\u679c\u3092\u300c<<5231>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 14556,
+            "question": "\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u30bb\u30c3\u30c8\u3057\u305f\u300c<<10437>>\u300d\u304c\u3001\u76f8\u624b\u306e\u300c<<4909>>\u300d\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u3066\u3044\u308b\u30bf\u30fc\u30f3\u3067\u3059\u3002\n\n\u305d\u306e\u30bf\u30fc\u30f3\u306b\u300c<<5231>>\u300d\u3092\u767a\u52d5\u3057\u3001\u305d\u306e\u7834\u58ca\u3055\u308c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u300c<<10437>>\u300d\u306e\u300e\u2461\uff1a\u81ea\u5206\u30bf\u30fc\u30f3\u306b\u5893\u5730\u306e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3057\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u76f8\u624b\u306e\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u3092\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u7121\u52b9\u306b\u3059\u308b\u3002\u3053\u306e\u52b9\u679c\u306f\u3053\u306e\u30ab\u30fc\u30c9\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u30bf\u30fc\u30f3\u306b\u306f\u767a\u52d5\u3067\u304d\u306a\u3044\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<5231>>\u300d\u306e\u9069\u7528\u4e2d\u3001\u305d\u306e\u30bf\u30fc\u30f3\u306b\u30bb\u30c3\u30c8\u3055\u308c\u305f\u300c<<10437>>\u300d\u304c\u767a\u52d5\u3055\u308c\u305a\u306b\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u5893\u5730\u306e\u300c<<10437>>\u300d\u306e\u52b9\u679c\u3092\u305d\u306e\u30bf\u30fc\u30f3\u306b\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

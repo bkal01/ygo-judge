@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11732
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If you activate Rank-Up-Magic Revolution Force during your opponent's turn, as long as the monster being targeted is on your opponent's side of the field, it does not matter who is the original owner.",
+            "id": 15205,
+            "question": "If I activate Rank-Up-Magic Revolution Force during my opponent's turn, do I need to target a monster that I originally owned?",
+            "thisSrc": {
+                "date": "2015-02-19",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If I activate Rank-Up-Magic Revolution Force during my opponent's turn, do I need to target a monster that I originally owned?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u76f8\u624b\u306e\u30bf\u30fc\u30f3\u306b\u300c<<11732>>\u300d\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u3001\u5bfe\u8c61\u3068\u306a\u308b\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30a8\u30af\u30b7\u30fc\u30ba\u7d20\u6750\u306e\u7121\u3044\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u306a\u306e\u3067\u3042\u308c\u3070\u3001\u305d\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5143\u3005\u306e\u6301\u3061\u4e3b\u306f\u81ea\u5206\u30fb\u76f8\u624b\u3069\u3061\u3089\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3082\u5bfe\u8c61\u3068\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 15205,
+            "question": "\u76f8\u624b\u306e\u30bf\u30fc\u30f3\u306b\u300c<<11732>>\u300d\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u3001\u5bfe\u8c61\u3068\u306a\u308b\u300e\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306eX\u7d20\u6750\u306e\u7121\u3044X\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u300f\u306f\u3001\u5143\u3005\u306e\u6301\u3061\u4e3b\u304c\u81ea\u5206\u306e\u30a8\u30af\u30b7\u30fc\u30ba\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u306e\u30bf\u30fc\u30f3\u306b\u300c<<11732>>\u300d\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u3001\u5bfe\u8c61\u306b\u3067\u304d\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u5143\u3005\u306e\u6301\u3061\u4e3b\u304c\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u307f\u3067\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

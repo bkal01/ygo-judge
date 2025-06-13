@@ -1,0 +1,39 @@
+{
+    "cards": [
+        11977,
+        11978,
+        11979
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In that case, providing it is a face-up monster the opponent controls, a monster other than the monster that destroyed Graydle Alligator or similar in battle can be targeted to activate the effect that equips Graydle Alligator or similar.",
+            "id": 16315,
+            "question": "If Graydle Alligator, Graydle Cobra or Graydle Eagle are destroyed in battle with an opponent's monster, can a different monster be targeted for the effect that equips them?",
+            "thisSrc": {
+                "date": "2015-09-24",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Graydle Alligator, Graydle Cobra or Graydle Eagle are destroyed in battle with an opponent's monster, can a different monster be targeted for the effect that equips them?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11977>>\u300d\u7b49\u304c\u6226\u95d8\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u6226\u95d8\u3092\u884c\u3063\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u3063\u3066\u3082\u3001\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3067\u3042\u308c\u3070\u3001\u88c5\u5099\u3059\u308b\u5bfe\u8c61\u3068\u3057\u3066\u9078\u629e\u3057\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u305d\u306e\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u88c5\u5099\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+            "id": 16315,
+            "question": "\u300c<<11977>>\u300d\u3001\u300c<<11978>>\u300d\u3001\u300c<<11979>>\u300d\u304c\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u306e\u6226\u95d8\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u6226\u95d8\u3092\u884c\u3063\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u306e\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u300e\u3053\u306e\u30ab\u30fc\u30c9\u3092\u88c5\u5099\u30ab\u30fc\u30c9\u6271\u3044\u3068\u3057\u3066\u305d\u306e\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u88c5\u5099\u3059\u308b\u300f\u52b9\u679c\u3067\u3001\u88c5\u5099\u3059\u308b\u5bfe\u8c61\u3068\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11977>>\u300d\u7b49\u304c\u6226\u95d8\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u6226\u95d8\u3092\u884c\u3063\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u5916\u306e\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u88c5\u5099\u3059\u308b\u5bfe\u8c61\u306b\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

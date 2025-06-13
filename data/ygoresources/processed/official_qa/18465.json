@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12360
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, a Pendulum Monster that is destroyed by battle with Divine Dragon Lord Felgrand is not sent to the Graveyard, but rather it is placed face-up in the Extra Deck. Even so, as long as there is a Level 7 or 8 Dragon-Type monster in either player's Graveyard at the end of the Damage Step that can be targeted, the effect of Divine Dragon Lord Felgrand can be activated.",
+            "id": 18465,
+            "question": "If Divine Dragon Lord Felgrand destroys a Pendulum Monster by battle, can its effect that Special Summons a Dragon-Type monster from the Graveyard be activated?",
+            "thisSrc": {
+                "date": "2016-02-17",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Divine Dragon Lord Felgrand destroys a Pendulum Monster by battle, can its effect that Special Summons a Dragon-Type monster from the Graveyard be activated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<12360>>\u300d\u3068\u306e\u6226\u95d8\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u305f\u76f8\u624b\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u5893\u5730\u3078\u306f\u9001\u3089\u308c\u305a\u3001\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u8868\u5074\u8868\u793a\u3067\u52a0\u308f\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002\n\n\u3053\u306e\u5834\u5408\u3067\u3082\u3001\u305d\u306e\u30c0\u30e1\u30fc\u30b8\u30b9\u30c6\u30c3\u30d7\u7d42\u4e86\u6642\u306b\u81ea\u5206\u306e\u5893\u5730\u307e\u305f\u306f\u76f8\u624b\u306e\u5893\u5730\u306b\u5bfe\u8c61\u3068\u306a\u308b\u30ec\u30d9\u30eb7\u304b\u30ec\u30d9\u30eb8\u306e\u30c9\u30e9\u30b4\u30f3\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u3066\u3044\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u300e\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 18465,
+            "question": "\u300c<<12360>>\u300d\u304c\u6226\u95d8\u306b\u3088\u3063\u3066\u76f8\u624b\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u300c<<12360>>\u300d\u306e\u300e\u2461\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u3067\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u300c<<12360>>\u300d\u4ee5\u5916\u306e\u81ea\u5206\u307e\u305f\u306f\u76f8\u624b\u306e\u5893\u5730\u306e\u30ec\u30d9\u30eb\uff17\u30fb\uff18\u306e\u30c9\u30e9\u30b4\u30f3\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12360>>\u300d\u304c\u3001\u6226\u95d8\u3067\u76f8\u624b\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Pendulum"
+    ]
+}

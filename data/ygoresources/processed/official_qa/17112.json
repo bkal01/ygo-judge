@@ -1,0 +1,40 @@
+{
+    "cards": [
+        5914,
+        11637,
+        11639,
+        11777
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When resolving U.A. Turnover Tactics, even if you only have 1 \"U.A.\" monster on your side of the field, the effect is applied normally. (All monsters on the field are returned to the Decks, and then monsters are Special Summoned.)",
+            "id": 17112,
+            "question": "I activate U.A. Turnover Tactics while I have U.A. Playmaker and U.A. Rival Rebounder on my side of the field. If my opponent chains Compulsory Evacuation Device, and returns U.A. Playmaker to my hand, how does U.A. Turnover Tactics resolve?",
+            "thisSrc": {
+                "date": "2015-10-06",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I activate U.A. Turnover Tactics while I have U.A. Playmaker and U.A. Rival Rebounder on my side of the field. If my opponent chains Compulsory Evacuation Device, and returns U.A. Playmaker to my hand, how does U.A. Turnover Tactics resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11639>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300cU.A.\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c1\u7a2e\u985e\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3067\u3082\u3001\u52b9\u679c\u51e6\u7406\u306f\u901a\u5e38\u901a\u308a\u9069\u7528\u3055\u308c\u307e\u3059\u3002\n\uff08\u304a\u4e92\u3044\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5168\u3066\u6301\u3061\u4e3b\u306e\u30c7\u30c3\u30ad\u306b\u623b\u3057\u3001\u305d\u306e\u5f8c\u306e\u7279\u6b8a\u53ec\u559a\u306e\u51e6\u7406\u3082\u901a\u5e38\u901a\u308a\u884c\u3044\u307e\u3059\u3002\uff09",
+            "id": 17112,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<11637>>\u300d\u3068\u300c<<11777>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u304c\u300c<<11639>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u76f8\u624b\u304c\u300c<<5914>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300c<<11637>>\u300d\u3092\u624b\u672d\u306b\u623b\u3057\u305f\u5834\u5408\u3001\u300c<<11639>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11639>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u6642\u306b\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300cU.A.\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c1\u7a2e\u985e\u306b\u306a\u3063\u3066\u3044\u308b\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

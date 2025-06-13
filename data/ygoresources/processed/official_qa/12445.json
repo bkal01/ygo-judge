@@ -1,0 +1,40 @@
+{
+    "cards": [
+        6390,
+        6588,
+        6619
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of Proto-Cyber Dragon that treats its name as Cyber Dragon is a Continuous Effect that is only applied on the field.\n\nIf Proto-Cyber Dragon is banished by the effect of Karma Cut, it is not treated as Cyber Dragon.\n\nTherefore, in the proposed scenario, the Cyber Dragon in the opponent's Graveyard is not banished by the effect of Karma Cut. The Proto-Cyber Dragon in the opponent's Graveyard is banished.",
+            "id": 12445,
+            "question": "The opponent has a Proto-Cyber Dragon and Cyber Dragon in their Graveyard.\n\nIf Karma Cut is activated targeting a Proto-Cyber Dragon the opponent controls in their Monster Zone, which mosnters in the Graveyard are banished?",
+            "thisSrc": {
+                "date": "2015-02-13",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "The opponent has a Proto-Cyber Dragon and Cyber Dragon in their Graveyard.  If Karma Cut is activated targeting a Proto-Cyber Dragon the opponent controls in their Monster Zone, which mosnters in the Graveyard are banished?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<6588>>\u300d\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u30ab\u30fc\u30c9\u540d\u3092\u300c<<6390>>\u300d\u3068\u3057\u3066\u6271\u3046\u300f\u52b9\u679c\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u3067\u306e\u307f\u9069\u7528\u3055\u308c\u308b\u6c38\u7d9a\u52b9\u679c\u3067\u3059\u3002\n\n\u300c<<6619>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<6588>>\u300d\u304c\u9664\u5916\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<6390>>\u300d\u3068\u3057\u3066\u306f\u6271\u3044\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u76f8\u624b\u306e\u5893\u5730\u306e\u300c<<6390>>\u300d\u304c\u300c<<6619>>\u300d\u306e\u52b9\u679c\u3067\u9664\u5916\u3055\u308c\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002\u76f8\u624b\u306e\u5893\u5730\u306e\u300c<<6588>>\u300d\u304c\u9664\u5916\u3055\u308c\u307e\u3059\u3002",
+            "id": 12445,
+            "question": "\u76f8\u624b\u306e\u5893\u5730\u306b\u300c<<6588>>\u300d\u3068\u300c<<6390>>\u300d\u304c\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u300c<<6588>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u300c<<6619>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u5893\u5730\u306e\u3069\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u9664\u5916\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<6619>>\u300d\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<6588>>\u300d\u3092\u9078\u629e\u3057\u305f\u5834\u5408\u3001\u5893\u5730\u306e\u3069\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u9664\u5916\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster",
+        "k:Trap"
+    ]
+}

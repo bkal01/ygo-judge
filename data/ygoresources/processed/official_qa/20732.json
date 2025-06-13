@@ -1,0 +1,37 @@
+{
+    "cards": [
+        10541
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In both of these scenarios, when you Special Summon from your Extra Deck while the other Extra Monster Zone is empty, you can place the newly Special Summoned monster in either Extra Monster Zone.",
+            "id": 20732,
+            "question": "When I Special Summon an Xyz Monster with the effect of Rank-Up-Magic Barian's Force by using an existing Xyz Monster in my Extra Monster Zone, if the other Extra Monster Zone is vacant, can I place the newly Summoned monster in the other Extra Monster Zone? Also, if I use monsters in the Extra Monster Zone as Materials for a Fusion, Synchro, or Link Summon and send them to the Graveyard, can I place the newly Summoned monster in the other Extra Monster Zone?",
+            "thisSrc": {
+                "date": "2017-03-25",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When I Special Summon an Xyz Monster with the effect of Rank-Up-Magic Barian's Force by using an existing Xyz Monster in my Extra Monster Zone, if the other Extra Monster Zone is vacant, can I place the newly Summoned monster in the other Extra Monster Zone? Also, if I use monsters in the Extra Monster Zone as Materials for a Fusion, Synchro, or Link Summon and send them to the Graveyard, can I place the newly Summoned monster in the other Extra Monster Zone?",
+            "tlSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "translationStatus": "outdated"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u3069\u3061\u3089\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3067\u3082\u3001\u65b0\u305f\u306a\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3055\u308c\u308b\u5834\u5408\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u3082\u3046\u7247\u65b9\u306e\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u304c\u7a7a\u3044\u3066\u3044\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u3082\u3046\u7247\u65b9\u306e\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u7f6e\u3044\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u4e8b\u3082\u3067\u304d\u307e\u3059\u3002",
+            "id": 20732,
+            "question": "\u300c<<10541>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u4e0a\u306b\u91cd\u306d\u3066\u3001\u65b0\u305f\u306a\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u6271\u3044\u3068\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u5834\u5408\u3001\u3082\u3046\u7247\u65b9\u306e\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u304c\u7a7a\u3044\u3066\u3044\u308b\u5834\u5408\u3001\u30a8\u30af\u30b7\u30fc\u30ba\u53ec\u559a\u3055\u308c\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7f6e\u304f\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u3092\u9078\u3073\u76f4\u3059\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u878d\u5408\u53ec\u559a\u3084\u30b7\u30f3\u30af\u30ed\u53ec\u559a\u3001\u30ea\u30f3\u30af\u53ec\u559a\u306b\u3088\u3063\u3066\u3001\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7d20\u6750\u3068\u3057\u3066\u4f7f\u7528\u3057\u3001\u5893\u5730\u3078\u9001\u3063\u305f\u5834\u5408\u3001\u878d\u5408\u30fb\u30b7\u30f3\u30af\u30ed\u30fb\u30ea\u30f3\u30af\u53ec\u559a\u3055\u308c\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7f6e\u304f\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u3092\u9078\u3073\u76f4\u3059\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "title": "\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7d20\u6750\u3068\u3057\u3066\u3001\u65b0\u305f\u306a\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u7279\u6b8a\u53ec\u559a\u3059\u308b\u5834\u5408\u3001\u5de6\u53f3\u306e\u30a8\u30af\u30b9\u30c8\u30e9\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u3092\u9078\u3073\u76f4\u305b\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Basic Rules"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "cards": [
+        4989,
+        6705,
+        11040,
+        11043,
+        11046
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the proposed scenario, since \"Artifact\" Monsters are Special Summoned by the effects of Call of the Haunted and Celestial Transformation, the effect of Artifact Caduceus activates because of each of these effects.\n\nSince the effect of Artifact Caduceus activates twice, the end result is that you draw 2 cards.",
+            "id": 13083,
+            "question": "You control a face-up Artifact Caduceus.\n\nDuring the opponent's turn, you activated Call of the Haunted targeting a Artifact Moralltach in your Graveyard, then activated Celestial Transformation in a chain to Special Summon Artifact Aegis from the hand.\n\nIn this case, how does the effect of Artifact Caduceus resolve?",
+            "thisSrc": {
+                "date": "2014-02-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "You control a face-up Artifact Caduceus. During the opponent's turn, you activated Call of the Haunted targeting a Artifact Moralltach in your Graveyard, then activated Celestial Transformation in a chain to Special Summon Artifact Aegis from the hand. In this case, how does the effect of Artifact Caduceus resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<4989>>\u300d\u3068\u300c<<6705>>\u300d\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c\u30a2\u30fc\u30c6\u30a3\u30d5\u30a1\u30af\u30c8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u4e00\u9023\u306e\u30c1\u30a7\u30fc\u30f3\u306e\u51e6\u7406\u5f8c\u306b\u3001\u305d\u308c\u305e\u308c\u306e\u52b9\u679c\u306b\u3064\u304d\u3001\u300c<<11046>>\u300d\u306e\u300e\u76f8\u624b\u30bf\u30fc\u30f3\u4e2d\u306b\u300c\u30a2\u30fc\u30c6\u30a3\u30d5\u30a1\u30af\u30c8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u6642\u3001\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u30921\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u52b9\u679c\u304c\u767a\u52d5\u3057\u307e\u3059\u3002\n\n\u300c<<11046>>\u300d\u306e\u52b9\u679c\u304c2\u56de\u767a\u52d5\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u7d50\u679c\u7684\u306b\u81ea\u5206\u306f\u30ab\u30fc\u30c9\u30922\u679a\u30c9\u30ed\u30fc\u3059\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 13083,
+            "question": "\u300c<<11046>>\u300d\u304c\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u76f8\u624b\u30bf\u30fc\u30f3\u4e2d\u306b\u3001\u5893\u5730\u306e\u300c<<11040>>\u300d\u3092\u5bfe\u8c61\u306b\u300c<<4989>>\u300d\u3092\u767a\u52d5\u3057\u3001\u3055\u3089\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<6705>>\u300d\u3092\u767a\u52d5\u3001\u624b\u672d\u304b\u3089\u300c<<11043>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3057\u307e\u3057\u305f\u3002\n\n\u3053\u306e\u5834\u5408\u3001\u300c<<11046>>\u300d\u306e\u300e\u76f8\u624b\u30bf\u30fc\u30f3\u4e2d\u306b\u300c\u30a2\u30fc\u30c6\u30a3\u30d5\u30a1\u30af\u30c8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u6642\u3001\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\uff11\u679a\u30c9\u30ed\u30fc\u3059\u308b\u300f\u52b9\u679c\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u540c\u4e00\u30c1\u30a7\u30fc\u30f3\u4e0a\u3067\u8907\u6570\u306e\u300c\u30a2\u30fc\u30c6\u30a3\u30d5\u30a1\u30af\u30c8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u5834\u5408\u3001\u300c<<11046>>\u300d\u306e\u52b9\u679c\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

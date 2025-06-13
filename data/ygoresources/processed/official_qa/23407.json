@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5533,
+        16524
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even if the effect of Necrovalley is applying, that effect of Destiny HERO - Destroyer Phoenix Enforcer can be activated, and it is not negated.\n\nHowever, if the effect of Necrovalley is applying when resolving that effect of Destiny HERO - Destroyer Phoenix Enforcer in the Standby Phase, the effect to Special Summon 1 \"Destiny HERO\" monster from your Graveyard will not be applied.",
+            "id": 23407,
+            "question": "While the effect of Necrovalley is applying, can I activate the effect of Destiny HERO - Destroyer Phoenix Enforcer when it is destroyed by battle or card effect?\n\nAlso, if Necrovalley is applying during the next Standby Phase after that effect of Destiny HERO - Destroyer Phoenix Enforcer has resolved, what happens?",
+            "thisSrc": {
+                "date": "2021-10-30",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "Can the effect of a destroyed Destiny HERO - Destroyer Phoenix Enforcer be activated while the effect of Necrovalley is applying?",
+            "tlSrc": {
+                "date": "2021-10-29",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<5533>>\u300d\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u3066\u3082\u3001\u300c<<16524>>\u300d\u306e\u300e\u2462\u300f\u306e\u52b9\u679c\u306f\u767a\u52d5\u3067\u304d\u3001\u305d\u306e\u767a\u52d5\u3057\u305f\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u307e\u305b\u3093\u3002\n\n\u305f\u3060\u3057\u3001\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u306b\u300c<<16524>>\u300d\u306e\u300e\u2462\u300f\u306e\u52b9\u679c\u306e\u51e6\u7406\u3092\u884c\u3046\u969b\u306b\u300c<<5533>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u305d\u306e\u300e\u81ea\u5206\u306e\u5893\u5730\u304b\u3089\u300cD-HERO\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u3093\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002",
+            "id": 23407,
+            "question": "\u300c<<5533>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u72b6\u6cc1\u3067\u3001\u300c<<16524>>\u300d\u306e\u300e\u2462\u300f\u306e\u300e\u3053\u306e\u30ab\u30fc\u30c9\u304c\u6226\u95d8\u30fb\u52b9\u679c\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u6b21\u306e\u30bf\u30fc\u30f3\u306e\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u306b\u3001\u81ea\u5206\u306e\u5893\u5730\u304b\u3089\u300cD-HERO\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u3093\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<16524>>\u300d\u306e\u300e\u2462\u300f\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5f8c\u3001\u6b21\u306e\u30b9\u30bf\u30f3\u30d0\u30a4\u30d5\u30a7\u30a4\u30ba\u306b\u300c<<5533>>\u300d\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u300e\u81ea\u5206\u306e\u5893\u5730\u304b\u3089\u300cD-HERO\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u3093\u3067\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2021-10-29",
+                "type": 0
+            },
+            "title": "\u300c<<5533>>\u300d\u306e\u52b9\u679c\u306e\u9069\u7528\u4e2d\u306b\u3001\u7834\u58ca\u3055\u308c\u305f\u300c<<16524>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5533,
+        8885,
+        15835
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If Necrovalley's effect is applying, Terror of Trishula can be activated in the following scenarios:\n\u25cf You control one or two face-up \"Ice Barrier\" Synchro Monsters with different names, and there is a card on your opponent's field.\n\u25cf You control three or more face-up \"Ice Barrier\" Synchro Monsters with different names, and there is a card on your opponent's field, in their hand, or both.\n\nIf Necrovalley's effect is still applying by the time Terror of Trishula resolves, proceed as follows:\n\u25cf If you only control one \"Ice Barrier\" Synchro Monster,\u300ebanish 1 card your opponent controls\u300fwill be applied.\n\u25cf If you control two \"Ice Barrier\" Synchro Monsters with different names, and there are additionally no cards in your opponent's Graveyard,\u300ebanish 1 card your opponent controls\u300fwill be applied.\n\u25cf If you control three or more \"Ice Barrier\" Synchro Monsters with different names, and there are additionally no cards in your opponent's Graveyard, both\u300ebanish 1 card your opponent controls\u300fand\u300ebanish 1 random card from your opponent's hand\u300fwill be applied.\n\u25cf If you control two or more \"Ice Barrier\" Synchro Monsters with different names, and there is at least one card in your opponent's Graveyard, Terror of Trishula's effect is an effect that\u300eapplies to cards in the Graveyard,\u300fand will thus be negated by Necrovalley's effect.",
+            "id": 24043,
+            "question": "Can Terror of Trishula be activated while Necrovalley's effect is applying?",
+            "thisSrc": {
+                "date": "2024-01-25",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can Terror of Trishula be activated while Necrovalley's effect is applying?",
+            "tlSrc": {
+                "date": "2024-01-25",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u4ee5\u4e0b\u306e\u72b6\u6cc1\u3067\u3042\u308c\u3070\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\n\u30fb\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<8885>>\u300d\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u7a2e\u985e\u304c\uff11\u7a2e\u985e\u307e\u305f\u306f\uff12\u7a2e\u985e\u3067\u3042\u308a\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u30ab\u30fc\u30c9\u304c\uff11\u679a\u4ee5\u4e0a\u5b58\u5728\u3059\u308b\u5834\u5408\n\u30fb\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<8885>>\u300d\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u7a2e\u985e\u304c\uff13\u7a2e\u985e\u4ee5\u4e0a\u3067\u3042\u308a\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u307e\u305f\u306f\u76f8\u624b\u306e\u624b\u672d\u306b\u30ab\u30fc\u30c9\u304c\uff11\u679a\u4ee5\u4e0a\u5b58\u5728\u3059\u308b\u5834\u5408\n\n\u51e6\u7406\u6642\u306b\u3001\u300c<<8885>>\u300d\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u7a2e\u985e\u304c\uff11\u7a2e\u985e\u306e\u5834\u5408\u3001\u300e\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9664\u5916\u300f\u3059\u308b\u51e6\u7406\u3092\u884c\u3044\u307e\u3059\u3002\n\n\u51e6\u7406\u6642\u306b\u3001\u300c<<8885>>\u300d\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u7a2e\u985e\u304c\uff12\u7a2e\u985e\u3067\u3042\u308a\u3001\u304b\u3064\u76f8\u624b\u306e\u5893\u5730\u306b\u30ab\u30fc\u30c9\u304c\uff11\u679a\u3082\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u300e\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9664\u5916\u300f\u3059\u308b\u51e6\u7406\u3092\u884c\u3044\u307e\u3059\u3002\n\n\u51e6\u7406\u6642\u306b\u3001\u300c<<8885>>\u300d\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u7a2e\u985e\u304c\uff13\u7a2e\u985e\u4ee5\u4e0a\u3067\u3042\u308a\u3001\u304b\u3064\u76f8\u624b\u306e\u5893\u5730\u306b\u30ab\u30fc\u30c9\u304c\uff11\u679a\u3082\u5b58\u5728\u3057\u306a\u3044\u5834\u5408\u3001\u300e\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u30ab\u30fc\u30c9\uff11\u679a\u3092\u9664\u5916\u300f\u3059\u308b\u51e6\u7406\u3068\u3001\u300e\u76f8\u624b\u306e\u624b\u672d\u3092\u30e9\u30f3\u30c0\u30e0\u306b\uff11\u679a\u9664\u5916\u3059\u308b\u300f\u51e6\u7406\u3092\u884c\u3044\u307e\u3059\u3002\n\n\u51e6\u7406\u6642\u306b\u3001\u300c<<8885>>\u300d\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u7a2e\u985e\u304c\uff12\u7a2e\u985e\u4ee5\u4e0a\u3067\u3042\u308a\u3001\u304b\u3064\u76f8\u624b\u306e\u5893\u5730\u306b\u30ab\u30fc\u30c9\u304c\uff11\u679a\u4ee5\u4e0a\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u300c<<15835>>\u300d\u306e\u52b9\u679c\u306f\u300e\u5893\u5730\u306e\u30ab\u30fc\u30c9\u3078\u53ca\u3076\u52b9\u679c\u300f\u3068\u306a\u308a\u3001\u7121\u52b9\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u51e6\u7406\u306f\u4f55\u3082\u884c\u308f\u308c\u307e\u305b\u3093\u3002",
+            "id": 24043,
+            "question": "\u300c<<5533>>\u300d\u306e\u2461\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306f\u300c<<15835>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-01-25",
+                "type": 0
+            },
+            "title": "\u300c<<5533>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u300c<<15835>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

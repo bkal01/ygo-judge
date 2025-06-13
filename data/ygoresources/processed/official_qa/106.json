@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5197,
+        5350,
+        5914
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The effect of Fire Princess is a Continuous Effect. In this scenario, when the effect of Emergency Provisions resolves at Chain Link 2, the effect of Fire Princess will apply to inflict 500 damage to your opponent. Then, then effect of Compulsory Evacuation Device at Chain Link 1 will be applied normally.",
+            "id": 106,
+            "question": "If Compulsory Evacuation Device is activated targeting my face-up Fire Princess, and I chain Emergency Provisions by sending any number of Spell/Trap Cards I control to the Graveyard, will the effect of Fire Princess be applied to inflict damage to my opponent?",
+            "thisSrc": {
+                "date": "2020-10-31",
+                "misc": "platedpope",
+                "type": 4
+            },
+            "title": "Will the effect of Fire Princess be applied if an effect at Chain Link 2 restores LP?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<5197>>\u300d\u306e\u52b9\u679c\u306f\u6c38\u7d9a\u52b9\u679c\u3068\u306a\u308a\u307e\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u30c1\u30a7\u30fc\u30f3\uff12\u306b\u3066\u767a\u52d5\u3057\u305f\u300c<<5350>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u304c\u5b8c\u4e86\u3057\u305f\u6642\u70b9\u3067\u3001\u300c<<5197>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u300e\u76f8\u624b\u30e9\u30a4\u30d5\u306b\uff15\uff10\uff10\u30dd\u30a4\u30f3\u30c8\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u300f\u51e6\u7406\u3092\u884c\u3044\u3001\u6b21\u306b\u3001\u30c1\u30a7\u30fc\u30f3\uff11\u306e\u300c<<5914>>\u300d\u306e\u52b9\u679c\u51e6\u7406\u304c\u884c\u308f\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 106,
+            "question": "\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u300c<<5197>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u305d\u306e\u300c<<5197>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3057\u305f\u300c<<5914>>\u300d\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5350>>\u300d\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c<<5197>>\u300d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u30c1\u30a7\u30fc\u30f3\uff12\u4ee5\u964d\u306b\u767a\u52d5\u3057\u305f\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u30e9\u30a4\u30d5\u304c\u56de\u5fa9\u3057\u305f\u5834\u5408\u3001\u300c<<5197>>\u300d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

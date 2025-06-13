@@ -1,0 +1,38 @@
+{
+    "cards": [
+        13514,
+        13720
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, if you use 2 copies of Gouki Tagpartner as materials for a \"Gouki\" Link Monster, the effect of each copy can be activated on the same Chain once the Link Summon is successful. (In this case, Gouki Jet Ogre gains 2000 ATK until the end of the turn.)",
+            "id": 21829,
+            "question": "I Link Summon a Gouki Jet Ogre using 2 copies of Gouki Tagpartner on my field as materials. In that case, can I activate the effect of each copy that increases the Link Summoned monster's ATK by 1000 until the end of this turn?",
+            "thisSrc": {
+                "date": "2018-04-20",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "I Link Summon a Gouki Jet Ogre using 2 copies of Gouki Tagpartner on my field as materials. In that case, can I activate the effect of each copy that increases the Link Summoned monster's ATK by 1000 until the end of this turn?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u3088\u3046\u306b\u30012\u4f53\u306e\u300c<<13720>>\u300d\u3092\u30ea\u30f3\u30af\u7d20\u6750\u3068\u3057\u3066\u5893\u5730\u3078\u9001\u308a\u3001\u300c\u525b\u9b3c\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u30ea\u30f3\u30af\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u300c<<13720>>\u300d\u306e\u300e\u305d\u306e\u300c\u525b\u9b3c\u300d\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u3001\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\uff11\uff10\uff10\uff10\u30a2\u30c3\u30d7\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u305d\u308c\u305e\u308c\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002\n\n\uff08\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<13514>>\u300d\u306e\u653b\u6483\u529b\u306f\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u30672000\u30a2\u30c3\u30d7\u3057\u305f\u72b6\u614b\u3068\u306a\u308a\u307e\u3059\u3002\uff09",
+            "id": 21829,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b2\u4f53\u306e\u300c<<13720>>\u300d\u3092\u30ea\u30f3\u30af\u7d20\u6750\u3068\u3057\u3066\u5893\u5730\u3078\u9001\u308a\u3001\u300c<<13514>>\u300d\u3092\u30ea\u30f3\u30af\u53ec\u559a\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u5834\u5408\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u305f2\u4f53\u306e\u300c<<13720>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u300c\u525b\u9b3c\u300d\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u30ea\u30f3\u30af\u7d20\u6750\u3068\u3057\u3066\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u300c\u525b\u9b3c\u300d\u30ea\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\u3001\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\uff11\uff10\uff10\uff10\u30a2\u30c3\u30d7\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u305d\u308c\u305e\u308c\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "2\u4f53\u306e\u300c<<13720>>\u300d\u3092\u30ea\u30f3\u30af\u7d20\u6750\u3068\u3057\u3066\u3001\u300c<<13514>>\u300d\u3092\u30ea\u30f3\u30af\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u305d\u308c\u305e\u308c\u306e\u300c<<13720>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

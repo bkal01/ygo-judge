@@ -1,0 +1,19 @@
+{
+    "cards": [],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this situation, since a \"Nekroz\" monster is being targeted by a card effect, the effect of <<11485>> be activated from the hand.",
+            "id": 13962,
+            "question": "If the effect of <<10437>> in the Graveyard is activated by targeting 1 face-up \"Nekroz\" monster, can the effect of <<11485>> be activated from the hand?",
+            "thisSrc": {
+                "date": "2014-10-15",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the effect of <<10437>> in the Graveyard is activated by targeting 1 face-up \"Nekroz\" monster, can the effect of <<11485>> be activated from the hand?",
+            "translationStatus": "zombie"
+        }
+    },
+    "tags": []
+}

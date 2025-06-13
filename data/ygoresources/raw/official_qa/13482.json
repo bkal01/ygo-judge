@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5740,
+        9874
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in that case, the Special Summoned monster is destroyed during the End Phase.",
+            "id": 13482,
+            "question": "After a monster was Special Summoned by the effect of <<9874>>, if <<5740>> is applied, negating the effects of <<9874>>, is the Special Summoned monster destroyed during the End Phase?",
+            "thisSrc": {
+                "date": "2014-08-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "After a monster was Special Summoned by the effect of <<9874>>, if <<5740>> is applied, negating the effects of <<9874>>, is the Special Summoned monster destroyed during the End Phase?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<9874>>\u300d\u306e\u52b9\u679c\u304c\u7121\u52b9\u306b\u306a\u3063\u305f\u5834\u5408\u3067\u3082\u3001\u305d\u306e\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u7834\u58ca\u3055\u308c\u307e\u3059\u3002",
+            "id": 13482,
+            "question": "\u300c<<9874>>\u300d\u306e\u52b9\u679c\u3067\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5f8c\u3001\u300c<<5740>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3001\u300c<<9874>>\u300d\u306e\u52b9\u679c\u304c\u7121\u52b9\u5316\u3055\u308c\u305f\u5834\u5408\u3001\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9874>>\u300d\u306e\u52b9\u679c\u3067\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3057\u305f\u5f8c\u3001\u300c<<5740>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u30a8\u30f3\u30c9\u30d5\u30a7\u30a4\u30ba\u306b\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "cards": [
+        5234,
+        7510,
+        11432
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If either of these monsters is destroyed by battle, you can activate the effect of Viper's Grudge. (That effect can be activated if a monster in the Monster Zone that is Reptile-type is destroyed by battle.)\n\nIf either of these monsters is sent to the Graveyard for any reason other than being destroyed by battle, the effect of Viper's Grudge cannot be activated. (In order to meet the\u300esent to the Graveyard\u300factivation condition, the card needs to be a Reptile monster both in the Monster Zone and in the Graveyard. The cards given are treated as Reptile monsters while in the Monster Zone, but upon being sent to the Graveyard, are not treated as monsters and do not have any type.)",
+            "id": 23788,
+            "question": "I control an Embodiment of Apophis that was Special Summoned using its own effect (Reptile-type), or a Quantum Cat that was Special Summoned using its own effect after declaring Reptile. If the respective monster is now sent to the Graveyard, can I activate the effect of Viper's Grudge?",
+            "thisSrc": {
+                "date": "2022-06-26",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "Can the effect of Viper's Grudge be activated if an Embodiment of Apophis Special Summoned by its own effect, or a Quantum Cat Special Summoned as a Reptile by its own effect, is sent to the Graveyard?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<5234>>\u300d\u3084\u300c<<11432>>\u300d\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u306b\u306f\u3001\u300c<<7510>>\u300d\u306e\u2461\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\uff08\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u3067\u722c\u866b\u985e\u65cf\u3067\u3042\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u306e\u3067\u3042\u308c\u3070\u3001\u300e\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u300f\u3092\u304d\u3063\u304b\u3051\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\uff09\n\u300c<<5234>>\u300d\u3084\u300c<<11432>>\u300d\u304c\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u308b\u4ee5\u5916\u306e\u65b9\u6cd5\u3067\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u306b\u306f\u3001\u300c<<7510>>\u300d\u306e\u2461\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002\uff08\u300e\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u300f\u3092\u304d\u3063\u304b\u3051\u3068\u3057\u3066\u767a\u52d5\u3059\u308b\u305f\u3081\u306b\u306f\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u3067\u3082\u5893\u5730\u3067\u3082\u722c\u866b\u985e\u65cf\u3067\u3042\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002\u4e0a\u8a18\u306e\u300c<<5234>>\u300d\u300c<<11432>>\u300d\u306f\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u3067\u306f\u722c\u866b\u985e\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u3066\u3044\u307e\u3059\u304c\u3001\u5893\u5730\u3067\u306f\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u6271\u308f\u308c\u305a\u3001\u7a2e\u65cf\u3082\u6301\u3061\u307e\u305b\u3093\u3002\uff09",
+            "id": 23788,
+            "question": "\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u308a\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<5234>>\u300d\uff08\u722c\u866b\u985e\u65cf\uff09\u3084\u3001\u722c\u866b\u985e\u65cf\u3092\u5ba3\u8a00\u3057\u3066\u767a\u52d5\u3057\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<11432>>\u300d\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u3001\u300c<<7510>>\u300d\u306e\u300e\u2461\uff1a\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u306e\u722c\u866b\u985e\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u307e\u305f\u306f\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u30c7\u30c3\u30ad\u304b\u3089\u30ec\u30d9\u30eb\uff14\u4ee5\u4e0b\u306e\u722c\u866b\u985e\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u300f\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u81ea\u8eab\u306e\u52b9\u679c\u306b\u3088\u308a\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<5234>>\u300d\u3084\u722c\u866b\u985e\u65cf\u3068\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<11432>>\u300d\u304c\u5893\u5730\u3078\u9001\u3089\u308c\u305f\u5834\u5408\u306b\u300c<<7510>>\u300d\u306e\u52b9\u679c\u306f\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Trap"
+    ]
+}

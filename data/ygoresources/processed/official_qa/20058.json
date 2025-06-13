@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5880,
+        12767
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When a face-up Dark Magician of Chaos leaves the field, it is banished by its own effect instead, so it cannot be banished face-down. Therefore, when you Special Summon Eater of Millions by its own procedure, you cannot banish a face-up Dark Magician of Chaos.",
+            "id": 20058,
+            "question": "When Special Summoning an Eater of Millions by its own procedure, can I banish a face-up Dark Magician of Chaos on my field?",
+            "thisSrc": {
+                "date": "2016-10-13",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When Special Summoning an Eater of Millions by its own procedure, can I banish a face-up Dark Magician of Chaos on my field?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<5880>>\u300d\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u3092\u96e2\u308c\u308b\u969b\u306b\u3001\u81ea\u8eab\u306e\u300e\u2462\uff1a\u8868\u5074\u8868\u793a\u306e\u3053\u306e\u30ab\u30fc\u30c9\u306f\u30d5\u30a3\u30fc\u30eb\u30c9\u304b\u3089\u96e2\u308c\u305f\u5834\u5408\u306b\u9664\u5916\u3055\u308c\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u88cf\u5074\u8868\u793a\u3067\u9664\u5916\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<12767>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u969b\u306b\u3001\u88cf\u5074\u8868\u793a\u3067\u9664\u5916\u3059\u308b\u30ab\u30fc\u30c9\u3068\u3057\u3066\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<5880>>\u300d\u3092\u542b\u3081\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 20058,
+            "question": "\u300c<<12767>>\u300d\u3092\u3001\u30c6\u30ad\u30b9\u30c8\u306b\u8a18\u3055\u308c\u305f\u300e\u81ea\u5206\u306e\u624b\u672d\u30fb\u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\uff15\u679a\u4ee5\u4e0a\u3092\u88cf\u5074\u8868\u793a\u3067\u9664\u5916\u3057\u305f\u5834\u5408\u306e\u307f\u7279\u6b8a\u53ec\u559a\u3067\u304d\u308b\u300f\u65b9\u6cd5\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u969b\u306b\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<5880>>\u300d\u3092\u542b\u3081\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<12767>>\u300d\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u969b\u306b\u3001\u88cf\u5074\u8868\u793a\u3067\u9664\u5916\u3059\u308b\u30ab\u30fc\u30c9\u3068\u3057\u3066\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u300c<<5880>>\u300d\u3092\u542b\u3081\u3089\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

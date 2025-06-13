@@ -1,0 +1,19 @@
+{
+    "cards": [],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Even in this scenario, the effect of <<11083>> can be activated, and it resolves normally making another card on the field the target of the effect. (The effect of <<11083>> is not treated as affecting <<12086>>.)",
+            "id": 8201,
+            "question": "When the effect of <<12086>> that destroys a card on the field is activated, can the effect of <<11083>> be chained?",
+            "thisSrc": {
+                "date": "2016-11-25",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When the effect of <<12086>> that destroys a card on the field is activated, can the effect of <<11083>> be chained?",
+            "translationStatus": "zombie"
+        }
+    },
+    "tags": []
+}

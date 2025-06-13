@@ -1,0 +1,38 @@
+{
+    "cards": [
+        6980,
+        10441
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Yes, it can.",
+            "id": 12965,
+            "question": "If <<6980>> is activated in a chain to the effect of <<10441>> that adds 1 \"Evilswarm\" monster from the Graveyard, to the hand, so that the \"Evilswarm\" monster cannot be added to the hand, can the effect to Normal Summon 1 \"Evilswarm\" monster be activated that turn?",
+            "thisSrc": {
+                "date": "2014-01-27",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If <<6980>> is activated in a chain to the effect of <<10441>> that adds 1 \"Evilswarm\" monster from the Graveyard, to the hand, so that the \"Evilswarm\" monster cannot be added to the hand, can the effect to Normal Summon 1 \"Evilswarm\" monster be activated that turn?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3067\u3082\u3001\u305d\u306e\u30bf\u30fc\u30f3\u4e2d\u306b\u3001\u300c<<10441>>\u300d\u306e\u300e\u300c\u30f4\u30a7\u30eb\u30ba\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc1\u4f53\u3092\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002",
+            "id": 12965,
+            "question": "\u300c<<10441>>\u300d\u306e\u300e\u81ea\u5206\u306e\u5893\u5730\u306e\u300c\u30f4\u30a7\u30eb\u30ba\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u9078\u629e\u3057\u3066\u624b\u672d\u306b\u52a0\u3048\u308b\u300f\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u3001\u76f8\u624b\u306e\u300c<<6980>>\u300d\u306e\u52b9\u679c\u304c\u767a\u52d5\u3057\u3001\u5bfe\u8c61\u306e\u300c\u30f4\u30a7\u30eb\u30ba\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u4e8b\u304c\u3067\u304d\u306a\u304b\u3063\u305f\u5834\u5408\u3001\u305d\u306e\u30bf\u30fc\u30f3\u4e2d\u306b\u3001\u300e\u300c\u30f4\u30a7\u30eb\u30ba\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc1\u4f53\u3092\u53ec\u559a\u3059\u308b\u300f\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<10441>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u9078\u629e\u3057\u305f\u5893\u5730\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u624b\u672d\u306b\u52a0\u3048\u308b\u4e8b\u304c\u3067\u304d\u306a\u304b\u3063\u305f\u5834\u5408\u3001\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

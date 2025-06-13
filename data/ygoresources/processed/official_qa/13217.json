@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11294
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In that case, only the effect of 1 copy of Star Seraph Sovereignty in the hand can be activated from that single occurence. (The effects of each copy of Star Seraph Sovereignty cannot be activated in the same chain)\n\nHowever, if you Normal or Special Summon a \"Star Seraph\" monster, and activate the effect of the first copy of Star Seraph Sovereignty in the hand and Special Summon it, when that Special Summon is successful, it is possible to activate the effect of the second copy of Star Seraph Sovereignty in the hand and Special Summon it.",
+            "id": 13217,
+            "question": "If you Normal or Special Summon a \"Star Seraph\" Monster when you have 2 copies of Star Seraph Sovereignty in your hand, can the effects of each copy be activated in the same chain?",
+            "thisSrc": {
+                "date": "2014-05-02",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If you Normal or Special Summon a \"Star Seraph\" Monster when you have 2 copies of Star Seraph Sovereignty in your hand, can the effects of each copy be activated in the same chain?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u81ea\u5206\u304c\u300c\u5149\u5929\u4f7f\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u5834\u5408\u3001\u305d\u306e\uff11\u5ea6\u306b\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u3001\u624b\u672d\u306e\u300c<<11294>>\u300d\u306e\u52b9\u679c\u306f1\u4f53\u3057\u304b\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u3002\uff08\u305d\u308c\u305e\u308c\u306e\u300c<<11294>>\u300d\u3092\u540c\u4e00\u30c1\u30a7\u30fc\u30f3\u4e0a\u306b\u3066\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002\uff09\n\n\u305f\u3060\u3057\u3001\u81ea\u5206\u304c\u300c\u5149\u5929\u4f7f\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u53ec\u559a\u30fb\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u5834\u5408\u306b\u3001\u624b\u672d\u306e1\u4f53\u76ee\u306e\u300c<<11294>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3057\u3001\u305d\u306e\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u969b\u306b\u3001\u6539\u3081\u3066\u624b\u672d\u306e2\u4f53\u76ee\u306e\u300c<<11294>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3057\u3066\u7279\u6b8a\u53ec\u559a\u3059\u308b\u3001\u3068\u3044\u3046\u4e8b\u306f\u53ef\u80fd\u3067\u3059\u3002",
+            "id": 13217,
+            "question": "\u81ea\u5206\u306e\u624b\u672d\u306b2\u4f53\u306e\u300c<<11294>>\u300d\u304c\u3042\u308b\u72b6\u6cc1\u306b\u3066\u3001\u81ea\u5206\u304c\u300c\u5149\u5929\u4f7f\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u53ec\u559a\u3084\u7279\u6b8a\u53ec\u559a\u306b\u6210\u529f\u3057\u305f\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u300c<<11294>>\u300d\u306e\u52b9\u679c\u3092\u540c\u4e00\u30c1\u30a7\u30fc\u30f3\u4e0a\u3067\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u624b\u672d\u306b2\u4f53\u306e\u300c<<11294>>\u300d\u304c\u3042\u308b\u5834\u5408\u3001\u305d\u308c\u305e\u308c\u306e\u300c<<11294>>\u300d\u306e\u52b9\u679c\u3092\u540c\u4e00\u30c1\u30a7\u30fc\u30f3\u4e0a\u3067\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

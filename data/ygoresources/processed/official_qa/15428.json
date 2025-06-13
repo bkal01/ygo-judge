@@ -1,0 +1,50 @@
+{
+    "cards": [
+        10839,
+        11301,
+        11842
+    ],
+    "notes": {
+        "precedent": [
+            {
+                "body": "'Cannot be destroyed once per turn' effects are not consumed if the card cannot be destroyed in the first place",
+                "date": "2020-03-11",
+                "idx": 0,
+                "localeMask": 255,
+                "owner": "gallantron"
+            }
+        ]
+    },
+    "qaData": {
+        "en": {
+            "answer": "In this situation, Performapal Silver Claw is already cannot be destroyed by battle due to the effect of Half Unbreak. Therefore, if Performapal Silver Claw battles a monster with higher ATK, it is not destroyed due to the effect of Half Unbreak, and the effect of Bubble Barrier is not applied.",
+            "id": 15428,
+            "question": "Bubble Barrier is face-up on my side of the field, as well as a Performapal Silver Claw with Half Unbreak applied to it.\n\nIf Performapal Silver Claw battles a monster with higher ATK in this situation, will the first effect of Bubble Barrier be applied?",
+            "thisSrc": {
+                "date": "2015-05-05",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Half Unbreak is applied to a \"Performapal\", is Bubble Barrier also applied when it would be destroyed by battle?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<11301>>\u300d\u306f\u300c<<10839>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u65e2\u306b\u6226\u95d8\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u72b6\u614b\u3068\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u305d\u306e\u72b6\u6cc1\u3067\u3001\u300c<<11301>>\u300d\u304c\u653b\u6483\u529b\u306e\u9ad8\u3044\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3044\u3001\u7834\u58ca\u3055\u308c\u308b\u4e8b\u306b\u306a\u308b\u5834\u5408\u3067\u3082\u3001\u300c<<10839>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u307e\u305b\u3093\u306e\u3067\u3001\u300c<<11842>>\u300d\u306e\u300e\u305d\u308c\u305e\u308c\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3060\u3051\u6226\u95d8\u30fb\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u3092\u9069\u7528\u3057\u305f\u4e8b\u306b\u306f\u306a\u308a\u307e\u305b\u3093\u3002",
+            "id": 15428,
+            "question": "\u300c<<11842>>\u300d\u304c\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<10839>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u300c<<11301>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u300c<<11301>>\u300d\u304c\u653b\u6483\u529b\u306e\u9ad8\u3044\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u6226\u95d8\u3092\u884c\u3044\u3001\u7834\u58ca\u3055\u308c\u308b\u4e8b\u306b\u306a\u308b\u5834\u5408\u3001\u300c<<11842>>\u300d\u306e\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u5168\u3066\u306e\u300cEM\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u53ca\u3073\u300cEm\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3001\u305d\u308c\u305e\u308c\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3060\u3051\u6226\u95d8\u30fb\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u306a\u3044\u300f\u52b9\u679c\u3082\u9069\u7528\u3055\u308c\u305f\u4e8b\u306b\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300cEM\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u300c<<10839>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u6226\u95d8\u3067\u7834\u58ca\u3055\u308c\u308b\u969b\u306b\u300c<<11842>>\u300d\u306e\u52b9\u679c\u3082\u9069\u7528\u3055\u308c\u305f\u4e8b\u306b\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell",
+        "o:Important Precedent"
+    ]
+}

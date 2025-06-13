@@ -1,0 +1,39 @@
+{
+    "cards": [
+        4968,
+        8013,
+        8296
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The monsters banished by the effect of Blackwing - Vayu the Emblem of Honor are not treated as <<9241>> monsters. In this situation, the declared Blackwing - Sirocco the Dawn can be targeted by the effect of Blackwing - Vayu the Emblem of Honor, and the effect will resolve normally.",
+            "id": 13587,
+            "question": "If Blackwing - Sirocco the Dawn has been declared by Prohibition, can a Blackwing - Sirocco the Dawn in the Graveyard be targeted by the effect of Blackwing - Vayu the Emblem of Honor?",
+            "thisSrc": {
+                "date": "2014-09-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If Blackwing - Sirocco the Dawn has been declared by Prohibition, can a Blackwing - Sirocco the Dawn in the Graveyard be targeted by the effect of Blackwing - Vayu the Emblem of Honor?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<8296>>\u300d\u306e\u52b9\u679c\u3067\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u969b\u306b\u9664\u5916\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u30b7\u30f3\u30af\u30ed\u7d20\u6750\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6271\u3044\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u300c<<4968>>\u300d\u3067\u5ba3\u8a00\u3055\u308c\u3066\u3044\u308b\u300c<<8013>>\u300d\u3092\u3001\u300c<<8296>>\u300d\u306e\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u9078\u629e\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u901a\u5e38\u901a\u308a\u3001\u9078\u629e\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u9664\u5916\u3055\u308c\u3001\u305d\u306e\u30ec\u30d9\u30eb\u306e\u5408\u8a08\u3068\u540c\u3058\u30ec\u30d9\u30eb\u3092\u6301\u3064\u300cBF\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u304c\u7279\u6b8a\u53ec\u559a\u3055\u308c\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 13587,
+            "question": "\u300c<<4968>>\u300d\u3067\u300c<<8013>>\u300d\u306e\u30ab\u30fc\u30c9\u540d\u304c\u5ba3\u8a00\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\u305d\u306e\u72b6\u6cc1\u3067\u3001\u300c<<8296>>\u300d\u306e\u52b9\u679c\u3067\u30b7\u30f3\u30af\u30ed\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7279\u6b8a\u53ec\u559a\u3059\u308b\u969b\u306b\u9664\u5916\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u3001\u300c<<4968>>\u300d\u3067\u5ba3\u8a00\u3055\u308c\u3066\u3044\u308b\u300c<<8013>>\u300d\u3092\u5bfe\u8c61\u306b\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<8296>>\u300d\u306e\u52b9\u679c\u3067\u9664\u5916\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u3057\u3066\u3001\u300c<<4968>>\u300d\u3067\u5ba3\u8a00\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Synchro"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "cards": [
+        11313
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "This effect can only be activated after resolving an effect in which the opponent added a card(s) from their Deck to their hand this turn outside of the Draw Phase. It cannot be activated at a later point in time that turn.",
+            "id": 13306,
+            "question": "If the opponent has added a card(s) from their Deck to their hand this turn outside of the Draw Phase, when can the effect of Masked HERO Dark Law be activated to banish 1 of those cards at random?",
+            "thisSrc": {
+                "date": "2014-06-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If the opponent has added a card(s) from their Deck to their hand this turn outside of the Draw Phase, when can the effect of Masked HERO Dark Law be activated to banish 1 of those cards at random?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<11313>>\u300d\u306e\u300e\u2461\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u76f8\u624b\u304c\u30c9\u30ed\u30fc\u30d5\u30a7\u30a4\u30ba\u4ee5\u5916\u3067\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u52a0\u3048\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u76f8\u624b\u306e\u624b\u672d\u3092\u30e9\u30f3\u30c0\u30e0\u306b\uff11\u679a\u9078\u3093\u3067\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u306f\u3001\u76f8\u624b\u304c\u30c9\u30ed\u30fc\u30d5\u30a7\u30a4\u30ba\u4ee5\u5916\u3067\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u52a0\u3048\u305f\u5834\u5408\u3001\u305d\u306e\u624b\u672d\u306b\u52a0\u3048\u308b\u51e6\u7406\u5f8c\u306b\u306e\u307f\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u52b9\u679c\u3067\u3059\u3002\n\n\u76f8\u624b\u304c\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u52a0\u3048\u3066\u3044\u308b\u30bf\u30fc\u30f3\u306b\u3044\u3064\u3067\u3082\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u308b\u3001\u3068\u3044\u3046\u52b9\u679c\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+            "id": 13306,
+            "question": "\u3053\u306e\u30bf\u30fc\u30f3\u306b\u3001\u76f8\u624b\u304c\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u52a0\u3048\u3066\u3044\u307e\u3059\u3002\n\n\u300c<<11313>>\u300d\u306e\u300e\u2461\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u76f8\u624b\u304c\u30c9\u30ed\u30fc\u30d5\u30a7\u30a4\u30ba\u4ee5\u5916\u3067\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u52a0\u3048\u305f\u5834\u5408\u306b\u767a\u52d5\u3067\u304d\u308b\u3002\u76f8\u624b\u306e\u624b\u672d\u3092\u30e9\u30f3\u30c0\u30e0\u306b\uff11\u679a\u9078\u3093\u3067\u9664\u5916\u3059\u308b\u300f\u52b9\u679c\u306f\u3044\u3064\u767a\u52d5\u3059\u308b\u4e8b\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u3053\u306e\u30bf\u30fc\u30f3\u306b\u76f8\u624b\u304c\u30c7\u30c3\u30ad\u304b\u3089\u30ab\u30fc\u30c9\u3092\u624b\u672d\u306b\u52a0\u3048\u3066\u3044\u308b\u5834\u5408\u3001\u300cM\uff65HERO \u30c0\u30fc\u30af\u30fb\u30ed\u30a6\u300d\u306e\u52b9\u679c\u306f\u3044\u3064\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

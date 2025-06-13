@@ -1,0 +1,40 @@
+{
+    "cards": [
+        5857,
+        11945,
+        12403,
+        13037
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this scenario, due to the effect of Zero Gravity, there will not be any face-up Defense Position monsters on your field when the Pendulum Effect of Performapal Card Gardna resolves, so the effect will not be applied. (The DEF of Performapal Secondonkey does not change.)",
+            "id": 20696,
+            "question": "Performapal Secondonkey and Performapal Inflater Tapir are face-up on my field in Defense Position. In this situation, I activate the Pendulum Effect of Performapal Card Gardna targeting Performapal Secondonkey. If my opponent chains Zero Gravity, and changes the battle positions of all face-up monsters on the field, what happens?",
+            "thisSrc": {
+                "date": "2017-03-21",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Performapal Secondonkey and Performapal Inflater Tapir are face-up on my field in Defense Position. In this situation, I activate the Pendulum Effect of Performapal Card Gardna targeting Performapal Secondonkey. If my opponent chains Zero Gravity, and changes the battle positions of all face-up monsters on the field, what happens?",
+            "tlSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "translationStatus": "outdated"
+        },
+        "ja": {
+            "answer": "\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u767a\u52d5\u3055\u308c\u305f\u300c<<5857>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300c<<13037>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306e\u51e6\u7406\u6642\u306b\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u5b88\u5099\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u52b9\u679c\u51e6\u7406\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\n\uff08\u5b88\u5099\u529b\u306e\u6570\u5024\u306f\u5909\u308f\u308a\u307e\u305b\u3093\u3002\uff09",
+            "id": 20696,
+            "question": "\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<11945>>\u300d\u3068\u300c<<12403>>\u300d\u304c\u8868\u5074\u5b88\u5099\u8868\u793a\u3067\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306f\u300c<<11945>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<13037>>\u300d\u306e\u300e\u2460\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u5b88\u5099\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5b88\u5099\u529b\u306f\u3001\u81ea\u5206\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u5168\u3066\u306e\u8868\u5074\u5b88\u5099\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5143\u3005\u306e\u5b88\u5099\u529b\u3092\u5408\u8a08\u3057\u305f\u6570\u5024\u306b\u306a\u308b\u300f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u76f8\u624b\u304c\u300c<<5857>>\u300d\u3092\u767a\u52d5\u3057\u3001\u300e\u81ea\u5206\u3068\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u4e0a\u306b\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u5168\u3066\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u8868\u793a\u5f62\u5f0f\u3092\u5909\u66f4\u3059\u308b\u300f\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-07-28",
+                "type": 0
+            },
+            "title": "\u300c<<13037>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<5857>>\u300d\u304c\u767a\u52d5\u3057\u3001\u81ea\u5206\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u8868\u5074\u5b88\u5099\u8868\u793a\u3067\u5b58\u5728\u3059\u308b\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

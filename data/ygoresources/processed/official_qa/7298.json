@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5432,
+        7687
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "If a monster Special Summoned with the effect of Junk Synchron is changed to face-down Defense Position, the part of effect of Junk Synchron that negates that monster's effects is no longer applied, and the effects of the Special Summoned monster is no longer negated.",
+            "id": 7298,
+            "question": "If a monster Special Summoned with the effect of Junk Synchron so that its effects are negated is changed to face-down Defense Position due to the effect of Book of Moon, etc., will its effects still be negated?",
+            "thisSrc": {
+                "date": "2020-10-25",
+                "misc": "pazim",
+                "type": 4
+            },
+            "title": "If a monster Special Summoned with the effect of Junk Synchron is changed to face-down Defense Position, will its effects still be negated?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<7687>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u88cf\u5074\u8868\u793a\u306b\u306a\u3063\u305f\u5834\u5408\u3001\u300c<<7687>>\u300d\u306e\u300e\u7279\u6b8a\u53ec\u559a\u3057\u305f\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u3002\u300f\u3068\u3044\u3046\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u306a\u304f\u306a\u308a\u3001\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
+            "id": 7298,
+            "question": "\u300c<<7687>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u307e\u3059\u304c\u3001\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u300c<<5432>>\u300d\u7b49\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u88cf\u5074\u8868\u793a\u306b\u3057\u305f\u5834\u5408\u3001\u7121\u52b9\u5316\u3055\u308c\u305f\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<7687>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u3001\u4e00\u65e6\u88cf\u5074\u8868\u793a\u306b\u3057\u305f\u5834\u5408\u3001\u305d\u306e\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Monster"
+    ]
+}

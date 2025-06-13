@@ -1,0 +1,38 @@
+{
+    "cards": [
+        12407,
+        12836
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "You can activate the effect of Greedy Venom Fusion Dragon targeting a Performapal Life Swordsman with 0 ATK. Even in that case, the targeted monster's effects are negated.",
+            "id": 20261,
+            "question": "Can I activate the first effect of Greedy Venom Fusion Dragon targeting an Effect Monster with 0 ATK such as Performapal Life Swordsman?",
+            "thisSrc": {
+                "date": "2016-11-14",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Can I activate the first effect of Greedy Venom Fusion Dragon targeting an Effect Monster with 0 ATK such as Performapal Life Swordsman?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u653b\u6483\u529b\u30920\u306b\u3059\u308b\u300c<<12836>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<12407>>\u300d\u7b49\u306e\u653b\u6483\u529b0\u306e\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u629e\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\n\u305d\u306e\u5834\u5408\u3067\u3082\u3001\u300c<<12836>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u5bfe\u8c61\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u307e\u3059\u3002",
+            "id": 20261,
+            "question": "\u300c<<12836>>\u300d\u306e\u300e\u2460\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u8868\u5074\u8868\u793a\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u307e\u3067\u3001\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u653b\u6483\u529b\u306f\uff10\u306b\u306a\u308a\u3001\u52b9\u679c\u306f\u7121\u52b9\u5316\u3055\u308c\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<12407>>\u300d\u7b49\u306e\u653b\u6483\u529b0\u306e\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u629e\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u653b\u6483\u529b\u30920\u306b\u3059\u308b\u300c<<12836>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3001\u653b\u6483\u529b0\u306e\u52b9\u679c\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u629e\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Fusion"
+    ]
+}

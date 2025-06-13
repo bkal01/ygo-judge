@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4966,
+        7196
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When the Gemini monster is Normal Summoned again, it does not leave the field. Any Equip Cards that are already equipped will remain equipped, and will not be destroyed as a result of the Normal Summon.\n\nEven if you Normal Summon a Gemini Monster that Special Summoned by Premature Burial again, it will continue to be targeted by Premature Burial. Therefore, if that Premature Burial is destroyed later, the Gemini Monster will also be destroyed.",
+            "id": 6763,
+            "question": "I have Special Summoned a Gemini monster, such as Chthonian Emperor Dragon, using Premature Burial. If I Normal Summon this Gemini monster again, will the equipped Premature Burial be destroyed? Also, if Premature Burial is not destroyed, will it still be targeting Chthonian Emperor Dragon?",
+            "thisSrc": {
+                "date": "2022-02-08",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "If I Normal Summon a Gemini monster again, will it have left the field?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u306e2\u5ea6\u76ee\u306e\u53ec\u559a\u3092\u884c\u3046\u969b\u306b\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u30d5\u30a3\u30fc\u30eb\u30c9\u3092\u96e2\u308c\u308b\u4e8b\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\u65e2\u306b\u88c5\u5099\u3055\u308c\u3066\u3044\u308b\u88c5\u5099\u30ab\u30fc\u30c9\u306f\u3001\u7834\u58ca\u3055\u308c\u308b\u3053\u3068\u306a\u304f\u88c5\u5099\u3055\u308c\u305f\u307e\u307e\u3068\u306a\u308a\u307e\u3059\u3002\n\u307e\u305f\u3001\u300c<<4966>>\u300d\u3067\u7279\u6b8a\u53ec\u559a\u3057\u305f\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u518d\u3073\u53ec\u559a\u3057\u305f\u5834\u5408\u3067\u3082\u3001\u300c<<4966>>\u300d\u306f\u5bfe\u8c61\u3092\u53d6\u308a\u7d9a\u3051\u307e\u3059\u3002\n\u3088\u3063\u3066\u3001\u305d\u306e\u5f8c\u300c<<4966>>\u300d\u304c\u7834\u58ca\u3055\u308c\u308b\u5834\u5408\u3001\u88c5\u5099\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u7834\u58ca\u3055\u308c\u307e\u3059\u3002",
+            "id": 6763,
+            "question": "\u300c<<4966>>\u300d\u7b49\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u300c<<7196>>\u300d\u7b49\u306e\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u3001\u518d\u3073\u53ec\u559a\u3057\u305f\u5834\u5408\u3001\u300c<<4966>>\u300d\u7b49\u306e\u88c5\u5099\u9b54\u6cd5\u30ab\u30fc\u30c9\u306f\u7834\u58ca\u3055\u308c\u307e\u3059\u304b\uff1f\n\u307e\u305f\u3001\u300c<<4966>>\u300d\u304c\u7834\u58ca\u3055\u308c\u306a\u3044\u5834\u5408\u3001\u300c<<4966>>\u300d\u306f\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u306b\u53d6\u308a\u7d9a\u3051\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u518d\u3073\u53ec\u559a\u3059\u308b\u5834\u5408\u3001\u30c7\u30e5\u30a2\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u4e00\u5ea6\u30d5\u30a3\u30fc\u30eb\u30c9\u3092\u96e2\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Gemini"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        5248,
+        6434
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In the situation you describe, you can activate <<6434>> as long as there are any Machine monsters in your opponent's Monster Zone. If <<5248>>'s effect is still applying when <<6434>> resolves, only Machine monsters on your opponent's field will be banished.\n\nIf there are no Machine monsters in your opponent's Monster Zone, even if there are Machine monsters in your opponent's Graveyard, you cannot activate <<6434>>.",
+            "id": 7649,
+            "question": "<<5248>> is face-up on my opponent's field, and its\u300eyour opponent cannot banish cards from either Graveyard\u300feffect is applying.\n\nCan I activate <<6434>> in this situation?",
+            "thisSrc": {
+                "date": "2024-01-25",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "<<5248>> is face-up on my opponent's field. In this situation, can I activate <<6434>>?",
+            "tlSrc": {
+                "date": "2024-01-25",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u6a5f\u68b0\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u3067\u3042\u308c\u3070\u767a\u52d5\u3067\u304d\u307e\u3059\u3002\u307e\u305f\u3001\u305d\u306e\u51e6\u7406\u6642\u306b\u300c<<5248>>\u300d\u306e\u2460\u306e\u6c38\u7d9a\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u306e\u3067\u3042\u308c\u3070\u3001\u76f8\u624b\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u6a5f\u68b0\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u307f\u3092\u5168\u3066\u9664\u5916\u3057\u307e\u3059\u3002\n\n\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u6a5f\u68b0\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u305b\u305a\u3001\u76f8\u624b\u306e\u5893\u5730\u306b\u306e\u307f\u6a5f\u68b0\u65cf\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u5b58\u5728\u3057\u3066\u3044\u308b\u5834\u5408\u3001\u81ea\u5206\u306f\u300c<<6434>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 7649,
+            "question": "\u76f8\u624b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u300c<<5248>>\u300d\u304c\u8868\u5074\u8868\u793a\u3067\u5b58\u5728\u3057\u3001\u300e\u2460\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e2\u30f3\u30b9\u30bf\u30fc\u30be\u30fc\u30f3\u306b\u5b58\u5728\u3059\u308b\u9650\u308a\u3001\u76f8\u624b\u306f\u304a\u4e92\u3044\u306e\u5893\u5730\u306e\u30ab\u30fc\u30c9\u3092\u9664\u5916\u3067\u304d\u306a\u3044\u300f\u6c38\u7d9a\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u72b6\u6cc1\u3067\u3001\u81ea\u5206\u306f\u300c<<6434>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2024-01-25",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u306e\u300c<<5248>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u81ea\u5206\u306f\u300c<<6434>>\u300d\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Spell"
+    ]
+}

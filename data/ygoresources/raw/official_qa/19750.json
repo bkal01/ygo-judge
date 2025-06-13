@@ -1,0 +1,37 @@
+{
+    "cards": [
+        12701
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "The Pendulum Effect of <<12701>> will always activate if a \"Performapal\" monster on your field destroys an opponent's monster by battle. In this scenario, even though Pendulum Monsters are placed face-up in the Extra Deck instead of being sent to the Graveyard, if an opponent's Pendulum Monster was destroyed by battle, the effect of <<12701>> activates and inflicts 1000 damage to your opponent.",
+            "id": 19750,
+            "question": "<<12701>> is face-up in my Pendulum Zone. If a \"Performapal\" monster on my field destroys an opponent's Pendulum Monster by battle, will the Pendulum Effect of <<12701>> activate?",
+            "thisSrc": {
+                "date": "2016-09-03",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "<<12701>> is face-up in my Pendulum Zone. If a \"Performapal\" monster on my field destroys an opponent's Pendulum Monster by battle, will the Pendulum Effect of <<12701>> activate?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<12701>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306f\u3001\u81ea\u5206\u306e\u300cEM\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u3067\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u305f\u5834\u5408\u306b\u5fc5\u305a\u767a\u52d5\u3059\u308b\u52b9\u679c\u3067\u3059\u3002\n\n\u8cea\u554f\u306e\u72b6\u6cc1\u306e\u5834\u5408\u3001\u76f8\u624b\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u5893\u5730\u3078\u306f\u9001\u3089\u308c\u305a\u30a8\u30af\u30b9\u30c8\u30e9\u30c7\u30c3\u30ad\u306b\u8868\u5074\u8868\u793a\u3067\u52a0\u308f\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u304c\u3001\u305d\u306e\u76f8\u624b\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u6226\u95d8\u306e\u7d50\u679c\u7834\u58ca\u3055\u308c\u3066\u3044\u307e\u3059\u306e\u3067\u3001\u300c<<12701>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306f\u767a\u52d5\u3057\u3001\u76f8\u624b\u306b1000\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u4e8b\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 19750,
+            "question": "\u81ea\u5206\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30be\u30fc\u30f3\u306b\u300c<<12701>>\u300d\u304c1\u679a\u5b58\u5728\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u81ea\u5206\u306e\u300cEM\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u76f8\u624b\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u6226\u95d8\u3067\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u300c<<12701>>\u300d\u306e\u300e\u2460\uff1a\uff11\u30bf\u30fc\u30f3\u306b\uff11\u5ea6\u3001\u81ea\u5206\u306e\u300cEM\u300d\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u6226\u95d8\u3067\u76f8\u624b\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3057\u305f\u5834\u5408\u306b\u767a\u52d5\u3059\u308b\u3002\u76f8\u624b\u306b\uff11\uff10\uff10\uff10\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u300f\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u81ea\u5206\u306e\u300cEM\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\u76f8\u624b\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u6226\u95d8\u3067\u7834\u58ca\u3057\u305f\u5834\u5408\u3001\u300c<<12701>>\u300d\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Pendulum"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        8472,
+        9398
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "When performing a Ritual Summon using <<9398>>, you can apply the effect of a <<8472>> in your Graveyard. However, you cannot apply the effect of a <<8472>> in your opponent's Graveyard.",
+            "id": 10671,
+            "question": "When I perform a Ritual Summon using <<9398>>, can I apply the effect of a <<8472>> in my Graveyard, or in my opponent's Graveyard?",
+            "thisSrc": {
+                "date": "2022-08-29",
+                "misc": "gallantron",
+                "type": 4
+            },
+            "title": "When Tributing monsters with the effect of <<9398>>, can I apply an effect such as that of <<8472>>?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<9398>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u81ea\u5206\u306e\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u300c<<8472>>\u300d\u7b49\u306e\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304c\u3001\u76f8\u624b\u306e\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u300c<<8472>>\u300d\u7b49\u306e\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+            "id": 10671,
+            "question": "\u300c<<9398>>\u300d\u306e\u52b9\u679c\u3067\u5100\u5f0f\u53ec\u559a\u3092\u884c\u3046\u969b\u306b\u3001\u81ea\u5206\u307e\u305f\u306f\u76f8\u624b\u306e\u5893\u5730\u306b\u5b58\u5728\u3059\u308b\u300c<<8472>>\u300d\u7b49\u306e\u52b9\u679c\u3092\u9069\u7528\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<9398>>\u300d\u306e\u52b9\u679c\u3067\u30ea\u30ea\u30fc\u30b9\u3092\u884c\u3046\u6642\u3001\u300c<<8472>>\u300d\u7b49\u306e\u52b9\u679c\u306f\u9069\u7528\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Ritual"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cards": [
+        4909,
+        11449
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "In this case, since that \"Covenant\" card was destroyed by Mystical Space Typhoon rather than Contract Laundering, and since Contract Laundering only destroys 1 card, you will only draw 1 card, and gain 1000 Life Points.",
+            "id": 13426,
+            "question": "If 2 \"Covenant\" cards exist in my Spell & Trap Zone, and I activate Contract Laundering, but Mystical Space Typhoon is chained to destroy 1 of the \"Covenant\" cards, how does Contract Laundering resolve?",
+            "thisSrc": {
+                "date": "2014-08-11",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "If 2 \"Covenant\" cards exist in my Spell & Trap Zone, and I activate Contract Laundering, but Mystical Space Typhoon is chained to destroy 1 of the \"Covenant\" cards, how does Contract Laundering resolve?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u305d\u306e\u5834\u5408\u3001\u300c<<4909>>\u300d\u306e\u5bfe\u8c61\u3068\u306a\u3063\u305f\u300c\u5951\u7d04\u66f8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\u306f\u7d50\u679c\u7684\u306b\u300c<<11449>>\u300d\u306e\u52b9\u679c\u3067\u306f\u306a\u304f\u3001\u300c<<4909>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u7834\u58ca\u3055\u308c\u3066\u3044\u307e\u3059\u3002\uff08\u300c<<11449>>\u300d\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u3082\u3046\uff11\u679a\u306e\u300c\u5951\u7d04\u66f8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\u306e\u307f\u304c\u7834\u58ca\u3055\u308c\u307e\u3059\u3002\uff09\n\n\u3057\u305f\u304c\u3063\u3066\u3001\u300c<<11449>>\u300d\u306e\u52b9\u679c\u3067\u7834\u58ca\u3057\u305f\u300c\u5951\u7d04\u66f8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\u306f1\u679a\u3067\u3059\u306e\u3067\u3001\u30c9\u30ed\u30fc\u3059\u308b\u679a\u6570\u306f\uff11\u679a\u3068\u306a\u308a\u3001\u56de\u5fa9\u3059\u308b\u30e9\u30a4\u30d5\u30dd\u30a4\u30f3\u30c8\u306f\uff11\uff10\uff10\uff10\u306b\u306a\u308a\u307e\u3059\u3002",
+            "id": 13426,
+            "question": "\u81ea\u5206\u306e\u9b54\u6cd5\uff06\u7f60\u30be\u30fc\u30f3\u306b\u300c\u5951\u7d04\u66f8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\u304c\uff12\u679a\u5b58\u5728\u3059\u308b\u72b6\u614b\u3067\u3001\u300c<<11449>>\u300d\u3092\u767a\u52d5\u3057\u307e\u3057\u305f\u3002\n\n\u305d\u306e\u52b9\u679c\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u3066\u300c<<4909>>\u300d\u3092\u3001\u300c\u5951\u7d04\u66f8\u300d\u3068\u306e\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u300c<<11449>>\u300d\u306e\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300c<<11449>>\u300d\u306e\u767a\u52d5\u306b\u30c1\u30a7\u30fc\u30f3\u3057\u305f\u300c<<4909>>\u300d\u306e\u52b9\u679c\u3067\u3001\u300c\u5951\u7d04\u66f8\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\u304c\u7834\u58ca\u3055\u308c\u305f\u5834\u5408\u3001\u51e6\u7406\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Chain"
+    ]
+}

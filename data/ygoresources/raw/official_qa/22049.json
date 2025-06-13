@@ -1,0 +1,38 @@
+{
+    "cards": [
+        9729,
+        13929
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "<<9729>> is both a \"Photon\" card and a \"Galaxy\" card, so you can choose to discard 2 copies of them when activating the second effect of <<13929>>.",
+            "id": 22049,
+            "question": "When activating the second effect of <<13929>> during my opponent's Main Phase, can I discard 2 copies of <<9729>>?",
+            "thisSrc": {
+                "date": "2018-07-23",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "When activating the second effect of <<13929>> during my opponent's Main Phase, can I discard 2 copies of <<9729>>?",
+            "tlSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "translationStatus": "unconfirmable"
+        },
+        "ja": {
+            "answer": "\u300c<<9729>>\u300d\u306f\u300c\u30d5\u30a9\u30c8\u30f3\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\u3067\u3042\u308a\u3001\u300c\u30ae\u30e3\u30e9\u30af\u30b7\u30fc\u300d\u3068\u540d\u306e\u3064\u3044\u305f\u30ab\u30fc\u30c9\u3067\u3082\u3042\u308a\u307e\u3059\u306e\u3067\u3001\u300c<<13929>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u3001\u624b\u672d\u306e\u300c<<9729>>\u300d2\u4f53\u3092\u6368\u3066\u3066\u767a\u52d5\u3059\u308b\u4e8b\u3082\u3067\u304d\u307e\u3059\u3002",
+            "id": 22049,
+            "question": "\u300c<<13929>>\u300d\u306e\u300e\u2461\uff1a\u76f8\u624b\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u3001\u300c\u30d5\u30a9\u30c8\u30f3\u300d\u30ab\u30fc\u30c9\u3068\u300c\u30ae\u30e3\u30e9\u30af\u30b7\u30fc\u300d\u30ab\u30fc\u30c9\u306e\uff12\u679a\u3001\u307e\u305f\u306f\u300c<<9729>>\u300d\uff11\u4f53\u3092\u624b\u672d\u304b\u3089\u6368\u3066\u3001\u76f8\u624b\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u7279\u6b8a\u53ec\u559a\u3055\u308c\u305f\u30e2\u30f3\u30b9\u30bf\u30fc\uff11\u4f53\u3092\u5bfe\u8c61\u3068\u3057\u3066\u767a\u52d5\u3067\u304d\u308b\u3002\u305d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u7834\u58ca\u3059\u308b\u300f\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u969b\u306b\u3001\u624b\u672d\u306e\u300c<<9729>>\u300d2\u4f53\u3092\u6368\u3066\u3066\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2022-12-30",
+                "type": 0
+            },
+            "title": "\u76f8\u624b\u30e1\u30a4\u30f3\u30d5\u30a7\u30a4\u30ba\u306b\u300c<<13929>>\u300d\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u5834\u5408\u3001\u624b\u672d\u306e\u300c<<9729>>\u300d2\u4f53\u3092\u624b\u672d\u304b\u3089\u6368\u3066\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Link"
+    ]
+}

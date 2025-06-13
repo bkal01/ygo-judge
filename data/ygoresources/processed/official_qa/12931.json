@@ -1,0 +1,38 @@
+{
+    "cards": [
+        10709,
+        10787
+    ],
+    "notes": {},
+    "qaData": {
+        "en": {
+            "answer": "Mechquipped Angineer can target Divine Dragon Knight Felgrand, even though it is unaffected by other card effects. As such, the effect of Mechquipped Angineer does not apply. (Divine Dragon Knight Felgrand is not changed to face-up Defense Position, and it can be destroyed.)\n\nBut if the effect of Mechquipped Angineer was already being applied when Divine Dragon Knight Felgrand resolved its effect, the effect of Mechquipped Angineer will continue to apply. (Divine Dragon Knight Felgrand cannot be destroyed that turn).",
+            "id": 12931,
+            "question": "If Divine Dragon Knight Felgrand targeted itself with its own effect, can it then be targeted by the effect of Mechquipped Angineer?",
+            "thisSrc": {
+                "date": "2013-10-10",
+                "misc": "???",
+                "type": 4
+            },
+            "title": "Is it possible to activate the effect of Mechquipped Angineer by targeting a monster that is unaffected by card effects?",
+            "tlSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "translationStatus": "confirmed"
+        },
+        "ja": {
+            "answer": "\u300c<<10709>>\u300d\u306e\u52b9\u679c\u3092\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300f\u72b6\u614b\u306e\u300c<<10787>>\u300d\u3092\u5bfe\u8c61\u306b\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u3002\n\u305d\u306e\u5834\u5408\u3001\u300c<<10709>>\u300d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u307e\u305b\u3093\u3002\uff08\u8868\u5074\u5b88\u5099\u8868\u793a\u306b\u306f\u306a\u3089\u305a\u3001\u6226\u95d8\u3084\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u3082\u7834\u58ca\u3055\u308c\u308b\u72b6\u614b\u306e\u307e\u307e\u3067\u3059\u3002\uff09\n\n\u307e\u305f\u3001\u300c<<10709>>\u300d\u306e\u52b9\u679c\u304c\u65e2\u306b\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u300c<<10787>>\u300d\u304c\u52b9\u679c\u3092\u767a\u52d5\u3057\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300f\u72b6\u614b\u3068\u306a\u3063\u305f\u5834\u5408\u3067\u3082\u3001\u65e2\u306b\u9069\u7528\u3055\u308c\u3066\u3044\u308b\u300c<<10709>>\u300d\u306e\u52b9\u679c\u306f\u9069\u7528\u3055\u308c\u305f\u307e\u307e\u3067\u3059\u3002\uff08\u305d\u306e\u30bf\u30fc\u30f3\u3001\u6226\u95d8\u53ca\u3073\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3067\u306f\u7834\u58ca\u3055\u308c\u307e\u305b\u3093\u3002\uff09",
+            "id": 12931,
+            "question": "\u81ea\u8eab\u306e\u52b9\u679c\u306e\u52b9\u679c\u306b\u3088\u3063\u3066\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300f\u72b6\u614b\u306e\u300c<<10787>>\u300d\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<10709>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3059\u308b\u4e8b\u306f\u3067\u304d\u307e\u3059\u304b\uff1f\n\n\u307e\u305f\u3001\u300c<<10709>>\u300d\u306e\u52b9\u679c\u304c\u9069\u7528\u3055\u308c\u305f\u5f8c\u3001\u300c<<10787>>\u300d\u7b49\u306e\u3001\u300e\u3053\u306e\u30ab\u30fc\u30c9\u4ee5\u5916\u306e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300f\u52b9\u679c\u3092\u767a\u52d5\u3057\u305f\u5834\u5408\u3001\u9069\u7528\u3055\u308c\u3066\u3044\u305f\u52b9\u679c\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+            "thisSrc": {
+                "date": "2017-03-24",
+                "type": 0
+            },
+            "title": "\u300e\u30ab\u30fc\u30c9\u306e\u52b9\u679c\u3092\u53d7\u3051\u306a\u3044\u300f\u72b6\u614b\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u300c<<10709>>\u300d\u306e\u52b9\u679c\u3092\u767a\u52d5\u3067\u304d\u307e\u3059\u304b\uff1f"
+        }
+    },
+    "tags": [
+        "k:Xyz"
+    ]
+}
